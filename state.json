@@ -9317,7 +9317,9 @@
     ],
     "animeCandidates": [
       "Battle Spirits [Re]: Zekkai no Kuu",
-      "Battle Spirits [Re] 絶界の空"
+      "Battle Spirits [Re] 絶界の空",
+      "Battle Spirits [Re] Zekkai no Kuu",
+      "Battle Spirits [Re] Zekkai no Ku"
     ],
     "artistCandidates": [
       "24138",
@@ -12185,7 +12187,9 @@
       "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
       "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
       "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
-      "SBR"
+      "SBR",
+      "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+      "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
     ],
     "artistCandidates": [
       "24741",
@@ -12612,7 +12616,9 @@
       "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
       "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
       "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
-      "SBR"
+      "SBR",
+      "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+      "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
     ],
     "artistCandidates": [
       "14747",
@@ -12738,7 +12744,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -12957,7 +12962,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -13032,7 +13036,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -13246,7 +13249,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -13319,7 +13321,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -13455,7 +13456,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -13720,7 +13720,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -13798,7 +13797,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -14386,7 +14384,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -14664,7 +14661,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -15139,7 +15135,7 @@
     "artist": "GLAY",
     "kind": "OP",
     "spotify": "https://open.spotify.com/track/3G0mTzZwFHYvji44Nk4qdO",
-    "apple": "",
+    "apple": "https://geo.music.apple.com/album/6809684037?i=6809684039&at=1001l384j&ct=website-diamond-no-ace-act-ii-second-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f5865433f97959a920b28253f41249b828e30017@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/diamond-no-ace-act-ii-second-season-part-2-opening",
     "rawKeys": [
@@ -15166,8 +15162,8 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
-      "other_link_ids",
       "unreleased",
       "objectID"
     ],
@@ -15203,9 +15199,9 @@
     "kindLabel": "Ending",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/1zkbBdissNduDMERKZbbta",
-    "apple": "https://music.apple.com/nz/album/6819174668?i=6819174670&at=1001l384j&ct=website-hotel-inhumans-2nd-season-ed&app=music",
+    "apple": "https://geo.music.apple.com/album/6819174668?i=6819174670&at=1001l384j&ct=website-hotel-inhumans-2nd-season-ed&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/952f489716e3c3878f42407b668ceeb376d49eff@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/hotel-inhumans-2nd-season-ending",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -15231,9 +15227,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -15252,7 +15248,8 @@
       "ファントムシータ",
       "6JO3HrRYUfSMbe71R7RUF2",
       "1753635664",
-      "270914552"
+      "270914552",
+      "UCmxhcgwNYxtU7aSbzWGMKVA"
     ],
     "animethemesVideo": {
       "url": "https://v.animethemes.moe/HotelInhumansS2-ED1.webm",
@@ -15276,9 +15273,9 @@
     "kindLabel": "Ending",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
-    "apple": "https://music.apple.com/nz/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music",
+    "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -15305,9 +15302,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -15329,7 +15326,8 @@
       "安月名莉子",
       "7ChJuYuw9pM8MqaZOAmvHX",
       "1438721351",
-      "128264352"
+      "128264352",
+      "UCS8QqtsLzHF8VcIJFEkl8Uw"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-10-10T18:01:06.000Z"
@@ -15345,9 +15343,9 @@
     "kindLabel": "Opening",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/0yPbwdkwden8aUhiWWNDZG",
-    "apple": "https://music.apple.com/nz/album/6816802257?i=6816802265&at=1001l384j&ct=website-paws-palaces-opjp&app=music",
+    "apple": "https://geo.music.apple.com/album/6816802257?i=6816802265&at=1001l384j&ct=website-paws-palaces-opjp&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/paws-palaces-opening-jp",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -15374,9 +15372,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -15398,7 +15396,8 @@
       "安月名莉子",
       "7ChJuYuw9pM8MqaZOAmvHX",
       "1438721351",
-      "128264352"
+      "128264352",
+      "UCS8QqtsLzHF8VcIJFEkl8Uw"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-10-10T18:01:06.000Z"
@@ -15414,9 +15413,9 @@
     "kindLabel": "Ending",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/34oBojc7HUtWbMAvn19tAZ",
-    "apple": "https://music.apple.com/nz/album/6812659444?i=6812659445&at=1001l384j&ct=website-diamond-no-ace-act-ii-second-ed&app=music",
+    "apple": "https://geo.music.apple.com/album/6812659444?i=6812659445&at=1001l384j&ct=website-diamond-no-ace-act-ii-second-ed&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f5865433f97959a920b28253f41249b828e30017@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/diamond-no-ace-act-ii-second-season-part-2-ending",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -15442,9 +15441,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -15478,9 +15477,9 @@
     "kindLabel": "Opening",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/5WgsnSfyYzL6E9QVKaOhQe",
-    "apple": "https://music.apple.com/nz/album/6816051069?i=6816051079&at=1001l384j&ct=website-full-clearing-another-world-u-op&app=music",
+    "apple": "https://geo.music.apple.com/album/6816051069?i=6816051079&at=1001l384j&ct=website-full-clearing-another-world-u-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c1ecf652495bb650f1f4dafa41a7167be3a6e4bd@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/full-clearing-another-world-under-a-goddess-with-zero-believers-opening",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -15506,9 +15505,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -15528,6 +15527,7 @@
       "Satou",
       "2C2oimNufzDloA4OP2j4OP",
       "1762929697",
+      "UC8abHYXz8SzF9L8-jkMxHcQ",
       "25579",
       "Sato",
       "370750"
@@ -15544,7 +15544,7 @@
     "artist": "MAN WITH A MISSION",
     "kind": "OP",
     "spotify": "https://open.spotify.com/track/5JpHfVIJG0XEJjUhnKeyhb",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/the-vermilion-mask-opening",
     "rawKeys": [
       "id",
       "alert_id",
@@ -15569,9 +15569,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -15589,13 +15589,14 @@
       "MWAM",
       "3NTbOmzlj2cL86XFuDVFvZ",
       "424817976",
-      "5797990"
+      "5797990",
+      "UCCWlJ3mOpVtWZoCeEfnAs9w"
     ],
     "artistDisplay": "MAN WITH A MISSION",
     "artistDisplayCount": 1,
     "kindLabel": "Opening",
     "episodes": [],
-    "apple": "",
+    "apple": "https://geo.music.apple.com/album/6815691223?i=6815691224&at=1001l384j&ct=website-the-vermilion-mask-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9779d96388ce7537330f69976bb8b537b55f69e5@2xl.jpg",
     "animethemesVideo": {
       "url": "https://v.animethemes.moe/ShuiroNoKamen-OP1.webm",
