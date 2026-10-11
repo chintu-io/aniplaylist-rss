@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 13,
-  "animeThemesChecked": 1,
+  "resultCount": 15,
+  "animeThemesChecked": 2,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 0,
   "jsonResponses": 4,
   "algoliaResponses": 1,
   "hitArrays": 2,
-  "rawHits": 13,
-  "uniqueHits": 13,
-  "normalized": 13,
-  "withSpotify": 2,
-  "withApple": 2,
+  "rawHits": 15,
+  "uniqueHits": 15,
+  "normalized": 15,
+  "withSpotify": 3,
+  "withApple": 3,
   "withDetailUrl": 2,
-  "resolvedSpotify": 2,
-  "recordThumbnails": 13,
+  "resolvedSpotify": 3,
+  "recordThumbnails": 15,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -86,6 +86,66 @@
         "1720894866",
         "275587421",
         "UCcDXo4bbb9SR-n5-G9oEWPQ"
+      ]
+    },
+    {
+      "id": "us_3306",
+      "anime": "One Punch Man 3 Part 2",
+      "song": "Never Done ~Saikyou VS Saikyou~",
+      "artist": "JAM Project",
+      "artistDisplay": "JAM Project",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Never Done ~Saikyou VS Saikyou~",
+        "Never Done～最強VS最恐～"
+      ],
+      "animeCandidates": [
+        "One Punch Man 3 Part 2",
+        "ワンパンマン 3期 第2クール",
+        "One-Punch Man Season 3 Part 2",
+        "One Punch Man 3rd Season Part 2",
+        "OPM 3"
+      ],
+      "artistCandidates": [
+        "2070",
+        "JAM Project",
+        "0CPdwFVMsHZWpNgKuLaTuU",
+        "266646521",
+        "6372",
+        "UCqlKb9p1A0D_SHEBAA5zKLQ"
       ]
     },
     {
@@ -197,18 +257,18 @@
       "artistCandidates": []
     },
     {
-      "id": "us_3294",
-      "anime": "Magical Buffs: The Support Caster Is Stronger Than He Realized!",
-      "song": "Ecstatic Buffer",
-      "artist": "LiSA",
-      "artistDisplay": "LiSA",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
+      "id": "us_3305",
+      "anime": "Shishite Ikiru SSS-kyuu Hunter",
+      "song": "[TBA]",
+      "artist": "THE SPELLBOUND",
+      "artistDisplay": "THE SPELLBOUND & BOOM BOOM SATELLITES",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/28d5f3f00ab8d9fe557195fee08a11d31fc5ae9a@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1c9820ae08464cef979c8f73c0a7c09dc6acf9cc@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -237,79 +297,28 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Ecstatic Buffer"
+        "[TBA]"
       ],
       "animeCandidates": [
-        "Magical Buffs: The Support Caster Is Stronger Than He Realized!",
-        "Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made",
-        "Until the Chore Granting Sorcerer Realized His Strongest",
-        "雑用付与術師が自分の最強に気付くまで"
+        "Shishite Ikiru SSS-kyuu Hunter",
+        "死して生きるSSS級ハンター",
+        "SSS-Class Revival Hunter",
+        "SSS급 죽어야 사는 헌터",
+        "SSS-geup Jugeoya Saneun Hunter"
       ],
       "artistCandidates": [
-        "167",
-        "LiSA",
-        "0blbVefuxOGltDBa00dspv",
-        "573943518",
-        "11446160",
-        "UCt4rbOMLsVxeMsoaRdTfr5A"
-      ]
-    },
-    {
-      "id": "us_3266",
-      "anime": "The Kept Man of the Princess Knight",
-      "song": "TRUE-TABOO",
-      "artist": "MYTH & ROID",
-      "artistDisplay": "MYTH & ROID",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5282e7bf3206848f6009da09ac7d7e2c72a923d9@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "TRUE-TABOO"
-      ],
-      "animeCandidates": [
-        "The Kept Man of the Princess Knight",
-        "Himekishi-sama no Himo",
-        "He Is a Kept Man for Princess Knight.",
-        "姫騎士様のヒモ"
-      ],
-      "artistCandidates": [
-        "329",
-        "MYTH & ROID",
-        "1NRrtMvT3o1TI6I8XCuweq",
-        "1041273775",
-        "14434339",
-        "UCy-KRbBQm9bV0Kl0mSyVhAw"
+        "13077",
+        "THE SPELLBOUND",
+        "1urc1bS4D4upX4Mb9kLnMb",
+        "1543157209",
+        "115486122",
+        "UCBm7ayfMxiR_AxfZLY0O1bg",
+        "109",
+        "BOOM BOOM SATELLITES",
+        "0vCGPbugjEi38T41ZHny1o",
+        "105461375",
+        "2895",
+        "UCisM9mNxVXtgrgn3zSjvmag"
       ]
     }
   ],
@@ -324,6 +333,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/d8e7432d5facf939ff335fba004c7315c52fb8b0@2xl.jpg"
+    },
+    {
+      "id": "us_3306",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LEN9qS%y00-WEY58R$t2D6;2^hD+",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c@2xl.jpg"
     },
     {
       "id": "us_3301",
@@ -344,6 +363,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/b563f7d81b57eddceec15435c23f346cb272d30e@2xl.jpg"
+    },
+    {
+      "id": "us_3305",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/1c9820ae08464cef979c8f73c0a7c09dc6acf9cc.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L56[H$I801b{~TNt9HRlQkpJSkMw",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/1c9820ae08464cef979c8f73c0a7c09dc6acf9cc@2xl.jpg"
     },
     {
       "id": "us_3294",
@@ -396,16 +425,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088@2xl.jpg"
     },
     {
-      "id": "us_3215",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/d19b5ced7f05f8110d9dab66aeca360fda81d889.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LCH{.?oy01-o00Rk~BIVD*kC~VxZ",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/d19b5ced7f05f8110d9dab66aeca360fda81d889@2xl.jpg"
-    },
-    {
       "id": "us_3214",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/d19b5ced7f05f8110d9dab66aeca360fda81d889.jpg",
@@ -424,34 +443,24 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/931cefc04a09ca914551815414c3efbb2700b857@2xl.jpg"
-    },
-    {
-      "id": "us_3018",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/c09f8111cb10fca7c672220c9ec9160e856facc1.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LVOpMf-:M#02~USKRQ$|WXX9ait5",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/c09f8111cb10fca7c672220c9ec9160e856facc1@2xl.jpg"
     }
   ],
-  "expectedHits": 13,
+  "expectedHits": 15,
   "expectedPages": 1,
   "receivedPages": 1,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 13,
+      "nbHits": 15,
       "hitsPerPage": 16,
       "nbPages": 1,
-      "count": 13
+      "count": 15
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -525,6 +534,66 @@
       ]
     },
     {
+      "id": "us_3306",
+      "anime": "One Punch Man 3 Part 2",
+      "song": "Never Done ~Saikyou VS Saikyou~",
+      "artist": "JAM Project",
+      "artistDisplay": "JAM Project",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Never Done ~Saikyou VS Saikyou~",
+        "Never Done～最強VS最恐～"
+      ],
+      "animeCandidates": [
+        "One Punch Man 3 Part 2",
+        "ワンパンマン 3期 第2クール",
+        "One-Punch Man Season 3 Part 2",
+        "One Punch Man 3rd Season Part 2",
+        "OPM 3"
+      ],
+      "artistCandidates": [
+        "2070",
+        "JAM Project",
+        "0CPdwFVMsHZWpNgKuLaTuU",
+        "266646521",
+        "6372",
+        "UCqlKb9p1A0D_SHEBAA5zKLQ"
+      ]
+    },
+    {
       "id": "us_3301",
       "anime": "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
       "song": "No Reaction",
@@ -631,6 +700,71 @@
         "Mobile Suit Gundam SEED Freedom Zero"
       ],
       "artistCandidates": []
+    },
+    {
+      "id": "us_3305",
+      "anime": "Shishite Ikiru SSS-kyuu Hunter",
+      "song": "[TBA]",
+      "artist": "THE SPELLBOUND",
+      "artistDisplay": "THE SPELLBOUND & BOOM BOOM SATELLITES",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1c9820ae08464cef979c8f73c0a7c09dc6acf9cc@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "[TBA]"
+      ],
+      "animeCandidates": [
+        "Shishite Ikiru SSS-kyuu Hunter",
+        "死して生きるSSS級ハンター",
+        "SSS-Class Revival Hunter",
+        "SSS급 죽어야 사는 헌터",
+        "SSS-geup Jugeoya Saneun Hunter"
+      ],
+      "artistCandidates": [
+        "13077",
+        "THE SPELLBOUND",
+        "1urc1bS4D4upX4Mb9kLnMb",
+        "1543157209",
+        "115486122",
+        "UCBm7ayfMxiR_AxfZLY0O1bg",
+        "109",
+        "BOOM BOOM SATELLITES",
+        "0vCGPbugjEi38T41ZHny1o",
+        "105461375",
+        "2895",
+        "UCisM9mNxVXtgrgn3zSjvmag"
+      ]
     },
     {
       "id": "us_3294",
@@ -934,71 +1068,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "us_3215",
-      "anime": "Inherit the Winds",
-      "song": "Namida no Kawa",
-      "artist": "Hitsujibungaku",
-      "artistDisplay": "Hitsujibungaku & Quruli",
-      "artistDisplayCount": 2,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d19b5ced7f05f8110d9dab66aeca360fda81d889@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Namida no Kawa",
-        "涙の河"
-      ],
-      "animeCandidates": [
-        "Inherit the Winds",
-        "Kaze wo Tsugumono",
-        "風を継ぐもの"
-      ],
-      "artistCandidates": [
-        "7233",
-        "Hitsujibungaku",
-        "羊文学",
-        "6S8w5rLsEwjN21jQeRES0n",
-        "1281384242",
-        "13290779",
-        "UCnZK-AT0Yrx8uXcFRqUy87g",
-        "315",
-        "Quruli",
-        "26WuprsX7JRG69T0PXkze4",
-        "105025123",
-        "8018528",
-        "UCLIFRNQRDAaD5H4REYsRdmA"
-      ]
-    },
-    {
       "id": "us_3214",
       "anime": "Inherit the Winds",
       "song": "Kaze o Tsugumono",
@@ -1054,6 +1123,7 @@
         "105025123",
         "8018528",
         "UCLIFRNQRDAaD5H4REYsRdmA",
+        "418290562",
         "7233",
         "Hitsujibungaku",
         "羊文学",
@@ -1235,6 +1305,75 @@
         "13290779",
         "UCnZK-AT0Yrx8uXcFRqUy87g"
       ]
+    },
+    {
+      "id": "28075",
+      "anime": "Inherit the Winds",
+      "song": "Namida no Kawa",
+      "artist": "Hitsujibungaku",
+      "artistDisplay": "Hitsujibungaku & Quruli",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
+      "apple": "https://music.apple.com/nz/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Namida no Kawa",
+        "涙の河"
+      ],
+      "animeCandidates": [
+        "Inherit the Winds",
+        "Kaze wo Tsugumono",
+        "風を継ぐもの"
+      ],
+      "artistCandidates": [
+        "7233",
+        "Hitsujibungaku",
+        "羊文学",
+        "6S8w5rLsEwjN21jQeRES0n",
+        "1281384242",
+        "13290779",
+        "315",
+        "Quruli",
+        "26WuprsX7JRG69T0PXkze4",
+        "105025123",
+        "418290562"
+      ],
+      "animethemesVideo": null
     }
   ],
   "sourceMetadataSamples": [],
@@ -1380,6 +1519,75 @@
         "UCrPe3hLA51968GwxHSZ1llw"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "28075",
+      "anime": "Inherit the Winds",
+      "song": "Namida no Kawa",
+      "artist": "Hitsujibungaku",
+      "artistDisplay": "Hitsujibungaku & Quruli",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
+      "apple": "https://music.apple.com/nz/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Namida no Kawa",
+        "涙の河"
+      ],
+      "animeCandidates": [
+        "Inherit the Winds",
+        "Kaze wo Tsugumono",
+        "風を継ぐもの"
+      ],
+      "artistCandidates": [
+        "7233",
+        "Hitsujibungaku",
+        "羊文学",
+        "6S8w5rLsEwjN21jQeRES0n",
+        "1281384242",
+        "13290779",
+        "315",
+        "Quruli",
+        "26WuprsX7JRG69T0PXkze4",
+        "105025123",
+        "418290562"
+      ],
+      "animethemesVideo": null
     }
   ],
   "platformSamples": [
@@ -1398,6 +1606,14 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/5mJGLBNJM0GULqAoL5mb9C",
       "apple": "https://music.apple.com/us/album/1586410660?i=1586410664&at=1001l384j&ct=website-the-guy-she-was-interested-in-op&app=music"
+    },
+    {
+      "id": "28075",
+      "anime": "Inherit the Winds",
+      "song": "Namida no Kawa",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
+      "apple": "https://music.apple.com/nz/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music"
     }
   ]
 }

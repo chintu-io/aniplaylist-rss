@@ -4,7 +4,7 @@
   "pageLoaded": true,
   "scrapeValidated": true,
   "resultCount": 186,
-  "animeThemesChecked": 106,
+  "animeThemesChecked": 110,
   "animeThemesMatched": 61,
   "animeThemesSeasonLinks": 60,
   "jsonResponses": 26,
@@ -13,10 +13,10 @@
   "rawHits": 186,
   "uniqueHits": 186,
   "normalized": 186,
-  "withSpotify": 123,
-  "withApple": 122,
+  "withSpotify": 127,
+  "withApple": 126,
   "withDetailUrl": 123,
-  "resolvedSpotify": 123,
+  "resolvedSpotify": 127,
   "recordThumbnails": 186,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
@@ -483,7 +483,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -499,7 +499,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -515,7 +515,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -531,7 +531,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -547,7 +547,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -563,7 +563,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -579,7 +579,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -595,7 +595,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -611,7 +611,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -627,7 +627,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -643,7 +643,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -659,7 +659,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28310,
+      "nbHits": 28313,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
