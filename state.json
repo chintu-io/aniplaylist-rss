@@ -8621,7 +8621,15 @@
     "kindLabel": "Ending",
     "apple": "https://geo.music.apple.com/album/6812974305?i=6812974306&at=1001l384j&ct=website-full-clearing-another-world-u-ed&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c1ecf652495bb650f1f4dafa41a7167be3a6e4bd@2xl.jpg",
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/ZeroBelievers-ED1.webm",
+      "basename": "ZeroBelievers-ED1.webm",
+      "animeSlug": "shinja_zero_no_megamisama_to_hajimeru_isekai_kouryaku",
+      "themeSlug": "",
+      "type": "ED",
+      "sequence": 1,
+      "version": 1
+    },
     "episodes": []
   },
   "8a3694e408b94e2c": {
@@ -15182,7 +15190,15 @@
       "705683182",
       "UCXRmrNzERQzfA_2XI1OzJ9A"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/DiamondNoAceActIIS2Part2-OP1.webm",
+      "basename": "DiamondNoAceActIIS2Part2-OP1.webm",
+      "animeSlug": "diamond_no_ace_act_ii_second_season_part_2",
+      "themeSlug": "",
+      "type": "OP",
+      "sequence": 1,
+      "version": 1
+    },
     "artistDisplay": "GLAY",
     "artistDisplayCount": 1,
     "kindLabel": "Opening",
@@ -15463,7 +15479,15 @@
       "13924431",
       "UC6x9_gbeGAX6Hnlv0pU6xYA"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/DiamondNoAceActIIS2Part2-ED1.webm",
+      "basename": "DiamondNoAceActIIS2Part2-ED1.webm",
+      "animeSlug": "diamond_no_ace_act_ii_second_season_part_2",
+      "themeSlug": "",
+      "type": "ED",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-10T18:01:06.000Z"
   },
   "8f66cbc87b488435": {
@@ -15798,7 +15822,15 @@
       "1072632597",
       "96399152"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/YozakuraSanChiNoDaisakusenS2Part2-OP1.webm",
+      "basename": "YozakuraSanChiNoDaisakusenS2Part2-OP1.webm",
+      "animeSlug": "yozakurasan_chi_no_daisakusen_2nd_season_part_2",
+      "themeSlug": "",
+      "type": "OP",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-11T15:57:00.000Z"
   },
   "79474d26a78ab3a3": {
@@ -15841,6 +15873,7 @@
       "label",
       "short_link",
       "tags",
+      "other_link_ids",
       "web",
       "unreleased",
       "objectID"
@@ -15858,9 +15891,19 @@
       "KID PHENOMENON from EXILE TRIBE",
       "KID PHENOMENON",
       "0fDuN5RNp3ysq68Zdz17MV",
-      "1504167404"
+      "1504167404",
+      "225965445",
+      "UCBza9HxrlPlrPkW0wlxU6rw"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/YozakuraSanChiNoDaisakusenS2Part2-ED1.webm",
+      "basename": "YozakuraSanChiNoDaisakusenS2Part2-ED1.webm",
+      "animeSlug": "yozakurasan_chi_no_daisakusen_2nd_season_part_2",
+      "themeSlug": "",
+      "type": "ED",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-11T15:57:00.000Z"
   },
   "434618c1089b7873": {
@@ -15925,7 +15968,15 @@
       "894895986",
       "50322192"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/DragonBallSuperBeerus-ED1.webm",
+      "basename": "DragonBallSuperBeerus-ED1.webm",
+      "animeSlug": "dragon_ball_super_beerus",
+      "themeSlug": "",
+      "type": "ED",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-11T15:57:00.000Z"
   },
   "63f956253d0193fb": {
@@ -15991,7 +16042,15 @@
       "1466037690",
       "147335922"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/DragonBallSuperBeerus-OP1.webm",
+      "basename": "DragonBallSuperBeerus-OP1.webm",
+      "animeSlug": "dragon_ball_super_beerus",
+      "themeSlug": "",
+      "type": "OP",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-11T15:57:00.000Z"
   },
   "44aac839f9b6d950": {

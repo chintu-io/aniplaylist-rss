@@ -5,8 +5,8 @@
   "scrapeValidated": true,
   "resultCount": 186,
   "animeThemesChecked": 110,
-  "animeThemesMatched": 61,
-  "animeThemesSeasonLinks": 60,
+  "animeThemesMatched": 68,
+  "animeThemesSeasonLinks": 67,
   "jsonResponses": 26,
   "algoliaResponses": 12,
   "hitArrays": 24,
@@ -798,7 +798,15 @@
         "705683182",
         "UCXRmrNzERQzfA_2XI1OzJ9A"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/DiamondNoAceActIIS2Part2-OP1.webm",
+        "basename": "DiamondNoAceActIIS2Part2-OP1.webm",
+        "animeSlug": "diamond_no_ace_act_ii_second_season_part_2",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28067",
@@ -861,7 +869,15 @@
         "13924431",
         "UC6x9_gbeGAX6Hnlv0pU6xYA"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/DiamondNoAceActIIS2Part2-ED1.webm",
+        "basename": "DiamondNoAceActIIS2Part2-ED1.webm",
+        "animeSlug": "diamond_no_ace_act_ii_second_season_part_2",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28070",
@@ -1834,7 +1850,15 @@
         "1466037690",
         "147335922"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-OP1.webm",
+        "basename": "DragonBallSuperBeerus-OP1.webm",
+        "animeSlug": "dragon_ball_super_beerus",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28048",
@@ -1968,7 +1992,15 @@
         "277838561",
         "UCCjpI3VaaKn6oOpwKb-6fNw"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/ZeroBelievers-ED1.webm",
+        "basename": "ZeroBelievers-ED1.webm",
+        "animeSlug": "shinja_zero_no_megamisama_to_hajimeru_isekai_kouryaku",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28053",
@@ -3725,7 +3757,15 @@
         "705683182",
         "UCXRmrNzERQzfA_2XI1OzJ9A"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/DiamondNoAceActIIS2Part2-OP1.webm",
+        "basename": "DiamondNoAceActIIS2Part2-OP1.webm",
+        "animeSlug": "diamond_no_ace_act_ii_second_season_part_2",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28067",
@@ -3788,7 +3828,15 @@
         "13924431",
         "UC6x9_gbeGAX6Hnlv0pU6xYA"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/DiamondNoAceActIIS2Part2-ED1.webm",
+        "basename": "DiamondNoAceActIIS2Part2-ED1.webm",
+        "animeSlug": "diamond_no_ace_act_ii_second_season_part_2",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28070",
@@ -4761,7 +4809,15 @@
         "1466037690",
         "147335922"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-OP1.webm",
+        "basename": "DragonBallSuperBeerus-OP1.webm",
+        "animeSlug": "dragon_ball_super_beerus",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28048",
@@ -4895,7 +4951,15 @@
         "277838561",
         "UCCjpI3VaaKn6oOpwKb-6fNw"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/ZeroBelievers-ED1.webm",
+        "basename": "ZeroBelievers-ED1.webm",
+        "animeSlug": "shinja_zero_no_megamisama_to_hajimeru_isekai_kouryaku",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28053",
