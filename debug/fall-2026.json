@@ -3,25 +3,89 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 186,
-  "animeThemesChecked": 112,
-  "animeThemesMatched": 68,
+  "resultCount": 188,
+  "animeThemesChecked": 121,
+  "animeThemesMatched": 76,
   "animeThemesSeasonLinks": 71,
   "jsonResponses": 26,
   "algoliaResponses": 12,
   "hitArrays": 24,
-  "rawHits": 186,
-  "uniqueHits": 186,
-  "normalized": 186,
-  "withSpotify": 129,
-  "withApple": 128,
-  "withDetailUrl": 129,
-  "resolvedSpotify": 129,
-  "recordThumbnails": 186,
+  "rawHits": 188,
+  "uniqueHits": 188,
+  "normalized": 188,
+  "withSpotify": 138,
+  "withApple": 136,
+  "withDetailUrl": 130,
+  "resolvedSpotify": 138,
+  "recordThumbnails": 188,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28090",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Unbroken",
+      "artist": "MADKID",
+      "artistDisplay": "MADKID",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3zyIPd2EGVwGVuKWWTOnZ2",
+      "apple": "https://geo.music.apple.com/album/6786976397?i=6786976398&at=1001l384j&ct=website-sasaki-and-peeps-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Unbroken"
+      ],
+      "animeCandidates": [
+        "Sasaki and Peeps Season 2",
+        "Sasaki to Pii-chan Season 2",
+        "Sasaki to P-chan",
+        "佐々木とピーちゃん シーズン２",
+        "佐々木とピーちゃん Season2"
+      ],
+      "artistCandidates": [
+        "781",
+        "MADKID",
+        "1tofuk7dTZwb6ZKsr7XRKB",
+        "1182339235",
+        "390549491",
+        "UCY92KxMClgCcOyiAFaBCNxg"
+      ]
+    },
     {
       "id": "28080",
       "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
@@ -282,74 +346,20 @@
         "1562080702",
         "UC5ZqsmAgThtRr6QsrV6a8_A"
       ]
-    },
-    {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
-      "artist": "VK Blanka",
-      "artistDisplay": "VK Blanka",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
-      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kanpeki no Peki",
-        "完璧のペキ",
-        "Kan Peki No Peki"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "498",
-        "VK Blanka",
-        "Vickeblanka",
-        "0PYPjvZaOa7bsCq26JOX8d",
-        "894895986",
-        "50322192",
-        "UCg2rvXE9x3zg01ZxyIt9DpA"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28090",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LZE|6}D#4,?dpIs+slRntQjbofkB",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg"
+    },
     {
       "id": "28080",
       "thumbnailType": "string",
@@ -459,26 +469,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg"
-    },
-    {
-      "id": "28070",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LFFE=kE458Ee01%MIT,@}mM{%hNt",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg"
     }
   ],
-  "expectedHits": 186,
+  "expectedHits": 188,
   "expectedPages": 12,
   "receivedPages": 12,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 186,
+      "nbHits": 188,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -486,7 +486,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28313,
+      "nbHits": 28315,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -494,7 +494,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 186,
+      "nbHits": 188,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -502,7 +502,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28313,
+      "nbHits": 28315,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -510,7 +510,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 186,
+      "nbHits": 188,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -518,7 +518,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28313,
+      "nbHits": 28315,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -526,7 +526,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 186,
+      "nbHits": 188,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -534,7 +534,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28313,
+      "nbHits": 28315,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -542,7 +542,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 186,
+      "nbHits": 188,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -550,7 +550,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28313,
+      "nbHits": 28315,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -558,7 +558,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 186,
+      "nbHits": 188,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -566,7 +566,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28313,
+      "nbHits": 28315,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -574,7 +574,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 186,
+      "nbHits": 188,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -582,7 +582,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28313,
+      "nbHits": 28315,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -590,7 +590,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 186,
+      "nbHits": 188,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -598,7 +598,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28313,
+      "nbHits": 28315,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -606,7 +606,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 186,
+      "nbHits": 188,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -614,7 +614,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28313,
+      "nbHits": 28315,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -622,7 +622,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 186,
+      "nbHits": 188,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -630,7 +630,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28313,
+      "nbHits": 28315,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -638,7 +638,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 186,
+      "nbHits": 188,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -646,7 +646,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28313,
+      "nbHits": 28315,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -654,21 +654,94 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 186,
+      "nbHits": 188,
       "hitsPerPage": 16,
       "nbPages": 12,
-      "count": 10
+      "count": 12
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28313,
+      "nbHits": 28315,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28090",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Unbroken",
+      "artist": "MADKID",
+      "artistDisplay": "MADKID",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3zyIPd2EGVwGVuKWWTOnZ2",
+      "apple": "https://geo.music.apple.com/album/6786976397?i=6786976398&at=1001l384j&ct=website-sasaki-and-peeps-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Unbroken"
+      ],
+      "animeCandidates": [
+        "Sasaki and Peeps Season 2",
+        "Sasaki to Pii-chan Season 2",
+        "Sasaki to P-chan",
+        "佐々木とピーちゃん シーズン２",
+        "佐々木とピーちゃん Season2"
+      ],
+      "artistCandidates": [
+        "781",
+        "MADKID",
+        "1tofuk7dTZwb6ZKsr7XRKB",
+        "1182339235",
+        "390549491",
+        "UCY92KxMClgCcOyiAFaBCNxg"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/SasakiToPiiChanS2-OP1.webm",
+        "basename": "SasakiToPiiChanS2-OP1.webm",
+        "animeSlug": "sasaki_to_piichan_season_2",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
     {
       "id": "28080",
       "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
@@ -2701,73 +2774,6 @@
         "sequence": 1,
         "version": 1
       }
-    },
-    {
-      "id": "28033",
-      "anime": "Da Wang Rao Ming 3",
-      "song": "Wo Yao Shengcun Xiaqu",
-      "artist": "Zhang Shenchi",
-      "artistDisplay": "Zhang Shenchi",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5dq8mElZWzXfC48odXeDhm",
-      "apple": "https://geo.music.apple.com/album/6816205964?i=6816206122&at=1001l384j&ct=website-da-wang-rao-ming-3-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8cf449a2604ee4e9cce9a18e31fe5e3c2672f252@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/da-wang-rao-ming-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Wo Yao Shengcun Xiaqu",
-        "我要生存下去"
-      ],
-      "animeCandidates": [
-        "Da Wang Rao Ming 3",
-        "大王饶命 第三季",
-        "Spare Me, Great Lord! Season 3",
-        "Spare Me, Great Lord! 3rd Season",
-        "Master's Mercy 3"
-      ],
-      "artistCandidates": [
-        "24207",
-        "Zhang Shenchi",
-        "张申骋",
-        "4R5dzynsNq6eVtpiN84NdU",
-        "1544889678",
-        "116405692",
-        "UCcc3i63-n_3JOdUMW8bzOuA"
-      ],
-      "animethemesVideo": null
     }
   ],
   "sourceMetadataSamples": [
@@ -3363,6 +3369,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28090",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Unbroken",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-opening"
+    },
+    {
       "id": "28080",
       "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "song": "Ember Torch",
@@ -3564,16 +3577,82 @@
       "song": "Yellow Brick Road",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending"
-    },
-    {
-      "id": "28033",
-      "anime": "Da Wang Rao Ming 3",
-      "song": "Wo Yao Shengcun Xiaqu",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/da-wang-rao-ming-3-opening"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28090",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Unbroken",
+      "artist": "MADKID",
+      "artistDisplay": "MADKID",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3zyIPd2EGVwGVuKWWTOnZ2",
+      "apple": "https://geo.music.apple.com/album/6786976397?i=6786976398&at=1001l384j&ct=website-sasaki-and-peeps-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Unbroken"
+      ],
+      "animeCandidates": [
+        "Sasaki and Peeps Season 2",
+        "Sasaki to Pii-chan Season 2",
+        "Sasaki to P-chan",
+        "佐々木とピーちゃん シーズン２",
+        "佐々木とピーちゃん Season2"
+      ],
+      "artistCandidates": [
+        "781",
+        "MADKID",
+        "1tofuk7dTZwb6ZKsr7XRKB",
+        "1182339235",
+        "390549491",
+        "UCY92KxMClgCcOyiAFaBCNxg"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/SasakiToPiiChanS2-OP1.webm",
+        "basename": "SasakiToPiiChanS2-OP1.webm",
+        "animeSlug": "sasaki_to_piichan_season_2",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
     {
       "id": "28080",
       "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
@@ -5606,76 +5685,17 @@
         "sequence": 1,
         "version": 1
       }
-    },
-    {
-      "id": "28033",
-      "anime": "Da Wang Rao Ming 3",
-      "song": "Wo Yao Shengcun Xiaqu",
-      "artist": "Zhang Shenchi",
-      "artistDisplay": "Zhang Shenchi",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5dq8mElZWzXfC48odXeDhm",
-      "apple": "https://geo.music.apple.com/album/6816205964?i=6816206122&at=1001l384j&ct=website-da-wang-rao-ming-3-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8cf449a2604ee4e9cce9a18e31fe5e3c2672f252@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/da-wang-rao-ming-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Wo Yao Shengcun Xiaqu",
-        "我要生存下去"
-      ],
-      "animeCandidates": [
-        "Da Wang Rao Ming 3",
-        "大王饶命 第三季",
-        "Spare Me, Great Lord! Season 3",
-        "Spare Me, Great Lord! 3rd Season",
-        "Master's Mercy 3"
-      ],
-      "artistCandidates": [
-        "24207",
-        "Zhang Shenchi",
-        "张申骋",
-        "4R5dzynsNq6eVtpiN84NdU",
-        "1544889678",
-        "116405692",
-        "UCcc3i63-n_3JOdUMW8bzOuA"
-      ],
-      "animethemesVideo": null
     }
   ],
   "platformSamples": [
+    {
+      "id": "28090",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Unbroken",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/3zyIPd2EGVwGVuKWWTOnZ2",
+      "apple": "https://geo.music.apple.com/album/6786976397?i=6786976398&at=1001l384j&ct=website-sasaki-and-peeps-season-2-op&app=music"
+    },
     {
       "id": "28080",
       "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
@@ -5907,14 +5927,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
       "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music"
-    },
-    {
-      "id": "28033",
-      "anime": "Da Wang Rao Ming 3",
-      "song": "Wo Yao Shengcun Xiaqu",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/5dq8mElZWzXfC48odXeDhm",
-      "apple": "https://geo.music.apple.com/album/6816205964?i=6816206122&at=1001l384j&ct=website-da-wang-rao-ming-3-op&app=music"
     }
   ]
 }
