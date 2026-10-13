@@ -15,7 +15,7 @@
   "normalized": 186,
   "withSpotify": 129,
   "withApple": 128,
-  "withDetailUrl": 127,
+  "withDetailUrl": 129,
   "resolvedSpotify": 129,
   "recordThumbnails": 186,
   "detailImagesResolved": 0,
@@ -23,19 +23,19 @@
   "mismatchedDetailPages": 0,
   "sample": [
     {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
-      "artist": "Nonfic!",
-      "artistDisplay": "Nonfic!",
+      "id": "28080",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Ember Torch",
+      "artist": "sumika",
+      "artistDisplay": "sumika",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
-      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
+      "spotify": "https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC",
+      "apple": "https://geo.music.apple.com/album/6815636614?i=6815636619&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -63,27 +63,94 @@
         "short_link",
         "status",
         "tags",
+        "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Sukipi no Okage!",
-        "すきぴのおかげ！"
+        "Ember Torch",
+        "エンバートーチ"
       ],
       "animeCandidates": [
-        "Sasaki and Peeps Season 2",
-        "Sasaki to Pii-chan Season 2",
-        "Sasaki to P-chan",
-        "佐々木とピーちゃん シーズン２",
-        "佐々木とピーちゃん Season2"
+        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+        "Chii Fuyo",
+        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
+        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
       ],
       "artistCandidates": [
-        "25564",
-        "Nonfic!",
-        "のんふぃく！",
-        "0m9WOjDNpMnKYhZzafarEL",
-        "1562080702",
-        "UC5ZqsmAgThtRr6QsrV6a8_A"
+        "1626",
+        "sumika",
+        "0ySFZq3Wd0SQUyJUzmJAeb",
+        "586120102",
+        "5200027",
+        "UCz_qp5woGr9GjmSzGbCCslA"
+      ]
+    },
+    {
+      "id": "28079",
+      "anime": "Chitose Is in the Ramune Bottle Part 2",
+      "song": "Doko ni mo Ikenai Mama",
+      "artist": "aruma",
+      "artistDisplay": "aruma",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4dLMOHdFFJyU1vLyowMV3o",
+      "apple": "https://geo.music.apple.com/album/6815485139?i=6815485144&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c6fe18d65c58205f8fc6f2090dccee9f1fb5a800@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/chitose-is-in-the-ramune-bottle-part-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Doko ni mo Ikenai Mama",
+        "どこにもいけないまま"
+      ],
+      "animeCandidates": [
+        "Chitose Is in the Ramune Bottle Part 2",
+        "Chitose-kun wa Ramune Bin no Naka Part 2",
+        "Chiramune",
+        "Chitose-kun is Inside a Ramune Bottle",
+        "Ramune no Bin ni Shizunda Biidama no Tsuki",
+        "千歳くんはラムネ瓶のなか 第2クール"
+      ],
+      "artistCandidates": [
+        "14260",
+        "aruma",
+        "007ymf6nTBbhE9f9zxTcJF",
+        "1599024919",
+        "174333417",
+        "UCFk-qfmwoMq3kf6PWhqTdtw"
       ]
     },
     {
@@ -153,6 +220,70 @@
       ]
     },
     {
+      "id": "28032",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Sukipi no Okage!",
+      "artist": "Nonfic!",
+      "artistDisplay": "Nonfic!",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
+      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sukipi no Okage!",
+        "すきぴのおかげ！"
+      ],
+      "animeCandidates": [
+        "Sasaki and Peeps Season 2",
+        "Sasaki to Pii-chan Season 2",
+        "Sasaki to P-chan",
+        "佐々木とピーちゃん シーズン２",
+        "佐々木とピーちゃん Season2"
+      ],
+      "artistCandidates": [
+        "25564",
+        "Nonfic!",
+        "のんふぃく！",
+        "0m9WOjDNpMnKYhZzafarEL",
+        "1562080702",
+        "UC5ZqsmAgThtRr6QsrV6a8_A"
+      ]
+    },
+    {
       "id": "28076",
       "anime": "Dragon Ball Super: Beerus",
       "song": "Kanpeki no Peki",
@@ -215,146 +346,29 @@
         "50322192",
         "UCg2rvXE9x3zg01ZxyIt9DpA"
       ]
-    },
-    {
-      "id": "28078",
-      "anime": "Mission: Yozakura Family Season 2 Part 2",
-      "song": "Forever Song",
-      "artist": "Humbreaders",
-      "artistDisplay": "Humbreaders",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0Y6OVdpYzC3ratVn23bI8w",
-      "apple": "https://geo.music.apple.com/album/6815637289?i=6815637292&at=1001l384j&ct=website-mission-yozakura-family-seaso-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4572bcb0951634c379662aa188a4c998eb6c441f@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/mission-yozakura-family-season-2-part-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Forever Song",
-        "フォーエバーソング"
-      ],
-      "animeCandidates": [
-        "Mission: Yozakura Family Season 2 Part 2",
-        "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
-        "夜桜さんちの大作戦 第2期2クール"
-      ],
-      "artistCandidates": [
-        "6072",
-        "Humbreaders",
-        "ハンブレッダーズ",
-        "32k7rSC70F3C7qif9Pgavi",
-        "1072632597",
-        "96399152",
-        "UCecNvZh5h1ZgJ8vycmMAlGg"
-      ]
-    },
-    {
-      "id": "28077",
-      "anime": "Mission: Yozakura Family Season 2 Part 2",
-      "song": "I'm still breathing",
-      "artist": "KID PHENOMENON from EXILE TRIBE",
-      "artistDisplay": "KID PHENOMENON from EXILE TRIBE",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4hRHh1nSueJixtvdQB9YE0",
-      "apple": "https://geo.music.apple.com/album/6816852033?i=6816852039&at=1001l384j&ct=website-mission-yozakura-family-seaso-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4572bcb0951634c379662aa188a4c998eb6c441f@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/mission-yozakura-family-season-2-part-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "I'm still breathing"
-      ],
-      "animeCandidates": [
-        "Mission: Yozakura Family Season 2 Part 2",
-        "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
-        "夜桜さんちの大作戦 第2期2クール"
-      ],
-      "artistCandidates": [
-        "14784",
-        "KID PHENOMENON from EXILE TRIBE",
-        "KID PHENOMENON",
-        "0fDuN5RNp3ysq68Zdz17MV",
-        "1504167404",
-        "225965445",
-        "UCBza9HxrlPlrPkW0wlxU6rw"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
     {
-      "id": "28032",
+      "id": "28080",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e.jpg",
+      "thumbnail": "thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LZE|6}D#4,?dpIs+slRntQjbofkB",
+      "thumbnail_hash": "L6BfFSR*009v00jb~p-o=|t7M|IV",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg"
+    },
+    {
+      "id": "28079",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/c6fe18d65c58205f8fc6f2090dccee9f1fb5a800.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LPLh3*~WT0IpxZt6i_ozxZtRVskC",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/c6fe18d65c58205f8fc6f2090dccee9f1fb5a800@2xl.jpg"
     },
     {
       "id": "28074",
@@ -365,6 +379,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
+    },
+    {
+      "id": "28032",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LZE|6}D#4,?dpIs+slRntQjbofkB",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg"
     },
     {
       "id": "28076",
@@ -445,26 +469,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg"
-    },
-    {
-      "id": "28066",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/8aa9b8202a63b042d6c648bbd2f1e2d397e5b8ba.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LeH{_;RUIVR%.kW.bcfA%2WUJRn%",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/8aa9b8202a63b042d6c648bbd2f1e2d397e5b8ba@2xl.jpeg"
-    },
-    {
-      "id": "28064",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/9779d96388ce7537330f69976bb8b537b55f69e5.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LFHJ,YEzvn?GH]0d=qkD~UADS7tk",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/9779d96388ce7537330f69976bb8b537b55f69e5@2xl.jpg"
     }
   ],
   "expectedHits": 186,
@@ -666,19 +670,19 @@
   ],
   "normalizedSamples": [
     {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
-      "artist": "Nonfic!",
-      "artistDisplay": "Nonfic!",
+      "id": "28080",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Ember Torch",
+      "artist": "sumika",
+      "artistDisplay": "sumika",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
-      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
+      "spotify": "https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC",
+      "apple": "https://geo.music.apple.com/album/6815636614?i=6815636619&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -706,37 +710,97 @@
         "short_link",
         "status",
         "tags",
+        "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Sukipi no Okage!",
-        "すきぴのおかげ！"
+        "Ember Torch",
+        "エンバートーチ"
       ],
       "animeCandidates": [
-        "Sasaki and Peeps Season 2",
-        "Sasaki to Pii-chan Season 2",
-        "Sasaki to P-chan",
-        "佐々木とピーちゃん シーズン２",
-        "佐々木とピーちゃん Season2"
+        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+        "Chii Fuyo",
+        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
+        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
       ],
       "artistCandidates": [
-        "25564",
-        "Nonfic!",
-        "のんふぃく！",
-        "0m9WOjDNpMnKYhZzafarEL",
-        "1562080702",
-        "UC5ZqsmAgThtRr6QsrV6a8_A"
+        "1626",
+        "sumika",
+        "0ySFZq3Wd0SQUyJUzmJAeb",
+        "586120102",
+        "5200027",
+        "UCz_qp5woGr9GjmSzGbCCslA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/SasakiToPiiChanS2-ED1.webm",
-        "basename": "SasakiToPiiChanS2-ED1.webm",
-        "animeSlug": "sasaki_to_piichan_season_2",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
+    },
+    {
+      "id": "28079",
+      "anime": "Chitose Is in the Ramune Bottle Part 2",
+      "song": "Doko ni mo Ikenai Mama",
+      "artist": "aruma",
+      "artistDisplay": "aruma",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4dLMOHdFFJyU1vLyowMV3o",
+      "apple": "https://geo.music.apple.com/album/6815485139?i=6815485144&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c6fe18d65c58205f8fc6f2090dccee9f1fb5a800@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/chitose-is-in-the-ramune-bottle-part-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Doko ni mo Ikenai Mama",
+        "どこにもいけないまま"
+      ],
+      "animeCandidates": [
+        "Chitose Is in the Ramune Bottle Part 2",
+        "Chitose-kun wa Ramune Bin no Naka Part 2",
+        "Chiramune",
+        "Chitose-kun is Inside a Ramune Bottle",
+        "Ramune no Bin ni Shizunda Biidama no Tsuki",
+        "千歳くんはラムネ瓶のなか 第2クール"
+      ],
+      "artistCandidates": [
+        "14260",
+        "aruma",
+        "007ymf6nTBbhE9f9zxTcJF",
+        "1599024919",
+        "174333417",
+        "UCFk-qfmwoMq3kf6PWhqTdtw"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28074",
@@ -809,6 +873,79 @@
         "animeSlug": "dragon_ball_super_beerus",
         "themeSlug": "",
         "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28032",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Sukipi no Okage!",
+      "artist": "Nonfic!",
+      "artistDisplay": "Nonfic!",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
+      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sukipi no Okage!",
+        "すきぴのおかげ！"
+      ],
+      "animeCandidates": [
+        "Sasaki and Peeps Season 2",
+        "Sasaki to Pii-chan Season 2",
+        "Sasaki to P-chan",
+        "佐々木とピーちゃん シーズン２",
+        "佐々木とピーちゃん Season2"
+      ],
+      "artistCandidates": [
+        "25564",
+        "Nonfic!",
+        "のんふぃく！",
+        "0m9WOjDNpMnKYhZzafarEL",
+        "1562080702",
+        "UC5ZqsmAgThtRr6QsrV6a8_A"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/SasakiToPiiChanS2-ED1.webm",
+        "basename": "SasakiToPiiChanS2-ED1.webm",
+        "animeSlug": "sasaki_to_piichan_season_2",
+        "themeSlug": "",
+        "type": "ED",
         "sequence": 1,
         "version": 1
       }
@@ -1725,80 +1862,6 @@
       }
     },
     {
-      "id": "28050",
-      "anime": "Ranma ½ (2024) 3rd Season",
-      "song": "Kawaikunai",
-      "artist": "Yuika",
-      "artistDisplay": "Yuika",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6zYZuhJGcWzeQYWuWneYFd",
-      "apple": "https://geo.music.apple.com/album/6817307142?i=6817307148&at=1001l384j&ct=website-ranma-2024-3rd-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a035255163cbc6fb8dea2a8e81879aa420d4e50c@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/ranma-2024-3rd-season-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kawaikunai",
-        "かわいくない"
-      ],
-      "animeCandidates": [
-        "Ranma ½ (2024) 3rd Season",
-        "Ranma 1/2 (2024) 3rd Season",
-        "らんま1/2 第3期",
-        "Ranma ½ (2024) Season 3"
-      ],
-      "artistCandidates": [
-        "14137",
-        "Yuika",
-        "『ユイカ』",
-        "2EqaSEa0WkE59Aca9iXSYj",
-        "1572481482",
-        "1591235",
-        "UCxUDDDb_0-okM1Bj9A7iV7g"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/Ranma2024S3-ED1.webm",
-        "basename": "Ranma2024S3-ED1.webm",
-        "animeSlug": "ranma_12_2024_3rd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
       "id": "28062",
       "anime": "Welsh & Shedar",
       "song": "Omelet",
@@ -1866,6 +1929,80 @@
         "url": "https://v.animethemes.moe/WelshAndShedar-ED1.webm",
         "basename": "WelshAndShedar-ED1.webm",
         "animeSlug": "aoki_denshou_welsh_shedar",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28050",
+      "anime": "Ranma ½ (2024) 3rd Season",
+      "song": "Kawaikunai",
+      "artist": "Yuika",
+      "artistDisplay": "Yuika",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6zYZuhJGcWzeQYWuWneYFd",
+      "apple": "https://geo.music.apple.com/album/6817307142?i=6817307148&at=1001l384j&ct=website-ranma-2024-3rd-season-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a035255163cbc6fb8dea2a8e81879aa420d4e50c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/ranma-2024-3rd-season-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kawaikunai",
+        "かわいくない"
+      ],
+      "animeCandidates": [
+        "Ranma ½ (2024) 3rd Season",
+        "Ranma 1/2 (2024) 3rd Season",
+        "らんま1/2 第3期",
+        "Ranma ½ (2024) Season 3"
+      ],
+      "artistCandidates": [
+        "14137",
+        "Yuika",
+        "『ユイカ』",
+        "2EqaSEa0WkE59Aca9iXSYj",
+        "1572481482",
+        "1591235",
+        "UCxUDDDb_0-okM1Bj9A7iV7g"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/Ranma2024S3-ED1.webm",
+        "basename": "Ranma2024S3-ED1.webm",
+        "animeSlug": "ranma_12_2024_3rd_season",
         "themeSlug": "",
         "type": "ED",
         "sequence": 1,
@@ -2629,155 +2766,6 @@
         "1544889678",
         "116405692",
         "UCcc3i63-n_3JOdUMW8bzOuA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28001",
-      "anime": "Reincarnated as a Sword Season 2",
-      "song": "Baribari Buddy",
-      "artist": "HANABIE.",
-      "artistDisplay": "HANABIE.",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/03jc1xUdkdwNbbzum0TPEF",
-      "apple": "https://geo.music.apple.com/album/6816049853?i=6816050071&at=1001l384j&ct=website-reincarnated-as-a-sword-seaso-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4be5d5d4b85e09264c20e2c98e3dc96b20279ddc@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/reincarnated-as-a-sword-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Baribari Buddy",
-        "バリバリBuddy"
-      ],
-      "animeCandidates": [
-        "Reincarnated as a Sword Season 2",
-        "Tensei shitara Ken deshita 2",
-        "I became the sword by transmigrating 2nd Season",
-        "TenKen 2",
-        "転生したら剣でした2",
-        "I became the sword by transmigrating 2nd Season, TenKen 2",
-        "Tensei shitara Ken deshita II",
-        "転生したら剣でした II"
-      ],
-      "artistCandidates": [
-        "16853",
-        "HANABIE.",
-        "花冷え.",
-        "Hanabie.",
-        "花冷え。",
-        "4N2I7VsF86h59tbsvVoB1h",
-        "1437484631",
-        "142990212",
-        "UCIC2G1KVHvWY4HL0S05qHVQ"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/TenkenS2-ED1.webm",
-        "basename": "TenkenS2-ED1.webm",
-        "animeSlug": "tensei_shitara_ken_deshita_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28002",
-      "anime": "The Detective Is Already Dead Season 2",
-      "song": "Kono Shinzou ni Hanataba o",
-      "artist": "Koume",
-      "artistDisplay": "Koume",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2DA769aSvK6lkTUnMdTsIO",
-      "apple": "https://geo.music.apple.com/album/6818187814?i=6818187831&at=1001l384j&ct=website-the-detective-is-alrea-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/044d95a55afa723fc6b720c3b1a6e7c45a9b5139@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/the-detective-is-already-dead-season-2-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kono Shinzou ni Hanataba o",
-        "この心臓に花束を"
-      ],
-      "animeCandidates": [
-        "The Detective Is Already Dead Season 2",
-        "Tantei wa Mou, Shindeiru. Season 2",
-        "Tanmoshi",
-        "探偵はもう、死んでいる。Season2"
-      ],
-      "artistCandidates": [
-        "23870",
-        "Koume",
-        "心梅",
-        "0YYOvEP549Xcqnr6E4zUWN",
-        "0q4U7TZGWUHr5yO47wSivP",
-        "279297737",
-        "14777929",
-        "UCu_TEd41PUb7qC5GXXauFuQ"
       ],
       "animethemesVideo": null
     }
@@ -3375,11 +3363,18 @@
   ],
   "detailUrlSamples": [
     {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
+      "id": "28080",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Ember Torch",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-opening"
+    },
+    {
+      "id": "28079",
+      "anime": "Chitose Is in the Ramune Bottle Part 2",
+      "song": "Doko ni mo Ikenai Mama",
       "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending"
+      "detailUrl": "https://aniplaylist.com/play/chitose-is-in-the-ramune-bottle-part-2-ending"
     },
     {
       "id": "28074",
@@ -3387,6 +3382,13 @@
       "song": "Onogami",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
+    },
+    {
+      "id": "28032",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Sukipi no Okage!",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending"
     },
     {
       "id": "28076",
@@ -3480,18 +3482,18 @@
       "detailUrl": "https://aniplaylist.com/play/firefly-wedding-ending"
     },
     {
-      "id": "28050",
-      "anime": "Ranma ½ (2024) 3rd Season",
-      "song": "Kawaikunai",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/ranma-2024-3rd-season-ending"
-    },
-    {
       "id": "28062",
       "anime": "Welsh & Shedar",
       "song": "Omelet",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/welsh-shedar-ending"
+    },
+    {
+      "id": "28050",
+      "anime": "Ranma ½ (2024) 3rd Season",
+      "song": "Kawaikunai",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/ranma-2024-3rd-season-ending"
     },
     {
       "id": "28061",
@@ -3569,37 +3571,23 @@
       "song": "Wo Yao Shengcun Xiaqu",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/da-wang-rao-ming-3-opening"
-    },
-    {
-      "id": "28001",
-      "anime": "Reincarnated as a Sword Season 2",
-      "song": "Baribari Buddy",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/reincarnated-as-a-sword-season-2-ending"
-    },
-    {
-      "id": "28002",
-      "anime": "The Detective Is Already Dead Season 2",
-      "song": "Kono Shinzou ni Hanataba o",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/the-detective-is-already-dead-season-2-opening-tv-size"
     }
   ],
   "usableSamples": [
     {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
-      "artist": "Nonfic!",
-      "artistDisplay": "Nonfic!",
+      "id": "28080",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Ember Torch",
+      "artist": "sumika",
+      "artistDisplay": "sumika",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
-      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
+      "spotify": "https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC",
+      "apple": "https://geo.music.apple.com/album/6815636614?i=6815636619&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -3627,37 +3615,97 @@
         "short_link",
         "status",
         "tags",
+        "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Sukipi no Okage!",
-        "すきぴのおかげ！"
+        "Ember Torch",
+        "エンバートーチ"
       ],
       "animeCandidates": [
-        "Sasaki and Peeps Season 2",
-        "Sasaki to Pii-chan Season 2",
-        "Sasaki to P-chan",
-        "佐々木とピーちゃん シーズン２",
-        "佐々木とピーちゃん Season2"
+        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+        "Chii Fuyo",
+        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
+        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
       ],
       "artistCandidates": [
-        "25564",
-        "Nonfic!",
-        "のんふぃく！",
-        "0m9WOjDNpMnKYhZzafarEL",
-        "1562080702",
-        "UC5ZqsmAgThtRr6QsrV6a8_A"
+        "1626",
+        "sumika",
+        "0ySFZq3Wd0SQUyJUzmJAeb",
+        "586120102",
+        "5200027",
+        "UCz_qp5woGr9GjmSzGbCCslA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/SasakiToPiiChanS2-ED1.webm",
-        "basename": "SasakiToPiiChanS2-ED1.webm",
-        "animeSlug": "sasaki_to_piichan_season_2",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
+    },
+    {
+      "id": "28079",
+      "anime": "Chitose Is in the Ramune Bottle Part 2",
+      "song": "Doko ni mo Ikenai Mama",
+      "artist": "aruma",
+      "artistDisplay": "aruma",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4dLMOHdFFJyU1vLyowMV3o",
+      "apple": "https://geo.music.apple.com/album/6815485139?i=6815485144&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c6fe18d65c58205f8fc6f2090dccee9f1fb5a800@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/chitose-is-in-the-ramune-bottle-part-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Doko ni mo Ikenai Mama",
+        "どこにもいけないまま"
+      ],
+      "animeCandidates": [
+        "Chitose Is in the Ramune Bottle Part 2",
+        "Chitose-kun wa Ramune Bin no Naka Part 2",
+        "Chiramune",
+        "Chitose-kun is Inside a Ramune Bottle",
+        "Ramune no Bin ni Shizunda Biidama no Tsuki",
+        "千歳くんはラムネ瓶のなか 第2クール"
+      ],
+      "artistCandidates": [
+        "14260",
+        "aruma",
+        "007ymf6nTBbhE9f9zxTcJF",
+        "1599024919",
+        "174333417",
+        "UCFk-qfmwoMq3kf6PWhqTdtw"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28074",
@@ -3730,6 +3778,79 @@
         "animeSlug": "dragon_ball_super_beerus",
         "themeSlug": "",
         "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28032",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Sukipi no Okage!",
+      "artist": "Nonfic!",
+      "artistDisplay": "Nonfic!",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
+      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sukipi no Okage!",
+        "すきぴのおかげ！"
+      ],
+      "animeCandidates": [
+        "Sasaki and Peeps Season 2",
+        "Sasaki to Pii-chan Season 2",
+        "Sasaki to P-chan",
+        "佐々木とピーちゃん シーズン２",
+        "佐々木とピーちゃん Season2"
+      ],
+      "artistCandidates": [
+        "25564",
+        "Nonfic!",
+        "のんふぃく！",
+        "0m9WOjDNpMnKYhZzafarEL",
+        "1562080702",
+        "UC5ZqsmAgThtRr6QsrV6a8_A"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/SasakiToPiiChanS2-ED1.webm",
+        "basename": "SasakiToPiiChanS2-ED1.webm",
+        "animeSlug": "sasaki_to_piichan_season_2",
+        "themeSlug": "",
+        "type": "ED",
         "sequence": 1,
         "version": 1
       }
@@ -4646,80 +4767,6 @@
       }
     },
     {
-      "id": "28050",
-      "anime": "Ranma ½ (2024) 3rd Season",
-      "song": "Kawaikunai",
-      "artist": "Yuika",
-      "artistDisplay": "Yuika",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6zYZuhJGcWzeQYWuWneYFd",
-      "apple": "https://geo.music.apple.com/album/6817307142?i=6817307148&at=1001l384j&ct=website-ranma-2024-3rd-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a035255163cbc6fb8dea2a8e81879aa420d4e50c@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/ranma-2024-3rd-season-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kawaikunai",
-        "かわいくない"
-      ],
-      "animeCandidates": [
-        "Ranma ½ (2024) 3rd Season",
-        "Ranma 1/2 (2024) 3rd Season",
-        "らんま1/2 第3期",
-        "Ranma ½ (2024) Season 3"
-      ],
-      "artistCandidates": [
-        "14137",
-        "Yuika",
-        "『ユイカ』",
-        "2EqaSEa0WkE59Aca9iXSYj",
-        "1572481482",
-        "1591235",
-        "UCxUDDDb_0-okM1Bj9A7iV7g"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/Ranma2024S3-ED1.webm",
-        "basename": "Ranma2024S3-ED1.webm",
-        "animeSlug": "ranma_12_2024_3rd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
       "id": "28062",
       "anime": "Welsh & Shedar",
       "song": "Omelet",
@@ -4787,6 +4834,80 @@
         "url": "https://v.animethemes.moe/WelshAndShedar-ED1.webm",
         "basename": "WelshAndShedar-ED1.webm",
         "animeSlug": "aoki_denshou_welsh_shedar",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28050",
+      "anime": "Ranma ½ (2024) 3rd Season",
+      "song": "Kawaikunai",
+      "artist": "Yuika",
+      "artistDisplay": "Yuika",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6zYZuhJGcWzeQYWuWneYFd",
+      "apple": "https://geo.music.apple.com/album/6817307142?i=6817307148&at=1001l384j&ct=website-ranma-2024-3rd-season-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a035255163cbc6fb8dea2a8e81879aa420d4e50c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/ranma-2024-3rd-season-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kawaikunai",
+        "かわいくない"
+      ],
+      "animeCandidates": [
+        "Ranma ½ (2024) 3rd Season",
+        "Ranma 1/2 (2024) 3rd Season",
+        "らんま1/2 第3期",
+        "Ranma ½ (2024) Season 3"
+      ],
+      "artistCandidates": [
+        "14137",
+        "Yuika",
+        "『ユイカ』",
+        "2EqaSEa0WkE59Aca9iXSYj",
+        "1572481482",
+        "1591235",
+        "UCxUDDDb_0-okM1Bj9A7iV7g"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/Ranma2024S3-ED1.webm",
+        "basename": "Ranma2024S3-ED1.webm",
+        "animeSlug": "ranma_12_2024_3rd_season",
         "themeSlug": "",
         "type": "ED",
         "sequence": 1,
@@ -5552,165 +5673,24 @@
         "UCcc3i63-n_3JOdUMW8bzOuA"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28001",
-      "anime": "Reincarnated as a Sword Season 2",
-      "song": "Baribari Buddy",
-      "artist": "HANABIE.",
-      "artistDisplay": "HANABIE.",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/03jc1xUdkdwNbbzum0TPEF",
-      "apple": "https://geo.music.apple.com/album/6816049853?i=6816050071&at=1001l384j&ct=website-reincarnated-as-a-sword-seaso-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4be5d5d4b85e09264c20e2c98e3dc96b20279ddc@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/reincarnated-as-a-sword-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Baribari Buddy",
-        "バリバリBuddy"
-      ],
-      "animeCandidates": [
-        "Reincarnated as a Sword Season 2",
-        "Tensei shitara Ken deshita 2",
-        "I became the sword by transmigrating 2nd Season",
-        "TenKen 2",
-        "転生したら剣でした2",
-        "I became the sword by transmigrating 2nd Season, TenKen 2",
-        "Tensei shitara Ken deshita II",
-        "転生したら剣でした II"
-      ],
-      "artistCandidates": [
-        "16853",
-        "HANABIE.",
-        "花冷え.",
-        "Hanabie.",
-        "花冷え。",
-        "4N2I7VsF86h59tbsvVoB1h",
-        "1437484631",
-        "142990212",
-        "UCIC2G1KVHvWY4HL0S05qHVQ"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/TenkenS2-ED1.webm",
-        "basename": "TenkenS2-ED1.webm",
-        "animeSlug": "tensei_shitara_ken_deshita_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28002",
-      "anime": "The Detective Is Already Dead Season 2",
-      "song": "Kono Shinzou ni Hanataba o",
-      "artist": "Koume",
-      "artistDisplay": "Koume",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2DA769aSvK6lkTUnMdTsIO",
-      "apple": "https://geo.music.apple.com/album/6818187814?i=6818187831&at=1001l384j&ct=website-the-detective-is-alrea-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/044d95a55afa723fc6b720c3b1a6e7c45a9b5139@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/the-detective-is-already-dead-season-2-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kono Shinzou ni Hanataba o",
-        "この心臓に花束を"
-      ],
-      "animeCandidates": [
-        "The Detective Is Already Dead Season 2",
-        "Tantei wa Mou, Shindeiru. Season 2",
-        "Tanmoshi",
-        "探偵はもう、死んでいる。Season2"
-      ],
-      "artistCandidates": [
-        "23870",
-        "Koume",
-        "心梅",
-        "0YYOvEP549Xcqnr6E4zUWN",
-        "0q4U7TZGWUHr5yO47wSivP",
-        "279297737",
-        "14777929",
-        "UCu_TEd41PUb7qC5GXXauFuQ"
-      ],
-      "animethemesVideo": null
     }
   ],
   "platformSamples": [
     {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
+      "id": "28080",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Ember Torch",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC",
+      "apple": "https://geo.music.apple.com/album/6815636614?i=6815636619&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-op&app=music"
+    },
+    {
+      "id": "28079",
+      "anime": "Chitose Is in the Ramune Bottle Part 2",
+      "song": "Doko ni mo Ikenai Mama",
       "kind": "ED",
-      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
-      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music"
+      "spotify": "https://open.spotify.com/track/4dLMOHdFFJyU1vLyowMV3o",
+      "apple": "https://geo.music.apple.com/album/6815485139?i=6815485144&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-ed&app=music"
     },
     {
       "id": "28074",
@@ -5719,6 +5699,14 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
       "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
+    },
+    {
+      "id": "28032",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Sukipi no Okage!",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
+      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music"
     },
     {
       "id": "28076",
@@ -5825,20 +5813,20 @@
       "apple": "https://geo.music.apple.com/album/6810941092?i=6810941097&at=1001l384j&ct=website-firefly-wedding-ed&app=music"
     },
     {
-      "id": "28050",
-      "anime": "Ranma ½ (2024) 3rd Season",
-      "song": "Kawaikunai",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/6zYZuhJGcWzeQYWuWneYFd",
-      "apple": "https://geo.music.apple.com/album/6817307142?i=6817307148&at=1001l384j&ct=website-ranma-2024-3rd-season-ed&app=music"
-    },
-    {
       "id": "28062",
       "anime": "Welsh & Shedar",
       "song": "Omelet",
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/02pRSSlcAX48EtVXqO01h4",
       "apple": "https://geo.music.apple.com/album/6818374717?i=6818374723&at=1001l384j&ct=website-welsh-shedar-ed&app=music"
+    },
+    {
+      "id": "28050",
+      "anime": "Ranma ½ (2024) 3rd Season",
+      "song": "Kawaikunai",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/6zYZuhJGcWzeQYWuWneYFd",
+      "apple": "https://geo.music.apple.com/album/6817307142?i=6817307148&at=1001l384j&ct=website-ranma-2024-3rd-season-ed&app=music"
     },
     {
       "id": "28061",
@@ -5927,22 +5915,6 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/5dq8mElZWzXfC48odXeDhm",
       "apple": "https://geo.music.apple.com/album/6816205964?i=6816206122&at=1001l384j&ct=website-da-wang-rao-ming-3-op&app=music"
-    },
-    {
-      "id": "28001",
-      "anime": "Reincarnated as a Sword Season 2",
-      "song": "Baribari Buddy",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/03jc1xUdkdwNbbzum0TPEF",
-      "apple": "https://geo.music.apple.com/album/6816049853?i=6816050071&at=1001l384j&ct=website-reincarnated-as-a-sword-seaso-ed&app=music"
-    },
-    {
-      "id": "28002",
-      "anime": "The Detective Is Already Dead Season 2",
-      "song": "Kono Shinzou ni Hanataba o",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/2DA769aSvK6lkTUnMdTsIO",
-      "apple": "https://geo.music.apple.com/album/6818187814?i=6818187831&at=1001l384j&ct=website-the-detective-is-alrea-optv-size&app=music"
     }
   ]
 }
