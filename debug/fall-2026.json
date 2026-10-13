@@ -5,8 +5,8 @@
   "scrapeValidated": true,
   "resultCount": 188,
   "animeThemesChecked": 121,
-  "animeThemesMatched": 76,
-  "animeThemesSeasonLinks": 71,
+  "animeThemesMatched": 80,
+  "animeThemesSeasonLinks": 72,
   "jsonResponses": 26,
   "algoliaResponses": 12,
   "hitArrays": 24,
@@ -806,7 +806,15 @@
         "5200027",
         "UCz_qp5woGr9GjmSzGbCCslA"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/ChiiFuyo-OP1.webm",
+        "basename": "ChiiFuyo-OP1.webm",
+        "animeSlug": "chiifuyo",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28079",
@@ -873,7 +881,15 @@
         "174333417",
         "UCFk-qfmwoMq3kf6PWhqTdtw"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/ChiramunePart2-ED1.webm",
+        "basename": "ChiramunePart2-ED1.webm",
+        "animeSlug": "chitosekun_wa_ramune_bin_no_naka_part_2",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28074",
@@ -3717,7 +3733,15 @@
         "5200027",
         "UCz_qp5woGr9GjmSzGbCCslA"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/ChiiFuyo-OP1.webm",
+        "basename": "ChiiFuyo-OP1.webm",
+        "animeSlug": "chiifuyo",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28079",
@@ -3784,7 +3808,15 @@
         "174333417",
         "UCFk-qfmwoMq3kf6PWhqTdtw"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/ChiramunePart2-ED1.webm",
+        "basename": "ChiramunePart2-ED1.webm",
+        "animeSlug": "chitosekun_wa_ramune_bin_no_naka_part_2",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28074",

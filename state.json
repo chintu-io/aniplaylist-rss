@@ -13988,7 +13988,15 @@
     "kindLabel": "Opening",
     "apple": "https://geo.music.apple.com/album/6806963625?i=6806963628&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c6fe18d65c58205f8fc6f2090dccee9f1fb5a800@2xl.jpg",
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/ChiramunePart2-OP1.webm",
+      "basename": "ChiramunePart2-OP1.webm",
+      "animeSlug": "chitosekun_wa_ramune_bin_no_naka_part_2",
+      "themeSlug": "",
+      "type": "OP",
+      "sequence": 1,
+      "version": 1
+    },
     "episodes": []
   },
   "34a5851fc8af1f84": {
@@ -16194,7 +16202,15 @@
       "5200027",
       "UCz_qp5woGr9GjmSzGbCCslA"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/ChiiFuyo-OP1.webm",
+      "basename": "ChiiFuyo-OP1.webm",
+      "animeSlug": "chiifuyo",
+      "themeSlug": "",
+      "type": "OP",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-12T15:14:11.000Z"
   },
   "ec1c6ea8096ebabc": {
@@ -16262,7 +16278,15 @@
       "174333417",
       "UCFk-qfmwoMq3kf6PWhqTdtw"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/ChiramunePart2-ED1.webm",
+      "basename": "ChiramunePart2-ED1.webm",
+      "animeSlug": "chitosekun_wa_ramune_bin_no_naka_part_2",
+      "themeSlug": "",
+      "type": "ED",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-12T15:14:11.000Z"
   },
   "915d06bc1be2d838": {
@@ -16616,7 +16640,15 @@
       "266646521",
       "6372"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/BattleSpiritsReZekkaiNoKu-OP1.webm",
+      "basename": "BattleSpiritsReZekkaiNoKu-OP1.webm",
+      "animeSlug": "battle_spirits_re_zekkai_no_ku",
+      "themeSlug": "",
+      "type": "OP",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-13T18:12:29.000Z"
   },
   "16040a8cddb1867b": {
