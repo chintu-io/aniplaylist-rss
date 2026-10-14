@@ -16934,5 +16934,68 @@
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-10-13T18:12:29.000Z"
+  },
+  "7030754d990cc721": {
+    "id": "28092",
+    "anime": "Tanuki to Kitsune (TV)",
+    "song": "Nicoichi!",
+    "artist": "SILENT SIREN",
+    "artistDisplay": "SILENT SIREN",
+    "artistDisplayCount": 1,
+    "kind": "TS",
+    "kindLabel": "Theme Song",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
+    "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg",
+    "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "status",
+      "tags",
+      "other_link_ids",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Nicoichi!",
+      "ニコイチ!"
+    ],
+    "animeCandidates": [
+      "Tanuki to Kitsune (TV)",
+      "タヌキとキツネ"
+    ],
+    "artistCandidates": [
+      "603",
+      "SILENT SIREN",
+      "11FVEsg4m3QWzNfaK7vykQ",
+      "1205768846",
+      "12031388",
+      "UCfocsGKEYRlvZaDiPs8alJQ"
+    ],
+    "firstSeen": "2026-10-14T01:53:53.000Z"
   }
 }

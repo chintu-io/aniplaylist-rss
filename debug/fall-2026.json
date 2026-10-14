@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 188,
+  "resultCount": 189,
   "animeThemesChecked": 121,
   "animeThemesMatched": 80,
   "animeThemesSeasonLinks": 72,
   "jsonResponses": 26,
   "algoliaResponses": 12,
   "hitArrays": 24,
-  "rawHits": 188,
-  "uniqueHits": 188,
-  "normalized": 188,
-  "withSpotify": 138,
-  "withApple": 136,
-  "withDetailUrl": 130,
-  "resolvedSpotify": 138,
-  "recordThumbnails": 188,
+  "rawHits": 189,
+  "uniqueHits": 189,
+  "normalized": 189,
+  "withSpotify": 139,
+  "withApple": 137,
+  "withDetailUrl": 131,
+  "resolvedSpotify": 139,
+  "recordThumbnails": 189,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -84,6 +84,68 @@
         "1182339235",
         "390549491",
         "UCY92KxMClgCcOyiAFaBCNxg"
+      ]
+    },
+    {
+      "id": "28092",
+      "anime": "Tanuki to Kitsune (TV)",
+      "song": "Nicoichi!",
+      "artist": "SILENT SIREN",
+      "artistDisplay": "SILENT SIREN",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
+      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Nicoichi!",
+        "ニコイチ!"
+      ],
+      "animeCandidates": [
+        "Tanuki to Kitsune (TV)",
+        "タヌキとキツネ"
+      ],
+      "artistCandidates": [
+        "603",
+        "SILENT SIREN",
+        "11FVEsg4m3QWzNfaK7vykQ",
+        "1205768846",
+        "12031388",
+        "UCfocsGKEYRlvZaDiPs8alJQ"
       ]
     },
     {
@@ -282,70 +344,6 @@
         "147335922",
         "UCe0GU9CHeC3hbvgYmzXc7OA"
       ]
-    },
-    {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
-      "artist": "Nonfic!",
-      "artistDisplay": "Nonfic!",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
-      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Sukipi no Okage!",
-        "すきぴのおかげ！"
-      ],
-      "animeCandidates": [
-        "Sasaki and Peeps Season 2",
-        "Sasaki to Pii-chan Season 2",
-        "Sasaki to P-chan",
-        "佐々木とピーちゃん シーズン２",
-        "佐々木とピーちゃん Season2"
-      ],
-      "artistCandidates": [
-        "25564",
-        "Nonfic!",
-        "のんふぃく！",
-        "0m9WOjDNpMnKYhZzafarEL",
-        "1562080702",
-        "UC5ZqsmAgThtRr6QsrV6a8_A"
-      ]
     }
   ],
   "errors": [],
@@ -359,6 +357,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg"
+    },
+    {
+      "id": "28092",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L3R2;j*K8^56qG0rEpVZ00_M^Ox^",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg"
     },
     {
       "id": "28080",
@@ -459,26 +467,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/f5865433f97959a920b28253f41249b828e30017@2xl.jpg"
-    },
-    {
-      "id": "28069",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LFFE=kE458Ee01%MIT,@}mM{%hNt",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg"
     }
   ],
-  "expectedHits": 188,
+  "expectedHits": 189,
   "expectedPages": 12,
   "receivedPages": 12,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 188,
+      "nbHits": 189,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -486,7 +484,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28315,
+      "nbHits": 28316,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -494,7 +492,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 188,
+      "nbHits": 189,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -502,7 +500,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28315,
+      "nbHits": 28316,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -510,7 +508,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 188,
+      "nbHits": 189,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -518,7 +516,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28315,
+      "nbHits": 28316,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -526,7 +524,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 188,
+      "nbHits": 189,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -534,7 +532,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28315,
+      "nbHits": 28316,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -542,7 +540,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 188,
+      "nbHits": 189,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -550,7 +548,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28315,
+      "nbHits": 28316,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -558,7 +556,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 188,
+      "nbHits": 189,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -566,7 +564,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28315,
+      "nbHits": 28316,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -574,7 +572,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 188,
+      "nbHits": 189,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -582,7 +580,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28315,
+      "nbHits": 28316,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -590,7 +588,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 188,
+      "nbHits": 189,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -598,7 +596,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28315,
+      "nbHits": 28316,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -606,7 +604,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 188,
+      "nbHits": 189,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -614,7 +612,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28315,
+      "nbHits": 28316,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -622,7 +620,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 188,
+      "nbHits": 189,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -630,7 +628,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28315,
+      "nbHits": 28316,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -638,7 +636,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 188,
+      "nbHits": 189,
       "hitsPerPage": 16,
       "nbPages": 12,
       "count": 16
@@ -646,7 +644,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28315,
+      "nbHits": 28316,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -654,15 +652,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 188,
+      "nbHits": 189,
       "hitsPerPage": 16,
       "nbPages": 12,
-      "count": 12
+      "count": 13
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28315,
+      "nbHits": 28316,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -741,6 +739,68 @@
         "sequence": 1,
         "version": 1
       }
+    },
+    {
+      "id": "28092",
+      "anime": "Tanuki to Kitsune (TV)",
+      "song": "Nicoichi!",
+      "artist": "SILENT SIREN",
+      "artistDisplay": "SILENT SIREN",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
+      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Nicoichi!",
+        "ニコイチ!"
+      ],
+      "animeCandidates": [
+        "Tanuki to Kitsune (TV)",
+        "タヌキとキツネ"
+      ],
+      "artistCandidates": [
+        "603",
+        "SILENT SIREN",
+        "11FVEsg4m3QWzNfaK7vykQ",
+        "1205768846",
+        "12031388",
+        "UCfocsGKEYRlvZaDiPs8alJQ"
+      ]
     },
     {
       "id": "28080",
@@ -2719,77 +2779,6 @@
         "418821402"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "artist": "ONE OR EIGHT",
-      "artistDisplay": "ONE OR EIGHT",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/994373439d025530848b51f6286a082c0f298f83@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yellow Brick Road"
-      ],
-      "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
-      ],
-      "artistCandidates": [
-        "19216",
-        "ONE OR EIGHT",
-        "5bIttAFRf7URUmuuI9w7XA",
-        "1758291632",
-        "275967661",
-        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-ED1.webm",
-        "basename": "BlackCloverS2-ED1.webm",
-        "animeSlug": "black_clover_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
     }
   ],
   "sourceMetadataSamples": [
@@ -3392,6 +3381,13 @@
       "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-opening"
     },
     {
+      "id": "28092",
+      "anime": "Tanuki to Kitsune (TV)",
+      "song": "Nicoichi!",
+      "kind": "TS",
+      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song"
+    },
+    {
       "id": "28080",
       "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "song": "Ember Torch",
@@ -3586,13 +3582,6 @@
       "song": "Nixing",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/da-wang-rao-ming-3-ending"
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending"
     }
   ],
   "usableSamples": [
@@ -3668,6 +3657,68 @@
         "sequence": 1,
         "version": 1
       }
+    },
+    {
+      "id": "28092",
+      "anime": "Tanuki to Kitsune (TV)",
+      "song": "Nicoichi!",
+      "artist": "SILENT SIREN",
+      "artistDisplay": "SILENT SIREN",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
+      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Nicoichi!",
+        "ニコイチ!"
+      ],
+      "animeCandidates": [
+        "Tanuki to Kitsune (TV)",
+        "タヌキとキツネ"
+      ],
+      "artistCandidates": [
+        "603",
+        "SILENT SIREN",
+        "11FVEsg4m3QWzNfaK7vykQ",
+        "1205768846",
+        "12031388",
+        "UCfocsGKEYRlvZaDiPs8alJQ"
+      ]
     },
     {
       "id": "28080",
@@ -5646,77 +5697,6 @@
         "418821402"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "artist": "ONE OR EIGHT",
-      "artistDisplay": "ONE OR EIGHT",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/994373439d025530848b51f6286a082c0f298f83@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yellow Brick Road"
-      ],
-      "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
-      ],
-      "artistCandidates": [
-        "19216",
-        "ONE OR EIGHT",
-        "5bIttAFRf7URUmuuI9w7XA",
-        "1758291632",
-        "275967661",
-        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-ED1.webm",
-        "basename": "BlackCloverS2-ED1.webm",
-        "animeSlug": "black_clover_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
     }
   ],
   "platformSamples": [
@@ -5727,6 +5707,14 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/3zyIPd2EGVwGVuKWWTOnZ2",
       "apple": "https://geo.music.apple.com/album/6786976397?i=6786976398&at=1001l384j&ct=website-sasaki-and-peeps-season-2-op&app=music"
+    },
+    {
+      "id": "28092",
+      "anime": "Tanuki to Kitsune (TV)",
+      "song": "Nicoichi!",
+      "kind": "TS",
+      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
+      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music"
     },
     {
       "id": "28080",
@@ -5951,14 +5939,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/3ZhGVgTgeZTxnpR5i50jdW",
       "apple": "https://geo.music.apple.com/album/6816216119?i=6816216130&at=1001l384j&ct=website-da-wang-rao-ming-3-ed&app=music"
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music"
     }
   ]
 }
