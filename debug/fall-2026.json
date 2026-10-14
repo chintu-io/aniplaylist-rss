@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 190,
+  "resultCount": 193,
   "animeThemesChecked": 123,
   "animeThemesMatched": 80,
   "animeThemesSeasonLinks": 72,
-  "jsonResponses": 26,
-  "algoliaResponses": 12,
-  "hitArrays": 24,
-  "rawHits": 190,
-  "uniqueHits": 190,
-  "normalized": 190,
+  "jsonResponses": 28,
+  "algoliaResponses": 13,
+  "hitArrays": 26,
+  "rawHits": 193,
+  "uniqueHits": 193,
+  "normalized": 193,
   "withSpotify": 141,
   "withApple": 140,
   "withDetailUrl": 139,
   "resolvedSpotify": 141,
-  "recordThumbnails": 190,
+  "recordThumbnails": 193,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -467,22 +467,22 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg"
     }
   ],
-  "expectedHits": 190,
-  "expectedPages": 12,
-  "receivedPages": 12,
+  "expectedHits": 193,
+  "expectedPages": 13,
+  "receivedPages": 13,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 190,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28317,
+      "nbHits": 28320,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -490,15 +490,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 190,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28317,
+      "nbHits": 28320,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -506,15 +506,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 190,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28317,
+      "nbHits": 28320,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -522,15 +522,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 190,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28317,
+      "nbHits": 28320,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -538,15 +538,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 190,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28317,
+      "nbHits": 28320,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -554,15 +554,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 190,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28317,
+      "nbHits": 28320,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -570,15 +570,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 190,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28317,
+      "nbHits": 28320,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -586,15 +586,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 190,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28317,
+      "nbHits": 28320,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -602,15 +602,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 190,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28317,
+      "nbHits": 28320,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -618,15 +618,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 190,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28317,
+      "nbHits": 28320,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -634,15 +634,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 190,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28317,
+      "nbHits": 28320,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -650,15 +650,31 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 190,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
-      "count": 14
+      "nbPages": 13,
+      "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28317,
+      "nbHits": 28320,
+      "hitsPerPage": 0,
+      "nbPages": 0,
+      "count": 0
+    },
+    {
+      "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
+      "page": 12,
+      "nbHits": 193,
+      "hitsPerPage": 16,
+      "nbPages": 13,
+      "count": 1
+    },
+    {
+      "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
+      "page": 0,
+      "nbHits": 28320,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -1523,6 +1539,78 @@
       }
     },
     {
+      "id": "28084",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Escort",
+      "artist": "THE BEAT GARDEN",
+      "artistDisplay": "THE BEAT GARDEN",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6SN1inZu149TLU3e8Xp2a0",
+      "apple": "https://music.apple.com/nz/album/6819121866?i=6819121868&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Escort",
+        "エスコート"
+      ],
+      "animeCandidates": [
+        "The Ramparts of Ice Season 2",
+        "Koori no Jouheki 2nd Season",
+        "氷の城壁 第2期"
+      ],
+      "artistCandidates": [
+        "435",
+        "THE BEAT GARDEN",
+        "7gcQfJbjZ2W440kQ2wmqzk",
+        "1081410768",
+        "12421168",
+        "UCx0PImuCTAcomS3v-cZOBDA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-OP1.webm",
+        "basename": "KooriNoJouhekiS2-OP1.webm",
+        "animeSlug": "koori_no_jouheki_2nd_season",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
       "id": "28078",
       "anime": "Mission: Yozakura Family Season 2 Part 2",
       "song": "Forever Song",
@@ -1661,6 +1749,79 @@
         "url": "https://v.animethemes.moe/YozakuraSanChiNoDaisakusenS2Part2-ED1.webm",
         "basename": "YozakuraSanChiNoDaisakusenS2Part2-ED1.webm",
         "animeSlug": "yozakurasan_chi_no_daisakusen_2nd_season_part_2",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28087",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Tokimeki Un, Deux, Trois♪",
+      "artist": "Magic Vision Girls Party",
+      "artistDisplay": "Magic Vision Girls Party",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
+      "apple": "https://music.apple.com/nz/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Tokimeki Un, Deux, Trois♪",
+        "ときめきアン・ドゥ・トロワ♪"
+      ],
+      "animeCandidates": [
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+      ],
+      "artistCandidates": [
+        "24259",
+        "Magic Vision Girls Party",
+        "魔法映像ひろめ隊",
+        "0xYoRHq0kMxSAmE0QF0qE0",
+        "6816815343",
+        "418828852",
+        "UCoueeWzU2MU1-ci3v3JZZBQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/NiaListon-ED1.webm",
+        "basename": "NiaListon-ED1.webm",
+        "animeSlug": "kyouran_reijou_nia_liston",
         "themeSlug": "",
         "type": "ED",
         "sequence": 1,
@@ -2650,143 +2811,6 @@
         "263554940",
         "4929099"
       ]
-    },
-    {
-      "id": "28054",
-      "anime": "The Lonely Snow Widow and the Cursed Ring",
-      "song": "Choux Cream",
-      "artist": "Hitomi Suzune",
-      "artistDisplay": "Hitomi Suzune",
-      "artistDisplayCount": 1,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1mp7aWGedow7JzTkuABxA8",
-      "apple": "https://geo.music.apple.com/album/6807280922?i=6807280923&at=1001l384j&ct=website-the-lonely-snow-widow-and-the-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/49b86e3873ca04f12b6f43065de6dac69e66c48d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/the-lonely-snow-widow-and-the-cursed-ring-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Choux Cream",
-        "Shuu Cream",
-        "Choux Crème",
-        "シュークリーム"
-      ],
-      "animeCandidates": [
-        "The Lonely Snow Widow and the Cursed Ring",
-        "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
-        "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
-        "The Shy Snow Woman and the Cursed Ring"
-      ],
-      "artistCandidates": [
-        "25574",
-        "Hitomi Suzune",
-        "鈴音ひとみ",
-        "7kniYU57GLxnOgV9uAXanD",
-        "6806244065",
-        "UCxYVoE9mVcn_2zFIlrDtOAw"
-      ]
-    },
-    {
-      "id": "28059",
-      "anime": "The Vermilion Mask",
-      "song": "Koe",
-      "artist": "yutori",
-      "artistDisplay": "yutori",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/38cU4PG2LQD6Qz1UbpnTpl",
-      "apple": "https://geo.music.apple.com/album/6816049062?i=6816049064&at=1001l384j&ct=website-the-vermilion-mask-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9779d96388ce7537330f69976bb8b537b55f69e5@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-vermilion-mask-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Koe",
-        "声"
-      ],
-      "animeCandidates": [
-        "The Vermilion Mask",
-        "Shuiro no Kamen",
-        "朱色の仮面"
-      ],
-      "artistCandidates": [
-        "17459",
-        "yutori",
-        "4XFmgxfJrxEHZ1nLXf2Zv0",
-        "1566501388",
-        "72080352",
-        "UCqM8y7cbNcekfXHhvitCLyw"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/ShuiroNoKamen-ED1.webm",
-        "basename": "ShuiroNoKamen-ED1.webm",
-        "animeSlug": "shuiro_no_kamen",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
     }
   ],
   "sourceMetadataSamples": [
@@ -2908,8 +2932,7 @@
       "song_type_short": "ED",
       "label": "Speedstar",
       "tags": [
-        "2_airing",
-        "4_missing"
+        "2_airing"
       ],
       "episodeFields": {
         "type": "track",
@@ -2917,8 +2940,7 @@
         "song_type_short": "ED",
         "label": "Speedstar",
         "tags": [
-          "2_airing",
-          "4_missing"
+          "2_airing"
         ]
       }
     },
@@ -3462,6 +3484,13 @@
       "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending"
     },
     {
+      "id": "28084",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Escort",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-opening"
+    },
+    {
       "id": "28078",
       "anime": "Mission: Yozakura Family Season 2 Part 2",
       "song": "Forever Song",
@@ -3474,6 +3503,13 @@
       "song": "I'm still breathing",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/mission-yozakura-family-season-2-part-2-ending"
+    },
+    {
+      "id": "28087",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Tokimeki Un, Deux, Trois♪",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending"
     },
     {
       "id": "27884",
@@ -3572,20 +3608,6 @@
       "song": "Bokura no Mirai e",
       "kind": "TS",
       "detailUrl": "https://aniplaylist.com/play/welsh-shedar-theme-song"
-    },
-    {
-      "id": "28054",
-      "anime": "The Lonely Snow Widow and the Cursed Ring",
-      "song": "Choux Cream",
-      "kind": "TS",
-      "detailUrl": "https://aniplaylist.com/play/the-lonely-snow-widow-and-the-cursed-ring-theme-song"
-    },
-    {
-      "id": "28059",
-      "anime": "The Vermilion Mask",
-      "song": "Koe",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/the-vermilion-mask-ending"
     }
   ],
   "usableSamples": [
@@ -4447,6 +4469,78 @@
       }
     },
     {
+      "id": "28084",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Escort",
+      "artist": "THE BEAT GARDEN",
+      "artistDisplay": "THE BEAT GARDEN",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6SN1inZu149TLU3e8Xp2a0",
+      "apple": "https://music.apple.com/nz/album/6819121866?i=6819121868&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Escort",
+        "エスコート"
+      ],
+      "animeCandidates": [
+        "The Ramparts of Ice Season 2",
+        "Koori no Jouheki 2nd Season",
+        "氷の城壁 第2期"
+      ],
+      "artistCandidates": [
+        "435",
+        "THE BEAT GARDEN",
+        "7gcQfJbjZ2W440kQ2wmqzk",
+        "1081410768",
+        "12421168",
+        "UCx0PImuCTAcomS3v-cZOBDA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-OP1.webm",
+        "basename": "KooriNoJouhekiS2-OP1.webm",
+        "animeSlug": "koori_no_jouheki_2nd_season",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
       "id": "28078",
       "anime": "Mission: Yozakura Family Season 2 Part 2",
       "song": "Forever Song",
@@ -4585,6 +4679,79 @@
         "url": "https://v.animethemes.moe/YozakuraSanChiNoDaisakusenS2Part2-ED1.webm",
         "basename": "YozakuraSanChiNoDaisakusenS2Part2-ED1.webm",
         "animeSlug": "yozakurasan_chi_no_daisakusen_2nd_season_part_2",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28087",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Tokimeki Un, Deux, Trois♪",
+      "artist": "Magic Vision Girls Party",
+      "artistDisplay": "Magic Vision Girls Party",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
+      "apple": "https://music.apple.com/nz/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Tokimeki Un, Deux, Trois♪",
+        "ときめきアン・ドゥ・トロワ♪"
+      ],
+      "animeCandidates": [
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+      ],
+      "artistCandidates": [
+        "24259",
+        "Magic Vision Girls Party",
+        "魔法映像ひろめ隊",
+        "0xYoRHq0kMxSAmE0QF0qE0",
+        "6816815343",
+        "418828852",
+        "UCoueeWzU2MU1-ci3v3JZZBQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/NiaListon-ED1.webm",
+        "basename": "NiaListon-ED1.webm",
+        "animeSlug": "kyouran_reijou_nia_liston",
         "themeSlug": "",
         "type": "ED",
         "sequence": 1,
@@ -5574,143 +5741,6 @@
         "263554940",
         "4929099"
       ]
-    },
-    {
-      "id": "28054",
-      "anime": "The Lonely Snow Widow and the Cursed Ring",
-      "song": "Choux Cream",
-      "artist": "Hitomi Suzune",
-      "artistDisplay": "Hitomi Suzune",
-      "artistDisplayCount": 1,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1mp7aWGedow7JzTkuABxA8",
-      "apple": "https://geo.music.apple.com/album/6807280922?i=6807280923&at=1001l384j&ct=website-the-lonely-snow-widow-and-the-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/49b86e3873ca04f12b6f43065de6dac69e66c48d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/the-lonely-snow-widow-and-the-cursed-ring-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Choux Cream",
-        "Shuu Cream",
-        "Choux Crème",
-        "シュークリーム"
-      ],
-      "animeCandidates": [
-        "The Lonely Snow Widow and the Cursed Ring",
-        "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
-        "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
-        "The Shy Snow Woman and the Cursed Ring"
-      ],
-      "artistCandidates": [
-        "25574",
-        "Hitomi Suzune",
-        "鈴音ひとみ",
-        "7kniYU57GLxnOgV9uAXanD",
-        "6806244065",
-        "UCxYVoE9mVcn_2zFIlrDtOAw"
-      ]
-    },
-    {
-      "id": "28059",
-      "anime": "The Vermilion Mask",
-      "song": "Koe",
-      "artist": "yutori",
-      "artistDisplay": "yutori",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/38cU4PG2LQD6Qz1UbpnTpl",
-      "apple": "https://geo.music.apple.com/album/6816049062?i=6816049064&at=1001l384j&ct=website-the-vermilion-mask-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9779d96388ce7537330f69976bb8b537b55f69e5@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-vermilion-mask-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Koe",
-        "声"
-      ],
-      "animeCandidates": [
-        "The Vermilion Mask",
-        "Shuiro no Kamen",
-        "朱色の仮面"
-      ],
-      "artistCandidates": [
-        "17459",
-        "yutori",
-        "4XFmgxfJrxEHZ1nLXf2Zv0",
-        "1566501388",
-        "72080352",
-        "UCqM8y7cbNcekfXHhvitCLyw"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/ShuiroNoKamen-ED1.webm",
-        "basename": "ShuiroNoKamen-ED1.webm",
-        "animeSlug": "shuiro_no_kamen",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
     }
   ],
   "platformSamples": [
@@ -5811,6 +5841,14 @@
       "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music"
     },
     {
+      "id": "28084",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Escort",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/6SN1inZu149TLU3e8Xp2a0",
+      "apple": "https://music.apple.com/nz/album/6819121866?i=6819121868&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-op&app=music"
+    },
+    {
       "id": "28078",
       "anime": "Mission: Yozakura Family Season 2 Part 2",
       "song": "Forever Song",
@@ -5825,6 +5863,14 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/4hRHh1nSueJixtvdQB9YE0",
       "apple": "https://geo.music.apple.com/album/6816852033?i=6816852039&at=1001l384j&ct=website-mission-yozakura-family-seaso-ed&app=music"
+    },
+    {
+      "id": "28087",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Tokimeki Un, Deux, Trois♪",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
+      "apple": "https://music.apple.com/nz/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music"
     },
     {
       "id": "27884",
@@ -5937,22 +5983,6 @@
       "kind": "TS",
       "spotify": "https://open.spotify.com/track/2wawpRw3CxBQZDSFR8QYSy",
       "apple": "https://geo.music.apple.com/album/6818374717?i=6818374718&at=1001l384j&ct=website-welsh-shedar-ts&app=music"
-    },
-    {
-      "id": "28054",
-      "anime": "The Lonely Snow Widow and the Cursed Ring",
-      "song": "Choux Cream",
-      "kind": "TS",
-      "spotify": "https://open.spotify.com/track/1mp7aWGedow7JzTkuABxA8",
-      "apple": "https://geo.music.apple.com/album/6807280922?i=6807280923&at=1001l384j&ct=website-the-lonely-snow-widow-and-the-ts&app=music"
-    },
-    {
-      "id": "28059",
-      "anime": "The Vermilion Mask",
-      "song": "Koe",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/38cU4PG2LQD6Qz1UbpnTpl",
-      "apple": "https://geo.music.apple.com/album/6816049062?i=6816049064&at=1001l384j&ct=website-the-vermilion-mask-ed&app=music"
     }
   ]
 }
