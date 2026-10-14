@@ -7419,7 +7419,8 @@
       "Shiotaiou no Satou-san ga Ore ni dake Amai",
       "Aren't You Too Sweet Salt-God Sato-san?",
       "塩対応の佐藤さんが俺にだけ甘い",
-      "Aren't You Too Sweet Salt-God Sato-san"
+      "Aren't You Too Sweet Salt-God Sato-san",
+      "Shioama"
     ],
     "artistCandidates": [
       "3717",
@@ -8943,7 +8944,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9015,7 +9015,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9089,7 +9088,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9173,7 +9171,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9246,7 +9243,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9313,7 +9309,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9388,7 +9383,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9463,7 +9457,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9537,7 +9530,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9614,7 +9606,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "unreleased",
       "objectID"
@@ -9688,7 +9679,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9763,7 +9753,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9839,7 +9828,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9912,7 +9900,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9989,7 +9976,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -10058,7 +10044,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -10132,7 +10117,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -10206,7 +10190,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -10489,7 +10472,8 @@
       "Shiotaiou no Satou-san ga Ore ni dake Amai",
       "Aren't You Too Sweet Salt-God Sato-san?",
       "塩対応の佐藤さんが俺にだけ甘い",
-      "Aren't You Too Sweet Salt-God Sato-san"
+      "Aren't You Too Sweet Salt-God Sato-san",
+      "Shioama"
     ],
     "artistCandidates": [
       "242",
@@ -12905,7 +12889,8 @@
       "Shiotaiou no Satou-san ga Ore ni dake Amai",
       "Aren't You Too Sweet Salt-God Sato-san?",
       "塩対応の佐藤さんが俺にだけ甘い",
-      "Aren't You Too Sweet Salt-God Sato-san"
+      "Aren't You Too Sweet Salt-God Sato-san",
+      "Shioama"
     ],
     "artistCandidates": [
       "16629",
@@ -16374,9 +16359,9 @@
     "kindLabel": "Ending",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/4MfADFL9ImYAJHOzOxHpJl",
-    "apple": "https://music.apple.com/nz/album/6816867190?i=6816867193&at=1001l384j&ct=website-tougen-anki-nikko-kegon-falls-ed&app=music",
+    "apple": "https://geo.music.apple.com/album/6816867190?i=6816867193&at=1001l384j&ct=website-tougen-anki-nikko-kegon-falls-ed&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/128316f72df22810f19d436981f1cbaed1202b70@2xl.jpeg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/tougen-anki-nikko-kegon-falls-arc-ending",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -16402,9 +16387,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -16448,9 +16433,9 @@
     "kindLabel": "Opening",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
-    "apple": "",
+    "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -16477,10 +16462,10 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "substitute",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -16499,7 +16484,8 @@
       "BUCK∞TICK",
       "2DiecQcRbDuSJuSPKtirrX",
       "73617069",
-      "4359"
+      "4359",
+      "UCKoNktuAjXEn-f0ZCRpbDlA"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-10-13T18:12:29.000Z"
@@ -16517,7 +16503,7 @@
     "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
     "apple": "https://music.apple.com/nz/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -16543,9 +16529,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -16564,7 +16550,8 @@
       "魔法映像ひろめ隊",
       "0xYoRHq0kMxSAmE0QF0qE0",
       "6816815343",
-      "418828852"
+      "418828852",
+      "UCoueeWzU2MU1-ci3v3JZZBQ"
     ],
     "animethemesVideo": {
       "url": "https://v.animethemes.moe/NiaListon-ED1.webm",
@@ -16588,9 +16575,9 @@
     "kindLabel": "Opening",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
-    "apple": "https://music.apple.com/nz/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music",
+    "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -16617,10 +16604,10 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "substitute",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -16662,9 +16649,9 @@
     "kindLabel": "Opening",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-    "apple": "https://music.apple.com/nz/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+    "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/527a3ea827988814d3f983f071b0549386dd3e9b@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -16690,9 +16677,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -16714,7 +16701,8 @@
       "ヨルシカ",
       "4UK2Lzi6fBfUi9rpDt6cik",
       "1250709916",
-      "67898492"
+      "67898492",
+      "UCabLXblrQG4cO8F9qdd4Xsw"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-10-13T18:12:29.000Z"
@@ -16732,7 +16720,7 @@
     "spotify": "https://open.spotify.com/track/6SN1inZu149TLU3e8Xp2a0",
     "apple": "https://music.apple.com/nz/album/6819121866?i=6819121868&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-opening",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -16758,9 +16746,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -16778,7 +16766,8 @@
       "THE BEAT GARDEN",
       "7gcQfJbjZ2W440kQ2wmqzk",
       "1081410768",
-      "12421168"
+      "12421168",
+      "UCx0PImuCTAcomS3v-cZOBDA"
     ],
     "animethemesVideo": {
       "url": "https://v.animethemes.moe/KooriNoJouhekiS2-OP1.webm",
@@ -16802,9 +16791,9 @@
     "kindLabel": "Opening",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/1JgTtiOeN3lprwsFsdMIjZ",
-    "apple": "https://music.apple.com/nz/album/6819531226?i=6819531229&at=1001l384j&ct=website-uncles-obsession-with-cute-th-op&app=music",
+    "apple": "https://geo.music.apple.com/album/6819531226?i=6819531229&at=1001l384j&ct=website-uncles-obsession-with-cute-th-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d3ec37e84559778f312c77b98271222de211384d@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/uncles-obsession-with-cute-things-opening",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -16830,9 +16819,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -16856,7 +16845,8 @@
       "八木勇征 (FANTASTICS)",
       "4biRiGQt7y2IUY49qdyvXn",
       "1683249013",
-      "394446061"
+      "394446061",
+      "UCTw9vb_4sKskhyGB6LhZFUA"
     ],
     "animethemesVideo": {
       "url": "https://v.animethemes.moe/OjiKawa-OP1.webm",
@@ -16880,9 +16870,9 @@
     "kindLabel": "Opening",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh",
-    "apple": "https://music.apple.com/nz/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music",
+    "apple": "https://geo.music.apple.com/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ab4f391fd6b2c7356a2538da3aac45cb97e0f5ee@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-opening-1",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -16909,9 +16899,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -16930,7 +16920,8 @@
       "十明",
       "0xFsJRSOYJmmuozISzreTR",
       "1574639083",
-      "137872082"
+      "137872082",
+      "UCaBbPiMpdL5z86bWCFgCItA"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-10-13T18:12:29.000Z"

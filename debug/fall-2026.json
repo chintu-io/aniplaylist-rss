@@ -14,14 +14,140 @@
   "uniqueHits": 189,
   "normalized": 189,
   "withSpotify": 139,
-  "withApple": 137,
-  "withDetailUrl": 131,
+  "withApple": 138,
+  "withDetailUrl": 139,
   "resolvedSpotify": 139,
   "recordThumbnails": 189,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28092",
+      "anime": "Tanuki to Kitsune (TV)",
+      "song": "Nicoichi!",
+      "artist": "SILENT SIREN",
+      "artistDisplay": "SILENT SIREN",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
+      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Nicoichi!",
+        "ニコイチ!"
+      ],
+      "animeCandidates": [
+        "Tanuki to Kitsune (TV)",
+        "タヌキとキツネ"
+      ],
+      "artistCandidates": [
+        "603",
+        "SILENT SIREN",
+        "11FVEsg4m3QWzNfaK7vykQ",
+        "1205768846",
+        "12031388",
+        "UCfocsGKEYRlvZaDiPs8alJQ"
+      ]
+    },
+    {
+      "id": "28091",
+      "anime": "Tougen Anki: Nikko Kegon Falls Arc",
+      "song": "Te to Te",
+      "artist": "TRACK15",
+      "artistDisplay": "TRACK15",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4MfADFL9ImYAJHOzOxHpJl",
+      "apple": "https://geo.music.apple.com/album/6816867190?i=6816867193&at=1001l384j&ct=website-tougen-anki-nikko-kegon-falls-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/128316f72df22810f19d436981f1cbaed1202b70@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/tougen-anki-nikko-kegon-falls-arc-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Te to Te",
+        "手と手",
+        "Hand in Hand"
+      ],
+      "animeCandidates": [
+        "Tougen Anki: Nikko Kegon Falls Arc",
+        "Tougen Anki: Nikko Kegon no Taki-hen",
+        "桃源暗鬼 日光・華厳の滝編"
+      ],
+      "artistCandidates": [
+        "24253",
+        "TRACK15",
+        "2yBeBpGsS9sgRa4rlJldIT",
+        "1554239943",
+        "123919732",
+        "UCbTq_K3E9Vz8ehL62WwcwIA"
+      ]
+    },
     {
       "id": "28090",
       "anime": "Sasaki and Peeps Season 2",
@@ -87,81 +213,19 @@
       ]
     },
     {
-      "id": "28092",
-      "anime": "Tanuki to Kitsune (TV)",
-      "song": "Nicoichi!",
-      "artist": "SILENT SIREN",
-      "artistDisplay": "SILENT SIREN",
-      "artistDisplayCount": 1,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
-      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Nicoichi!",
-        "ニコイチ!"
-      ],
-      "animeCandidates": [
-        "Tanuki to Kitsune (TV)",
-        "タヌキとキツネ"
-      ],
-      "artistCandidates": [
-        "603",
-        "SILENT SIREN",
-        "11FVEsg4m3QWzNfaK7vykQ",
-        "1205768846",
-        "12031388",
-        "UCfocsGKEYRlvZaDiPs8alJQ"
-      ]
-    },
-    {
-      "id": "28080",
-      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "song": "Ember Torch",
-      "artist": "sumika",
-      "artistDisplay": "sumika",
+      "id": "28082",
+      "anime": "Magic Knight Rayearth (2026)",
+      "song": "Otome no Tsurugi",
+      "artist": "Toaka",
+      "artistDisplay": "Toaka",
       "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC",
-      "apple": "https://geo.music.apple.com/album/6815636614?i=6815636619&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-opening",
+      "spotify": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh",
+      "apple": "https://geo.music.apple.com/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ab4f391fd6b2c7356a2538da3aac45cb97e0f5ee@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-opening-1",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -178,6 +242,7 @@
         "platforms",
         "preview_url",
         "song_key",
+        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -194,105 +259,38 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Ember Torch",
-        "エンバートーチ"
+        "Otome no Tsurugi",
+        "乙女の剣"
       ],
       "animeCandidates": [
-        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
-        "Chii Fuyo",
-        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
-        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
+        "Magic Knight Rayearth (2026)",
+        "Mahou Kishi Rayearth",
+        "魔法騎士レイアース"
       ],
       "artistCandidates": [
-        "1626",
-        "sumika",
-        "0ySFZq3Wd0SQUyJUzmJAeb",
-        "586120102",
-        "5200027",
-        "UCz_qp5woGr9GjmSzGbCCslA"
+        "13040",
+        "Toaka",
+        "十明",
+        "0xFsJRSOYJmmuozISzreTR",
+        "1574639083",
+        "137872082",
+        "UCaBbPiMpdL5z86bWCFgCItA"
       ]
     },
     {
-      "id": "28079",
-      "anime": "Chitose Is in the Ramune Bottle Part 2",
-      "song": "Doko ni mo Ikenai Mama",
-      "artist": "aruma",
-      "artistDisplay": "aruma",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4dLMOHdFFJyU1vLyowMV3o",
-      "apple": "https://geo.music.apple.com/album/6815485139?i=6815485144&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c6fe18d65c58205f8fc6f2090dccee9f1fb5a800@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/chitose-is-in-the-ramune-bottle-part-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Doko ni mo Ikenai Mama",
-        "どこにもいけないまま"
-      ],
-      "animeCandidates": [
-        "Chitose Is in the Ramune Bottle Part 2",
-        "Chitose-kun wa Ramune Bin no Naka Part 2",
-        "Chiramune",
-        "Chitose-kun is Inside a Ramune Bottle",
-        "Ramune no Bin ni Shizunda Biidama no Tsuki",
-        "千歳くんはラムネ瓶のなか 第2クール"
-      ],
-      "artistCandidates": [
-        "14260",
-        "aruma",
-        "007ymf6nTBbhE9f9zxTcJF",
-        "1599024919",
-        "174333417",
-        "UCFk-qfmwoMq3kf6PWhqTdtw"
-      ]
-    },
-    {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "artist": "Megatera Zero",
-      "artistDisplay": "Megatera Zero",
+      "id": "28088",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Sonzai Riyu Kai",
+      "artist": "BUCK-TICK",
+      "artistDisplay": "BUCK-TICK",
       "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
-      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
+      "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
+      "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -309,6 +307,7 @@
         "platforms",
         "preview_url",
         "song_key",
+        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -318,36 +317,55 @@
         "display_artists",
         "label",
         "short_link",
-        "products",
         "status",
         "tags",
+        "substitute",
         "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Onogami",
-        "オノガミ"
+        "Sonzai Riyu Kai",
+        "存在理由 改"
       ],
       "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
       ],
       "artistCandidates": [
-        "14404",
-        "Megatera Zero",
-        "メガテラ・ゼロ",
-        "MEGATERA･ZERO",
-        "Mega Terra Zero",
-        "4I7F7bTQ9tBnRI2razDP9B",
-        "1466037690",
-        "147335922",
-        "UCe0GU9CHeC3hbvgYmzXc7OA"
+        "1162",
+        "BUCK-TICK",
+        "BUCK∞TICK",
+        "2DiecQcRbDuSJuSPKtirrX",
+        "73617069",
+        "4359",
+        "UCKoNktuAjXEn-f0ZCRpbDlA"
       ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28092",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L3R2;j*K8^56qG0rEpVZ00_M^Ox^",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg"
+    },
+    {
+      "id": "28091",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/128316f72df22810f19d436981f1cbaed1202b70.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LCCQ#tR70Jo}KhtRMdV@00t+~qIU",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/128316f72df22810f19d436981f1cbaed1202b70@2xl.jpeg"
+    },
     {
       "id": "28090",
       "thumbnailType": "string",
@@ -359,14 +377,54 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg"
     },
     {
-      "id": "28092",
+      "id": "28082",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b.jpeg",
+      "thumbnail": "thumbnails/ab4f391fd6b2c7356a2538da3aac45cb97e0f5ee.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "L3R2;j*K8^56qG0rEpVZ00_M^Ox^",
+      "thumbnail_hash": "L6G]5l0017-g00$G.6Mh00.Aq^9X",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/ab4f391fd6b2c7356a2538da3aac45cb97e0f5ee@2xl.jpg"
+    },
+    {
+      "id": "28088",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LHEM%tS64Ujb?wW=IAoMDgjck7n~",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg"
+    },
+    {
+      "id": "28085",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/527a3ea827988814d3f983f071b0549386dd3e9b.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LDI|abh#02}?01JU^jIn0z-lxtxs",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/527a3ea827988814d3f983f071b0549386dd3e9b@2xl.jpg"
+    },
+    {
+      "id": "28083",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/d3ec37e84559778f312c77b98271222de211384d.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LNM6R{^iIW~U?EoyjE_2E2IqNIIV",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/d3ec37e84559778f312c77b98271222de211384d@2xl.jpg"
+    },
+    {
+      "id": "28086",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L9GZt800v~S%3J+ZpJrY0J^U=H9?",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg"
     },
     {
       "id": "28080",
@@ -399,16 +457,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
     },
     {
-      "id": "28032",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LZE|6}D#4,?dpIs+slRntQjbofkB",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg"
-    },
-    {
       "id": "28076",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b.jpg",
@@ -417,56 +465,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg"
-    },
-    {
-      "id": "28078",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/4572bcb0951634c379662aa188a4c998eb6c441f.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L8FO_.AC4,-n^i00WH~X[pMI-qp0",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/4572bcb0951634c379662aa188a4c998eb6c441f@2xl.jpg"
-    },
-    {
-      "id": "28077",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/4572bcb0951634c379662aa188a4c998eb6c441f.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L8FO_.AC4,-n^i00WH~X[pMI-qp0",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/4572bcb0951634c379662aa188a4c998eb6c441f@2xl.jpg"
-    },
-    {
-      "id": "27884",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/f5865433f97959a920b28253f41249b828e30017.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LbG9?$9a~2ozA2RkJEbHIx-:t7Rj",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/f5865433f97959a920b28253f41249b828e30017@2xl.jpg"
-    },
-    {
-      "id": "28071",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/952f489716e3c3878f42407b668ceeb376d49eff.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LJJs^I?q0iw]2c~8jD4;9ZI@V[oM",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/952f489716e3c3878f42407b668ceeb376d49eff@2xl.jpg"
-    },
-    {
-      "id": "28067",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/f5865433f97959a920b28253f41249b828e30017.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LbG9?$9a~2ozA2RkJEbHIx-:t7Rj",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/f5865433f97959a920b28253f41249b828e30017@2xl.jpg"
     }
   ],
   "expectedHits": 189,
@@ -668,6 +666,141 @@
   ],
   "normalizedSamples": [
     {
+      "id": "28092",
+      "anime": "Tanuki to Kitsune (TV)",
+      "song": "Nicoichi!",
+      "artist": "SILENT SIREN",
+      "artistDisplay": "SILENT SIREN",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
+      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Nicoichi!",
+        "ニコイチ!"
+      ],
+      "animeCandidates": [
+        "Tanuki to Kitsune (TV)",
+        "タヌキとキツネ"
+      ],
+      "artistCandidates": [
+        "603",
+        "SILENT SIREN",
+        "11FVEsg4m3QWzNfaK7vykQ",
+        "1205768846",
+        "12031388",
+        "UCfocsGKEYRlvZaDiPs8alJQ"
+      ]
+    },
+    {
+      "id": "28091",
+      "anime": "Tougen Anki: Nikko Kegon Falls Arc",
+      "song": "Te to Te",
+      "artist": "TRACK15",
+      "artistDisplay": "TRACK15",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4MfADFL9ImYAJHOzOxHpJl",
+      "apple": "https://geo.music.apple.com/album/6816867190?i=6816867193&at=1001l384j&ct=website-tougen-anki-nikko-kegon-falls-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/128316f72df22810f19d436981f1cbaed1202b70@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/tougen-anki-nikko-kegon-falls-arc-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Te to Te",
+        "手と手",
+        "Hand in Hand"
+      ],
+      "animeCandidates": [
+        "Tougen Anki: Nikko Kegon Falls Arc",
+        "Tougen Anki: Nikko Kegon no Taki-hen",
+        "桃源暗鬼 日光・華厳の滝編"
+      ],
+      "artistCandidates": [
+        "24253",
+        "TRACK15",
+        "2yBeBpGsS9sgRa4rlJldIT",
+        "1554239943",
+        "123919732",
+        "UCbTq_K3E9Vz8ehL62WwcwIA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/TougenAnkiS2-ED1.webm",
+        "basename": "TougenAnkiS2-ED1.webm",
+        "animeSlug": "tougen_anki_nikkokegon_no_takihen",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
       "id": "28090",
       "anime": "Sasaki and Peeps Season 2",
       "song": "Unbroken",
@@ -741,19 +874,152 @@
       }
     },
     {
-      "id": "28092",
-      "anime": "Tanuki to Kitsune (TV)",
-      "song": "Nicoichi!",
-      "artist": "SILENT SIREN",
-      "artistDisplay": "SILENT SIREN",
+      "id": "28082",
+      "anime": "Magic Knight Rayearth (2026)",
+      "song": "Otome no Tsurugi",
+      "artist": "Toaka",
+      "artistDisplay": "Toaka",
       "artistDisplayCount": 1,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
-      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song",
+      "spotify": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh",
+      "apple": "https://geo.music.apple.com/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ab4f391fd6b2c7356a2538da3aac45cb97e0f5ee@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-opening-1",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Otome no Tsurugi",
+        "乙女の剣"
+      ],
+      "animeCandidates": [
+        "Magic Knight Rayearth (2026)",
+        "Mahou Kishi Rayearth",
+        "魔法騎士レイアース"
+      ],
+      "artistCandidates": [
+        "13040",
+        "Toaka",
+        "十明",
+        "0xFsJRSOYJmmuozISzreTR",
+        "1574639083",
+        "137872082",
+        "UCaBbPiMpdL5z86bWCFgCItA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28088",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Sonzai Riyu Kai",
+      "artist": "BUCK-TICK",
+      "artistDisplay": "BUCK-TICK",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
+      "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sonzai Riyu Kai",
+        "存在理由 改"
+      ],
+      "animeCandidates": [
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
+      ],
+      "artistCandidates": [
+        "1162",
+        "BUCK-TICK",
+        "BUCK∞TICK",
+        "2DiecQcRbDuSJuSPKtirrX",
+        "73617069",
+        "4359",
+        "UCKoNktuAjXEn-f0ZCRpbDlA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/527a3ea827988814d3f983f071b0549386dd3e9b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -786,21 +1052,178 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Nicoichi!",
-        "ニコイチ!"
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
       ],
       "animeCandidates": [
-        "Tanuki to Kitsune (TV)",
-        "タヌキとキツネ"
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
       ],
       "artistCandidates": [
-        "603",
-        "SILENT SIREN",
-        "11FVEsg4m3QWzNfaK7vykQ",
-        "1205768846",
-        "12031388",
-        "UCfocsGKEYRlvZaDiPs8alJQ"
-      ]
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28083",
+      "anime": "Uncle's Obsession with Cute Things",
+      "song": "LIKE³",
+      "artist": "Yusei Yagi",
+      "artistDisplay": "Yusei Yagi",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1JgTtiOeN3lprwsFsdMIjZ",
+      "apple": "https://geo.music.apple.com/album/6819531226?i=6819531229&at=1001l384j&ct=website-uncles-obsession-with-cute-th-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d3ec37e84559778f312c77b98271222de211384d@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/uncles-obsession-with-cute-things-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "LIKE³",
+        "LIKE LIKE LIKE"
+      ],
+      "animeCandidates": [
+        "Uncle's Obsession with Cute Things",
+        "Ojisan wa Kawaii Mono ga Osuki.",
+        "Pops Loves Kawaii Stuff",
+        "This Uncle Likes Cute Things",
+        "おじさんはカワイイものがお好き。",
+        "Pops Loves Kawaii Stuff, This Uncle Likes Cute Things"
+      ],
+      "artistCandidates": [
+        "23691",
+        "Yusei Yagi",
+        "八木勇征",
+        "Yusei Yagi (FANTASTICS)",
+        "八木勇征 (FANTASTICS)",
+        "4biRiGQt7y2IUY49qdyvXn",
+        "1683249013",
+        "394446061",
+        "UCTw9vb_4sKskhyGB6LhZFUA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/OjiKawa-OP1.webm",
+        "basename": "OjiKawa-OP1.webm",
+        "animeSlug": "ojisan_wa_kawaii_mono_ga_osuki",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28086",
+      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
+      "song": "Here we are!",
+      "artist": "JAM Project",
+      "artistDisplay": "JAM Project",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
+      "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Here we are!"
+      ],
+      "animeCandidates": [
+        "Battle Spirits [Re]: Zekkai no Kuu",
+        "Battle Spirits [Re] 絶界の空",
+        "Battle Spirits [Re] Zekkai no Kuu",
+        "Battle Spirits [Re] Zekkai no Ku"
+      ],
+      "artistCandidates": [
+        "2070",
+        "JAM Project",
+        "0CPdwFVMsHZWpNgKuLaTuU",
+        "266646521",
+        "6372"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/BattleSpiritsReZekkaiNoKu-OP1.webm",
+        "basename": "BattleSpiritsReZekkaiNoKu-OP1.webm",
+        "animeSlug": "battle_spirits_re_zekkai_no_ku",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28080",
@@ -1022,79 +1445,6 @@
         "animeSlug": "dragon_ball_super_beerus",
         "themeSlug": "",
         "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
-      "artist": "Nonfic!",
-      "artistDisplay": "Nonfic!",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
-      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Sukipi no Okage!",
-        "すきぴのおかげ！"
-      ],
-      "animeCandidates": [
-        "Sasaki and Peeps Season 2",
-        "Sasaki to Pii-chan Season 2",
-        "Sasaki to P-chan",
-        "佐々木とピーちゃん シーズン２",
-        "佐々木とピーちゃん Season2"
-      ],
-      "artistCandidates": [
-        "25564",
-        "Nonfic!",
-        "のんふぃく！",
-        "0m9WOjDNpMnKYhZzafarEL",
-        "1562080702",
-        "UC5ZqsmAgThtRr6QsrV6a8_A"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/SasakiToPiiChanS2-ED1.webm",
-        "basename": "SasakiToPiiChanS2-ED1.webm",
-        "animeSlug": "sasaki_to_piichan_season_2",
-        "themeSlug": "",
-        "type": "ED",
         "sequence": 1,
         "version": 1
       }
@@ -1382,6 +1732,79 @@
         "animeSlug": "diamond_no_ace_act_ii_second_season_part_2",
         "themeSlug": "",
         "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28032",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Sukipi no Okage!",
+      "artist": "Nonfic!",
+      "artistDisplay": "Nonfic!",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
+      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sukipi no Okage!",
+        "すきぴのおかげ！"
+      ],
+      "animeCandidates": [
+        "Sasaki and Peeps Season 2",
+        "Sasaki to Pii-chan Season 2",
+        "Sasaki to P-chan",
+        "佐々木とピーちゃん シーズン２",
+        "佐々木とピーちゃん Season2"
+      ],
+      "artistCandidates": [
+        "25564",
+        "Nonfic!",
+        "のんふぃく！",
+        "0m9WOjDNpMnKYhZzafarEL",
+        "1562080702",
+        "UC5ZqsmAgThtRr6QsrV6a8_A"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/SasakiToPiiChanS2-ED1.webm",
+        "basename": "SasakiToPiiChanS2-ED1.webm",
+        "animeSlug": "sasaki_to_piichan_season_2",
+        "themeSlug": "",
+        "type": "ED",
         "sequence": 1,
         "version": 1
       }
@@ -2364,421 +2787,6 @@
         "sequence": 1,
         "version": 1
       }
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "artist": "iri",
-      "artistDisplay": "iri",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
-      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0a5126ffb7d7577e0a38d14906b5a05564c1f20b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Period"
-      ],
-      "animeCandidates": [
-        "Firefly Wedding",
-        "Hotaru no Yomeiri",
-        "ホタルの嫁入り",
-        "Les Noces des Lucioles"
-      ],
-      "artistCandidates": [
-        "24229",
-        "iri",
-        "1mN9lPKzTRTOop4u7S1Uy9",
-        "388343274",
-        "1043542",
-        "UCtlXP5iI7TgKj_BI636L8Qw"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/HotaruNoYomeiri-OP1.webm",
-        "basename": "HotaruNoYomeiri-OP1.webm",
-        "animeSlug": "hotaru_no_yomeiri",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28048",
-      "anime": "The Iceblade Sorcerer Shall Rule the World II",
-      "song": "Diamond Dust",
-      "artist": "Sizuk",
-      "artistDisplay": "Sizuk & AYAME (from AliA)",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/13BKPwCVgCD0alaVF529E4",
-      "apple": "https://geo.music.apple.com/album/6812356807?i=6812356812&at=1001l384j&ct=website-the-iceblade-sorcerer-shall-r-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0c077b04730d9832ecb397d746eab01c9cf66cc1@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/the-iceblade-sorcerer-shall-rule-the-world-ii-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Diamond Dust"
-      ],
-      "animeCandidates": [
-        "The Iceblade Sorcerer Shall Rule the World II",
-        "冰剣の魔術師が世界を統べるII",
-        "Hyouken no Majutsushi ga Sekai wo Suberu II",
-        "Hyouken no Majutsushi ga Sekai wo Suberu 2nd Season"
-      ],
-      "artistCandidates": [
-        "13572",
-        "Sizuk",
-        "5UNvWvt9sIB2DmhHzpkwBM",
-        "1661294244",
-        "12650733",
-        "UCnAMMgt-zFicQDSNRnb9cqw",
-        "13573",
-        "AYAME (from AliA)",
-        "AYAME",
-        "1nmWIgaPaOYHw2YjBJKvvl",
-        "192917267"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28053",
-      "anime": "The Exiled Heavy Knight Knows How to Game the System",
-      "song": "Rewrite the Answer",
-      "artist": "Tokoyami Towa",
-      "artistDisplay": "Tokoyami Towa",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1GjqrSUNb5BeyVLecE48BV",
-      "apple": "https://geo.music.apple.com/album/6817218109?i=6817218111&at=1001l384j&ct=website-the-exiled-heavy-knight-know-op2&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a8bbb123bf5823f5df43a71a59321d84d6c072b2@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-exiled-heavy-knight-knows-how-to-game-the-system-opening-2",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Rewrite the Answer"
-      ],
-      "animeCandidates": [
-        "The Exiled Heavy Knight Knows How to Game the System",
-        "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-        "The Exiled Reincarnated Heavy Knight is Unrivaled in Game Knowledge",
-        "追放された転生重騎士はゲーム知識で無双する"
-      ],
-      "artistCandidates": [
-        "19083",
-        "Tokoyami Towa",
-        "常闇トワ",
-        "Towa Tokoyami",
-        "0XZGQi9wNsE1z9L0AWhC82",
-        "1554815946",
-        "330347311",
-        "UCL6zH0jSt3-2MqzAZ1ciUAw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28049",
-      "anime": "Full Clearing Another World under a Goddess with Zero Believers",
-      "song": "Fall in Dream",
-      "artist": "Suupeas",
-      "artistDisplay": "Suupeas",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0MzV5DgcABlPWYmPBxYKkX",
-      "apple": "https://geo.music.apple.com/album/6812974305?i=6812974306&at=1001l384j&ct=website-full-clearing-another-world-u-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c1ecf652495bb650f1f4dafa41a7167be3a6e4bd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/full-clearing-another-world-under-a-goddess-with-zero-believers-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Fall in Dream"
-      ],
-      "animeCandidates": [
-        "Full Clearing Another World under a Goddess with Zero Believers",
-        "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-        "Clear the World Like a Game with the Zero Believer Goddess",
-        "信者ゼロの女神サマと始める異世界攻略"
-      ],
-      "artistCandidates": [
-        "24191",
-        "Suupeas",
-        "すーぴーず",
-        "7wIZrpKTUAO64xM9xSaSvX",
-        "1763961190",
-        "277838561",
-        "UCCjpI3VaaKn6oOpwKb-6fNw"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/ZeroBelievers-ED1.webm",
-        "basename": "ZeroBelievers-ED1.webm",
-        "animeSlug": "shinja_zero_no_megamisama_to_hajimeru_isekai_kouryaku",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28046",
-      "anime": "Tetsuryou! Meet with Tetsudou Musume",
-      "song": "GO! GO! RAILWAY!!",
-      "artist": "Asaka",
-      "artistDisplay": "Asaka",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/21kePCGMv2YHbuGqJMyuiC",
-      "apple": "https://geo.music.apple.com/album/6814318091?i=6814318214&at=1001l384j&ct=website-tetsuryou-meet-with-te-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2aab051a5960e85e8847c10748331087529273ee@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/tetsuryou-meet-with-tetsudou-musume-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "GO! GO! RAILWAY!!"
-      ],
-      "animeCandidates": [
-        "Tetsuryou! Meet with Tetsudou Musume",
-        "Tetsuryo! Meet with Railroad Girls",
-        "てつりょー！meet with 鉄道むすめ"
-      ],
-      "artistCandidates": [
-        "397",
-        "Asaka",
-        "亜咲花",
-        "0QwTvn35AQMMELpKDU176h",
-        "1154905403",
-        "13887037",
-        "UCMRcsWDXgBZxkGV0E5ZGA2Q"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28034",
-      "anime": "Da Wang Rao Ming 3",
-      "song": "Nixing",
-      "artist": "AVA Liu Xinyu",
-      "artistDisplay": "AVA Liu Xinyu",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3ZhGVgTgeZTxnpR5i50jdW",
-      "apple": "https://geo.music.apple.com/album/6816216119?i=6816216130&at=1001l384j&ct=website-da-wang-rao-ming-3-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c7e245ed6dacf70dea9ee3ec6f735632841d971@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/da-wang-rao-ming-3-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Nixing",
-        "逆行"
-      ],
-      "animeCandidates": [
-        "Da Wang Rao Ming 3",
-        "大王饶命 第三季",
-        "Spare Me, Great Lord! Season 3",
-        "Spare Me, Great Lord! 3rd Season",
-        "Master's Mercy 3"
-      ],
-      "artistCandidates": [
-        "25565",
-        "AVA Liu Xinyu",
-        "劉欣宇",
-        "AVA刘欣宇",
-        "刘欣宇",
-        "6QqlO233cqAn98jGeoxNWB",
-        "1800755831",
-        "418821402"
-      ],
-      "animethemesVideo": null
     }
   ],
   "sourceMetadataSamples": [
@@ -2824,6 +2832,92 @@
         "tags": [
           "2_airing",
           "1_new",
+          "4_missing"
+        ]
+      }
+    },
+    {
+      "id": "27977",
+      "titles": [
+        "Kanawanai,",
+        "かなわない、"
+      ],
+      "rawArtists": [
+        {
+          "id": 1833,
+          "names": [
+            "Centimillimental",
+            "センチミリメンタル",
+            "senntimirimenntaru"
+          ],
+          "links": [
+            "0aRqEPPTtQd3pGuB4tJxVw",
+            "790661896",
+            "70886932",
+            "UCUruaitWu07N2ErrUaBgLWw"
+          ]
+        }
+      ],
+      "rawDisplayArtists": [
+        "Centimillimental"
+      ],
+      "type": "track",
+      "song_type": "Opening",
+      "song_type_short": "OP",
+      "label": "Sony Music Labels Inc.",
+      "tags": [
+        "2_airing"
+      ],
+      "episodeFields": {
+        "type": "track",
+        "song_type": "Opening",
+        "song_type_short": "OP",
+        "label": "Sony Music Labels Inc.",
+        "tags": [
+          "2_airing"
+        ]
+      }
+    },
+    {
+      "id": "27981",
+      "titles": [
+        "Mata Ashita",
+        "またあした",
+        "Tomorrow again"
+      ],
+      "rawArtists": [
+        {
+          "id": 24281,
+          "names": [
+            "shifukuponcho",
+            "至福ぽんちょ"
+          ],
+          "links": [
+            "0jGAznw2F6sZBJZpIRMYwP",
+            "1723471479",
+            "248764362",
+            "UCierlqKaoSU6qir2Gy0pQZQ"
+          ]
+        }
+      ],
+      "rawDisplayArtists": [
+        "shifukuponcho"
+      ],
+      "type": "track",
+      "song_type": "Ending",
+      "song_type_short": "ED",
+      "label": "Speedstar",
+      "tags": [
+        "2_airing",
+        "4_missing"
+      ],
+      "episodeFields": {
+        "type": "track",
+        "song_type": "Ending",
+        "song_type_short": "ED",
+        "label": "Speedstar",
+        "tags": [
+          "2_airing",
           "4_missing"
         ]
       }
@@ -3241,96 +3335,6 @@
       }
     },
     {
-      "id": "27977",
-      "titles": [
-        "Kanawanai,",
-        "かなわない、"
-      ],
-      "rawArtists": [
-        {
-          "id": 1833,
-          "names": [
-            "Centimillimental",
-            "センチミリメンタル",
-            "senntimirimenntaru"
-          ],
-          "links": [
-            "0aRqEPPTtQd3pGuB4tJxVw",
-            "790661896",
-            "70886932",
-            "UCUruaitWu07N2ErrUaBgLWw"
-          ]
-        }
-      ],
-      "rawDisplayArtists": [
-        "Centimillimental"
-      ],
-      "type": "track",
-      "song_type": "Opening",
-      "song_type_short": "OP",
-      "label": "Sony Music Labels Inc.",
-      "tags": [
-        "2_airing",
-        "1_new"
-      ],
-      "episodeFields": {
-        "type": "track",
-        "song_type": "Opening",
-        "song_type_short": "OP",
-        "label": "Sony Music Labels Inc.",
-        "tags": [
-          "2_airing",
-          "1_new"
-        ]
-      }
-    },
-    {
-      "id": "27981",
-      "titles": [
-        "Mata Ashita",
-        "またあした",
-        "Tomorrow again"
-      ],
-      "rawArtists": [
-        {
-          "id": 24281,
-          "names": [
-            "shifukuponcho",
-            "至福ぽんちょ"
-          ],
-          "links": [
-            "0jGAznw2F6sZBJZpIRMYwP",
-            "1723471479",
-            "248764362",
-            "UCierlqKaoSU6qir2Gy0pQZQ"
-          ]
-        }
-      ],
-      "rawDisplayArtists": [
-        "shifukuponcho"
-      ],
-      "type": "track",
-      "song_type": "Ending",
-      "song_type_short": "ED",
-      "label": "Speedstar",
-      "tags": [
-        "2_airing",
-        "1_new",
-        "4_missing"
-      ],
-      "episodeFields": {
-        "type": "track",
-        "song_type": "Ending",
-        "song_type_short": "ED",
-        "label": "Speedstar",
-        "tags": [
-          "2_airing",
-          "1_new",
-          "4_missing"
-        ]
-      }
-    },
-    {
       "id": "us_3114",
       "titles": [
         "Hikari no Soba de",
@@ -3374,6 +3378,20 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28092",
+      "anime": "Tanuki to Kitsune (TV)",
+      "song": "Nicoichi!",
+      "kind": "TS",
+      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song"
+    },
+    {
+      "id": "28091",
+      "anime": "Tougen Anki: Nikko Kegon Falls Arc",
+      "song": "Te to Te",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/tougen-anki-nikko-kegon-falls-arc-ending"
+    },
+    {
       "id": "28090",
       "anime": "Sasaki and Peeps Season 2",
       "song": "Unbroken",
@@ -3381,11 +3399,39 @@
       "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-opening"
     },
     {
-      "id": "28092",
-      "anime": "Tanuki to Kitsune (TV)",
-      "song": "Nicoichi!",
-      "kind": "TS",
-      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song"
+      "id": "28082",
+      "anime": "Magic Knight Rayearth (2026)",
+      "song": "Otome no Tsurugi",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-opening-1"
+    },
+    {
+      "id": "28088",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Sonzai Riyu Kai",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size"
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
+    },
+    {
+      "id": "28083",
+      "anime": "Uncle's Obsession with Cute Things",
+      "song": "LIKE³",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/uncles-obsession-with-cute-things-opening"
+    },
+    {
+      "id": "28086",
+      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
+      "song": "Here we are!",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size"
     },
     {
       "id": "28080",
@@ -3407,13 +3453,6 @@
       "song": "Onogami",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
-    },
-    {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending"
     },
     {
       "id": "28076",
@@ -3442,6 +3481,13 @@
       "song": "NEVER SAY NEVER AGAIN",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/diamond-no-ace-act-ii-second-season-part-2-opening"
+    },
+    {
+      "id": "28032",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Sukipi no Okage!",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending"
     },
     {
       "id": "28071",
@@ -3540,51 +3586,144 @@
       "song": "Koe",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/the-vermilion-mask-ending"
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening"
-    },
-    {
-      "id": "28048",
-      "anime": "The Iceblade Sorcerer Shall Rule the World II",
-      "song": "Diamond Dust",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/the-iceblade-sorcerer-shall-rule-the-world-ii-opening"
-    },
-    {
-      "id": "28053",
-      "anime": "The Exiled Heavy Knight Knows How to Game the System",
-      "song": "Rewrite the Answer",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/the-exiled-heavy-knight-knows-how-to-game-the-system-opening-2"
-    },
-    {
-      "id": "28049",
-      "anime": "Full Clearing Another World under a Goddess with Zero Believers",
-      "song": "Fall in Dream",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/full-clearing-another-world-under-a-goddess-with-zero-believers-ending"
-    },
-    {
-      "id": "28046",
-      "anime": "Tetsuryou! Meet with Tetsudou Musume",
-      "song": "GO! GO! RAILWAY!!",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/tetsuryou-meet-with-tetsudou-musume-opening-tv-size"
-    },
-    {
-      "id": "28034",
-      "anime": "Da Wang Rao Ming 3",
-      "song": "Nixing",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/da-wang-rao-ming-3-ending"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28092",
+      "anime": "Tanuki to Kitsune (TV)",
+      "song": "Nicoichi!",
+      "artist": "SILENT SIREN",
+      "artistDisplay": "SILENT SIREN",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
+      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Nicoichi!",
+        "ニコイチ!"
+      ],
+      "animeCandidates": [
+        "Tanuki to Kitsune (TV)",
+        "タヌキとキツネ"
+      ],
+      "artistCandidates": [
+        "603",
+        "SILENT SIREN",
+        "11FVEsg4m3QWzNfaK7vykQ",
+        "1205768846",
+        "12031388",
+        "UCfocsGKEYRlvZaDiPs8alJQ"
+      ]
+    },
+    {
+      "id": "28091",
+      "anime": "Tougen Anki: Nikko Kegon Falls Arc",
+      "song": "Te to Te",
+      "artist": "TRACK15",
+      "artistDisplay": "TRACK15",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4MfADFL9ImYAJHOzOxHpJl",
+      "apple": "https://geo.music.apple.com/album/6816867190?i=6816867193&at=1001l384j&ct=website-tougen-anki-nikko-kegon-falls-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/128316f72df22810f19d436981f1cbaed1202b70@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/tougen-anki-nikko-kegon-falls-arc-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Te to Te",
+        "手と手",
+        "Hand in Hand"
+      ],
+      "animeCandidates": [
+        "Tougen Anki: Nikko Kegon Falls Arc",
+        "Tougen Anki: Nikko Kegon no Taki-hen",
+        "桃源暗鬼 日光・華厳の滝編"
+      ],
+      "artistCandidates": [
+        "24253",
+        "TRACK15",
+        "2yBeBpGsS9sgRa4rlJldIT",
+        "1554239943",
+        "123919732",
+        "UCbTq_K3E9Vz8ehL62WwcwIA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/TougenAnkiS2-ED1.webm",
+        "basename": "TougenAnkiS2-ED1.webm",
+        "animeSlug": "tougen_anki_nikkokegon_no_takihen",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
     {
       "id": "28090",
       "anime": "Sasaki and Peeps Season 2",
@@ -3659,19 +3798,152 @@
       }
     },
     {
-      "id": "28092",
-      "anime": "Tanuki to Kitsune (TV)",
-      "song": "Nicoichi!",
-      "artist": "SILENT SIREN",
-      "artistDisplay": "SILENT SIREN",
+      "id": "28082",
+      "anime": "Magic Knight Rayearth (2026)",
+      "song": "Otome no Tsurugi",
+      "artist": "Toaka",
+      "artistDisplay": "Toaka",
       "artistDisplayCount": 1,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
-      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song",
+      "spotify": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh",
+      "apple": "https://geo.music.apple.com/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ab4f391fd6b2c7356a2538da3aac45cb97e0f5ee@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-opening-1",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Otome no Tsurugi",
+        "乙女の剣"
+      ],
+      "animeCandidates": [
+        "Magic Knight Rayearth (2026)",
+        "Mahou Kishi Rayearth",
+        "魔法騎士レイアース"
+      ],
+      "artistCandidates": [
+        "13040",
+        "Toaka",
+        "十明",
+        "0xFsJRSOYJmmuozISzreTR",
+        "1574639083",
+        "137872082",
+        "UCaBbPiMpdL5z86bWCFgCItA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28088",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Sonzai Riyu Kai",
+      "artist": "BUCK-TICK",
+      "artistDisplay": "BUCK-TICK",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
+      "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sonzai Riyu Kai",
+        "存在理由 改"
+      ],
+      "animeCandidates": [
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
+      ],
+      "artistCandidates": [
+        "1162",
+        "BUCK-TICK",
+        "BUCK∞TICK",
+        "2DiecQcRbDuSJuSPKtirrX",
+        "73617069",
+        "4359",
+        "UCKoNktuAjXEn-f0ZCRpbDlA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/527a3ea827988814d3f983f071b0549386dd3e9b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -3704,21 +3976,178 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Nicoichi!",
-        "ニコイチ!"
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
       ],
       "animeCandidates": [
-        "Tanuki to Kitsune (TV)",
-        "タヌキとキツネ"
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
       ],
       "artistCandidates": [
-        "603",
-        "SILENT SIREN",
-        "11FVEsg4m3QWzNfaK7vykQ",
-        "1205768846",
-        "12031388",
-        "UCfocsGKEYRlvZaDiPs8alJQ"
-      ]
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28083",
+      "anime": "Uncle's Obsession with Cute Things",
+      "song": "LIKE³",
+      "artist": "Yusei Yagi",
+      "artistDisplay": "Yusei Yagi",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1JgTtiOeN3lprwsFsdMIjZ",
+      "apple": "https://geo.music.apple.com/album/6819531226?i=6819531229&at=1001l384j&ct=website-uncles-obsession-with-cute-th-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d3ec37e84559778f312c77b98271222de211384d@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/uncles-obsession-with-cute-things-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "LIKE³",
+        "LIKE LIKE LIKE"
+      ],
+      "animeCandidates": [
+        "Uncle's Obsession with Cute Things",
+        "Ojisan wa Kawaii Mono ga Osuki.",
+        "Pops Loves Kawaii Stuff",
+        "This Uncle Likes Cute Things",
+        "おじさんはカワイイものがお好き。",
+        "Pops Loves Kawaii Stuff, This Uncle Likes Cute Things"
+      ],
+      "artistCandidates": [
+        "23691",
+        "Yusei Yagi",
+        "八木勇征",
+        "Yusei Yagi (FANTASTICS)",
+        "八木勇征 (FANTASTICS)",
+        "4biRiGQt7y2IUY49qdyvXn",
+        "1683249013",
+        "394446061",
+        "UCTw9vb_4sKskhyGB6LhZFUA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/OjiKawa-OP1.webm",
+        "basename": "OjiKawa-OP1.webm",
+        "animeSlug": "ojisan_wa_kawaii_mono_ga_osuki",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28086",
+      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
+      "song": "Here we are!",
+      "artist": "JAM Project",
+      "artistDisplay": "JAM Project",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
+      "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Here we are!"
+      ],
+      "animeCandidates": [
+        "Battle Spirits [Re]: Zekkai no Kuu",
+        "Battle Spirits [Re] 絶界の空",
+        "Battle Spirits [Re] Zekkai no Kuu",
+        "Battle Spirits [Re] Zekkai no Ku"
+      ],
+      "artistCandidates": [
+        "2070",
+        "JAM Project",
+        "0CPdwFVMsHZWpNgKuLaTuU",
+        "266646521",
+        "6372"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/BattleSpiritsReZekkaiNoKu-OP1.webm",
+        "basename": "BattleSpiritsReZekkaiNoKu-OP1.webm",
+        "animeSlug": "battle_spirits_re_zekkai_no_ku",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28080",
@@ -3940,79 +4369,6 @@
         "animeSlug": "dragon_ball_super_beerus",
         "themeSlug": "",
         "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
-      "artist": "Nonfic!",
-      "artistDisplay": "Nonfic!",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
-      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Sukipi no Okage!",
-        "すきぴのおかげ！"
-      ],
-      "animeCandidates": [
-        "Sasaki and Peeps Season 2",
-        "Sasaki to Pii-chan Season 2",
-        "Sasaki to P-chan",
-        "佐々木とピーちゃん シーズン２",
-        "佐々木とピーちゃん Season2"
-      ],
-      "artistCandidates": [
-        "25564",
-        "Nonfic!",
-        "のんふぃく！",
-        "0m9WOjDNpMnKYhZzafarEL",
-        "1562080702",
-        "UC5ZqsmAgThtRr6QsrV6a8_A"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/SasakiToPiiChanS2-ED1.webm",
-        "basename": "SasakiToPiiChanS2-ED1.webm",
-        "animeSlug": "sasaki_to_piichan_season_2",
-        "themeSlug": "",
-        "type": "ED",
         "sequence": 1,
         "version": 1
       }
@@ -4300,6 +4656,79 @@
         "animeSlug": "diamond_no_ace_act_ii_second_season_part_2",
         "themeSlug": "",
         "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28032",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Sukipi no Okage!",
+      "artist": "Nonfic!",
+      "artistDisplay": "Nonfic!",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
+      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sukipi no Okage!",
+        "すきぴのおかげ！"
+      ],
+      "animeCandidates": [
+        "Sasaki and Peeps Season 2",
+        "Sasaki to Pii-chan Season 2",
+        "Sasaki to P-chan",
+        "佐々木とピーちゃん シーズン２",
+        "佐々木とピーちゃん Season2"
+      ],
+      "artistCandidates": [
+        "25564",
+        "Nonfic!",
+        "のんふぃく！",
+        "0m9WOjDNpMnKYhZzafarEL",
+        "1562080702",
+        "UC5ZqsmAgThtRr6QsrV6a8_A"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/SasakiToPiiChanS2-ED1.webm",
+        "basename": "SasakiToPiiChanS2-ED1.webm",
+        "animeSlug": "sasaki_to_piichan_season_2",
+        "themeSlug": "",
+        "type": "ED",
         "sequence": 1,
         "version": 1
       }
@@ -5282,424 +5711,25 @@
         "sequence": 1,
         "version": 1
       }
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "artist": "iri",
-      "artistDisplay": "iri",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
-      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0a5126ffb7d7577e0a38d14906b5a05564c1f20b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Period"
-      ],
-      "animeCandidates": [
-        "Firefly Wedding",
-        "Hotaru no Yomeiri",
-        "ホタルの嫁入り",
-        "Les Noces des Lucioles"
-      ],
-      "artistCandidates": [
-        "24229",
-        "iri",
-        "1mN9lPKzTRTOop4u7S1Uy9",
-        "388343274",
-        "1043542",
-        "UCtlXP5iI7TgKj_BI636L8Qw"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/HotaruNoYomeiri-OP1.webm",
-        "basename": "HotaruNoYomeiri-OP1.webm",
-        "animeSlug": "hotaru_no_yomeiri",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28048",
-      "anime": "The Iceblade Sorcerer Shall Rule the World II",
-      "song": "Diamond Dust",
-      "artist": "Sizuk",
-      "artistDisplay": "Sizuk & AYAME (from AliA)",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/13BKPwCVgCD0alaVF529E4",
-      "apple": "https://geo.music.apple.com/album/6812356807?i=6812356812&at=1001l384j&ct=website-the-iceblade-sorcerer-shall-r-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0c077b04730d9832ecb397d746eab01c9cf66cc1@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/the-iceblade-sorcerer-shall-rule-the-world-ii-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Diamond Dust"
-      ],
-      "animeCandidates": [
-        "The Iceblade Sorcerer Shall Rule the World II",
-        "冰剣の魔術師が世界を統べるII",
-        "Hyouken no Majutsushi ga Sekai wo Suberu II",
-        "Hyouken no Majutsushi ga Sekai wo Suberu 2nd Season"
-      ],
-      "artistCandidates": [
-        "13572",
-        "Sizuk",
-        "5UNvWvt9sIB2DmhHzpkwBM",
-        "1661294244",
-        "12650733",
-        "UCnAMMgt-zFicQDSNRnb9cqw",
-        "13573",
-        "AYAME (from AliA)",
-        "AYAME",
-        "1nmWIgaPaOYHw2YjBJKvvl",
-        "192917267"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28053",
-      "anime": "The Exiled Heavy Knight Knows How to Game the System",
-      "song": "Rewrite the Answer",
-      "artist": "Tokoyami Towa",
-      "artistDisplay": "Tokoyami Towa",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1GjqrSUNb5BeyVLecE48BV",
-      "apple": "https://geo.music.apple.com/album/6817218109?i=6817218111&at=1001l384j&ct=website-the-exiled-heavy-knight-know-op2&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a8bbb123bf5823f5df43a71a59321d84d6c072b2@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-exiled-heavy-knight-knows-how-to-game-the-system-opening-2",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Rewrite the Answer"
-      ],
-      "animeCandidates": [
-        "The Exiled Heavy Knight Knows How to Game the System",
-        "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-        "The Exiled Reincarnated Heavy Knight is Unrivaled in Game Knowledge",
-        "追放された転生重騎士はゲーム知識で無双する"
-      ],
-      "artistCandidates": [
-        "19083",
-        "Tokoyami Towa",
-        "常闇トワ",
-        "Towa Tokoyami",
-        "0XZGQi9wNsE1z9L0AWhC82",
-        "1554815946",
-        "330347311",
-        "UCL6zH0jSt3-2MqzAZ1ciUAw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28049",
-      "anime": "Full Clearing Another World under a Goddess with Zero Believers",
-      "song": "Fall in Dream",
-      "artist": "Suupeas",
-      "artistDisplay": "Suupeas",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0MzV5DgcABlPWYmPBxYKkX",
-      "apple": "https://geo.music.apple.com/album/6812974305?i=6812974306&at=1001l384j&ct=website-full-clearing-another-world-u-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c1ecf652495bb650f1f4dafa41a7167be3a6e4bd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/full-clearing-another-world-under-a-goddess-with-zero-believers-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Fall in Dream"
-      ],
-      "animeCandidates": [
-        "Full Clearing Another World under a Goddess with Zero Believers",
-        "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-        "Clear the World Like a Game with the Zero Believer Goddess",
-        "信者ゼロの女神サマと始める異世界攻略"
-      ],
-      "artistCandidates": [
-        "24191",
-        "Suupeas",
-        "すーぴーず",
-        "7wIZrpKTUAO64xM9xSaSvX",
-        "1763961190",
-        "277838561",
-        "UCCjpI3VaaKn6oOpwKb-6fNw"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/ZeroBelievers-ED1.webm",
-        "basename": "ZeroBelievers-ED1.webm",
-        "animeSlug": "shinja_zero_no_megamisama_to_hajimeru_isekai_kouryaku",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28046",
-      "anime": "Tetsuryou! Meet with Tetsudou Musume",
-      "song": "GO! GO! RAILWAY!!",
-      "artist": "Asaka",
-      "artistDisplay": "Asaka",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/21kePCGMv2YHbuGqJMyuiC",
-      "apple": "https://geo.music.apple.com/album/6814318091?i=6814318214&at=1001l384j&ct=website-tetsuryou-meet-with-te-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2aab051a5960e85e8847c10748331087529273ee@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/tetsuryou-meet-with-tetsudou-musume-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "GO! GO! RAILWAY!!"
-      ],
-      "animeCandidates": [
-        "Tetsuryou! Meet with Tetsudou Musume",
-        "Tetsuryo! Meet with Railroad Girls",
-        "てつりょー！meet with 鉄道むすめ"
-      ],
-      "artistCandidates": [
-        "397",
-        "Asaka",
-        "亜咲花",
-        "0QwTvn35AQMMELpKDU176h",
-        "1154905403",
-        "13887037",
-        "UCMRcsWDXgBZxkGV0E5ZGA2Q"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28034",
-      "anime": "Da Wang Rao Ming 3",
-      "song": "Nixing",
-      "artist": "AVA Liu Xinyu",
-      "artistDisplay": "AVA Liu Xinyu",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3ZhGVgTgeZTxnpR5i50jdW",
-      "apple": "https://geo.music.apple.com/album/6816216119?i=6816216130&at=1001l384j&ct=website-da-wang-rao-ming-3-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c7e245ed6dacf70dea9ee3ec6f735632841d971@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/da-wang-rao-ming-3-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Nixing",
-        "逆行"
-      ],
-      "animeCandidates": [
-        "Da Wang Rao Ming 3",
-        "大王饶命 第三季",
-        "Spare Me, Great Lord! Season 3",
-        "Spare Me, Great Lord! 3rd Season",
-        "Master's Mercy 3"
-      ],
-      "artistCandidates": [
-        "25565",
-        "AVA Liu Xinyu",
-        "劉欣宇",
-        "AVA刘欣宇",
-        "刘欣宇",
-        "6QqlO233cqAn98jGeoxNWB",
-        "1800755831",
-        "418821402"
-      ],
-      "animethemesVideo": null
     }
   ],
   "platformSamples": [
+    {
+      "id": "28092",
+      "anime": "Tanuki to Kitsune (TV)",
+      "song": "Nicoichi!",
+      "kind": "TS",
+      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
+      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music"
+    },
+    {
+      "id": "28091",
+      "anime": "Tougen Anki: Nikko Kegon Falls Arc",
+      "song": "Te to Te",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/4MfADFL9ImYAJHOzOxHpJl",
+      "apple": "https://geo.music.apple.com/album/6816867190?i=6816867193&at=1001l384j&ct=website-tougen-anki-nikko-kegon-falls-ed&app=music"
+    },
     {
       "id": "28090",
       "anime": "Sasaki and Peeps Season 2",
@@ -5709,12 +5739,44 @@
       "apple": "https://geo.music.apple.com/album/6786976397?i=6786976398&at=1001l384j&ct=website-sasaki-and-peeps-season-2-op&app=music"
     },
     {
-      "id": "28092",
-      "anime": "Tanuki to Kitsune (TV)",
-      "song": "Nicoichi!",
-      "kind": "TS",
-      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
-      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music"
+      "id": "28082",
+      "anime": "Magic Knight Rayearth (2026)",
+      "song": "Otome no Tsurugi",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh",
+      "apple": "https://geo.music.apple.com/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music"
+    },
+    {
+      "id": "28088",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Sonzai Riyu Kai",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
+      "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music"
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
+    },
+    {
+      "id": "28083",
+      "anime": "Uncle's Obsession with Cute Things",
+      "song": "LIKE³",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/1JgTtiOeN3lprwsFsdMIjZ",
+      "apple": "https://geo.music.apple.com/album/6819531226?i=6819531229&at=1001l384j&ct=website-uncles-obsession-with-cute-th-op&app=music"
+    },
+    {
+      "id": "28086",
+      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
+      "song": "Here we are!",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
+      "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music"
     },
     {
       "id": "28080",
@@ -5739,14 +5801,6 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
       "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
-    },
-    {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
-      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music"
     },
     {
       "id": "28076",
@@ -5779,6 +5833,14 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/3G0mTzZwFHYvji44Nk4qdO",
       "apple": "https://geo.music.apple.com/album/6809684037?i=6809684039&at=1001l384j&ct=website-diamond-no-ace-act-ii-second-op&app=music"
+    },
+    {
+      "id": "28032",
+      "anime": "Sasaki and Peeps Season 2",
+      "song": "Sukipi no Okage!",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
+      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music"
     },
     {
       "id": "28071",
@@ -5891,54 +5953,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/38cU4PG2LQD6Qz1UbpnTpl",
       "apple": "https://geo.music.apple.com/album/6816049062?i=6816049064&at=1001l384j&ct=website-the-vermilion-mask-ed&app=music"
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
-      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music"
-    },
-    {
-      "id": "28048",
-      "anime": "The Iceblade Sorcerer Shall Rule the World II",
-      "song": "Diamond Dust",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/13BKPwCVgCD0alaVF529E4",
-      "apple": "https://geo.music.apple.com/album/6812356807?i=6812356812&at=1001l384j&ct=website-the-iceblade-sorcerer-shall-r-op&app=music"
-    },
-    {
-      "id": "28053",
-      "anime": "The Exiled Heavy Knight Knows How to Game the System",
-      "song": "Rewrite the Answer",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/1GjqrSUNb5BeyVLecE48BV",
-      "apple": "https://geo.music.apple.com/album/6817218109?i=6817218111&at=1001l384j&ct=website-the-exiled-heavy-knight-know-op2&app=music"
-    },
-    {
-      "id": "28049",
-      "anime": "Full Clearing Another World under a Goddess with Zero Believers",
-      "song": "Fall in Dream",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/0MzV5DgcABlPWYmPBxYKkX",
-      "apple": "https://geo.music.apple.com/album/6812974305?i=6812974306&at=1001l384j&ct=website-full-clearing-another-world-u-ed&app=music"
-    },
-    {
-      "id": "28046",
-      "anime": "Tetsuryou! Meet with Tetsudou Musume",
-      "song": "GO! GO! RAILWAY!!",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/21kePCGMv2YHbuGqJMyuiC",
-      "apple": "https://geo.music.apple.com/album/6814318091?i=6814318214&at=1001l384j&ct=website-tetsuryou-meet-with-te-optv-size&app=music"
-    },
-    {
-      "id": "28034",
-      "anime": "Da Wang Rao Ming 3",
-      "song": "Nixing",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/3ZhGVgTgeZTxnpR5i50jdW",
-      "apple": "https://geo.music.apple.com/album/6816216119?i=6816216130&at=1001l384j&ct=website-da-wang-rao-ming-3-ed&app=music"
     }
   ]
 }
