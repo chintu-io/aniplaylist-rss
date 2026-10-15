@@ -8905,7 +8905,15 @@
     "kindLabel": "Opening",
     "apple": "https://geo.music.apple.com/album/6816049883?i=6816049884&at=1001l384j&ct=website-a-returners-magic-should-be-s-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ff0c9fe0893ed2357380de38ba7aaf05c9fdd099@2xl.jpeg",
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/KikanshaNoMahouS2-OP1.webm",
+      "basename": "KikanshaNoMahouS2-OP1.webm",
+      "animeSlug": "kikansha_no_mahou_wa_tokubetsu_desu_2nd_season",
+      "themeSlug": "",
+      "type": "OP",
+      "sequence": 1,
+      "version": 1
+    },
     "episodes": []
   },
   "bdd45702e02bef24": {
@@ -14623,7 +14631,15 @@
     "kindLabel": "Ending",
     "apple": "https://geo.music.apple.com/album/6810085354?i=6810085358&at=1001l384j&ct=website-a-returners-magic-should-be-s-ed&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/dc5e3c95f2793e37a3be05be4b04ecbed70a2167@2xl.jpg",
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/KikanshaNoMahouS2-ED1.webm",
+      "basename": "KikanshaNoMahouS2-ED1.webm",
+      "animeSlug": "kikansha_no_mahou_wa_tokubetsu_desu_2nd_season",
+      "themeSlug": "",
+      "type": "ED",
+      "sequence": 1,
+      "version": 1
+    },
     "episodes": []
   },
   "250d925701df774c": {
@@ -16923,7 +16939,15 @@
       "137872082",
       "UCaBbPiMpdL5z86bWCFgCItA"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/MagicKnightRayearth2026-OP1.webm",
+      "basename": "MagicKnightRayearth2026-OP1.webm",
+      "animeSlug": "magic_knight_rayearth_2026",
+      "themeSlug": "",
+      "type": "OP",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-13T18:12:29.000Z"
   },
   "7030754d990cc721": {
@@ -17056,7 +17080,15 @@
       "1557619672",
       "126108412"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/TanteiWaMouShindeiruS2-ED1.webm",
+      "basename": "TanteiWaMouShindeiruS2-ED1.webm",
+      "animeSlug": "tantei_wa_mou_shindeiru_season_2",
+      "themeSlug": "",
+      "type": "ED",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-14T13:04:22.000Z"
   },
   "4c526c76c6f7a44f": {
@@ -17122,7 +17154,15 @@
       "1613084985",
       "163474007"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/MagicKnightRayearth2026-ED2.webm",
+      "basename": "MagicKnightRayearth2026-ED2.webm",
+      "animeSlug": "magic_knight_rayearth_2026",
+      "themeSlug": "",
+      "type": "ED",
+      "sequence": 2,
+      "version": 1
+    },
     "firstSeen": "2026-10-14T13:04:22.000Z"
   }
 }

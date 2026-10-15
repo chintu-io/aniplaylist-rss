@@ -5,7 +5,7 @@
   "scrapeValidated": true,
   "resultCount": 193,
   "animeThemesChecked": 123,
-  "animeThemesMatched": 80,
+  "animeThemesMatched": 85,
   "animeThemesSeasonLinks": 72,
   "jsonResponses": 28,
   "algoliaResponses": 13,
@@ -953,7 +953,15 @@
         "137872082",
         "UCaBbPiMpdL5z86bWCFgCItA"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/MagicKnightRayearth2026-OP1.webm",
+        "basename": "MagicKnightRayearth2026-OP1.webm",
+        "animeSlug": "magic_knight_rayearth_2026",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28088",
@@ -3883,7 +3891,15 @@
         "137872082",
         "UCaBbPiMpdL5z86bWCFgCItA"
       ],
-      "animethemesVideo": null
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/MagicKnightRayearth2026-OP1.webm",
+        "basename": "MagicKnightRayearth2026-OP1.webm",
+        "animeSlug": "magic_knight_rayearth_2026",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28088",
