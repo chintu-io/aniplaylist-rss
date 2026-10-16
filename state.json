@@ -17149,9 +17149,9 @@
     "id": "28118",
     "anime": "Rascal Does Not Dream of a Dear Friend",
     "song": "Suiheisen wa Boku no Furukizu finale",
-    "artist": "Various artists",
-    "artistDisplay": "Mai Sakurajima (CV: Asami Seto), Miori Mitou, Uzuki Hirokawa, Ikumi Akagi, Sara Himeji, Nene Iwamizawa, Tomoe Koga (CV: Nao Toyama), Rio Futaba (CV: Atsumi Tanezaki), Nodoka Toyohama (CV: Maaya Uchida), Kaede Azusagawa (CV: Yurika Kubo), Shouko Makinohara (CV: Inori Minase), Uzuki Hirokawa(CV:Sora Amamiya), Ikumi Akagi(CV:Aya Yamane), Sara Himeji(CV:Konomi Kohara) & Nene Iwamizawa(CV:Reina Ueda)",
-    "artistDisplayCount": 15,
+    "artist": "Mai Sakurajima (CV: Asami Seto)",
+    "artistDisplay": "Mai Sakurajima (CV: Asami Seto), Miori Mitou, Uzuki Hirokawa (CV: Sora Amamiya), Ikumi Akagi (CV: Aya Yamane), Sara Himeji (CV: Konomi Kohara), Nene Iwamizawa (CV:Reina Ueda), Tomoe Koga (CV: Nao Toyama), Rio Futaba (CV: Atsumi Tanezaki), Nodoka Toyohama (CV: Maaya Uchida), Kaede Azusagawa (CV: Yurika Kubo) & Shouko Makinohara (CV: Inori Minase)",
+    "artistDisplayCount": 11,
     "kind": "TS",
     "kindLabel": "Theme Song",
     "episodes": [],
@@ -17200,7 +17200,22 @@
       "青春ブタ野郎はディアフレンドの夢を見ない"
     ],
     "artistCandidates": [
-      "Various artists"
+      "14019",
+      "Mai Sakurajima (CV: Asami Seto)",
+      "桜島麻衣 (CV: 瀬戸麻沙美)",
+      "1UVd8O92UvNlWjDCgnAkRo",
+      "1679330143",
+      "207224057",
+      "UCa0BYdpJZ0YcB2pGvCg3rGg",
+      "25608",
+      "Miori Mitou",
+      "美東美織",
+      "4R2XtxjiDxNfXuROgFRWV6",
+      "6817732709",
+      "419352432",
+      "17893",
+      "Uzuki Hirokawa (CV: Sora Amamiya)",
+      "Uzuki Hirokawa(CV:Sora Amamiya)"
     ],
     "firstSeen": "2026-10-15T14:23:41.000Z"
   },
@@ -17557,8 +17572,8 @@
     "id": "28119",
     "anime": "A Certain Dark Side's Item",
     "song": "Ghost Sequence",
-    "artist": "East Of Eden",
-    "artistDisplay": "East Of Eden",
+    "artist": "East of Eden",
+    "artistDisplay": "East of Eden",
     "artistDisplayCount": 1,
     "kind": "OP",
     "kindLabel": "Opening",
@@ -17609,7 +17624,8 @@
       "A Certain Dark Item"
     ],
     "artistCandidates": [
-      "25626",
+      "23856",
+      "East of Eden",
       "East Of Eden",
       "3lvaevDiFzsr9cUrMV8HYn",
       "1696602595"

@@ -155,9 +155,9 @@
       "id": "28118",
       "anime": "Rascal Does Not Dream of a Dear Friend",
       "song": "Suiheisen wa Boku no Furukizu finale",
-      "artist": "Various artists",
-      "artistDisplay": "Mai Sakurajima (CV: Asami Seto), Miori Mitou, Uzuki Hirokawa, Ikumi Akagi, Sara Himeji, Nene Iwamizawa, Tomoe Koga (CV: Nao Toyama), Rio Futaba (CV: Atsumi Tanezaki), Nodoka Toyohama (CV: Maaya Uchida), Kaede Azusagawa (CV: Yurika Kubo), Shouko Makinohara (CV: Inori Minase), Uzuki Hirokawa(CV:Sora Amamiya), Ikumi Akagi(CV:Aya Yamane), Sara Himeji(CV:Konomi Kohara) & Nene Iwamizawa(CV:Reina Ueda)",
-      "artistDisplayCount": 15,
+      "artist": "Mai Sakurajima (CV: Asami Seto)",
+      "artistDisplay": "Mai Sakurajima (CV: Asami Seto), Miori Mitou, Uzuki Hirokawa (CV: Sora Amamiya), Ikumi Akagi (CV: Aya Yamane), Sara Himeji (CV: Konomi Kohara), Nene Iwamizawa (CV:Reina Ueda), Tomoe Koga (CV: Nao Toyama), Rio Futaba (CV: Atsumi Tanezaki), Nodoka Toyohama (CV: Maaya Uchida), Kaede Azusagawa (CV: Yurika Kubo) & Shouko Makinohara (CV: Inori Minase)",
+      "artistDisplayCount": 11,
       "kind": "TS",
       "kindLabel": "Theme Song",
       "episodes": [],
@@ -206,7 +206,22 @@
         "青春ブタ野郎はディアフレンドの夢を見ない"
       ],
       "artistCandidates": [
-        "Various artists"
+        "14019",
+        "Mai Sakurajima (CV: Asami Seto)",
+        "桜島麻衣 (CV: 瀬戸麻沙美)",
+        "1UVd8O92UvNlWjDCgnAkRo",
+        "1679330143",
+        "207224057",
+        "UCa0BYdpJZ0YcB2pGvCg3rGg",
+        "25608",
+        "Miori Mitou",
+        "美東美織",
+        "4R2XtxjiDxNfXuROgFRWV6",
+        "6817732709",
+        "419352432",
+        "17893",
+        "Uzuki Hirokawa (CV: Sora Amamiya)",
+        "Uzuki Hirokawa(CV:Sora Amamiya)"
       ]
     },
     {
@@ -476,7 +491,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -492,7 +507,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -508,7 +523,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -524,7 +539,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -540,7 +555,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -556,7 +571,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -572,7 +587,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -588,7 +603,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -604,7 +619,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -620,7 +635,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -636,7 +651,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -652,7 +667,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -668,7 +683,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28364,
+      "nbHits": 28367,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -818,9 +833,9 @@
       "id": "28118",
       "anime": "Rascal Does Not Dream of a Dear Friend",
       "song": "Suiheisen wa Boku no Furukizu finale",
-      "artist": "Various artists",
-      "artistDisplay": "Mai Sakurajima (CV: Asami Seto), Miori Mitou, Uzuki Hirokawa, Ikumi Akagi, Sara Himeji, Nene Iwamizawa, Tomoe Koga (CV: Nao Toyama), Rio Futaba (CV: Atsumi Tanezaki), Nodoka Toyohama (CV: Maaya Uchida), Kaede Azusagawa (CV: Yurika Kubo), Shouko Makinohara (CV: Inori Minase), Uzuki Hirokawa(CV:Sora Amamiya), Ikumi Akagi(CV:Aya Yamane), Sara Himeji(CV:Konomi Kohara) & Nene Iwamizawa(CV:Reina Ueda)",
-      "artistDisplayCount": 15,
+      "artist": "Mai Sakurajima (CV: Asami Seto)",
+      "artistDisplay": "Mai Sakurajima (CV: Asami Seto), Miori Mitou, Uzuki Hirokawa (CV: Sora Amamiya), Ikumi Akagi (CV: Aya Yamane), Sara Himeji (CV: Konomi Kohara), Nene Iwamizawa (CV:Reina Ueda), Tomoe Koga (CV: Nao Toyama), Rio Futaba (CV: Atsumi Tanezaki), Nodoka Toyohama (CV: Maaya Uchida), Kaede Azusagawa (CV: Yurika Kubo) & Shouko Makinohara (CV: Inori Minase)",
+      "artistDisplayCount": 11,
       "kind": "TS",
       "kindLabel": "Theme Song",
       "episodes": [],
@@ -869,7 +884,22 @@
         "青春ブタ野郎はディアフレンドの夢を見ない"
       ],
       "artistCandidates": [
-        "Various artists"
+        "14019",
+        "Mai Sakurajima (CV: Asami Seto)",
+        "桜島麻衣 (CV: 瀬戸麻沙美)",
+        "1UVd8O92UvNlWjDCgnAkRo",
+        "1679330143",
+        "207224057",
+        "UCa0BYdpJZ0YcB2pGvCg3rGg",
+        "25608",
+        "Miori Mitou",
+        "美東美織",
+        "4R2XtxjiDxNfXuROgFRWV6",
+        "6817732709",
+        "419352432",
+        "17893",
+        "Uzuki Hirokawa (CV: Sora Amamiya)",
+        "Uzuki Hirokawa(CV:Sora Amamiya)"
       ]
     },
     {
@@ -3746,9 +3776,9 @@
       "id": "28118",
       "anime": "Rascal Does Not Dream of a Dear Friend",
       "song": "Suiheisen wa Boku no Furukizu finale",
-      "artist": "Various artists",
-      "artistDisplay": "Mai Sakurajima (CV: Asami Seto), Miori Mitou, Uzuki Hirokawa, Ikumi Akagi, Sara Himeji, Nene Iwamizawa, Tomoe Koga (CV: Nao Toyama), Rio Futaba (CV: Atsumi Tanezaki), Nodoka Toyohama (CV: Maaya Uchida), Kaede Azusagawa (CV: Yurika Kubo), Shouko Makinohara (CV: Inori Minase), Uzuki Hirokawa(CV:Sora Amamiya), Ikumi Akagi(CV:Aya Yamane), Sara Himeji(CV:Konomi Kohara) & Nene Iwamizawa(CV:Reina Ueda)",
-      "artistDisplayCount": 15,
+      "artist": "Mai Sakurajima (CV: Asami Seto)",
+      "artistDisplay": "Mai Sakurajima (CV: Asami Seto), Miori Mitou, Uzuki Hirokawa (CV: Sora Amamiya), Ikumi Akagi (CV: Aya Yamane), Sara Himeji (CV: Konomi Kohara), Nene Iwamizawa (CV:Reina Ueda), Tomoe Koga (CV: Nao Toyama), Rio Futaba (CV: Atsumi Tanezaki), Nodoka Toyohama (CV: Maaya Uchida), Kaede Azusagawa (CV: Yurika Kubo) & Shouko Makinohara (CV: Inori Minase)",
+      "artistDisplayCount": 11,
       "kind": "TS",
       "kindLabel": "Theme Song",
       "episodes": [],
@@ -3797,7 +3827,22 @@
         "青春ブタ野郎はディアフレンドの夢を見ない"
       ],
       "artistCandidates": [
-        "Various artists"
+        "14019",
+        "Mai Sakurajima (CV: Asami Seto)",
+        "桜島麻衣 (CV: 瀬戸麻沙美)",
+        "1UVd8O92UvNlWjDCgnAkRo",
+        "1679330143",
+        "207224057",
+        "UCa0BYdpJZ0YcB2pGvCg3rGg",
+        "25608",
+        "Miori Mitou",
+        "美東美織",
+        "4R2XtxjiDxNfXuROgFRWV6",
+        "6817732709",
+        "419352432",
+        "17893",
+        "Uzuki Hirokawa (CV: Sora Amamiya)",
+        "Uzuki Hirokawa(CV:Sora Amamiya)"
       ]
     },
     {
