@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 192,
+  "resultCount": 193,
   "animeThemesChecked": 123,
   "animeThemesMatched": 85,
   "animeThemesSeasonLinks": 72,
-  "jsonResponses": 26,
-  "algoliaResponses": 12,
-  "hitArrays": 24,
-  "rawHits": 192,
-  "uniqueHits": 192,
-  "normalized": 192,
+  "jsonResponses": 28,
+  "algoliaResponses": 13,
+  "hitArrays": 26,
+  "rawHits": 193,
+  "uniqueHits": 193,
+  "normalized": 193,
   "withSpotify": 143,
   "withApple": 142,
-  "withDetailUrl": 141,
+  "withDetailUrl": 143,
   "resolvedSpotify": 143,
-  "recordThumbnails": 192,
+  "recordThumbnails": 193,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -83,6 +83,127 @@
         "1081410768",
         "12421168",
         "UCx0PImuCTAcomS3v-cZOBDA"
+      ]
+    },
+    {
+      "id": "28118",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Suiheisen wa Boku no Furukizu finale",
+      "artist": "Various artists",
+      "artistDisplay": "Mai Sakurajima (CV: Asami Seto), Miori Mitou, Uzuki Hirokawa, Ikumi Akagi, Sara Himeji, Nene Iwamizawa, Tomoe Koga (CV: Nao Toyama), Rio Futaba (CV: Atsumi Tanezaki), Nodoka Toyohama (CV: Maaya Uchida), Kaede Azusagawa (CV: Yurika Kubo), Shouko Makinohara (CV: Inori Minase), Uzuki Hirokawa(CV:Sora Amamiya), Ikumi Akagi(CV:Aya Yamane), Sara Himeji(CV:Konomi Kohara) & Nene Iwamizawa(CV:Reina Ueda)",
+      "artistDisplayCount": 15,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4yyiqfL0jrsNbAdu8MMdys",
+      "apple": "https://geo.music.apple.com/album/6817732108?i=6817732706&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Suiheisen wa Boku no Furukizu finale",
+        "水平線は僕の古傷 finale"
+      ],
+      "animeCandidates": [
+        "Rascal Does Not Dream of a Dear Friend",
+        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+        "青春ブタ野郎はディアフレンドの夢を見ない"
+      ],
+      "artistCandidates": [
+        "Various artists"
+      ]
+    },
+    {
+      "id": "28117",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Original Soundtrack",
+      "artist": "fox capture plan",
+      "artistDisplay": "fox capture plan",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/4keTE5AgEzmuFnRBNCQPUY",
+      "apple": "https://geo.music.apple.com/album/6817732108?at=1001l384j&ct=website-rascal-does-not-dream-of-a-d-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e00b132b15e2efa23ea3b5c792e707730c2703a9@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack",
+        "青春ブタ野郎はディアフレンドの夢を見ない Original Soundtrack"
+      ],
+      "animeCandidates": [
+        "Rascal Does Not Dream of a Dear Friend",
+        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+        "青春ブタ野郎はディアフレンドの夢を見ない"
+      ],
+      "artistCandidates": [
+        "2285",
+        "fox capture plan",
+        "7sEmXHrnEnX7PScoJAvSvo",
+        "633409833",
+        "6039856",
+        "UCZUpjt5qp-UEwIeKl38ZMyg"
       ]
     },
     {
@@ -218,132 +339,6 @@
         "126108412",
         "UCZvZY0bb28yhDCAGbB0-9Ig"
       ]
-    },
-    {
-      "id": "28092",
-      "anime": "Tanuki to Kitsune (TV)",
-      "song": "Nicoichi!",
-      "artist": "SILENT SIREN",
-      "artistDisplay": "SILENT SIREN",
-      "artistDisplayCount": 1,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
-      "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Nicoichi!",
-        "ニコイチ!"
-      ],
-      "animeCandidates": [
-        "Tanuki to Kitsune (TV)",
-        "タヌキとキツネ"
-      ],
-      "artistCandidates": [
-        "603",
-        "SILENT SIREN",
-        "11FVEsg4m3QWzNfaK7vykQ",
-        "1205768846",
-        "12031388",
-        "UCfocsGKEYRlvZaDiPs8alJQ"
-      ]
-    },
-    {
-      "id": "28091",
-      "anime": "Tougen Anki: Nikko Kegon Falls Arc",
-      "song": "Te to Te",
-      "artist": "TRACK15",
-      "artistDisplay": "TRACK15",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4MfADFL9ImYAJHOzOxHpJl",
-      "apple": "https://geo.music.apple.com/album/6816867190?i=6816867193&at=1001l384j&ct=website-tougen-anki-nikko-kegon-falls-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/128316f72df22810f19d436981f1cbaed1202b70@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/tougen-anki-nikko-kegon-falls-arc-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Te to Te",
-        "手と手",
-        "Hand in Hand"
-      ],
-      "animeCandidates": [
-        "Tougen Anki: Nikko Kegon Falls Arc",
-        "Tougen Anki: Nikko Kegon no Taki-hen",
-        "桃源暗鬼 日光・華厳の滝編"
-      ],
-      "artistCandidates": [
-        "24253",
-        "TRACK15",
-        "2yBeBpGsS9sgRa4rlJldIT",
-        "1554239943",
-        "123919732",
-        "UCbTq_K3E9Vz8ehL62WwcwIA"
-      ]
     }
   ],
   "errors": [],
@@ -357,6 +352,26 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg"
+    },
+    {
+      "id": "28118",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LCDv]2009E?wTe8w#%kQ5G-nxZo}",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg"
+    },
+    {
+      "id": "28117",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/e00b132b15e2efa23ea3b5c792e707730c2703a9.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LCDv]2009E?wTe8w#%kQ5G-nxZo}",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/e00b132b15e2efa23ea3b5c792e707730c2703a9@2xl.jpeg"
     },
     {
       "id": "28093",
@@ -447,44 +462,24 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/d3ec37e84559778f312c77b98271222de211384d@2xl.jpg"
-    },
-    {
-      "id": "28086",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L9GZt800v~S%3J+ZpJrY0J^U=H9?",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg"
-    },
-    {
-      "id": "28080",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L6BfFSR*009v00jb~p-o=|t7M|IV",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg"
     }
   ],
-  "expectedHits": 192,
-  "expectedPages": 12,
-  "receivedPages": 12,
+  "expectedHits": 193,
+  "expectedPages": 13,
+  "receivedPages": 13,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 192,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28345,
+      "nbHits": 28364,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -492,15 +487,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 192,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28345,
+      "nbHits": 28364,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -508,15 +503,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 192,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28345,
+      "nbHits": 28364,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -524,15 +519,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 192,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28345,
+      "nbHits": 28364,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -540,15 +535,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 192,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28345,
+      "nbHits": 28364,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -556,15 +551,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 192,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28345,
+      "nbHits": 28364,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -572,15 +567,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 192,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28345,
+      "nbHits": 28364,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -588,15 +583,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 192,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28345,
+      "nbHits": 28364,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -604,15 +599,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 192,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28345,
+      "nbHits": 28364,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -620,15 +615,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 192,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28345,
+      "nbHits": 28364,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -636,15 +631,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 192,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28345,
+      "nbHits": 28364,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -652,15 +647,31 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 192,
+      "nbHits": 193,
       "hitsPerPage": 16,
-      "nbPages": 12,
+      "nbPages": 13,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28345,
+      "nbHits": 28364,
+      "hitsPerPage": 0,
+      "nbPages": 0,
+      "count": 0
+    },
+    {
+      "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
+      "page": 12,
+      "nbHits": 193,
+      "hitsPerPage": 16,
+      "nbPages": 13,
+      "count": 1
+    },
+    {
+      "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
+      "page": 0,
+      "nbHits": 28364,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -738,6 +749,127 @@
         "sequence": 1,
         "version": 1
       }
+    },
+    {
+      "id": "28118",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Suiheisen wa Boku no Furukizu finale",
+      "artist": "Various artists",
+      "artistDisplay": "Mai Sakurajima (CV: Asami Seto), Miori Mitou, Uzuki Hirokawa, Ikumi Akagi, Sara Himeji, Nene Iwamizawa, Tomoe Koga (CV: Nao Toyama), Rio Futaba (CV: Atsumi Tanezaki), Nodoka Toyohama (CV: Maaya Uchida), Kaede Azusagawa (CV: Yurika Kubo), Shouko Makinohara (CV: Inori Minase), Uzuki Hirokawa(CV:Sora Amamiya), Ikumi Akagi(CV:Aya Yamane), Sara Himeji(CV:Konomi Kohara) & Nene Iwamizawa(CV:Reina Ueda)",
+      "artistDisplayCount": 15,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4yyiqfL0jrsNbAdu8MMdys",
+      "apple": "https://geo.music.apple.com/album/6817732108?i=6817732706&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Suiheisen wa Boku no Furukizu finale",
+        "水平線は僕の古傷 finale"
+      ],
+      "animeCandidates": [
+        "Rascal Does Not Dream of a Dear Friend",
+        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+        "青春ブタ野郎はディアフレンドの夢を見ない"
+      ],
+      "artistCandidates": [
+        "Various artists"
+      ]
+    },
+    {
+      "id": "28117",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Original Soundtrack",
+      "artist": "fox capture plan",
+      "artistDisplay": "fox capture plan",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/4keTE5AgEzmuFnRBNCQPUY",
+      "apple": "https://geo.music.apple.com/album/6817732108?at=1001l384j&ct=website-rascal-does-not-dream-of-a-d-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e00b132b15e2efa23ea3b5c792e707730c2703a9@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack",
+        "青春ブタ野郎はディアフレンドの夢を見ない Original Soundtrack"
+      ],
+      "animeCandidates": [
+        "Rascal Does Not Dream of a Dear Friend",
+        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+        "青春ブタ野郎はディアフレンドの夢を見ない"
+      ],
+      "artistCandidates": [
+        "2285",
+        "fox capture plan",
+        "7sEmXHrnEnX7PScoJAvSvo",
+        "633409833",
+        "6039856",
+        "UCZUpjt5qp-UEwIeKl38ZMyg"
+      ]
     },
     {
       "id": "28093",
@@ -2044,6 +2176,365 @@
       }
     },
     {
+      "id": "27900",
+      "anime": "Black Clover 2nd Season",
+      "song": "Kienai Riyuu",
+      "artist": "WANIMA",
+      "artistDisplay": "WANIMA",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
+      "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/319bb5372941206224d54435dd7c5bfcc04ef60b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kienai Riyuu",
+        "消えない理由"
+      ],
+      "animeCandidates": [
+        "Black Clover 2nd Season",
+        "ブラッククローバー 2nd season",
+        "Black Clover Season 2"
+      ],
+      "artistCandidates": [
+        "1774",
+        "WANIMA",
+        "6YqdtpUutxodni6lUD4stM",
+        "936535085",
+        "8554024",
+        "UC_SxYlf03VsYYBJTXTZj7kw",
+        "25502",
+        "テレ東アニメ",
+        "UC0OXPEQRKArB_EVyFMwDbAQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/BlackCloverS2-OP1.webm",
+        "basename": "BlackCloverS2-OP1.webm",
+        "animeSlug": "black_clover_2nd_season",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27992",
+      "anime": "Black Clover 2nd Season",
+      "song": "Yellow Brick Road",
+      "artist": "ONE OR EIGHT",
+      "artistDisplay": "ONE OR EIGHT",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
+      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/994373439d025530848b51f6286a082c0f298f83@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yellow Brick Road"
+      ],
+      "animeCandidates": [
+        "Black Clover 2nd Season",
+        "ブラッククローバー 2nd season",
+        "Black Clover Season 2"
+      ],
+      "artistCandidates": [
+        "19216",
+        "ONE OR EIGHT",
+        "5bIttAFRf7URUmuuI9w7XA",
+        "1758291632",
+        "275967661",
+        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/BlackCloverS2-ED1.webm",
+        "basename": "BlackCloverS2-ED1.webm",
+        "animeSlug": "black_clover_2nd_season",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27953",
+      "anime": "Ranma ½ (2024) 3rd Season",
+      "song": "Sunao Miman",
+      "artist": "Fumino",
+      "artistDisplay": "Fumino",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3UFWG309DWKp4S249wxysd",
+      "apple": "https://geo.music.apple.com/album/6817622046?i=6817622415&at=1001l384j&ct=website-ranma-2024-3rd-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a035255163cbc6fb8dea2a8e81879aa420d4e50c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/ranma-2024-3rd-season-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sunao Miman",
+        "素直未満"
+      ],
+      "animeCandidates": [
+        "Ranma ½ (2024) 3rd Season",
+        "Ranma 1/2 (2024) 3rd Season",
+        "らんま1/2 第3期",
+        "Ranma ½ (2024) Season 3"
+      ],
+      "artistCandidates": [
+        "24220",
+        "Fumino",
+        "ふみの",
+        "5aCs1cmbReUSJ4K9SuOYCx",
+        "1723012051",
+        "288597931",
+        "UCpvym4hXdo4fVz0Rpu_LNoA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/Ranma2024S3-OP1.webm",
+        "basename": "Ranma2024S3-OP1.webm",
+        "animeSlug": "ranma_12_2024_3rd_season",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27870",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Hanakage",
+      "artist": "Superfly",
+      "artistDisplay": "Superfly",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
+      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hanakage",
+        "花蔭"
+      ],
+      "animeCandidates": [
+        "The Ramparts of Ice Season 2",
+        "Koori no Jouheki 2nd Season",
+        "氷の城壁 第2期"
+      ],
+      "artistCandidates": [
+        "372",
+        "Superfly",
+        "5M8AXrOifBT8elkLKbGPQZ",
+        "150974880",
+        "142878",
+        "UCarJ-jLDuyHOlRXzIcqL4oQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-ED1.webm",
+        "basename": "KooriNoJouhekiS2-ED1.webm",
+        "animeSlug": "koori_no_jouheki_2nd_season",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "artist": "aiko",
+      "artistDisplay": "aiko",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
+      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/93e99655a56103c00fc84ab4972eb7dd09d4c291@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Anata no Hana no Iro",
+        "あなたの花の色",
+        "the color of your flower"
+      ],
+      "animeCandidates": [
+        "Blue Box Season 2",
+        "アオのハコ Season2",
+        "Ao no Hako Season 2"
+      ],
+      "artistCandidates": [
+        "3105",
+        "aiko",
+        "6TDMbiQCWeMClsMr9ORLRK",
+        "635154255",
+        "2643581"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/AoNoHakoS2-OP1.webm",
+        "basename": "AoNoHakoS2-OP1.webm",
+        "animeSlug": "ao_no_hako_season_2",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
       "id": "28071",
       "anime": "Hotel Inhumans 2nd Season",
       "song": "Sweet Pea",
@@ -2188,144 +2679,6 @@
       }
     },
     {
-      "id": "28069",
-      "anime": "Paws & Palaces",
-      "song": "Truly",
-      "artist": "Riko Azuna",
-      "artistDisplay": "Riko Azuna",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0yPbwdkwden8aUhiWWNDZG",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802265&at=1001l384j&ct=website-paws-palaces-opjp&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-opening-jp",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Truly"
-      ],
-      "animeCandidates": [
-        "Paws & Palaces",
-        "Zi Jin: Yu Miao Fang",
-        "紫禁·御喵房",
-        "Forbidden City: Cat Imperial Study",
-        "Paw & Palaces",
-        "On Myao Bo",
-        "紫禁・御猫房〜紫禁城猫警備室〜"
-      ],
-      "artistCandidates": [
-        "1835",
-        "Riko Azuna",
-        "安月名莉子",
-        "7ChJuYuw9pM8MqaZOAmvHX",
-        "1438721351",
-        "128264352",
-        "UCS8QqtsLzHF8VcIJFEkl8Uw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28070",
-      "anime": "Paws & Palaces",
-      "song": "Chill Choose!",
-      "artist": "Riko Azuna",
-      "artistDisplay": "Riko Azuna",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Chill Choose!"
-      ],
-      "animeCandidates": [
-        "Paws & Palaces",
-        "Zi Jin: Yu Miao Fang",
-        "紫禁·御喵房",
-        "Forbidden City: Cat Imperial Study",
-        "Paw & Palaces",
-        "On Myao Bo",
-        "紫禁・御猫房〜紫禁城猫警備室〜"
-      ],
-      "artistCandidates": [
-        "1835",
-        "Riko Azuna",
-        "安月名莉子",
-        "7ChJuYuw9pM8MqaZOAmvHX",
-        "1438721351",
-        "128264352",
-        "UCS8QqtsLzHF8VcIJFEkl8Uw"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28066",
       "anime": "Beyblade X",
       "song": "Fearless",
@@ -2391,233 +2744,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28064",
-      "anime": "The Vermilion Mask",
-      "song": "Firestarter",
-      "artist": "MAN WITH A MISSION",
-      "artistDisplay": "MAN WITH A MISSION",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5JpHfVIJG0XEJjUhnKeyhb",
-      "apple": "https://geo.music.apple.com/album/6815691223?i=6815691224&at=1001l384j&ct=website-the-vermilion-mask-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9779d96388ce7537330f69976bb8b537b55f69e5@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-vermilion-mask-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Firestarter"
-      ],
-      "animeCandidates": [
-        "The Vermilion Mask",
-        "Shuiro no Kamen",
-        "朱色の仮面"
-      ],
-      "artistCandidates": [
-        "221",
-        "MAN WITH A MISSION",
-        "MWAM",
-        "3NTbOmzlj2cL86XFuDVFvZ",
-        "424817976",
-        "5797990",
-        "UCCWlJ3mOpVtWZoCeEfnAs9w"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/ShuiroNoKamen-OP1.webm",
-        "basename": "ShuiroNoKamen-OP1.webm",
-        "animeSlug": "shuiro_no_kamen",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28065",
-      "anime": "Full Clearing Another World under a Goddess with Zero Believers",
-      "song": "Mirai no Ashiato",
-      "artist": "Satou",
-      "artistDisplay": "Sato",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5WgsnSfyYzL6E9QVKaOhQe",
-      "apple": "https://geo.music.apple.com/album/6816051069?i=6816051079&at=1001l384j&ct=website-full-clearing-another-world-u-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c1ecf652495bb650f1f4dafa41a7167be3a6e4bd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/full-clearing-another-world-under-a-goddess-with-zero-believers-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Mirai no Ashiato",
-        "未来の足跡"
-      ],
-      "animeCandidates": [
-        "Full Clearing Another World under a Goddess with Zero Believers",
-        "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-        "Clear the World Like a Game with the Zero Believer Goddess",
-        "信者ゼロの女神サマと始める異世界攻略"
-      ],
-      "artistCandidates": [
-        "16906",
-        "310",
-        "Satou",
-        "2C2oimNufzDloA4OP2j4OP",
-        "1762929697",
-        "UC8abHYXz8SzF9L8-jkMxHcQ",
-        "25579",
-        "Sato",
-        "370750"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27900",
-      "anime": "Black Clover 2nd Season",
-      "song": "Kienai Riyuu",
-      "artist": "WANIMA",
-      "artistDisplay": "WANIMA",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
-      "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/319bb5372941206224d54435dd7c5bfcc04ef60b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kienai Riyuu",
-        "消えない理由"
-      ],
-      "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
-      ],
-      "artistCandidates": [
-        "1774",
-        "WANIMA",
-        "6YqdtpUutxodni6lUD4stM",
-        "936535085",
-        "8554024",
-        "UC_SxYlf03VsYYBJTXTZj7kw",
-        "25502",
-        "テレ東アニメ",
-        "UC0OXPEQRKArB_EVyFMwDbAQ"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-OP1.webm",
-        "basename": "BlackCloverS2-OP1.webm",
-        "animeSlug": "black_clover_2nd_season",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
-      "artist": "Nonfic!",
-      "artistDisplay": "Nonfic!",
+      "id": "us_3307",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Role-Playing Life",
+      "artist": "Luov",
+      "artistDisplay": "Luov",
       "artistDisplayCount": 1,
       "kind": "ED",
       "kindLabel": "Ending",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
-      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg",
+      "detailUrl": "",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -2630,9 +2769,6 @@
         "updated_at",
         "season",
         "artists",
-        "links",
-        "platforms",
-        "preview_url",
         "song_key",
         "song_type",
         "song_type_short",
@@ -2641,224 +2777,30 @@
         "thumbnail_hash",
         "blur_image",
         "display_artists",
-        "label",
         "short_link",
-        "status",
         "tags",
+        "web",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Sukipi no Okage!",
-        "すきぴのおかげ！"
+        "Role-Playing Life",
+        "ロールプレイングライフ"
       ],
       "animeCandidates": [
-        "Sasaki and Peeps Season 2",
-        "Sasaki to Pii-chan Season 2",
-        "Sasaki to P-chan",
-        "佐々木とピーちゃん シーズン２",
-        "佐々木とピーちゃん Season2"
+        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+        "Chii Fuyo",
+        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
+        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
       ],
       "artistCandidates": [
-        "25564",
-        "Nonfic!",
-        "のんふぃく！",
-        "0m9WOjDNpMnKYhZzafarEL",
-        "1562080702",
-        "UC5ZqsmAgThtRr6QsrV6a8_A"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/SasakiToPiiChanS2-ED1.webm",
-        "basename": "SasakiToPiiChanS2-ED1.webm",
-        "animeSlug": "sasaki_to_piichan_season_2",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "artist": "ONE OR EIGHT",
-      "artistDisplay": "ONE OR EIGHT",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/994373439d025530848b51f6286a082c0f298f83@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yellow Brick Road"
-      ],
-      "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
-      ],
-      "artistCandidates": [
-        "19216",
-        "ONE OR EIGHT",
-        "5bIttAFRf7URUmuuI9w7XA",
-        "1758291632",
-        "275967661",
-        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-ED1.webm",
-        "basename": "BlackCloverS2-ED1.webm",
-        "animeSlug": "black_clover_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28058",
-      "anime": "Detective Conan",
-      "song": "Ai de Zenbu Dakishimete Aishite",
-      "artist": "Mai Kuraki",
-      "artistDisplay": "Mai Kuraki",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6n5bSS3sidMrAmNRzs69xf",
-      "apple": "https://geo.music.apple.com/album/6817190323?i=6817190324&at=1001l384j&ct=website-detective-conan-ed76&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/41ee9bf2fcdf136b6149ec76273bc113e5779721@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/detective-conan-ending-76",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Ai de Zenbu Dakishimete Aishite",
-        "愛で全部抱きしめて愛して"
-      ],
-      "animeCandidates": [
-        "Detective Conan",
-        "Case Closed",
-        "名探偵コナン",
-        "Meitantei Conan"
-      ],
-      "artistCandidates": [
-        "6366",
-        "Mai Kuraki",
-        "倉木麻衣",
-        "4x3GOic9xXFOoOBrEMuvN9",
-        "73794923"
-      ],
-      "animethemesVideo": null
+        "25585",
+        "Luov"
+      ]
     }
   ],
   "sourceMetadataSamples": [
-    {
-      "id": "28054",
-      "titles": [
-        "Choux Cream",
-        "Shuu Cream",
-        "Choux Crème",
-        "シュークリーム"
-      ],
-      "rawArtists": [
-        {
-          "id": 25574,
-          "names": [
-            "Hitomi Suzune",
-            "鈴音ひとみ"
-          ],
-          "links": [
-            "7kniYU57GLxnOgV9uAXanD",
-            "6806244065",
-            "UCxYVoE9mVcn_2zFIlrDtOAw"
-          ]
-        }
-      ],
-      "rawDisplayArtists": [
-        "Hitomi Suzune"
-      ],
-      "type": "track",
-      "song_type": "Theme Song",
-      "song_type_short": "TS",
-      "label": "鈴音ひとみ",
-      "tags": [
-        "2_airing",
-        "1_new",
-        "4_missing"
-      ],
-      "episodeFields": {
-        "type": "track",
-        "song_type": "Theme Song",
-        "song_type_short": "TS",
-        "label": "鈴音ひとみ",
-        "tags": [
-          "2_airing",
-          "1_new",
-          "4_missing"
-        ]
-      }
-    },
     {
       "id": "27977",
       "titles": [
@@ -2940,6 +2882,52 @@
         "label": "Speedstar",
         "tags": [
           "2_airing"
+        ]
+      }
+    },
+    {
+      "id": "28054",
+      "titles": [
+        "Choux Cream",
+        "Shuu Cream",
+        "Choux Crème",
+        "シュークリーム"
+      ],
+      "rawArtists": [
+        {
+          "id": 25574,
+          "names": [
+            "Hitomi Suzune",
+            "鈴音ひとみ"
+          ],
+          "links": [
+            "7kniYU57GLxnOgV9uAXanD",
+            "6806244065",
+            "UCxYVoE9mVcn_2zFIlrDtOAw"
+          ]
+        }
+      ],
+      "rawDisplayArtists": [
+        "Hitomi Suzune"
+      ],
+      "type": "track",
+      "song_type": "Theme Song",
+      "song_type_short": "TS",
+      "label": "鈴音ひとみ",
+      "tags": [
+        "2_airing",
+        "1_new",
+        "4_missing"
+      ],
+      "episodeFields": {
+        "type": "track",
+        "song_type": "Theme Song",
+        "song_type_short": "TS",
+        "label": "鈴音ひとみ",
+        "tags": [
+          "2_airing",
+          "1_new",
+          "4_missing"
         ]
       }
     },
@@ -3394,6 +3382,20 @@
       "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-opening"
     },
     {
+      "id": "28118",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Suiheisen wa Boku no Furukizu finale",
+      "kind": "TS",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-theme-song"
+    },
+    {
+      "id": "28117",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Original Soundtrack",
+      "kind": "OST",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-original-soundtrack"
+    },
+    {
       "id": "28093",
       "anime": "Magic Knight Rayearth (2026)",
       "song": "Hoshiakari",
@@ -3520,6 +3522,41 @@
       "detailUrl": "https://aniplaylist.com/play/diamond-no-ace-act-ii-second-season-part-2-opening"
     },
     {
+      "id": "27900",
+      "anime": "Black Clover 2nd Season",
+      "song": "Kienai Riyuu",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening"
+    },
+    {
+      "id": "27992",
+      "anime": "Black Clover 2nd Season",
+      "song": "Yellow Brick Road",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending"
+    },
+    {
+      "id": "27953",
+      "anime": "Ranma ½ (2024) 3rd Season",
+      "song": "Sunao Miman",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/ranma-2024-3rd-season-opening"
+    },
+    {
+      "id": "27870",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Hanakage",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending"
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening"
+    },
+    {
       "id": "28071",
       "anime": "Hotel Inhumans 2nd Season",
       "song": "Sweet Pea",
@@ -3534,20 +3571,6 @@
       "detailUrl": "https://aniplaylist.com/play/diamond-no-ace-act-ii-second-season-part-2-ending"
     },
     {
-      "id": "28069",
-      "anime": "Paws & Palaces",
-      "song": "Truly",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-opening-jp"
-    },
-    {
-      "id": "28070",
-      "anime": "Paws & Palaces",
-      "song": "Chill Choose!",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp"
-    },
-    {
       "id": "28066",
       "anime": "Beyblade X",
       "song": "Fearless",
@@ -3560,41 +3583,6 @@
       "song": "Firestarter",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/the-vermilion-mask-opening"
-    },
-    {
-      "id": "28065",
-      "anime": "Full Clearing Another World under a Goddess with Zero Believers",
-      "song": "Mirai no Ashiato",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/full-clearing-another-world-under-a-goddess-with-zero-believers-opening"
-    },
-    {
-      "id": "27900",
-      "anime": "Black Clover 2nd Season",
-      "song": "Kienai Riyuu",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening"
-    },
-    {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending"
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending"
-    },
-    {
-      "id": "28058",
-      "anime": "Detective Conan",
-      "song": "Ai de Zenbu Dakishimete Aishite",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/detective-conan-ending-76"
     }
   ],
   "usableSamples": [
@@ -3669,6 +3657,127 @@
         "sequence": 1,
         "version": 1
       }
+    },
+    {
+      "id": "28118",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Suiheisen wa Boku no Furukizu finale",
+      "artist": "Various artists",
+      "artistDisplay": "Mai Sakurajima (CV: Asami Seto), Miori Mitou, Uzuki Hirokawa, Ikumi Akagi, Sara Himeji, Nene Iwamizawa, Tomoe Koga (CV: Nao Toyama), Rio Futaba (CV: Atsumi Tanezaki), Nodoka Toyohama (CV: Maaya Uchida), Kaede Azusagawa (CV: Yurika Kubo), Shouko Makinohara (CV: Inori Minase), Uzuki Hirokawa(CV:Sora Amamiya), Ikumi Akagi(CV:Aya Yamane), Sara Himeji(CV:Konomi Kohara) & Nene Iwamizawa(CV:Reina Ueda)",
+      "artistDisplayCount": 15,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4yyiqfL0jrsNbAdu8MMdys",
+      "apple": "https://geo.music.apple.com/album/6817732108?i=6817732706&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Suiheisen wa Boku no Furukizu finale",
+        "水平線は僕の古傷 finale"
+      ],
+      "animeCandidates": [
+        "Rascal Does Not Dream of a Dear Friend",
+        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+        "青春ブタ野郎はディアフレンドの夢を見ない"
+      ],
+      "artistCandidates": [
+        "Various artists"
+      ]
+    },
+    {
+      "id": "28117",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Original Soundtrack",
+      "artist": "fox capture plan",
+      "artistDisplay": "fox capture plan",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/4keTE5AgEzmuFnRBNCQPUY",
+      "apple": "https://geo.music.apple.com/album/6817732108?at=1001l384j&ct=website-rascal-does-not-dream-of-a-d-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e00b132b15e2efa23ea3b5c792e707730c2703a9@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack",
+        "青春ブタ野郎はディアフレンドの夢を見ない Original Soundtrack"
+      ],
+      "animeCandidates": [
+        "Rascal Does Not Dream of a Dear Friend",
+        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+        "青春ブタ野郎はディアフレンドの夢を見ない"
+      ],
+      "artistCandidates": [
+        "2285",
+        "fox capture plan",
+        "7sEmXHrnEnX7PScoJAvSvo",
+        "633409833",
+        "6039856",
+        "UCZUpjt5qp-UEwIeKl38ZMyg"
+      ]
     },
     {
       "id": "28093",
@@ -4975,6 +5084,365 @@
       }
     },
     {
+      "id": "27900",
+      "anime": "Black Clover 2nd Season",
+      "song": "Kienai Riyuu",
+      "artist": "WANIMA",
+      "artistDisplay": "WANIMA",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
+      "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/319bb5372941206224d54435dd7c5bfcc04ef60b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kienai Riyuu",
+        "消えない理由"
+      ],
+      "animeCandidates": [
+        "Black Clover 2nd Season",
+        "ブラッククローバー 2nd season",
+        "Black Clover Season 2"
+      ],
+      "artistCandidates": [
+        "1774",
+        "WANIMA",
+        "6YqdtpUutxodni6lUD4stM",
+        "936535085",
+        "8554024",
+        "UC_SxYlf03VsYYBJTXTZj7kw",
+        "25502",
+        "テレ東アニメ",
+        "UC0OXPEQRKArB_EVyFMwDbAQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/BlackCloverS2-OP1.webm",
+        "basename": "BlackCloverS2-OP1.webm",
+        "animeSlug": "black_clover_2nd_season",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27992",
+      "anime": "Black Clover 2nd Season",
+      "song": "Yellow Brick Road",
+      "artist": "ONE OR EIGHT",
+      "artistDisplay": "ONE OR EIGHT",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
+      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/994373439d025530848b51f6286a082c0f298f83@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yellow Brick Road"
+      ],
+      "animeCandidates": [
+        "Black Clover 2nd Season",
+        "ブラッククローバー 2nd season",
+        "Black Clover Season 2"
+      ],
+      "artistCandidates": [
+        "19216",
+        "ONE OR EIGHT",
+        "5bIttAFRf7URUmuuI9w7XA",
+        "1758291632",
+        "275967661",
+        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/BlackCloverS2-ED1.webm",
+        "basename": "BlackCloverS2-ED1.webm",
+        "animeSlug": "black_clover_2nd_season",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27953",
+      "anime": "Ranma ½ (2024) 3rd Season",
+      "song": "Sunao Miman",
+      "artist": "Fumino",
+      "artistDisplay": "Fumino",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3UFWG309DWKp4S249wxysd",
+      "apple": "https://geo.music.apple.com/album/6817622046?i=6817622415&at=1001l384j&ct=website-ranma-2024-3rd-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a035255163cbc6fb8dea2a8e81879aa420d4e50c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/ranma-2024-3rd-season-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sunao Miman",
+        "素直未満"
+      ],
+      "animeCandidates": [
+        "Ranma ½ (2024) 3rd Season",
+        "Ranma 1/2 (2024) 3rd Season",
+        "らんま1/2 第3期",
+        "Ranma ½ (2024) Season 3"
+      ],
+      "artistCandidates": [
+        "24220",
+        "Fumino",
+        "ふみの",
+        "5aCs1cmbReUSJ4K9SuOYCx",
+        "1723012051",
+        "288597931",
+        "UCpvym4hXdo4fVz0Rpu_LNoA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/Ranma2024S3-OP1.webm",
+        "basename": "Ranma2024S3-OP1.webm",
+        "animeSlug": "ranma_12_2024_3rd_season",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27870",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Hanakage",
+      "artist": "Superfly",
+      "artistDisplay": "Superfly",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
+      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hanakage",
+        "花蔭"
+      ],
+      "animeCandidates": [
+        "The Ramparts of Ice Season 2",
+        "Koori no Jouheki 2nd Season",
+        "氷の城壁 第2期"
+      ],
+      "artistCandidates": [
+        "372",
+        "Superfly",
+        "5M8AXrOifBT8elkLKbGPQZ",
+        "150974880",
+        "142878",
+        "UCarJ-jLDuyHOlRXzIcqL4oQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-ED1.webm",
+        "basename": "KooriNoJouhekiS2-ED1.webm",
+        "animeSlug": "koori_no_jouheki_2nd_season",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "artist": "aiko",
+      "artistDisplay": "aiko",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
+      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/93e99655a56103c00fc84ab4972eb7dd09d4c291@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Anata no Hana no Iro",
+        "あなたの花の色",
+        "the color of your flower"
+      ],
+      "animeCandidates": [
+        "Blue Box Season 2",
+        "アオのハコ Season2",
+        "Ao no Hako Season 2"
+      ],
+      "artistCandidates": [
+        "3105",
+        "aiko",
+        "6TDMbiQCWeMClsMr9ORLRK",
+        "635154255",
+        "2643581"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/AoNoHakoS2-OP1.webm",
+        "basename": "AoNoHakoS2-OP1.webm",
+        "animeSlug": "ao_no_hako_season_2",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
       "id": "28071",
       "anime": "Hotel Inhumans 2nd Season",
       "song": "Sweet Pea",
@@ -5119,144 +5587,6 @@
       }
     },
     {
-      "id": "28069",
-      "anime": "Paws & Palaces",
-      "song": "Truly",
-      "artist": "Riko Azuna",
-      "artistDisplay": "Riko Azuna",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0yPbwdkwden8aUhiWWNDZG",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802265&at=1001l384j&ct=website-paws-palaces-opjp&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-opening-jp",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Truly"
-      ],
-      "animeCandidates": [
-        "Paws & Palaces",
-        "Zi Jin: Yu Miao Fang",
-        "紫禁·御喵房",
-        "Forbidden City: Cat Imperial Study",
-        "Paw & Palaces",
-        "On Myao Bo",
-        "紫禁・御猫房〜紫禁城猫警備室〜"
-      ],
-      "artistCandidates": [
-        "1835",
-        "Riko Azuna",
-        "安月名莉子",
-        "7ChJuYuw9pM8MqaZOAmvHX",
-        "1438721351",
-        "128264352",
-        "UCS8QqtsLzHF8VcIJFEkl8Uw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28070",
-      "anime": "Paws & Palaces",
-      "song": "Chill Choose!",
-      "artist": "Riko Azuna",
-      "artistDisplay": "Riko Azuna",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Chill Choose!"
-      ],
-      "animeCandidates": [
-        "Paws & Palaces",
-        "Zi Jin: Yu Miao Fang",
-        "紫禁·御喵房",
-        "Forbidden City: Cat Imperial Study",
-        "Paw & Palaces",
-        "On Myao Bo",
-        "紫禁・御猫房〜紫禁城猫警備室〜"
-      ],
-      "artistCandidates": [
-        "1835",
-        "Riko Azuna",
-        "安月名莉子",
-        "7ChJuYuw9pM8MqaZOAmvHX",
-        "1438721351",
-        "128264352",
-        "UCS8QqtsLzHF8VcIJFEkl8Uw"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28066",
       "anime": "Beyblade X",
       "song": "Fearless",
@@ -5392,355 +5722,6 @@
         "sequence": 1,
         "version": 1
       }
-    },
-    {
-      "id": "28065",
-      "anime": "Full Clearing Another World under a Goddess with Zero Believers",
-      "song": "Mirai no Ashiato",
-      "artist": "Satou",
-      "artistDisplay": "Sato",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5WgsnSfyYzL6E9QVKaOhQe",
-      "apple": "https://geo.music.apple.com/album/6816051069?i=6816051079&at=1001l384j&ct=website-full-clearing-another-world-u-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c1ecf652495bb650f1f4dafa41a7167be3a6e4bd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/full-clearing-another-world-under-a-goddess-with-zero-believers-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Mirai no Ashiato",
-        "未来の足跡"
-      ],
-      "animeCandidates": [
-        "Full Clearing Another World under a Goddess with Zero Believers",
-        "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-        "Clear the World Like a Game with the Zero Believer Goddess",
-        "信者ゼロの女神サマと始める異世界攻略"
-      ],
-      "artistCandidates": [
-        "16906",
-        "310",
-        "Satou",
-        "2C2oimNufzDloA4OP2j4OP",
-        "1762929697",
-        "UC8abHYXz8SzF9L8-jkMxHcQ",
-        "25579",
-        "Sato",
-        "370750"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27900",
-      "anime": "Black Clover 2nd Season",
-      "song": "Kienai Riyuu",
-      "artist": "WANIMA",
-      "artistDisplay": "WANIMA",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
-      "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/319bb5372941206224d54435dd7c5bfcc04ef60b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kienai Riyuu",
-        "消えない理由"
-      ],
-      "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
-      ],
-      "artistCandidates": [
-        "1774",
-        "WANIMA",
-        "6YqdtpUutxodni6lUD4stM",
-        "936535085",
-        "8554024",
-        "UC_SxYlf03VsYYBJTXTZj7kw",
-        "25502",
-        "テレ東アニメ",
-        "UC0OXPEQRKArB_EVyFMwDbAQ"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-OP1.webm",
-        "basename": "BlackCloverS2-OP1.webm",
-        "animeSlug": "black_clover_2nd_season",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
-      "artist": "Nonfic!",
-      "artistDisplay": "Nonfic!",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
-      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Sukipi no Okage!",
-        "すきぴのおかげ！"
-      ],
-      "animeCandidates": [
-        "Sasaki and Peeps Season 2",
-        "Sasaki to Pii-chan Season 2",
-        "Sasaki to P-chan",
-        "佐々木とピーちゃん シーズン２",
-        "佐々木とピーちゃん Season2"
-      ],
-      "artistCandidates": [
-        "25564",
-        "Nonfic!",
-        "のんふぃく！",
-        "0m9WOjDNpMnKYhZzafarEL",
-        "1562080702",
-        "UC5ZqsmAgThtRr6QsrV6a8_A"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/SasakiToPiiChanS2-ED1.webm",
-        "basename": "SasakiToPiiChanS2-ED1.webm",
-        "animeSlug": "sasaki_to_piichan_season_2",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "artist": "ONE OR EIGHT",
-      "artistDisplay": "ONE OR EIGHT",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/994373439d025530848b51f6286a082c0f298f83@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yellow Brick Road"
-      ],
-      "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
-      ],
-      "artistCandidates": [
-        "19216",
-        "ONE OR EIGHT",
-        "5bIttAFRf7URUmuuI9w7XA",
-        "1758291632",
-        "275967661",
-        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-ED1.webm",
-        "basename": "BlackCloverS2-ED1.webm",
-        "animeSlug": "black_clover_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28058",
-      "anime": "Detective Conan",
-      "song": "Ai de Zenbu Dakishimete Aishite",
-      "artist": "Mai Kuraki",
-      "artistDisplay": "Mai Kuraki",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6n5bSS3sidMrAmNRzs69xf",
-      "apple": "https://geo.music.apple.com/album/6817190323?i=6817190324&at=1001l384j&ct=website-detective-conan-ed76&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/41ee9bf2fcdf136b6149ec76273bc113e5779721@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/detective-conan-ending-76",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Ai de Zenbu Dakishimete Aishite",
-        "愛で全部抱きしめて愛して"
-      ],
-      "animeCandidates": [
-        "Detective Conan",
-        "Case Closed",
-        "名探偵コナン",
-        "Meitantei Conan"
-      ],
-      "artistCandidates": [
-        "6366",
-        "Mai Kuraki",
-        "倉木麻衣",
-        "4x3GOic9xXFOoOBrEMuvN9",
-        "73794923"
-      ],
-      "animethemesVideo": null
     }
   ],
   "platformSamples": [
@@ -5751,6 +5732,22 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/6SN1inZu149TLU3e8Xp2a0",
       "apple": "https://geo.music.apple.com/album/6819121866?i=6819121868&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-op&app=music"
+    },
+    {
+      "id": "28118",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Suiheisen wa Boku no Furukizu finale",
+      "kind": "TS",
+      "spotify": "https://open.spotify.com/track/4yyiqfL0jrsNbAdu8MMdys",
+      "apple": "https://geo.music.apple.com/album/6817732108?i=6817732706&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-ts&app=music"
+    },
+    {
+      "id": "28117",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Original Soundtrack",
+      "kind": "OST",
+      "spotify": "https://open.spotify.com/album/4keTE5AgEzmuFnRBNCQPUY",
+      "apple": "https://geo.music.apple.com/album/6817732108?at=1001l384j&ct=website-rascal-does-not-dream-of-a-d-ost&app=music"
     },
     {
       "id": "28093",
@@ -5897,6 +5894,46 @@
       "apple": "https://geo.music.apple.com/album/6809684037?i=6809684039&at=1001l384j&ct=website-diamond-no-ace-act-ii-second-op&app=music"
     },
     {
+      "id": "27900",
+      "anime": "Black Clover 2nd Season",
+      "song": "Kienai Riyuu",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
+      "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music"
+    },
+    {
+      "id": "27992",
+      "anime": "Black Clover 2nd Season",
+      "song": "Yellow Brick Road",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
+      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music"
+    },
+    {
+      "id": "27953",
+      "anime": "Ranma ½ (2024) 3rd Season",
+      "song": "Sunao Miman",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/3UFWG309DWKp4S249wxysd",
+      "apple": "https://geo.music.apple.com/album/6817622046?i=6817622415&at=1001l384j&ct=website-ranma-2024-3rd-season-op&app=music"
+    },
+    {
+      "id": "27870",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Hanakage",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
+      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music"
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
+      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music"
+    },
+    {
       "id": "28071",
       "anime": "Hotel Inhumans 2nd Season",
       "song": "Sweet Pea",
@@ -5913,22 +5950,6 @@
       "apple": "https://geo.music.apple.com/album/6812659444?i=6812659445&at=1001l384j&ct=website-diamond-no-ace-act-ii-second-ed&app=music"
     },
     {
-      "id": "28069",
-      "anime": "Paws & Palaces",
-      "song": "Truly",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/0yPbwdkwden8aUhiWWNDZG",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802265&at=1001l384j&ct=website-paws-palaces-opjp&app=music"
-    },
-    {
-      "id": "28070",
-      "anime": "Paws & Palaces",
-      "song": "Chill Choose!",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music"
-    },
-    {
       "id": "28066",
       "anime": "Beyblade X",
       "song": "Fearless",
@@ -5943,46 +5964,6 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/5JpHfVIJG0XEJjUhnKeyhb",
       "apple": "https://geo.music.apple.com/album/6815691223?i=6815691224&at=1001l384j&ct=website-the-vermilion-mask-op&app=music"
-    },
-    {
-      "id": "28065",
-      "anime": "Full Clearing Another World under a Goddess with Zero Believers",
-      "song": "Mirai no Ashiato",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/5WgsnSfyYzL6E9QVKaOhQe",
-      "apple": "https://geo.music.apple.com/album/6816051069?i=6816051079&at=1001l384j&ct=website-full-clearing-another-world-u-op&app=music"
-    },
-    {
-      "id": "27900",
-      "anime": "Black Clover 2nd Season",
-      "song": "Kienai Riyuu",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
-      "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music"
-    },
-    {
-      "id": "28032",
-      "anime": "Sasaki and Peeps Season 2",
-      "song": "Sukipi no Okage!",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/3LcqYzHDhd75YdL01ZES8f",
-      "apple": "https://geo.music.apple.com/album/6812629588?i=6812629589&at=1001l384j&ct=website-sasaki-and-peeps-season-2-ed&app=music"
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music"
-    },
-    {
-      "id": "28058",
-      "anime": "Detective Conan",
-      "song": "Ai de Zenbu Dakishimete Aishite",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/6n5bSS3sidMrAmNRzs69xf",
-      "apple": "https://geo.music.apple.com/album/6817190323?i=6817190324&at=1001l384j&ct=website-detective-conan-ed76&app=music"
     }
   ]
 }
