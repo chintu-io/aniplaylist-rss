@@ -6755,7 +6755,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "unreleased",
       "objectID"
@@ -6829,7 +6828,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -6904,7 +6902,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -6975,7 +6972,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -7049,7 +7045,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "unreleased",
       "objectID"
@@ -8297,7 +8292,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "unreleased",
       "objectID"
@@ -8361,7 +8355,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9444,6 +9437,7 @@
       "display_artists",
       "label",
       "short_link",
+      "products",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -17509,9 +17503,9 @@
     "kindLabel": "Ending",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/2hhGjYncdykHxnxuqMURnN",
-    "apple": "https://music.apple.com/nz/album/6819323104?i=6819323107&at=1001l384j&ct=website-a-certain-dark-sides-item-ed&app=music",
+    "apple": "https://geo.music.apple.com/album/6819323104?i=6819323107&at=1001l384j&ct=website-a-certain-dark-sides-item-ed&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3e32241cc44569dc295542ffa2ae29aef3fcc8c3@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-ending",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -17537,9 +17531,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -17563,7 +17557,8 @@
       "Kisida Kyodan & The Akebosi Rockets",
       "1zPnpAM7fGFr7pl8OSNvak",
       "736621456",
-      "7478946"
+      "7478946",
+      "UCSDwXTEapUN0qI5mBx9XzTw"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-10-16T14:47:25.000Z"
@@ -17579,9 +17574,9 @@
     "kindLabel": "Opening",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/6RbfCXkDGeOaU3a1C0PuQQ",
-    "apple": "",
+    "apple": "https://geo.music.apple.com/album/6819949615?i=6819949616&at=1001l384j&ct=website-a-certain-dark-sides-item-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/149bcc1a48bb3887e934cf4c4599834c97140043@2xl.jpeg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-opening",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -17607,9 +17602,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -17628,7 +17623,9 @@
       "East of Eden",
       "East Of Eden",
       "3lvaevDiFzsr9cUrMV8HYn",
-      "1696602595"
+      "1696602595",
+      "107676",
+      "UCrGFuEGlsGSGtVmqlYlyDQg"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-10-16T14:47:25.000Z"
