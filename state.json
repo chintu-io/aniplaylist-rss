@@ -17342,7 +17342,15 @@
       "418849942",
       "UCOOs-I8J3fANveiWWZRgzOQ"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/Tetsuryou-ED1.webm",
+      "basename": "Tetsuryou-ED1.webm",
+      "animeSlug": "tetsuryou_meet_with_tetsudou_musume",
+      "themeSlug": "",
+      "type": "ED",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-16T14:47:25.000Z"
   },
   "fc867385071cb763": {
@@ -17560,7 +17568,15 @@
       "7478946",
       "UCSDwXTEapUN0qI5mBx9XzTw"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/ToaruAnbuNoItem-ED1.webm",
+      "basename": "ToaruAnbuNoItem-ED1.webm",
+      "animeSlug": "toaru_anbu_no_item",
+      "themeSlug": "",
+      "type": "ED",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-16T14:47:25.000Z"
   },
   "42e4550b058de7ea": {
@@ -17627,7 +17643,15 @@
       "107676",
       "UCrGFuEGlsGSGtVmqlYlyDQg"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/ToaruAnbuNoItem-OP1.webm",
+      "basename": "ToaruAnbuNoItem-OP1.webm",
+      "animeSlug": "toaru_anbu_no_item",
+      "themeSlug": "",
+      "type": "OP",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-16T14:47:25.000Z"
   }
 }
