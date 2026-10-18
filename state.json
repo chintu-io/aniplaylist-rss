@@ -8226,7 +8226,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -13709,7 +13708,8 @@
       "Pops Loves Kawaii Stuff",
       "This Uncle Likes Cute Things",
       "おじさんはカワイイものがお好き。",
-      "Pops Loves Kawaii Stuff, This Uncle Likes Cute Things"
+      "Pops Loves Kawaii Stuff, This Uncle Likes Cute Things",
+      "Ojikawa"
     ],
     "artistCandidates": [
       "13557",
@@ -14889,7 +14889,8 @@
       "Pops Loves Kawaii Stuff",
       "This Uncle Likes Cute Things",
       "おじさんはカワイイものがお好き。",
-      "Pops Loves Kawaii Stuff, This Uncle Likes Cute Things"
+      "Pops Loves Kawaii Stuff, This Uncle Likes Cute Things",
+      "Ojikawa"
     ],
     "artistCandidates": [
       "23721",
@@ -15224,7 +15225,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -15299,7 +15299,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -15369,7 +15368,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -15438,7 +15436,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -15510,7 +15507,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -15574,7 +15570,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -16823,7 +16818,8 @@
       "Pops Loves Kawaii Stuff",
       "This Uncle Likes Cute Things",
       "おじさんはカワイイものがお好き。",
-      "Pops Loves Kawaii Stuff, This Uncle Likes Cute Things"
+      "Pops Loves Kawaii Stuff, This Uncle Likes Cute Things",
+      "Ojikawa"
     ],
     "artistCandidates": [
       "23691",
