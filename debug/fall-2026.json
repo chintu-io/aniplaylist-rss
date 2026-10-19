@@ -442,6 +442,16 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/0f3548730f884965afd21e4775bc226fa777bc4f@2xl.jpeg"
     },
     {
+      "id": "27900",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/319bb5372941206224d54435dd7c5bfcc04ef60b.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L79$IS3CO@}a1c,DniJ73A{},tKO",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/319bb5372941206224d54435dd7c5bfcc04ef60b@2xl.jpeg"
+    },
+    {
       "id": "28092",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b.jpeg",
@@ -452,6 +462,16 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/d1a1731081941faa7abfe846f9dcf76569c1982b@2xl.jpeg"
     },
     {
+      "id": "27870",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LoM7[Yo~%fMy?wNGM{oJxuWBV@of",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg"
+    },
+    {
       "id": "28091",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/128316f72df22810f19d436981f1cbaed1202b70.jpeg",
@@ -460,26 +480,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/128316f72df22810f19d436981f1cbaed1202b70@2xl.jpeg"
-    },
-    {
-      "id": "28090",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LZE|6}D#4,?dpIs+slRntQjbofkB",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/b9b036180fe4e019ba1ae386e4e48ae080e0364e@2xl.jpg"
-    },
-    {
-      "id": "28082",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/ab4f391fd6b2c7356a2538da3aac45cb97e0f5ee.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L6G]5l0017-g00$G.6Mh00.Aq^9X",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/ab4f391fd6b2c7356a2538da3aac45cb97e0f5ee@2xl.jpg"
     }
   ],
   "expectedHits": 195,
@@ -1284,6 +1284,80 @@
       }
     },
     {
+      "id": "27900",
+      "anime": "Black Clover 2nd Season",
+      "song": "Kienai Riyuu",
+      "artist": "WANIMA",
+      "artistDisplay": "WANIMA",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
+      "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/319bb5372941206224d54435dd7c5bfcc04ef60b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kienai Riyuu",
+        "消えない理由"
+      ],
+      "animeCandidates": [
+        "Black Clover 2nd Season",
+        "ブラッククローバー 2nd season",
+        "Black Clover Season 2"
+      ],
+      "artistCandidates": [
+        "1774",
+        "WANIMA",
+        "6YqdtpUutxodni6lUD4stM",
+        "936535085",
+        "8554024",
+        "UC_SxYlf03VsYYBJTXTZj7kw",
+        "25502",
+        "テレ東アニメ",
+        "UC0OXPEQRKArB_EVyFMwDbAQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/BlackCloverS2-OP1.webm",
+        "basename": "BlackCloverS2-OP1.webm",
+        "animeSlug": "black_clover_2nd_season",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
       "id": "28092",
       "anime": "Tanuki to Kitsune (TV)",
       "song": "Nicoichi!",
@@ -1344,6 +1418,77 @@
         "12031388",
         "UCfocsGKEYRlvZaDiPs8alJQ"
       ]
+    },
+    {
+      "id": "27870",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Hanakage",
+      "artist": "Superfly",
+      "artistDisplay": "Superfly",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
+      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hanakage",
+        "花蔭"
+      ],
+      "animeCandidates": [
+        "The Ramparts of Ice Season 2",
+        "Koori no Jouheki 2nd Season",
+        "氷の城壁 第2期"
+      ],
+      "artistCandidates": [
+        "372",
+        "Superfly",
+        "5M8AXrOifBT8elkLKbGPQZ",
+        "150974880",
+        "142878",
+        "UCarJ-jLDuyHOlRXzIcqL4oQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-ED1.webm",
+        "basename": "KooriNoJouhekiS2-ED1.webm",
+        "animeSlug": "koori_no_jouheki_2nd_season",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28091",
@@ -1487,6 +1632,152 @@
         "animeSlug": "sasaki_to_piichan_season_2",
         "themeSlug": "",
         "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "artist": "aiko",
+      "artistDisplay": "aiko",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
+      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/93e99655a56103c00fc84ab4972eb7dd09d4c291@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Anata no Hana no Iro",
+        "あなたの花の色",
+        "the color of your flower"
+      ],
+      "animeCandidates": [
+        "Blue Box Season 2",
+        "アオのハコ Season2",
+        "Ao no Hako Season 2"
+      ],
+      "artistCandidates": [
+        "3105",
+        "aiko",
+        "6TDMbiQCWeMClsMr9ORLRK",
+        "635154255",
+        "2643581"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/AoNoHakoS2-OP1.webm",
+        "basename": "AoNoHakoS2-OP1.webm",
+        "animeSlug": "ao_no_hako_season_2",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27895",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "AIYOU",
+      "artist": "Eve",
+      "artistDisplay": "Eve",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
+      "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/527a3ea827988814d3f983f071b0549386dd3e9b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "AIYOU"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "1376",
+        "Eve",
+        "58oPVy7oihAEXE0Ott6JOf",
+        "1080967231",
+        "69128312",
+        "UCcjpUrxD6_eT09KnzIg3U3A",
+        "24642",
+        "TOHO animation",
+        "UC14Yc2Qv92DMuyNRlHvpo2Q"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KusuriyaNoHitorigotoS3-ED1.webm",
+        "basename": "KusuriyaNoHitorigotoS3-ED1.webm",
+        "animeSlug": "kusuriya_no_hitorigoto_3rd_season",
+        "themeSlug": "",
+        "type": "ED",
         "sequence": 1,
         "version": 1
       }
@@ -1778,6 +2069,74 @@
       "animethemesVideo": null
     },
     {
+      "id": "27940",
+      "anime": "Ao Ashi Season 2",
+      "song": "Triangle",
+      "artist": "Ai Higuchi",
+      "artistDisplay": "Ai Higuchi",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/57pktRziJ7HCZ2YAQA3fkg",
+      "apple": "https://geo.music.apple.com/album/6810885756?i=6810885940&at=1001l384j&ct=website-ao-ashi-season-2-ed1&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e3f333b6a543fc5234d1113bdffe4a3f6b67cebe@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/ao-ashi-season-2-ending-1",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Triangle",
+        "トライアングル"
+      ],
+      "animeCandidates": [
+        "Ao Ashi Season 2",
+        "アオアシ Season2",
+        "Aoashi Season 2"
+      ],
+      "artistCandidates": [
+        "712",
+        "Ai Higuchi",
+        "ヒグチアイ",
+        "4GxWcui9BlMJH9VOOK5wav",
+        "328815944",
+        "46988452",
+        "UC8aw_ot8rVqpwRoN_DGkSTA",
+        "25509",
+        "ShoProアニメチャンネル",
+        "UC-cXutYzvqARF5wNKx1KCNA"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -1842,6 +2201,216 @@
         "1250709916",
         "67898492",
         "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27937",
+      "anime": "Ao Ashi Season 2",
+      "song": "Fortress Defense",
+      "artist": "10-FEET",
+      "artistDisplay": "10-FEET",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0MVKlIHanWrSMgwtsI7WMS",
+      "apple": "https://geo.music.apple.com/album/6811735538?i=6811735539&at=1001l384j&ct=website-ao-ashi-season-2-op1&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e3f333b6a543fc5234d1113bdffe4a3f6b67cebe@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/ao-ashi-season-2-opening-1",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Fortress Defense"
+      ],
+      "animeCandidates": [
+        "Ao Ashi Season 2",
+        "アオアシ Season2",
+        "Aoashi Season 2"
+      ],
+      "artistCandidates": [
+        "6543",
+        "10-FEET",
+        "0QZqdhoRQkn1VphAa5eX8h",
+        "76125500",
+        "3695",
+        "UC133vm68gS3LxTjT9mECW1Q",
+        "25509",
+        "ShoProアニメチャンネル",
+        "UC-cXutYzvqARF5wNKx1KCNA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27933",
+      "anime": "I'm Dating a Dark Summoner",
+      "song": "AKUMA♰No?☆Hime♡Goto",
+      "artist": "Mao Komiya",
+      "artistDisplay": "Mao Komiya",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3KjcpmwYS8YAoCeqWJV6pX",
+      "apple": "https://geo.music.apple.com/album/6808480991?i=6808480992&at=1001l384j&ct=website-im-dating-a-dark-summoner-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/efe04d636cad93820df88a882d04013710d4f606@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/im-dating-a-dark-summoner-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "AKUMA♰No?☆Hime♡Goto",
+        "AKUMA♰No?☆ヒメ♡ゴト",
+        "AKUMA No Himegoto",
+        "AKUMANoヒメゴト"
+      ],
+      "animeCandidates": [
+        "I'm Dating a Dark Summoner",
+        "Dark Summoner to Dekiteiru",
+        "ダークサモナーとデキている"
+      ],
+      "artistCandidates": [
+        "24190",
+        "Mao Komiya",
+        "小宮真央",
+        "7F5hQfO5nNNCyUID620V0t",
+        "428188292",
+        "25508",
+        "Komiya Mao",
+        "UCwPuxM0SpF0sZYRL46HrYSg"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/DarkSummoner-ED1.webm",
+        "basename": "DarkSummoner-ED1.webm",
+        "animeSlug": "dark_summoner_to_dekiteiru",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27823",
+      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "song": "Shinu ka Ikiru ka",
+      "artist": "Yuki Chiba",
+      "artistDisplay": "Yuki Chiba",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7vdZztyuzNX1joqkbhWBxX",
+      "apple": "https://geo.music.apple.com/album/6809991313?i=6809991318&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e401524581656fa101348307b5daabc8550975f7@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shinu ka Ikiru ka",
+        "死ぬか生きるか",
+        "Shinukaikiruka"
+      ],
+      "animeCandidates": [
+        "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
+        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
+        "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
+        "SBR",
+        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
+      ],
+      "artistCandidates": [
+        "24741",
+        "Yuki Chiba",
+        "千葉雄喜",
+        "6Qhgat07PNOdnJSnCXJigu",
+        "1727997785",
+        "1337238",
+        "UCnPf2oZPzg_pxf6RzjUoCgw"
       ],
       "animethemesVideo": null
     },
@@ -1925,19 +2494,19 @@
       }
     },
     {
-      "id": "27900",
-      "anime": "Black Clover 2nd Season",
-      "song": "Kienai Riyuu",
-      "artist": "WANIMA",
-      "artistDisplay": "WANIMA",
+      "id": "27939",
+      "anime": "Psyren",
+      "song": "WARNING!!",
+      "artist": "CLAN QUEEN",
+      "artistDisplay": "CLAN QUEEN",
       "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
-      "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/319bb5372941206224d54435dd7c5bfcc04ef60b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening",
+      "spotify": "https://open.spotify.com/track/6xqdTZWgBBh9MuF9t0zEbq",
+      "apple": "https://geo.music.apple.com/album/6812665302?i=6812665312&at=1001l384j&ct=website-psyren-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/bfe2ddaba65ade698ba6908a1cca838a1a5dae56@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/psyren-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1969,29 +2538,87 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Kienai Riyuu",
-        "消えない理由"
+        "WARNING!!"
       ],
       "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
+        "Psyren",
+        "Siren",
+        "PSYЯEN -サイレン-"
       ],
       "artistCandidates": [
-        "1774",
-        "WANIMA",
-        "6YqdtpUutxodni6lUD4stM",
-        "936535085",
-        "8554024",
-        "UC_SxYlf03VsYYBJTXTZj7kw",
-        "25502",
-        "テレ東アニメ",
-        "UC0OXPEQRKArB_EVyFMwDbAQ"
+        "24212",
+        "CLAN QUEEN",
+        "7MDWmWGdcgGcxawAnA1FUY",
+        "1650715887",
+        "187234517",
+        "UCuCIY6NNMyjANg60NEgHONg"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27761",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "IGNITE",
+      "artist": "JO1",
+      "artistDisplay": "JO1",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4AAiz8MarztbqTCTMfwXYr",
+      "apple": "https://geo.music.apple.com/album/6797375185?i=6797375186&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "IGNITE"
+      ],
+      "animeCandidates": [
+        "Tokyo Revengers: War of the Three Titan Arc",
+        "Tokyo Revengers: Santen Sensou-hen",
+        "東京リベンジャーズ 三天戦争編"
+      ],
+      "artistCandidates": [
+        "7989",
+        "JO1",
+        "2koP6FEfIEVk4l2Fe6jFhu",
+        "1500272115",
+        "10885914",
+        "UCWyo-2Efw9aSmemM3LluERg"
       ],
       "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-OP1.webm",
-        "basename": "BlackCloverS2-OP1.webm",
-        "animeSlug": "black_clover_2nd_season",
+        "url": "https://v.animethemes.moe/TokyoRevengersS4-OP1.webm",
+        "basename": "TokyoRevengersS4-OP1.webm",
+        "animeSlug": "tokyo_revengers_santen_sensouhen",
         "themeSlug": "",
         "type": "OP",
         "sequence": 1,
@@ -1999,19 +2626,19 @@
       }
     },
     {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "artist": "ONE OR EIGHT",
-      "artistDisplay": "ONE OR EIGHT",
+      "id": "27918",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Kaze no Naka wa Hashirukkyanai!",
+      "artist": "Sangatsu no Phantasia",
+      "artistDisplay": "Sangatsu no Phantasia",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/994373439d025530848b51f6286a082c0f298f83@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
+      "spotify": "https://open.spotify.com/track/4fK5Y2ExgkIIurCMwt688I",
+      "apple": "https://geo.music.apple.com/album/6812190429?i=6812190650&at=1001l384j&ct=website-even-the-student-council-has-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64b9e587aa9870116c025763b9aebfdba1cae204@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -2043,27 +2670,30 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Yellow Brick Road"
+        "Kaze no Naka wa Hashirukkyanai!",
+        "風の中は走るっきゃないっ！"
       ],
       "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
+        "Even the Student Council Has Its Holes!",
+        "Seitokai ni mo Ana wa Aru!",
+        "生徒会にも穴はある！",
+        "There Is Also a Hole in the Student Organization!"
       ],
       "artistCandidates": [
-        "19216",
-        "ONE OR EIGHT",
-        "5bIttAFRf7URUmuuI9w7XA",
-        "1758291632",
-        "275967661",
-        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
+        "360",
+        "Sangatsu no Phantasia",
+        "三月のパンタシア",
+        "5WmX340gDNLIAyUcg4MzWN",
+        "1097659633",
+        "10665133",
+        "UChmAdYjOdnnrSA2kBMKdoYw"
       ],
       "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-ED1.webm",
-        "basename": "BlackCloverS2-ED1.webm",
-        "animeSlug": "black_clover_2nd_season",
+        "url": "https://v.animethemes.moe/NamaAnaru-OP1.webm",
+        "basename": "NamaAnaru-OP1.webm",
+        "animeSlug": "seitokai_ni_mo_ana_wa_aru",
         "themeSlug": "",
-        "type": "ED",
+        "type": "OP",
         "sequence": 1,
         "version": 1
       }
@@ -2142,19 +2772,19 @@
       }
     },
     {
-      "id": "27953",
-      "anime": "Ranma ½ (2024) 3rd Season",
-      "song": "Sunao Miman",
-      "artist": "Fumino",
-      "artistDisplay": "Fumino",
+      "id": "27938",
+      "anime": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+      "song": "Still Water",
+      "artist": "Rico Sasaki",
+      "artistDisplay": "Rico Sasaki",
       "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/3UFWG309DWKp4S249wxysd",
-      "apple": "https://geo.music.apple.com/album/6817622046?i=6817622415&at=1001l384j&ct=website-ranma-2024-3rd-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a035255163cbc6fb8dea2a8e81879aa420d4e50c@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/ranma-2024-3rd-season-opening",
+      "spotify": "https://open.spotify.com/track/38ux50kdbuJkD7BKSAPIJ5",
+      "apple": "https://geo.music.apple.com/album/6807839462?i=6807839465&at=1001l384j&ct=website-as-a-reincarnated-aristocrat-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8ae74089eb1e89545a2608c65ce46b7db6e98561@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -2186,715 +2816,35 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Sunao Miman",
-        "素直未満"
+        "Still Water"
       ],
       "animeCandidates": [
-        "Ranma ½ (2024) 3rd Season",
-        "Ranma 1/2 (2024) 3rd Season",
-        "らんま1/2 第3期",
-        "Ranma ½ (2024) Season 3"
+        "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+        "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+        "Reincarnated as an Aristocrat with an Appraisal Skill Season 3",
+        "転生貴族、鑑定スキルで成り上がる 第3期"
       ],
       "artistCandidates": [
-        "24220",
-        "Fumino",
-        "ふみの",
-        "5aCs1cmbReUSJ4K9SuOYCx",
-        "1723012051",
-        "288597931",
-        "UCpvym4hXdo4fVz0Rpu_LNoA"
+        "426",
+        "Rico Sasaki",
+        "佐々木李子",
+        "32vntVlDOsm1HGm9Xe0FSz",
+        "1361445379",
+        "122365542",
+        "UCmNJnINtgmp9XyYq_yADLpw"
       ],
       "animethemesVideo": {
-        "url": "https://v.animethemes.moe/Ranma2024S3-OP1.webm",
-        "basename": "Ranma2024S3-OP1.webm",
-        "animeSlug": "ranma_12_2024_3rd_season",
+        "url": "https://v.animethemes.moe/KanteiSkillS3-OP1.webm",
+        "basename": "KanteiSkillS3-OP1.webm",
+        "animeSlug": "tensei_kizoku_kantei_skill_de_nariagaru_3rd_season",
         "themeSlug": "",
         "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27870",
-      "anime": "The Ramparts of Ice Season 2",
-      "song": "Hanakage",
-      "artist": "Superfly",
-      "artistDisplay": "Superfly",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
-      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Hanakage",
-        "花蔭"
-      ],
-      "animeCandidates": [
-        "The Ramparts of Ice Season 2",
-        "Koori no Jouheki 2nd Season",
-        "氷の城壁 第2期"
-      ],
-      "artistCandidates": [
-        "372",
-        "Superfly",
-        "5M8AXrOifBT8elkLKbGPQZ",
-        "150974880",
-        "142878",
-        "UCarJ-jLDuyHOlRXzIcqL4oQ"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-ED1.webm",
-        "basename": "KooriNoJouhekiS2-ED1.webm",
-        "animeSlug": "koori_no_jouheki_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "artist": "aiko",
-      "artistDisplay": "aiko",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
-      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/93e99655a56103c00fc84ab4972eb7dd09d4c291@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Anata no Hana no Iro",
-        "あなたの花の色",
-        "the color of your flower"
-      ],
-      "animeCandidates": [
-        "Blue Box Season 2",
-        "アオのハコ Season2",
-        "Ao no Hako Season 2"
-      ],
-      "artistCandidates": [
-        "3105",
-        "aiko",
-        "6TDMbiQCWeMClsMr9ORLRK",
-        "635154255",
-        "2643581"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/AoNoHakoS2-OP1.webm",
-        "basename": "AoNoHakoS2-OP1.webm",
-        "animeSlug": "ao_no_hako_season_2",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28080",
-      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "song": "Ember Torch",
-      "artist": "sumika",
-      "artistDisplay": "sumika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC",
-      "apple": "https://geo.music.apple.com/album/6815636614?i=6815636619&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Ember Torch",
-        "エンバートーチ"
-      ],
-      "animeCandidates": [
-        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
-        "Chii Fuyo",
-        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
-        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
-      ],
-      "artistCandidates": [
-        "1626",
-        "sumika",
-        "0ySFZq3Wd0SQUyJUzmJAeb",
-        "586120102",
-        "5200027",
-        "UCz_qp5woGr9GjmSzGbCCslA"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/ChiiFuyo-OP1.webm",
-        "basename": "ChiiFuyo-OP1.webm",
-        "animeSlug": "chiifuyo",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27895",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "AIYOU",
-      "artist": "Eve",
-      "artistDisplay": "Eve",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
-      "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/527a3ea827988814d3f983f071b0549386dd3e9b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "AIYOU"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "1376",
-        "Eve",
-        "58oPVy7oihAEXE0Ott6JOf",
-        "1080967231",
-        "69128312",
-        "UCcjpUrxD6_eT09KnzIg3U3A",
-        "24642",
-        "TOHO animation",
-        "UC14Yc2Qv92DMuyNRlHvpo2Q"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KusuriyaNoHitorigotoS3-ED1.webm",
-        "basename": "KusuriyaNoHitorigotoS3-ED1.webm",
-        "animeSlug": "kusuriya_no_hitorigoto_3rd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27940",
-      "anime": "Ao Ashi Season 2",
-      "song": "Triangle",
-      "artist": "Ai Higuchi",
-      "artistDisplay": "Ai Higuchi",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/57pktRziJ7HCZ2YAQA3fkg",
-      "apple": "https://geo.music.apple.com/album/6810885756?i=6810885940&at=1001l384j&ct=website-ao-ashi-season-2-ed1&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e3f333b6a543fc5234d1113bdffe4a3f6b67cebe@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/ao-ashi-season-2-ending-1",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Triangle",
-        "トライアングル"
-      ],
-      "animeCandidates": [
-        "Ao Ashi Season 2",
-        "アオアシ Season2",
-        "Aoashi Season 2"
-      ],
-      "artistCandidates": [
-        "712",
-        "Ai Higuchi",
-        "ヒグチアイ",
-        "4GxWcui9BlMJH9VOOK5wav",
-        "328815944",
-        "46988452",
-        "UC8aw_ot8rVqpwRoN_DGkSTA",
-        "25509",
-        "ShoProアニメチャンネル",
-        "UC-cXutYzvqARF5wNKx1KCNA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "us_3308",
-      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
-      "song": "Beyond the Night",
-      "artist": "TeddyLoid",
-      "artistDisplay": "TeddyLoid, Gabriel (CV: Ayane Sakura) & Nagi Inoue (from Nogizaka46)",
-      "artistDisplayCount": 3,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e07353f40f7f037b506d7017a76c05b8012e1fb0@2xl.jpg",
-      "detailUrl": "",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Beyond the Night"
-      ],
-      "animeCandidates": [
-        "Rakuen Tsuihou: Kokoro no Resonance",
-        "Liberated from Paradise: Resonance of the Heart",
-        "楽園追放 心のレゾナンス"
-      ],
-      "artistCandidates": [
-        "274",
-        "TeddyLoid",
-        "3GfNJrDTZY7voXPDx8gH9I",
-        "376334342",
-        "582291",
-        "UCSMEyA3pVYdTrO9HBXdfsfg",
-        "25586",
-        "Gabriel (CV: Ayane Sakura)",
-        "ガブリエル (CV: 佐倉綾音)",
-        "25587",
-        "Nagi Inoue (from Nogizaka46)",
-        "井上和 (from 乃木坂46)"
-      ]
-    },
-    {
-      "id": "27937",
-      "anime": "Ao Ashi Season 2",
-      "song": "Fortress Defense",
-      "artist": "10-FEET",
-      "artistDisplay": "10-FEET",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0MVKlIHanWrSMgwtsI7WMS",
-      "apple": "https://geo.music.apple.com/album/6811735538?i=6811735539&at=1001l384j&ct=website-ao-ashi-season-2-op1&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e3f333b6a543fc5234d1113bdffe4a3f6b67cebe@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/ao-ashi-season-2-opening-1",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Fortress Defense"
-      ],
-      "animeCandidates": [
-        "Ao Ashi Season 2",
-        "アオアシ Season2",
-        "Aoashi Season 2"
-      ],
-      "artistCandidates": [
-        "6543",
-        "10-FEET",
-        "0QZqdhoRQkn1VphAa5eX8h",
-        "76125500",
-        "3695",
-        "UC133vm68gS3LxTjT9mECW1Q",
-        "25509",
-        "ShoProアニメチャンネル",
-        "UC-cXutYzvqARF5wNKx1KCNA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27988",
-      "anime": "Reincarnated as a Sword Season 2",
-      "song": "DREAM OF BUTTERFLY",
-      "artist": "FZMZ",
-      "artistDisplay": "FZMZ",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/611IQQ87evnbCgEFY9Cail",
-      "apple": "https://geo.music.apple.com/album/6816049621?i=6816049623&at=1001l384j&ct=website-reincarnated-as-a-sword-seaso-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6909d8c71217931afff17c7e2a1bf503840667f6@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/reincarnated-as-a-sword-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "DREAM OF BUTTERFLY"
-      ],
-      "animeCandidates": [
-        "Reincarnated as a Sword Season 2",
-        "Tensei shitara Ken deshita 2",
-        "I became the sword by transmigrating 2nd Season",
-        "TenKen 2",
-        "転生したら剣でした2",
-        "I became the sword by transmigrating 2nd Season, TenKen 2",
-        "Tensei shitara Ken deshita II",
-        "転生したら剣でした II"
-      ],
-      "artistCandidates": [
-        "14735",
-        "FZMZ",
-        "0RrQBLmeSCUkYFs0vncrhb",
-        "1705665721",
-        "230000265",
-        "UCHE99igrlGCZEBdE8h1MuMA"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/TenkenS2-OP1.webm",
-        "basename": "TenkenS2-OP1.webm",
-        "animeSlug": "tensei_shitara_ken_deshita_2nd_season",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27933",
-      "anime": "I'm Dating a Dark Summoner",
-      "song": "AKUMA♰No?☆Hime♡Goto",
-      "artist": "Mao Komiya",
-      "artistDisplay": "Mao Komiya",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3KjcpmwYS8YAoCeqWJV6pX",
-      "apple": "https://geo.music.apple.com/album/6808480991?i=6808480992&at=1001l384j&ct=website-im-dating-a-dark-summoner-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/efe04d636cad93820df88a882d04013710d4f606@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/im-dating-a-dark-summoner-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "AKUMA♰No?☆Hime♡Goto",
-        "AKUMA♰No?☆ヒメ♡ゴト",
-        "AKUMA No Himegoto",
-        "AKUMANoヒメゴト"
-      ],
-      "animeCandidates": [
-        "I'm Dating a Dark Summoner",
-        "Dark Summoner to Dekiteiru",
-        "ダークサモナーとデキている"
-      ],
-      "artistCandidates": [
-        "24190",
-        "Mao Komiya",
-        "小宮真央",
-        "7F5hQfO5nNNCyUID620V0t",
-        "428188292",
-        "25508",
-        "Komiya Mao",
-        "UCwPuxM0SpF0sZYRL46HrYSg"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/DarkSummoner-ED1.webm",
-        "basename": "DarkSummoner-ED1.webm",
-        "animeSlug": "dark_summoner_to_dekiteiru",
-        "themeSlug": "",
-        "type": "ED",
         "sequence": 1,
         "version": 1
       }
     }
   ],
   "sourceMetadataSamples": [
-    {
-      "id": "27977",
-      "titles": [
-        "Kanawanai,",
-        "かなわない、"
-      ],
-      "rawArtists": [
-        {
-          "id": 1833,
-          "names": [
-            "Centimillimental",
-            "センチミリメンタル",
-            "senntimirimenntaru"
-          ],
-          "links": [
-            "0aRqEPPTtQd3pGuB4tJxVw",
-            "790661896",
-            "70886932",
-            "UCUruaitWu07N2ErrUaBgLWw"
-          ]
-        }
-      ],
-      "rawDisplayArtists": [
-        "Centimillimental"
-      ],
-      "type": "track",
-      "song_type": "Opening",
-      "song_type_short": "OP",
-      "label": "Sony Music Labels Inc.",
-      "tags": [
-        "2_airing"
-      ],
-      "episodeFields": {
-        "type": "track",
-        "song_type": "Opening",
-        "song_type_short": "OP",
-        "label": "Sony Music Labels Inc.",
-        "tags": [
-          "2_airing"
-        ]
-      }
-    },
     {
       "id": "27981",
       "titles": [
@@ -2934,106 +2884,6 @@
         "label": "Speedstar",
         "tags": [
           "2_airing"
-        ]
-      }
-    },
-    {
-      "id": "28054",
-      "titles": [
-        "Choux Cream",
-        "Shuu Cream",
-        "Choux Crème",
-        "シュークリーム"
-      ],
-      "rawArtists": [
-        {
-          "id": 25574,
-          "names": [
-            "Hitomi Suzune",
-            "鈴音ひとみ"
-          ],
-          "links": [
-            "7kniYU57GLxnOgV9uAXanD",
-            "6806244065",
-            "UCxYVoE9mVcn_2zFIlrDtOAw"
-          ]
-        }
-      ],
-      "rawDisplayArtists": [
-        "Hitomi Suzune"
-      ],
-      "type": "track",
-      "song_type": "Theme Song",
-      "song_type_short": "TS",
-      "label": "鈴音ひとみ",
-      "tags": [
-        "2_airing",
-        "4_missing"
-      ],
-      "episodeFields": {
-        "type": "track",
-        "song_type": "Theme Song",
-        "song_type_short": "TS",
-        "label": "鈴音ひとみ",
-        "tags": [
-          "2_airing",
-          "4_missing"
-        ]
-      }
-    },
-    {
-      "id": "28012",
-      "titles": [
-        "TINY LUCK"
-      ],
-      "rawArtists": [
-        {
-          "id": 24115,
-          "names": [
-            "GROTESQQQUE"
-          ],
-          "links": [
-            "1In8PNOPWYnzc6PCjisqCn",
-            "6791445853",
-            "403964042",
-            "UCFQQnp5AUG5oPscUdhC5q1A"
-          ]
-        },
-        {
-          "id": 10576,
-          "names": [
-            "Kairi Yagi",
-            "八木海莉"
-          ],
-          "links": [
-            "49WETRjhY9BjHQsxPWj5Vi",
-            "1569322201",
-            "134054942",
-            "UCesE-qIip8qYuCk-PfV9RXA"
-          ]
-        }
-      ],
-      "rawDisplayArtists": [
-        "GROTESQQQUE",
-        "Kairi Yagi"
-      ],
-      "type": "track",
-      "song_type": "Insert",
-      "song_type_short": "IN",
-      "label": "Sony Music Labels Inc.",
-      "tags": [
-        "3_upcoming"
-      ],
-      "episodeFields": {
-        "type": "track",
-        "episodes": [
-          "3"
-        ],
-        "song_type": "Insert",
-        "song_type_short": "IN",
-        "label": "Sony Music Labels Inc.",
-        "tags": [
-          "3_upcoming"
         ]
       }
     },
@@ -3382,6 +3232,148 @@
       }
     },
     {
+      "id": "28012",
+      "titles": [
+        "TINY LUCK"
+      ],
+      "rawArtists": [
+        {
+          "id": 24115,
+          "names": [
+            "GROTESQQQUE"
+          ],
+          "links": [
+            "1In8PNOPWYnzc6PCjisqCn",
+            "6791445853",
+            "403964042",
+            "UCFQQnp5AUG5oPscUdhC5q1A"
+          ]
+        },
+        {
+          "id": 10576,
+          "names": [
+            "Kairi Yagi",
+            "八木海莉"
+          ],
+          "links": [
+            "49WETRjhY9BjHQsxPWj5Vi",
+            "1569322201",
+            "134054942",
+            "UCesE-qIip8qYuCk-PfV9RXA"
+          ]
+        }
+      ],
+      "rawDisplayArtists": [
+        "GROTESQQQUE",
+        "Kairi Yagi"
+      ],
+      "type": "track",
+      "song_type": "Insert",
+      "song_type_short": "IN",
+      "label": "Sony Music Labels Inc.",
+      "tags": [
+        "3_upcoming"
+      ],
+      "episodeFields": {
+        "type": "track",
+        "episodes": [
+          "3"
+        ],
+        "song_type": "Insert",
+        "song_type_short": "IN",
+        "label": "Sony Music Labels Inc.",
+        "tags": [
+          "3_upcoming"
+        ]
+      }
+    },
+    {
+      "id": "27977",
+      "titles": [
+        "Kanawanai,",
+        "かなわない、"
+      ],
+      "rawArtists": [
+        {
+          "id": 1833,
+          "names": [
+            "Centimillimental",
+            "センチミリメンタル",
+            "senntimirimenntaru"
+          ],
+          "links": [
+            "0aRqEPPTtQd3pGuB4tJxVw",
+            "790661896",
+            "70886932",
+            "UCUruaitWu07N2ErrUaBgLWw"
+          ]
+        }
+      ],
+      "rawDisplayArtists": [
+        "Centimillimental"
+      ],
+      "type": "track",
+      "song_type": "Opening",
+      "song_type_short": "OP",
+      "label": "Sony Music Labels Inc.",
+      "tags": [
+        "2_airing"
+      ],
+      "episodeFields": {
+        "type": "track",
+        "song_type": "Opening",
+        "song_type_short": "OP",
+        "label": "Sony Music Labels Inc.",
+        "tags": [
+          "2_airing"
+        ]
+      }
+    },
+    {
+      "id": "28054",
+      "titles": [
+        "Choux Cream",
+        "Shuu Cream",
+        "Choux Crème",
+        "シュークリーム"
+      ],
+      "rawArtists": [
+        {
+          "id": 25574,
+          "names": [
+            "Hitomi Suzune",
+            "鈴音ひとみ"
+          ],
+          "links": [
+            "7kniYU57GLxnOgV9uAXanD",
+            "6806244065",
+            "UCxYVoE9mVcn_2zFIlrDtOAw"
+          ]
+        }
+      ],
+      "rawDisplayArtists": [
+        "Hitomi Suzune"
+      ],
+      "type": "track",
+      "song_type": "Theme Song",
+      "song_type_short": "TS",
+      "label": "鈴音ひとみ",
+      "tags": [
+        "2_airing",
+        "4_missing"
+      ],
+      "episodeFields": {
+        "type": "track",
+        "song_type": "Theme Song",
+        "song_type_short": "TS",
+        "label": "鈴音ひとみ",
+        "tags": [
+          "2_airing",
+          "4_missing"
+        ]
+      }
+    },
+    {
       "id": "us_3114",
       "titles": [
         "Hikari no Soba de",
@@ -3481,11 +3473,25 @@
       "detailUrl": "https://aniplaylist.com/play/the-detective-is-already-dead-season-2-ending-tv-size"
     },
     {
+      "id": "27900",
+      "anime": "Black Clover 2nd Season",
+      "song": "Kienai Riyuu",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening"
+    },
+    {
       "id": "28092",
       "anime": "Tanuki to Kitsune (TV)",
       "song": "Nicoichi!",
       "kind": "TS",
       "detailUrl": "https://aniplaylist.com/play/tanuki-to-kitsune-tv-theme-song"
+    },
+    {
+      "id": "27870",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Hanakage",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending"
     },
     {
       "id": "28091",
@@ -3500,6 +3506,20 @@
       "song": "Unbroken",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/sasaki-and-peeps-season-2-opening"
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening"
+    },
+    {
+      "id": "27895",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "AIYOU",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending"
     },
     {
       "id": "28082",
@@ -3530,81 +3550,18 @@
       "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size"
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
-    },
-    {
-      "id": "28083",
-      "anime": "Uncle's Obsession with Cute Things",
-      "song": "LIKE³",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/uncles-obsession-with-cute-things-opening"
-    },
-    {
-      "id": "27900",
-      "anime": "Black Clover 2nd Season",
-      "song": "Kienai Riyuu",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening"
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending"
-    },
-    {
-      "id": "28086",
-      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
-      "song": "Here we are!",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size"
-    },
-    {
-      "id": "27953",
-      "anime": "Ranma ½ (2024) 3rd Season",
-      "song": "Sunao Miman",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/ranma-2024-3rd-season-opening"
-    },
-    {
-      "id": "27870",
-      "anime": "The Ramparts of Ice Season 2",
-      "song": "Hanakage",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending"
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening"
-    },
-    {
-      "id": "28080",
-      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "song": "Ember Torch",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-opening"
-    },
-    {
-      "id": "27895",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "AIYOU",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending"
-    },
-    {
       "id": "27940",
       "anime": "Ao Ashi Season 2",
       "song": "Triangle",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/ao-ashi-season-2-ending-1"
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
     },
     {
       "id": "27937",
@@ -3614,13 +3571,6 @@
       "detailUrl": "https://aniplaylist.com/play/ao-ashi-season-2-opening-1"
     },
     {
-      "id": "27988",
-      "anime": "Reincarnated as a Sword Season 2",
-      "song": "DREAM OF BUTTERFLY",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/reincarnated-as-a-sword-season-2-opening"
-    },
-    {
       "id": "27933",
       "anime": "I'm Dating a Dark Summoner",
       "song": "AKUMA♰No?☆Hime♡Goto",
@@ -3628,11 +3578,53 @@
       "detailUrl": "https://aniplaylist.com/play/im-dating-a-dark-summoner-ending"
     },
     {
-      "id": "28079",
-      "anime": "Chitose Is in the Ramune Bottle Part 2",
-      "song": "Doko ni mo Ikenai Mama",
+      "id": "27823",
+      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "song": "Shinu ka Ikiru ka",
       "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/chitose-is-in-the-ramune-bottle-part-2-ending"
+      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-ending"
+    },
+    {
+      "id": "28083",
+      "anime": "Uncle's Obsession with Cute Things",
+      "song": "LIKE³",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/uncles-obsession-with-cute-things-opening"
+    },
+    {
+      "id": "27939",
+      "anime": "Psyren",
+      "song": "WARNING!!",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/psyren-opening"
+    },
+    {
+      "id": "27761",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "IGNITE",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-opening"
+    },
+    {
+      "id": "27918",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Kaze no Naka wa Hashirukkyanai!",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-opening"
+    },
+    {
+      "id": "28086",
+      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
+      "song": "Here we are!",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size"
+    },
+    {
+      "id": "27938",
+      "anime": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+      "song": "Still Water",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3-opening"
     }
   ],
   "usableSamples": [
@@ -4224,6 +4216,80 @@
       }
     },
     {
+      "id": "27900",
+      "anime": "Black Clover 2nd Season",
+      "song": "Kienai Riyuu",
+      "artist": "WANIMA",
+      "artistDisplay": "WANIMA",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
+      "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/319bb5372941206224d54435dd7c5bfcc04ef60b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kienai Riyuu",
+        "消えない理由"
+      ],
+      "animeCandidates": [
+        "Black Clover 2nd Season",
+        "ブラッククローバー 2nd season",
+        "Black Clover Season 2"
+      ],
+      "artistCandidates": [
+        "1774",
+        "WANIMA",
+        "6YqdtpUutxodni6lUD4stM",
+        "936535085",
+        "8554024",
+        "UC_SxYlf03VsYYBJTXTZj7kw",
+        "25502",
+        "テレ東アニメ",
+        "UC0OXPEQRKArB_EVyFMwDbAQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/BlackCloverS2-OP1.webm",
+        "basename": "BlackCloverS2-OP1.webm",
+        "animeSlug": "black_clover_2nd_season",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
       "id": "28092",
       "anime": "Tanuki to Kitsune (TV)",
       "song": "Nicoichi!",
@@ -4284,6 +4350,77 @@
         "12031388",
         "UCfocsGKEYRlvZaDiPs8alJQ"
       ]
+    },
+    {
+      "id": "27870",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Hanakage",
+      "artist": "Superfly",
+      "artistDisplay": "Superfly",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
+      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hanakage",
+        "花蔭"
+      ],
+      "animeCandidates": [
+        "The Ramparts of Ice Season 2",
+        "Koori no Jouheki 2nd Season",
+        "氷の城壁 第2期"
+      ],
+      "artistCandidates": [
+        "372",
+        "Superfly",
+        "5M8AXrOifBT8elkLKbGPQZ",
+        "150974880",
+        "142878",
+        "UCarJ-jLDuyHOlRXzIcqL4oQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-ED1.webm",
+        "basename": "KooriNoJouhekiS2-ED1.webm",
+        "animeSlug": "koori_no_jouheki_2nd_season",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
     },
     {
       "id": "28091",
@@ -4427,6 +4564,152 @@
         "animeSlug": "sasaki_to_piichan_season_2",
         "themeSlug": "",
         "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "artist": "aiko",
+      "artistDisplay": "aiko",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
+      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/93e99655a56103c00fc84ab4972eb7dd09d4c291@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Anata no Hana no Iro",
+        "あなたの花の色",
+        "the color of your flower"
+      ],
+      "animeCandidates": [
+        "Blue Box Season 2",
+        "アオのハコ Season2",
+        "Ao no Hako Season 2"
+      ],
+      "artistCandidates": [
+        "3105",
+        "aiko",
+        "6TDMbiQCWeMClsMr9ORLRK",
+        "635154255",
+        "2643581"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/AoNoHakoS2-OP1.webm",
+        "basename": "AoNoHakoS2-OP1.webm",
+        "animeSlug": "ao_no_hako_season_2",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27895",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "AIYOU",
+      "artist": "Eve",
+      "artistDisplay": "Eve",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
+      "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/527a3ea827988814d3f983f071b0549386dd3e9b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "AIYOU"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "1376",
+        "Eve",
+        "58oPVy7oihAEXE0Ott6JOf",
+        "1080967231",
+        "69128312",
+        "UCcjpUrxD6_eT09KnzIg3U3A",
+        "24642",
+        "TOHO animation",
+        "UC14Yc2Qv92DMuyNRlHvpo2Q"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KusuriyaNoHitorigotoS3-ED1.webm",
+        "basename": "KusuriyaNoHitorigotoS3-ED1.webm",
+        "animeSlug": "kusuriya_no_hitorigoto_3rd_season",
+        "themeSlug": "",
+        "type": "ED",
         "sequence": 1,
         "version": 1
       }
@@ -4718,6 +5001,74 @@
       "animethemesVideo": null
     },
     {
+      "id": "27940",
+      "anime": "Ao Ashi Season 2",
+      "song": "Triangle",
+      "artist": "Ai Higuchi",
+      "artistDisplay": "Ai Higuchi",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/57pktRziJ7HCZ2YAQA3fkg",
+      "apple": "https://geo.music.apple.com/album/6810885756?i=6810885940&at=1001l384j&ct=website-ao-ashi-season-2-ed1&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e3f333b6a543fc5234d1113bdffe4a3f6b67cebe@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/ao-ashi-season-2-ending-1",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Triangle",
+        "トライアングル"
+      ],
+      "animeCandidates": [
+        "Ao Ashi Season 2",
+        "アオアシ Season2",
+        "Aoashi Season 2"
+      ],
+      "artistCandidates": [
+        "712",
+        "Ai Higuchi",
+        "ヒグチアイ",
+        "4GxWcui9BlMJH9VOOK5wav",
+        "328815944",
+        "46988452",
+        "UC8aw_ot8rVqpwRoN_DGkSTA",
+        "25509",
+        "ShoProアニメチャンネル",
+        "UC-cXutYzvqARF5wNKx1KCNA"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -4782,6 +5133,216 @@
         "1250709916",
         "67898492",
         "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27937",
+      "anime": "Ao Ashi Season 2",
+      "song": "Fortress Defense",
+      "artist": "10-FEET",
+      "artistDisplay": "10-FEET",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0MVKlIHanWrSMgwtsI7WMS",
+      "apple": "https://geo.music.apple.com/album/6811735538?i=6811735539&at=1001l384j&ct=website-ao-ashi-season-2-op1&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e3f333b6a543fc5234d1113bdffe4a3f6b67cebe@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/ao-ashi-season-2-opening-1",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Fortress Defense"
+      ],
+      "animeCandidates": [
+        "Ao Ashi Season 2",
+        "アオアシ Season2",
+        "Aoashi Season 2"
+      ],
+      "artistCandidates": [
+        "6543",
+        "10-FEET",
+        "0QZqdhoRQkn1VphAa5eX8h",
+        "76125500",
+        "3695",
+        "UC133vm68gS3LxTjT9mECW1Q",
+        "25509",
+        "ShoProアニメチャンネル",
+        "UC-cXutYzvqARF5wNKx1KCNA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27933",
+      "anime": "I'm Dating a Dark Summoner",
+      "song": "AKUMA♰No?☆Hime♡Goto",
+      "artist": "Mao Komiya",
+      "artistDisplay": "Mao Komiya",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3KjcpmwYS8YAoCeqWJV6pX",
+      "apple": "https://geo.music.apple.com/album/6808480991?i=6808480992&at=1001l384j&ct=website-im-dating-a-dark-summoner-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/efe04d636cad93820df88a882d04013710d4f606@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/im-dating-a-dark-summoner-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "AKUMA♰No?☆Hime♡Goto",
+        "AKUMA♰No?☆ヒメ♡ゴト",
+        "AKUMA No Himegoto",
+        "AKUMANoヒメゴト"
+      ],
+      "animeCandidates": [
+        "I'm Dating a Dark Summoner",
+        "Dark Summoner to Dekiteiru",
+        "ダークサモナーとデキている"
+      ],
+      "artistCandidates": [
+        "24190",
+        "Mao Komiya",
+        "小宮真央",
+        "7F5hQfO5nNNCyUID620V0t",
+        "428188292",
+        "25508",
+        "Komiya Mao",
+        "UCwPuxM0SpF0sZYRL46HrYSg"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/DarkSummoner-ED1.webm",
+        "basename": "DarkSummoner-ED1.webm",
+        "animeSlug": "dark_summoner_to_dekiteiru",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27823",
+      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "song": "Shinu ka Ikiru ka",
+      "artist": "Yuki Chiba",
+      "artistDisplay": "Yuki Chiba",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7vdZztyuzNX1joqkbhWBxX",
+      "apple": "https://geo.music.apple.com/album/6809991313?i=6809991318&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e401524581656fa101348307b5daabc8550975f7@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shinu ka Ikiru ka",
+        "死ぬか生きるか",
+        "Shinukaikiruka"
+      ],
+      "animeCandidates": [
+        "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
+        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
+        "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
+        "SBR",
+        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
+      ],
+      "artistCandidates": [
+        "24741",
+        "Yuki Chiba",
+        "千葉雄喜",
+        "6Qhgat07PNOdnJSnCXJigu",
+        "1727997785",
+        "1337238",
+        "UCnPf2oZPzg_pxf6RzjUoCgw"
       ],
       "animethemesVideo": null
     },
@@ -4865,19 +5426,19 @@
       }
     },
     {
-      "id": "27900",
-      "anime": "Black Clover 2nd Season",
-      "song": "Kienai Riyuu",
-      "artist": "WANIMA",
-      "artistDisplay": "WANIMA",
+      "id": "27939",
+      "anime": "Psyren",
+      "song": "WARNING!!",
+      "artist": "CLAN QUEEN",
+      "artistDisplay": "CLAN QUEEN",
       "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
-      "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/319bb5372941206224d54435dd7c5bfcc04ef60b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening",
+      "spotify": "https://open.spotify.com/track/6xqdTZWgBBh9MuF9t0zEbq",
+      "apple": "https://geo.music.apple.com/album/6812665302?i=6812665312&at=1001l384j&ct=website-psyren-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/bfe2ddaba65ade698ba6908a1cca838a1a5dae56@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/psyren-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4909,29 +5470,87 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Kienai Riyuu",
-        "消えない理由"
+        "WARNING!!"
       ],
       "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
+        "Psyren",
+        "Siren",
+        "PSYЯEN -サイレン-"
       ],
       "artistCandidates": [
-        "1774",
-        "WANIMA",
-        "6YqdtpUutxodni6lUD4stM",
-        "936535085",
-        "8554024",
-        "UC_SxYlf03VsYYBJTXTZj7kw",
-        "25502",
-        "テレ東アニメ",
-        "UC0OXPEQRKArB_EVyFMwDbAQ"
+        "24212",
+        "CLAN QUEEN",
+        "7MDWmWGdcgGcxawAnA1FUY",
+        "1650715887",
+        "187234517",
+        "UCuCIY6NNMyjANg60NEgHONg"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27761",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "IGNITE",
+      "artist": "JO1",
+      "artistDisplay": "JO1",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4AAiz8MarztbqTCTMfwXYr",
+      "apple": "https://geo.music.apple.com/album/6797375185?i=6797375186&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "IGNITE"
+      ],
+      "animeCandidates": [
+        "Tokyo Revengers: War of the Three Titan Arc",
+        "Tokyo Revengers: Santen Sensou-hen",
+        "東京リベンジャーズ 三天戦争編"
+      ],
+      "artistCandidates": [
+        "7989",
+        "JO1",
+        "2koP6FEfIEVk4l2Fe6jFhu",
+        "1500272115",
+        "10885914",
+        "UCWyo-2Efw9aSmemM3LluERg"
       ],
       "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-OP1.webm",
-        "basename": "BlackCloverS2-OP1.webm",
-        "animeSlug": "black_clover_2nd_season",
+        "url": "https://v.animethemes.moe/TokyoRevengersS4-OP1.webm",
+        "basename": "TokyoRevengersS4-OP1.webm",
+        "animeSlug": "tokyo_revengers_santen_sensouhen",
         "themeSlug": "",
         "type": "OP",
         "sequence": 1,
@@ -4939,19 +5558,19 @@
       }
     },
     {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "artist": "ONE OR EIGHT",
-      "artistDisplay": "ONE OR EIGHT",
+      "id": "27918",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Kaze no Naka wa Hashirukkyanai!",
+      "artist": "Sangatsu no Phantasia",
+      "artistDisplay": "Sangatsu no Phantasia",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/994373439d025530848b51f6286a082c0f298f83@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
+      "spotify": "https://open.spotify.com/track/4fK5Y2ExgkIIurCMwt688I",
+      "apple": "https://geo.music.apple.com/album/6812190429?i=6812190650&at=1001l384j&ct=website-even-the-student-council-has-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64b9e587aa9870116c025763b9aebfdba1cae204@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4983,27 +5602,30 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Yellow Brick Road"
+        "Kaze no Naka wa Hashirukkyanai!",
+        "風の中は走るっきゃないっ！"
       ],
       "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
+        "Even the Student Council Has Its Holes!",
+        "Seitokai ni mo Ana wa Aru!",
+        "生徒会にも穴はある！",
+        "There Is Also a Hole in the Student Organization!"
       ],
       "artistCandidates": [
-        "19216",
-        "ONE OR EIGHT",
-        "5bIttAFRf7URUmuuI9w7XA",
-        "1758291632",
-        "275967661",
-        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
+        "360",
+        "Sangatsu no Phantasia",
+        "三月のパンタシア",
+        "5WmX340gDNLIAyUcg4MzWN",
+        "1097659633",
+        "10665133",
+        "UChmAdYjOdnnrSA2kBMKdoYw"
       ],
       "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-ED1.webm",
-        "basename": "BlackCloverS2-ED1.webm",
-        "animeSlug": "black_clover_2nd_season",
+        "url": "https://v.animethemes.moe/NamaAnaru-OP1.webm",
+        "basename": "NamaAnaru-OP1.webm",
+        "animeSlug": "seitokai_ni_mo_ana_wa_aru",
         "themeSlug": "",
-        "type": "ED",
+        "type": "OP",
         "sequence": 1,
         "version": 1
       }
@@ -5082,19 +5704,19 @@
       }
     },
     {
-      "id": "27953",
-      "anime": "Ranma ½ (2024) 3rd Season",
-      "song": "Sunao Miman",
-      "artist": "Fumino",
-      "artistDisplay": "Fumino",
+      "id": "27938",
+      "anime": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+      "song": "Still Water",
+      "artist": "Rico Sasaki",
+      "artistDisplay": "Rico Sasaki",
       "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/3UFWG309DWKp4S249wxysd",
-      "apple": "https://geo.music.apple.com/album/6817622046?i=6817622415&at=1001l384j&ct=website-ranma-2024-3rd-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a035255163cbc6fb8dea2a8e81879aa420d4e50c@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/ranma-2024-3rd-season-opening",
+      "spotify": "https://open.spotify.com/track/38ux50kdbuJkD7BKSAPIJ5",
+      "apple": "https://geo.music.apple.com/album/6807839462?i=6807839465&at=1001l384j&ct=website-as-a-reincarnated-aristocrat-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8ae74089eb1e89545a2608c65ce46b7db6e98561@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -5126,679 +5748,29 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Sunao Miman",
-        "素直未満"
+        "Still Water"
       ],
       "animeCandidates": [
-        "Ranma ½ (2024) 3rd Season",
-        "Ranma 1/2 (2024) 3rd Season",
-        "らんま1/2 第3期",
-        "Ranma ½ (2024) Season 3"
+        "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+        "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+        "Reincarnated as an Aristocrat with an Appraisal Skill Season 3",
+        "転生貴族、鑑定スキルで成り上がる 第3期"
       ],
       "artistCandidates": [
-        "24220",
-        "Fumino",
-        "ふみの",
-        "5aCs1cmbReUSJ4K9SuOYCx",
-        "1723012051",
-        "288597931",
-        "UCpvym4hXdo4fVz0Rpu_LNoA"
+        "426",
+        "Rico Sasaki",
+        "佐々木李子",
+        "32vntVlDOsm1HGm9Xe0FSz",
+        "1361445379",
+        "122365542",
+        "UCmNJnINtgmp9XyYq_yADLpw"
       ],
       "animethemesVideo": {
-        "url": "https://v.animethemes.moe/Ranma2024S3-OP1.webm",
-        "basename": "Ranma2024S3-OP1.webm",
-        "animeSlug": "ranma_12_2024_3rd_season",
+        "url": "https://v.animethemes.moe/KanteiSkillS3-OP1.webm",
+        "basename": "KanteiSkillS3-OP1.webm",
+        "animeSlug": "tensei_kizoku_kantei_skill_de_nariagaru_3rd_season",
         "themeSlug": "",
         "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27870",
-      "anime": "The Ramparts of Ice Season 2",
-      "song": "Hanakage",
-      "artist": "Superfly",
-      "artistDisplay": "Superfly",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
-      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Hanakage",
-        "花蔭"
-      ],
-      "animeCandidates": [
-        "The Ramparts of Ice Season 2",
-        "Koori no Jouheki 2nd Season",
-        "氷の城壁 第2期"
-      ],
-      "artistCandidates": [
-        "372",
-        "Superfly",
-        "5M8AXrOifBT8elkLKbGPQZ",
-        "150974880",
-        "142878",
-        "UCarJ-jLDuyHOlRXzIcqL4oQ"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-ED1.webm",
-        "basename": "KooriNoJouhekiS2-ED1.webm",
-        "animeSlug": "koori_no_jouheki_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "artist": "aiko",
-      "artistDisplay": "aiko",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
-      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/93e99655a56103c00fc84ab4972eb7dd09d4c291@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Anata no Hana no Iro",
-        "あなたの花の色",
-        "the color of your flower"
-      ],
-      "animeCandidates": [
-        "Blue Box Season 2",
-        "アオのハコ Season2",
-        "Ao no Hako Season 2"
-      ],
-      "artistCandidates": [
-        "3105",
-        "aiko",
-        "6TDMbiQCWeMClsMr9ORLRK",
-        "635154255",
-        "2643581"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/AoNoHakoS2-OP1.webm",
-        "basename": "AoNoHakoS2-OP1.webm",
-        "animeSlug": "ao_no_hako_season_2",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28080",
-      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "song": "Ember Torch",
-      "artist": "sumika",
-      "artistDisplay": "sumika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC",
-      "apple": "https://geo.music.apple.com/album/6815636614?i=6815636619&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Ember Torch",
-        "エンバートーチ"
-      ],
-      "animeCandidates": [
-        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
-        "Chii Fuyo",
-        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
-        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
-      ],
-      "artistCandidates": [
-        "1626",
-        "sumika",
-        "0ySFZq3Wd0SQUyJUzmJAeb",
-        "586120102",
-        "5200027",
-        "UCz_qp5woGr9GjmSzGbCCslA"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/ChiiFuyo-OP1.webm",
-        "basename": "ChiiFuyo-OP1.webm",
-        "animeSlug": "chiifuyo",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27895",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "AIYOU",
-      "artist": "Eve",
-      "artistDisplay": "Eve",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
-      "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/527a3ea827988814d3f983f071b0549386dd3e9b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "AIYOU"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "1376",
-        "Eve",
-        "58oPVy7oihAEXE0Ott6JOf",
-        "1080967231",
-        "69128312",
-        "UCcjpUrxD6_eT09KnzIg3U3A",
-        "24642",
-        "TOHO animation",
-        "UC14Yc2Qv92DMuyNRlHvpo2Q"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KusuriyaNoHitorigotoS3-ED1.webm",
-        "basename": "KusuriyaNoHitorigotoS3-ED1.webm",
-        "animeSlug": "kusuriya_no_hitorigoto_3rd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27940",
-      "anime": "Ao Ashi Season 2",
-      "song": "Triangle",
-      "artist": "Ai Higuchi",
-      "artistDisplay": "Ai Higuchi",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/57pktRziJ7HCZ2YAQA3fkg",
-      "apple": "https://geo.music.apple.com/album/6810885756?i=6810885940&at=1001l384j&ct=website-ao-ashi-season-2-ed1&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e3f333b6a543fc5234d1113bdffe4a3f6b67cebe@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/ao-ashi-season-2-ending-1",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Triangle",
-        "トライアングル"
-      ],
-      "animeCandidates": [
-        "Ao Ashi Season 2",
-        "アオアシ Season2",
-        "Aoashi Season 2"
-      ],
-      "artistCandidates": [
-        "712",
-        "Ai Higuchi",
-        "ヒグチアイ",
-        "4GxWcui9BlMJH9VOOK5wav",
-        "328815944",
-        "46988452",
-        "UC8aw_ot8rVqpwRoN_DGkSTA",
-        "25509",
-        "ShoProアニメチャンネル",
-        "UC-cXutYzvqARF5wNKx1KCNA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27937",
-      "anime": "Ao Ashi Season 2",
-      "song": "Fortress Defense",
-      "artist": "10-FEET",
-      "artistDisplay": "10-FEET",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0MVKlIHanWrSMgwtsI7WMS",
-      "apple": "https://geo.music.apple.com/album/6811735538?i=6811735539&at=1001l384j&ct=website-ao-ashi-season-2-op1&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e3f333b6a543fc5234d1113bdffe4a3f6b67cebe@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/ao-ashi-season-2-opening-1",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Fortress Defense"
-      ],
-      "animeCandidates": [
-        "Ao Ashi Season 2",
-        "アオアシ Season2",
-        "Aoashi Season 2"
-      ],
-      "artistCandidates": [
-        "6543",
-        "10-FEET",
-        "0QZqdhoRQkn1VphAa5eX8h",
-        "76125500",
-        "3695",
-        "UC133vm68gS3LxTjT9mECW1Q",
-        "25509",
-        "ShoProアニメチャンネル",
-        "UC-cXutYzvqARF5wNKx1KCNA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27988",
-      "anime": "Reincarnated as a Sword Season 2",
-      "song": "DREAM OF BUTTERFLY",
-      "artist": "FZMZ",
-      "artistDisplay": "FZMZ",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/611IQQ87evnbCgEFY9Cail",
-      "apple": "https://geo.music.apple.com/album/6816049621?i=6816049623&at=1001l384j&ct=website-reincarnated-as-a-sword-seaso-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6909d8c71217931afff17c7e2a1bf503840667f6@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/reincarnated-as-a-sword-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "DREAM OF BUTTERFLY"
-      ],
-      "animeCandidates": [
-        "Reincarnated as a Sword Season 2",
-        "Tensei shitara Ken deshita 2",
-        "I became the sword by transmigrating 2nd Season",
-        "TenKen 2",
-        "転生したら剣でした2",
-        "I became the sword by transmigrating 2nd Season, TenKen 2",
-        "Tensei shitara Ken deshita II",
-        "転生したら剣でした II"
-      ],
-      "artistCandidates": [
-        "14735",
-        "FZMZ",
-        "0RrQBLmeSCUkYFs0vncrhb",
-        "1705665721",
-        "230000265",
-        "UCHE99igrlGCZEBdE8h1MuMA"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/TenkenS2-OP1.webm",
-        "basename": "TenkenS2-OP1.webm",
-        "animeSlug": "tensei_shitara_ken_deshita_2nd_season",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27933",
-      "anime": "I'm Dating a Dark Summoner",
-      "song": "AKUMA♰No?☆Hime♡Goto",
-      "artist": "Mao Komiya",
-      "artistDisplay": "Mao Komiya",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3KjcpmwYS8YAoCeqWJV6pX",
-      "apple": "https://geo.music.apple.com/album/6808480991?i=6808480992&at=1001l384j&ct=website-im-dating-a-dark-summoner-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/efe04d636cad93820df88a882d04013710d4f606@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/im-dating-a-dark-summoner-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "AKUMA♰No?☆Hime♡Goto",
-        "AKUMA♰No?☆ヒメ♡ゴト",
-        "AKUMA No Himegoto",
-        "AKUMANoヒメゴト"
-      ],
-      "animeCandidates": [
-        "I'm Dating a Dark Summoner",
-        "Dark Summoner to Dekiteiru",
-        "ダークサモナーとデキている"
-      ],
-      "artistCandidates": [
-        "24190",
-        "Mao Komiya",
-        "小宮真央",
-        "7F5hQfO5nNNCyUID620V0t",
-        "428188292",
-        "25508",
-        "Komiya Mao",
-        "UCwPuxM0SpF0sZYRL46HrYSg"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/DarkSummoner-ED1.webm",
-        "basename": "DarkSummoner-ED1.webm",
-        "animeSlug": "dark_summoner_to_dekiteiru",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28079",
-      "anime": "Chitose Is in the Ramune Bottle Part 2",
-      "song": "Doko ni mo Ikenai Mama",
-      "artist": "aruma",
-      "artistDisplay": "aruma",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4dLMOHdFFJyU1vLyowMV3o",
-      "apple": "https://geo.music.apple.com/album/6815485139?i=6815485144&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c6fe18d65c58205f8fc6f2090dccee9f1fb5a800@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/chitose-is-in-the-ramune-bottle-part-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Doko ni mo Ikenai Mama",
-        "どこにもいけないまま"
-      ],
-      "animeCandidates": [
-        "Chitose Is in the Ramune Bottle Part 2",
-        "Chitose-kun wa Ramune Bin no Naka Part 2",
-        "Chiramune",
-        "Chitose-kun is Inside a Ramune Bottle",
-        "Ramune no Bin ni Shizunda Biidama no Tsuki",
-        "千歳くんはラムネ瓶のなか 第2クール"
-      ],
-      "artistCandidates": [
-        "14260",
-        "aruma",
-        "007ymf6nTBbhE9f9zxTcJF",
-        "1599024919",
-        "174333417",
-        "UCFk-qfmwoMq3kf6PWhqTdtw"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/ChiramunePart2-ED1.webm",
-        "basename": "ChiramunePart2-ED1.webm",
-        "animeSlug": "chitosekun_wa_ramune_bin_no_naka_part_2",
-        "themeSlug": "",
-        "type": "ED",
         "sequence": 1,
         "version": 1
       }
@@ -5870,12 +5842,28 @@
       "apple": "https://geo.music.apple.com/album/6818198835?i=6818199062&at=1001l384j&ct=website-the-detective-is-alrea-edtv-size&app=music"
     },
     {
+      "id": "27900",
+      "anime": "Black Clover 2nd Season",
+      "song": "Kienai Riyuu",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
+      "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music"
+    },
+    {
       "id": "28092",
       "anime": "Tanuki to Kitsune (TV)",
       "song": "Nicoichi!",
       "kind": "TS",
       "spotify": "https://open.spotify.com/track/0xI2LKQeVFKHvcBnb3aA6D",
       "apple": "https://geo.music.apple.com/album/6811489712?i=6811489717&at=1001l384j&ct=website-tanuki-to-kitsune-tv-ts&app=music"
+    },
+    {
+      "id": "27870",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Hanakage",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
+      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music"
     },
     {
       "id": "28091",
@@ -5892,6 +5880,22 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/3zyIPd2EGVwGVuKWWTOnZ2",
       "apple": "https://geo.music.apple.com/album/6786976397?i=6786976398&at=1001l384j&ct=website-sasaki-and-peeps-season-2-op&app=music"
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
+      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music"
+    },
+    {
+      "id": "27895",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "AIYOU",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
+      "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music"
     },
     {
       "id": "28082",
@@ -5926,92 +5930,20 @@
       "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music"
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
-    },
-    {
-      "id": "28083",
-      "anime": "Uncle's Obsession with Cute Things",
-      "song": "LIKE³",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/1JgTtiOeN3lprwsFsdMIjZ",
-      "apple": "https://geo.music.apple.com/album/6819531226?i=6819531229&at=1001l384j&ct=website-uncles-obsession-with-cute-th-op&app=music"
-    },
-    {
-      "id": "27900",
-      "anime": "Black Clover 2nd Season",
-      "song": "Kienai Riyuu",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
-      "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music"
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music"
-    },
-    {
-      "id": "28086",
-      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
-      "song": "Here we are!",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
-      "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music"
-    },
-    {
-      "id": "27953",
-      "anime": "Ranma ½ (2024) 3rd Season",
-      "song": "Sunao Miman",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/3UFWG309DWKp4S249wxysd",
-      "apple": "https://geo.music.apple.com/album/6817622046?i=6817622415&at=1001l384j&ct=website-ranma-2024-3rd-season-op&app=music"
-    },
-    {
-      "id": "27870",
-      "anime": "The Ramparts of Ice Season 2",
-      "song": "Hanakage",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
-      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music"
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
-      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music"
-    },
-    {
-      "id": "28080",
-      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "song": "Ember Torch",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC",
-      "apple": "https://geo.music.apple.com/album/6815636614?i=6815636619&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-op&app=music"
-    },
-    {
-      "id": "27895",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "AIYOU",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
-      "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music"
-    },
-    {
       "id": "27940",
       "anime": "Ao Ashi Season 2",
       "song": "Triangle",
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/57pktRziJ7HCZ2YAQA3fkg",
       "apple": "https://geo.music.apple.com/album/6810885756?i=6810885940&at=1001l384j&ct=website-ao-ashi-season-2-ed1&app=music"
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
     },
     {
       "id": "27937",
@@ -6022,14 +5954,6 @@
       "apple": "https://geo.music.apple.com/album/6811735538?i=6811735539&at=1001l384j&ct=website-ao-ashi-season-2-op1&app=music"
     },
     {
-      "id": "27988",
-      "anime": "Reincarnated as a Sword Season 2",
-      "song": "DREAM OF BUTTERFLY",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/611IQQ87evnbCgEFY9Cail",
-      "apple": "https://geo.music.apple.com/album/6816049621?i=6816049623&at=1001l384j&ct=website-reincarnated-as-a-sword-seaso-op&app=music"
-    },
-    {
       "id": "27933",
       "anime": "I'm Dating a Dark Summoner",
       "song": "AKUMA♰No?☆Hime♡Goto",
@@ -6038,12 +5962,60 @@
       "apple": "https://geo.music.apple.com/album/6808480991?i=6808480992&at=1001l384j&ct=website-im-dating-a-dark-summoner-ed&app=music"
     },
     {
-      "id": "28079",
-      "anime": "Chitose Is in the Ramune Bottle Part 2",
-      "song": "Doko ni mo Ikenai Mama",
+      "id": "27823",
+      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "song": "Shinu ka Ikiru ka",
       "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4dLMOHdFFJyU1vLyowMV3o",
-      "apple": "https://geo.music.apple.com/album/6815485139?i=6815485144&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-ed&app=music"
+      "spotify": "https://open.spotify.com/track/7vdZztyuzNX1joqkbhWBxX",
+      "apple": "https://geo.music.apple.com/album/6809991313?i=6809991318&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-ed&app=music"
+    },
+    {
+      "id": "28083",
+      "anime": "Uncle's Obsession with Cute Things",
+      "song": "LIKE³",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/1JgTtiOeN3lprwsFsdMIjZ",
+      "apple": "https://geo.music.apple.com/album/6819531226?i=6819531229&at=1001l384j&ct=website-uncles-obsession-with-cute-th-op&app=music"
+    },
+    {
+      "id": "27939",
+      "anime": "Psyren",
+      "song": "WARNING!!",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/6xqdTZWgBBh9MuF9t0zEbq",
+      "apple": "https://geo.music.apple.com/album/6812665302?i=6812665312&at=1001l384j&ct=website-psyren-op&app=music"
+    },
+    {
+      "id": "27761",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "IGNITE",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/4AAiz8MarztbqTCTMfwXYr",
+      "apple": "https://geo.music.apple.com/album/6797375185?i=6797375186&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-op&app=music"
+    },
+    {
+      "id": "27918",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Kaze no Naka wa Hashirukkyanai!",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/4fK5Y2ExgkIIurCMwt688I",
+      "apple": "https://geo.music.apple.com/album/6812190429?i=6812190650&at=1001l384j&ct=website-even-the-student-council-has-op&app=music"
+    },
+    {
+      "id": "28086",
+      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
+      "song": "Here we are!",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
+      "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music"
+    },
+    {
+      "id": "27938",
+      "anime": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+      "song": "Still Water",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/38ux50kdbuJkD7BKSAPIJ5",
+      "apple": "https://geo.music.apple.com/album/6807839462?i=6807839465&at=1001l384j&ct=website-as-a-reincarnated-aristocrat-op&app=music"
     }
   ]
 }

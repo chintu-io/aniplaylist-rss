@@ -9894,7 +9894,8 @@
       "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
       "どうも、好きな人に惚れ薬を依頼された魔女です。",
       "I'm a Witch Who's Crush Requested a Love Potion",
-      "Horemajo"
+      "Horemajo",
+      "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!"
     ],
     "artistCandidates": [
       "1833",
@@ -10890,7 +10891,8 @@
       "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
       "どうも、好きな人に惚れ薬を依頼された魔女です。",
       "I'm a Witch Who's Crush Requested a Love Potion",
-      "Horemajo"
+      "Horemajo",
+      "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!"
     ],
     "artistCandidates": [
       "24219",
@@ -15153,7 +15155,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "unreleased",
       "objectID"
@@ -15777,7 +15778,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -15851,7 +15851,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -15924,7 +15923,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -15999,7 +15997,6 @@
       "label",
       "short_link",
       "products",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -16074,7 +16071,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
