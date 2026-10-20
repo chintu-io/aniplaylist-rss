@@ -1,4 +1,4 @@
-Fall 2026: results=225 uniqueHits=225 normalized=225 spotify=174 apple=175 accepted=174
+Fall 2026: results=228 uniqueHits=228 normalized=228 spotify=185 apple=186 accepted=185
 Winter 2027: results=15 uniqueHits=15 normalized=15 spotify=3 apple=3 accepted=3
 Spring 2027: results=? uniqueHits=0 normalized=0 spotify=0 apple=0 accepted=0
 Summer 2027: results=? uniqueHits=0 normalized=0 spotify=0 apple=0 accepted=0

@@ -3,25 +3,89 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 225,
-  "animeThemesChecked": 130,
-  "animeThemesMatched": 90,
+  "resultCount": 228,
+  "animeThemesChecked": 136,
+  "animeThemesMatched": 94,
   "animeThemesSeasonLinks": 72,
   "jsonResponses": 32,
   "algoliaResponses": 15,
   "hitArrays": 30,
-  "rawHits": 225,
-  "uniqueHits": 225,
-  "normalized": 225,
-  "withSpotify": 174,
-  "withApple": 175,
-  "withDetailUrl": 177,
-  "resolvedSpotify": 174,
-  "recordThumbnails": 225,
+  "rawHits": 228,
+  "uniqueHits": 228,
+  "normalized": 228,
+  "withSpotify": 185,
+  "withApple": 186,
+  "withDetailUrl": 178,
+  "resolvedSpotify": 185,
+  "recordThumbnails": 228,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28165",
+      "anime": "Maebashi Witches: Emoemories - Blooming Witches",
+      "song": "Ame Hare Make up",
+      "artist": "Maebashi Witches",
+      "artistDisplay": "Maebashi Witches",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4hLgWSegtXLiAH0wisXRiW",
+      "apple": "https://geo.music.apple.com/album/6806131574?i=6806131584&at=1001l384j&ct=website-maebashi-witches-emoemories-b-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/maebashi-witches-emoemories-blooming-witches-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Ame Hare Make up",
+        "雨晴れMake up"
+      ],
+      "animeCandidates": [
+        "Maebashi Witches: Emoemories - Blooming Witches",
+        "Maebashi Witches: Majo Minarai no Emoemories",
+        "前橋ウィッチーズ ～魔女見習いのエモエモリーズ～"
+      ],
+      "artistCandidates": [
+        "16505",
+        "Maebashi Witches",
+        "前橋ウィッチーズ",
+        "5tQLD8Ak85HJXxXy6Pp5D9",
+        "1760278750",
+        "275744521",
+        "UCyVUXr9nGlMwz07Sv2U2YVw"
+      ]
+    },
     {
       "id": "28155",
       "anime": "BanG Dream! Ave Mujica: Prima Aurora",
@@ -276,74 +340,20 @@
         "464569",
         "UCTq0xhLkoXLlWD58eK4sqlQ"
       ]
-    },
-    {
-      "id": "28147",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "There's Gonna Be A Parade!",
-      "artist": "Paul Leonard-Morgan",
-      "artistDisplay": "Paul Leonard-Morgan",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 7)",
-      "episodes": [
-        "7"
-      ],
-      "spotify": "https://open.spotify.com/track/79u5Z1b8JZp5CbQDdD4MQi",
-      "apple": "https://geo.music.apple.com/album/1544457960?i=1544458092&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-7&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b8ce0ddec40ecbcdf3e94e7cc802ccd481d40c77@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-7-theres-gonna-be-a-parade",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "There's Gonna Be A Parade!"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "13002",
-        "Paul Leonard-Morgan",
-        "0360rTDeUjEyBXaz2Ki00a",
-        "264822913",
-        "464569",
-        "UCTq0xhLkoXLlWD58eK4sqlQ"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28165",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L9NmA.0oB0~TF-5]-qggGXGSg#L2",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886@2xl.jpeg"
+    },
     {
       "id": "28155",
       "thumbnailType": "string",
@@ -453,26 +463,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/b8ce0ddec40ecbcdf3e94e7cc802ccd481d40c77@2xl.jpg"
-    },
-    {
-      "id": "28128",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/b8ce0ddec40ecbcdf3e94e7cc802ccd481d40c77.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LuHClxxa9#V@_MofI]R*nmRnRQWU",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/b8ce0ddec40ecbcdf3e94e7cc802ccd481d40c77@2xl.jpg"
     }
   ],
-  "expectedHits": 225,
+  "expectedHits": 228,
   "expectedPages": 15,
   "receivedPages": 15,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -480,7 +480,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -488,7 +488,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -496,7 +496,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -504,7 +504,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -512,7 +512,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -520,7 +520,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -528,7 +528,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -536,7 +536,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -544,7 +544,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -552,7 +552,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -560,7 +560,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -568,7 +568,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -576,7 +576,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -584,7 +584,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -592,7 +592,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -600,7 +600,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -608,7 +608,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -616,7 +616,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -624,7 +624,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -632,7 +632,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -640,7 +640,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -648,7 +648,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -656,7 +656,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -664,7 +664,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -672,7 +672,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -680,7 +680,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -688,7 +688,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -696,21 +696,85 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 225,
+      "nbHits": 228,
       "hitsPerPage": 16,
       "nbPages": 15,
-      "count": 1
+      "count": 4
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28401,
+      "nbHits": 28406,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28165",
+      "anime": "Maebashi Witches: Emoemories - Blooming Witches",
+      "song": "Ame Hare Make up",
+      "artist": "Maebashi Witches",
+      "artistDisplay": "Maebashi Witches",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4hLgWSegtXLiAH0wisXRiW",
+      "apple": "https://geo.music.apple.com/album/6806131574?i=6806131584&at=1001l384j&ct=website-maebashi-witches-emoemories-b-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/maebashi-witches-emoemories-blooming-witches-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Ame Hare Make up",
+        "雨晴れMake up"
+      ],
+      "animeCandidates": [
+        "Maebashi Witches: Emoemories - Blooming Witches",
+        "Maebashi Witches: Majo Minarai no Emoemories",
+        "前橋ウィッチーズ ～魔女見習いのエモエモリーズ～"
+      ],
+      "artistCandidates": [
+        "16505",
+        "Maebashi Witches",
+        "前橋ウィッチーズ",
+        "5tQLD8Ak85HJXxXy6Pp5D9",
+        "1760278750",
+        "275744521",
+        "UCyVUXr9nGlMwz07Sv2U2YVw"
+      ]
+    },
     {
       "id": "28155",
       "anime": "BanG Dream! Ave Mujica: Prima Aurora",
@@ -2400,8 +2464,7 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Watson",
-        "Watson (feat. Oslo Green)"
+        "Watson"
       ],
       "animeCandidates": [
         "Cyberpunk: Edgerunners 2",
@@ -2613,84 +2676,6 @@
         "Syberia Tdw",
         "UCW3SEq4kDizQFDDSVY3kXRQ"
       ]
-    },
-    {
-      "id": "28120",
-      "anime": "A Certain Dark Side's Item",
-      "song": "Meltdowner",
-      "artist": "KISIDA KYODAN & THE AKEBOSI ROCKETS",
-      "artistDisplay": "KISIDA KYODAN & THE AKEBOSI ROCKETS",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2hhGjYncdykHxnxuqMURnN",
-      "apple": "https://geo.music.apple.com/album/6819323104?i=6819323107&at=1001l384j&ct=website-a-certain-dark-sides-item-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3e32241cc44569dc295542ffa2ae29aef3fcc8c3@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Meltdowner",
-        "Genshi Kuzushi (Meltdowner)",
-        "原⼦崩し(メルトダウナー)"
-      ],
-      "animeCandidates": [
-        "A Certain Dark Side's Item",
-        "Toaru Anbu no Item",
-        "Toaru Anbu no Shoujo Kyousei",
-        "とある暗部の少女共棲",
-        "A Certain Dark Item"
-      ],
-      "artistCandidates": [
-        "220",
-        "KISIDA KYODAN & THE AKEBOSI ROCKETS",
-        "Kishida Kyoudan & The Akeboshi Rockets",
-        "岸田教団&The明星ロケッツ",
-        "Kisida Kyodan & The Akebosi Rockets",
-        "1zPnpAM7fGFr7pl8OSNvak",
-        "736621456",
-        "7478946",
-        "UCSDwXTEapUN0qI5mBx9XzTw"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/ToaruAnbuNoItem-ED1.webm",
-        "basename": "ToaruAnbuNoItem-ED1.webm",
-        "animeSlug": "toaru_anbu_no_item",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
     }
   ],
   "sourceMetadataSamples": [
@@ -3266,6 +3251,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28165",
+      "anime": "Maebashi Witches: Emoemories - Blooming Witches",
+      "song": "Ame Hare Make up",
+      "kind": "TS",
+      "detailUrl": "https://aniplaylist.com/play/maebashi-witches-emoemories-blooming-witches-theme-song"
+    },
+    {
       "id": "28155",
       "anime": "BanG Dream! Ave Mujica: Prima Aurora",
       "song": "A Song Of Romance",
@@ -3467,16 +3459,73 @@
       "song": "serce",
       "kind": "IN",
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-serce"
-    },
-    {
-      "id": "28120",
-      "anime": "A Certain Dark Side's Item",
-      "song": "Meltdowner",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-ending"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28165",
+      "anime": "Maebashi Witches: Emoemories - Blooming Witches",
+      "song": "Ame Hare Make up",
+      "artist": "Maebashi Witches",
+      "artistDisplay": "Maebashi Witches",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4hLgWSegtXLiAH0wisXRiW",
+      "apple": "https://geo.music.apple.com/album/6806131574?i=6806131584&at=1001l384j&ct=website-maebashi-witches-emoemories-b-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/maebashi-witches-emoemories-blooming-witches-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Ame Hare Make up",
+        "雨晴れMake up"
+      ],
+      "animeCandidates": [
+        "Maebashi Witches: Emoemories - Blooming Witches",
+        "Maebashi Witches: Majo Minarai no Emoemories",
+        "前橋ウィッチーズ ～魔女見習いのエモエモリーズ～"
+      ],
+      "artistCandidates": [
+        "16505",
+        "Maebashi Witches",
+        "前橋ウィッチーズ",
+        "5tQLD8Ak85HJXxXy6Pp5D9",
+        "1760278750",
+        "275744521",
+        "UCyVUXr9nGlMwz07Sv2U2YVw"
+      ]
+    },
     {
       "id": "28155",
       "anime": "BanG Dream! Ave Mujica: Prima Aurora",
@@ -5166,8 +5215,7 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Watson",
-        "Watson (feat. Oslo Green)"
+        "Watson"
       ],
       "animeCandidates": [
         "Cyberpunk: Edgerunners 2",
@@ -5396,83 +5444,17 @@
         "sequence": 1,
         "version": 1
       }
-    },
-    {
-      "id": "28119",
-      "anime": "A Certain Dark Side's Item",
-      "song": "Ghost Sequence",
-      "artist": "East of Eden",
-      "artistDisplay": "East of Eden",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6RbfCXkDGeOaU3a1C0PuQQ",
-      "apple": "https://geo.music.apple.com/album/6819949615?i=6819949616&at=1001l384j&ct=website-a-certain-dark-sides-item-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/149bcc1a48bb3887e934cf4c4599834c97140043@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Ghost Sequence"
-      ],
-      "animeCandidates": [
-        "A Certain Dark Side's Item",
-        "Toaru Anbu no Item",
-        "Toaru Anbu no Shoujo Kyousei",
-        "とある暗部の少女共棲",
-        "A Certain Dark Item"
-      ],
-      "artistCandidates": [
-        "23856",
-        "East of Eden",
-        "East Of Eden",
-        "3lvaevDiFzsr9cUrMV8HYn",
-        "1696602595",
-        "107676",
-        "UCrGFuEGlsGSGtVmqlYlyDQg"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/ToaruAnbuNoItem-OP1.webm",
-        "basename": "ToaruAnbuNoItem-OP1.webm",
-        "animeSlug": "toaru_anbu_no_item",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
     }
   ],
   "platformSamples": [
+    {
+      "id": "28165",
+      "anime": "Maebashi Witches: Emoemories - Blooming Witches",
+      "song": "Ame Hare Make up",
+      "kind": "TS",
+      "spotify": "https://open.spotify.com/track/4hLgWSegtXLiAH0wisXRiW",
+      "apple": "https://geo.music.apple.com/album/6806131574?i=6806131584&at=1001l384j&ct=website-maebashi-witches-emoemories-b-ts&app=music"
+    },
     {
       "id": "28155",
       "anime": "BanG Dream! Ave Mujica: Prima Aurora",
@@ -5704,14 +5686,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/2hhGjYncdykHxnxuqMURnN",
       "apple": "https://geo.music.apple.com/album/6819323104?i=6819323107&at=1001l384j&ct=website-a-certain-dark-sides-item-ed&app=music"
-    },
-    {
-      "id": "28119",
-      "anime": "A Certain Dark Side's Item",
-      "song": "Ghost Sequence",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/6RbfCXkDGeOaU3a1C0PuQQ",
-      "apple": "https://geo.music.apple.com/album/6819949615?i=6819949616&at=1001l384j&ct=website-a-certain-dark-sides-item-op&app=music"
     }
   ]
 }
