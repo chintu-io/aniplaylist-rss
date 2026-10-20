@@ -23,6 +23,75 @@
   "mismatchedDetailPages": 0,
   "sample": [
     {
+      "id": "28075",
+      "anime": "Inherit the Winds",
+      "song": "Namida no Kawa",
+      "artist": "Hitsujibungaku",
+      "artistDisplay": "Hitsujibungaku & Quruli",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
+      "apple": "https://geo.music.apple.com/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-ending",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Namida no Kawa",
+        "涙の河"
+      ],
+      "animeCandidates": [
+        "Inherit the Winds",
+        "Kaze wo Tsugumono",
+        "風を継ぐもの"
+      ],
+      "artistCandidates": [
+        "7233",
+        "Hitsujibungaku",
+        "羊文学",
+        "6S8w5rLsEwjN21jQeRES0n",
+        "1281384242",
+        "13290779",
+        "UCnZK-AT0Yrx8uXcFRqUy87g",
+        "315",
+        "Quruli",
+        "26WuprsX7JRG69T0PXkze4",
+        "105025123",
+        "418290562",
+        "UCLIFRNQRDAaD5H4REYsRdmA"
+      ]
+    },
+    {
       "id": "27894",
       "anime": "Inherit the Winds",
       "song": "Jinsuke no Theme",
@@ -149,75 +218,6 @@
       ]
     },
     {
-      "id": "28075",
-      "anime": "Inherit the Winds",
-      "song": "Namida no Kawa",
-      "artist": "Hitsujibungaku",
-      "artistDisplay": "Hitsujibungaku & Quruli",
-      "artistDisplayCount": 2,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
-      "apple": "https://geo.music.apple.com/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-ending",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Namida no Kawa",
-        "涙の河"
-      ],
-      "animeCandidates": [
-        "Inherit the Winds",
-        "Kaze wo Tsugumono",
-        "風を継ぐもの"
-      ],
-      "artistCandidates": [
-        "7233",
-        "Hitsujibungaku",
-        "羊文学",
-        "6S8w5rLsEwjN21jQeRES0n",
-        "1281384242",
-        "13290779",
-        "UCnZK-AT0Yrx8uXcFRqUy87g",
-        "315",
-        "Quruli",
-        "26WuprsX7JRG69T0PXkze4",
-        "105025123",
-        "418290562",
-        "UCLIFRNQRDAaD5H4REYsRdmA"
-      ]
-    },
-    {
       "id": "us_3297",
       "anime": "Kidou Senshi Gundam SEED Freedom Zero",
       "song": "Original Soundtrack",
@@ -327,6 +327,16 @@
   "errors": [],
   "thumbnailFieldSamples": [
     {
+      "id": "28075",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/9002c8857d927eda5b925958cfd75d5176e38685.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LCH{.?oy01-o00Rk~BIVD*kC~VxZ",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg"
+    },
+    {
       "id": "27894",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/b0f07443b406e866c8135ad5a60694a7fedd62cf.jpeg",
@@ -345,16 +355,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088@2xl.jpg"
-    },
-    {
-      "id": "28075",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/9002c8857d927eda5b925958cfd75d5176e38685.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LCH{.?oy01-o00Rk~BIVD*kC~VxZ",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg"
     },
     {
       "id": "us_3297",
@@ -470,6 +470,76 @@
   ],
   "normalizedSamples": [
     {
+      "id": "28075",
+      "anime": "Inherit the Winds",
+      "song": "Namida no Kawa",
+      "artist": "Hitsujibungaku",
+      "artistDisplay": "Hitsujibungaku & Quruli",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
+      "apple": "https://geo.music.apple.com/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-ending",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Namida no Kawa",
+        "涙の河"
+      ],
+      "animeCandidates": [
+        "Inherit the Winds",
+        "Kaze wo Tsugumono",
+        "風を継ぐもの"
+      ],
+      "artistCandidates": [
+        "7233",
+        "Hitsujibungaku",
+        "羊文学",
+        "6S8w5rLsEwjN21jQeRES0n",
+        "1281384242",
+        "13290779",
+        "UCnZK-AT0Yrx8uXcFRqUy87g",
+        "315",
+        "Quruli",
+        "26WuprsX7JRG69T0PXkze4",
+        "105025123",
+        "418290562",
+        "UCLIFRNQRDAaD5H4REYsRdmA"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "27894",
       "anime": "Inherit the Winds",
       "song": "Jinsuke no Theme",
@@ -593,76 +663,6 @@
         "112018",
         "415",
         "UCrPe3hLA51968GwxHSZ1llw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28075",
-      "anime": "Inherit the Winds",
-      "song": "Namida no Kawa",
-      "artist": "Hitsujibungaku",
-      "artistDisplay": "Hitsujibungaku & Quruli",
-      "artistDisplayCount": 2,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
-      "apple": "https://geo.music.apple.com/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-ending",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Namida no Kawa",
-        "涙の河"
-      ],
-      "animeCandidates": [
-        "Inherit the Winds",
-        "Kaze wo Tsugumono",
-        "風を継ぐもの"
-      ],
-      "artistCandidates": [
-        "7233",
-        "Hitsujibungaku",
-        "羊文学",
-        "6S8w5rLsEwjN21jQeRES0n",
-        "1281384242",
-        "13290779",
-        "UCnZK-AT0Yrx8uXcFRqUy87g",
-        "315",
-        "Quruli",
-        "26WuprsX7JRG69T0PXkze4",
-        "105025123",
-        "418290562",
-        "UCLIFRNQRDAaD5H4REYsRdmA"
       ],
       "animethemesVideo": null
     },
@@ -1383,6 +1383,13 @@
   "sourceMetadataSamples": [],
   "detailUrlSamples": [
     {
+      "id": "28075",
+      "anime": "Inherit the Winds",
+      "song": "Namida no Kawa",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-ending"
+    },
+    {
       "id": "27894",
       "anime": "Inherit the Winds",
       "song": "Jinsuke no Theme",
@@ -1395,16 +1402,79 @@
       "song": "Breed",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/the-guy-she-was-interested-in-wasnt-a-guy-at-all-opening"
-    },
+    }
+  ],
+  "usableSamples": [
     {
       "id": "28075",
       "anime": "Inherit the Winds",
       "song": "Namida no Kawa",
+      "artist": "Hitsujibungaku",
+      "artistDisplay": "Hitsujibungaku & Quruli",
+      "artistDisplayCount": 2,
       "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-ending"
-    }
-  ],
-  "usableSamples": [
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
+      "apple": "https://geo.music.apple.com/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-ending",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Namida no Kawa",
+        "涙の河"
+      ],
+      "animeCandidates": [
+        "Inherit the Winds",
+        "Kaze wo Tsugumono",
+        "風を継ぐもの"
+      ],
+      "artistCandidates": [
+        "7233",
+        "Hitsujibungaku",
+        "羊文学",
+        "6S8w5rLsEwjN21jQeRES0n",
+        "1281384242",
+        "13290779",
+        "UCnZK-AT0Yrx8uXcFRqUy87g",
+        "315",
+        "Quruli",
+        "26WuprsX7JRG69T0PXkze4",
+        "105025123",
+        "418290562",
+        "UCLIFRNQRDAaD5H4REYsRdmA"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "27894",
       "anime": "Inherit the Winds",
@@ -1531,79 +1601,17 @@
         "UCrPe3hLA51968GwxHSZ1llw"
       ],
       "animethemesVideo": null
-    },
+    }
+  ],
+  "platformSamples": [
     {
       "id": "28075",
       "anime": "Inherit the Winds",
       "song": "Namida no Kawa",
-      "artist": "Hitsujibungaku",
-      "artistDisplay": "Hitsujibungaku & Quruli",
-      "artistDisplayCount": 2,
       "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
       "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
-      "apple": "https://geo.music.apple.com/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-ending",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Namida no Kawa",
-        "涙の河"
-      ],
-      "animeCandidates": [
-        "Inherit the Winds",
-        "Kaze wo Tsugumono",
-        "風を継ぐもの"
-      ],
-      "artistCandidates": [
-        "7233",
-        "Hitsujibungaku",
-        "羊文学",
-        "6S8w5rLsEwjN21jQeRES0n",
-        "1281384242",
-        "13290779",
-        "UCnZK-AT0Yrx8uXcFRqUy87g",
-        "315",
-        "Quruli",
-        "26WuprsX7JRG69T0PXkze4",
-        "105025123",
-        "418290562",
-        "UCLIFRNQRDAaD5H4REYsRdmA"
-      ],
-      "animethemesVideo": null
-    }
-  ],
-  "platformSamples": [
+      "apple": "https://geo.music.apple.com/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music"
+    },
     {
       "id": "27894",
       "anime": "Inherit the Winds",
@@ -1619,14 +1627,6 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/5mJGLBNJM0GULqAoL5mb9C",
       "apple": "https://music.apple.com/us/album/1586410660?i=1586410664&at=1001l384j&ct=website-the-guy-she-was-interested-in-op&app=music"
-    },
-    {
-      "id": "28075",
-      "anime": "Inherit the Winds",
-      "song": "Namida no Kawa",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
-      "apple": "https://geo.music.apple.com/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music"
     }
   ]
 }
