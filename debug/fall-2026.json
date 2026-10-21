@@ -3,25 +3,161 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 228,
-  "animeThemesChecked": 136,
-  "animeThemesMatched": 95,
+  "resultCount": 230,
+  "animeThemesChecked": 137,
+  "animeThemesMatched": 96,
   "animeThemesSeasonLinks": 72,
   "jsonResponses": 32,
   "algoliaResponses": 15,
   "hitArrays": 30,
-  "rawHits": 228,
-  "uniqueHits": 228,
-  "normalized": 228,
-  "withSpotify": 185,
-  "withApple": 186,
-  "withDetailUrl": 188,
-  "resolvedSpotify": 185,
-  "recordThumbnails": 228,
+  "rawHits": 230,
+  "uniqueHits": 230,
+  "normalized": 230,
+  "withSpotify": 187,
+  "withApple": 188,
+  "withDetailUrl": 190,
+  "resolvedSpotify": 187,
+  "recordThumbnails": 230,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28171",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Deux Livres",
+      "artist": "Nia Liston (CV: Honoka Inoue)",
+      "artistDisplay": "Nia Liston (CV: Honoka Inoue) & Sharro White (CV: Maaya Uchida)",
+      "artistDisplayCount": 2,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [
+        "3"
+      ],
+      "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
+      "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Deux Livres"
+      ],
+      "animeCandidates": [
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+      ],
+      "artistCandidates": [
+        "25678",
+        "Nia Liston (CV: Honoka Inoue)",
+        "ニア・リストン (CV: 井上ほの花)",
+        "1YOSNboXUUV8fcZJw4Zjob",
+        "6816815405",
+        "420276352",
+        "25679",
+        "Sharro White (CV: Maaya Uchida)",
+        "シャロ・ホワイト (CV: 内田真礼)",
+        "0u5zYLqFPffIeW9CfueFiG",
+        "6818432377",
+        "420276362"
+      ]
+    },
+    {
+      "id": "28170",
+      "anime": "Maebashi Witches: Emoemories - Blooming Witches",
+      "song": "Shunka",
+      "artist": "Maebashi Witches",
+      "artistDisplay": "Maebashi Witches",
+      "artistDisplayCount": 1,
+      "kind": "VA",
+      "kindLabel": "Vocal Album",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/1ipu7IN0rpqZDqBYd1mZYj",
+      "apple": "https://geo.music.apple.com/album/6806131574?at=1001l384j&ct=website-maebashi-witches-emoemories-b-va&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/maebashi-witches-emoemories-blooming-witches-shunka",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shunka",
+        "春化"
+      ],
+      "animeCandidates": [
+        "Maebashi Witches: Emoemories - Blooming Witches",
+        "Maebashi Witches: Majo Minarai no Emoemories",
+        "前橋ウィッチーズ ～魔女見習いのエモエモリーズ～"
+      ],
+      "artistCandidates": [
+        "16505",
+        "Maebashi Witches",
+        "前橋ウィッチーズ",
+        "5tQLD8Ak85HJXxXy6Pp5D9",
+        "1760278750",
+        "275744521",
+        "UCyVUXr9nGlMwz07Sv2U2YVw"
+      ]
+    },
     {
       "id": "28164",
       "anime": "Nia Liston: The Merciless Maiden",
@@ -213,134 +349,30 @@
         "207829687",
         "UCcUQTshxx-7gwzKa8fZjn6A"
       ]
-    },
-    {
-      "id": "28167",
-      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
-      "song": "A Song Of Romance Pt. 2",
-      "artist": "Ave Mujica",
-      "artistDisplay": "Ave Mujica",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0kgXakO9GnycldN5sGScwZ",
-      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842009&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-a-song-of-romance-pt-2",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "A Song Of Romance Pt. 2"
-      ],
-      "animeCandidates": [
-        "BanG Dream! Ave Mujica: Prima Aurora",
-        "BanG Dream! Ave Mujica prima aurora"
-      ],
-      "artistCandidates": [
-        "14696",
-        "Ave Mujica",
-        "5BKIH2Kwc6LbetG04Boai7",
-        "1680440024",
-        "207829687",
-        "UCcUQTshxx-7gwzKa8fZjn6A"
-      ]
-    },
-    {
-      "id": "28166",
-      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
-      "song": "Kami no Na o",
-      "artist": "Ave Mujica",
-      "artistDisplay": "Ave Mujica",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6HuRAiVekbXHrNKbIUkkOb",
-      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842008&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-kami-no-na-o",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kami no Na o",
-        "神の名を",
-        "God's Blood"
-      ],
-      "animeCandidates": [
-        "BanG Dream! Ave Mujica: Prima Aurora",
-        "BanG Dream! Ave Mujica prima aurora"
-      ],
-      "artistCandidates": [
-        "14696",
-        "Ave Mujica",
-        "5BKIH2Kwc6LbetG04Boai7",
-        "1680440024",
-        "207829687",
-        "UCcUQTshxx-7gwzKa8fZjn6A"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28171",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52.webp",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LHIDLx0J9F=y0J-5x[wz1H}at2I:",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp"
+    },
+    {
+      "id": "28170",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LRMaFf_2S*-:*0RjjXt8I[eRWFWY",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886@2xl.jpeg"
+    },
     {
       "id": "28164",
       "thumbnailType": "string",
@@ -440,36 +472,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/2652b519492164107930f672fdb84a0e92def810@2xl.jpeg"
-    },
-    {
-      "id": "28158",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/3fe0add5bded8cab2ab1ac4c8228eb4937c2f90a.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LLED3g00?bx]01_4M_IU9G-:D%x]",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/3fe0add5bded8cab2ab1ac4c8228eb4937c2f90a@2xl.jpeg"
-    },
-    {
-      "id": "28150",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/611deec5a26819ffd4f563a6f112f6689439e064.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LUKI}2y?[urr~Cpw%2NF$+tRNZrX",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg"
     }
   ],
-  "expectedHits": 228,
+  "expectedHits": 230,
   "expectedPages": 15,
   "receivedPages": 15,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -477,7 +489,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -485,7 +497,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -493,7 +505,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -501,7 +513,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -509,7 +521,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -517,7 +529,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -525,7 +537,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -533,7 +545,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -541,7 +553,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -549,7 +561,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -557,7 +569,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -565,7 +577,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -573,7 +585,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -581,7 +593,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -589,7 +601,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -597,7 +609,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -605,7 +617,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -613,7 +625,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -621,7 +633,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -629,7 +641,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -637,7 +649,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -645,7 +657,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -653,7 +665,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -661,7 +673,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -669,7 +681,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -677,7 +689,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -685,7 +697,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -693,21 +705,166 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 228,
+      "nbHits": 230,
       "hitsPerPage": 16,
       "nbPages": 15,
-      "count": 4
+      "count": 6
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28406,
+      "nbHits": 28409,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28171",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Deux Livres",
+      "artist": "Nia Liston (CV: Honoka Inoue)",
+      "artistDisplay": "Nia Liston (CV: Honoka Inoue) & Sharro White (CV: Maaya Uchida)",
+      "artistDisplayCount": 2,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [
+        "3"
+      ],
+      "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
+      "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Deux Livres"
+      ],
+      "animeCandidates": [
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+      ],
+      "artistCandidates": [
+        "25678",
+        "Nia Liston (CV: Honoka Inoue)",
+        "ニア・リストン (CV: 井上ほの花)",
+        "1YOSNboXUUV8fcZJw4Zjob",
+        "6816815405",
+        "420276352",
+        "25679",
+        "Sharro White (CV: Maaya Uchida)",
+        "シャロ・ホワイト (CV: 内田真礼)",
+        "0u5zYLqFPffIeW9CfueFiG",
+        "6818432377",
+        "420276362"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/NiaListon-OP2.webm",
+        "basename": "NiaListon-OP2.webm",
+        "animeSlug": "kyouran_reijou_nia_liston",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 2,
+        "version": 1
+      }
+    },
+    {
+      "id": "28170",
+      "anime": "Maebashi Witches: Emoemories - Blooming Witches",
+      "song": "Shunka",
+      "artist": "Maebashi Witches",
+      "artistDisplay": "Maebashi Witches",
+      "artistDisplayCount": 1,
+      "kind": "VA",
+      "kindLabel": "Vocal Album",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/1ipu7IN0rpqZDqBYd1mZYj",
+      "apple": "https://geo.music.apple.com/album/6806131574?at=1001l384j&ct=website-maebashi-witches-emoemories-b-va&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/maebashi-witches-emoemories-blooming-witches-shunka",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shunka",
+        "春化"
+      ],
+      "animeCandidates": [
+        "Maebashi Witches: Emoemories - Blooming Witches",
+        "Maebashi Witches: Majo Minarai no Emoemories",
+        "前橋ウィッチーズ ～魔女見習いのエモエモリーズ～"
+      ],
+      "artistCandidates": [
+        "16505",
+        "Maebashi Witches",
+        "前橋ウィッチーズ",
+        "5tQLD8Ak85HJXxXy6Pp5D9",
+        "1760278750",
+        "275744521",
+        "UCyVUXr9nGlMwz07Sv2U2YVw"
+      ]
+    },
     {
       "id": "28164",
       "anime": "Nia Liston: The Merciless Maiden",
@@ -2572,135 +2729,6 @@
         "1691467301",
         "159343",
         "UCrXA0Uh_s1VXKd6x7-dxxyQ"
-      ]
-    },
-    {
-      "id": "28146",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "High Forever",
-      "artist": "Petite Meller",
-      "artistDisplay": "Petite Meller",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 7)",
-      "episodes": [
-        "7"
-      ],
-      "spotify": "https://open.spotify.com/track/3HO6JuiROufCO6HdEyLdb9",
-      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237564&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-7&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-7-high-forever",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "High Forever"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "23935",
-        "Petite Meller",
-        "2gUVyV9z7T6cielHCMSpvb",
-        "718238708",
-        "5299859",
-        "UCzhnTfx-ynhNr2irlAGAmRA"
-      ]
-    },
-    {
-      "id": "28144",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Bravo Foxtrot Golf",
-      "artist": "P.T. Adamczyk",
-      "artistDisplay": "P.T. Adamczyk",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 6)",
-      "episodes": [
-        "6"
-      ],
-      "spotify": "https://open.spotify.com/track/3cCBcPiT4J9sUgRw4UtRbf",
-      "apple": "https://geo.music.apple.com/album/1704850539?i=1704850780&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-6&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-6-bravo-foxtrot-golf",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Bravo Foxtrot Golf",
-        "Bravo Foxtrot Golf (From \"Cyberpunk 2077: Phantom Liberty\" Score)"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "12973",
-        "P.T. Adamczyk",
-        "27VhXJzIph9c75cBh1e8XM",
-        "1465114404",
-        "228305235",
-        "UCRcKXbzmmIxrpfM8w7q6hjg"
       ]
     }
   ],
@@ -3277,6 +3305,20 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28171",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Deux Livres",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3"
+    },
+    {
+      "id": "28170",
+      "anime": "Maebashi Witches: Emoemories - Blooming Witches",
+      "song": "Shunka",
+      "kind": "VA",
+      "detailUrl": "https://aniplaylist.com/play/maebashi-witches-emoemories-blooming-witches-shunka"
+    },
+    {
       "id": "28164",
       "anime": "Nia Liston: The Merciless Maiden",
       "song": "ORIGINAL SOUNDTRACK",
@@ -3471,23 +3513,154 @@
       "song": "A Rusty Dream",
       "kind": "IN",
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-a-rusty-dream"
-    },
-    {
-      "id": "28146",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "High Forever",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-7-high-forever"
-    },
-    {
-      "id": "28144",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Bravo Foxtrot Golf",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-6-bravo-foxtrot-golf"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28171",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Deux Livres",
+      "artist": "Nia Liston (CV: Honoka Inoue)",
+      "artistDisplay": "Nia Liston (CV: Honoka Inoue) & Sharro White (CV: Maaya Uchida)",
+      "artistDisplayCount": 2,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [
+        "3"
+      ],
+      "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
+      "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Deux Livres"
+      ],
+      "animeCandidates": [
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+      ],
+      "artistCandidates": [
+        "25678",
+        "Nia Liston (CV: Honoka Inoue)",
+        "ニア・リストン (CV: 井上ほの花)",
+        "1YOSNboXUUV8fcZJw4Zjob",
+        "6816815405",
+        "420276352",
+        "25679",
+        "Sharro White (CV: Maaya Uchida)",
+        "シャロ・ホワイト (CV: 内田真礼)",
+        "0u5zYLqFPffIeW9CfueFiG",
+        "6818432377",
+        "420276362"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/NiaListon-OP2.webm",
+        "basename": "NiaListon-OP2.webm",
+        "animeSlug": "kyouran_reijou_nia_liston",
+        "themeSlug": "",
+        "type": "OP",
+        "sequence": 2,
+        "version": 1
+      }
+    },
+    {
+      "id": "28170",
+      "anime": "Maebashi Witches: Emoemories - Blooming Witches",
+      "song": "Shunka",
+      "artist": "Maebashi Witches",
+      "artistDisplay": "Maebashi Witches",
+      "artistDisplayCount": 1,
+      "kind": "VA",
+      "kindLabel": "Vocal Album",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/1ipu7IN0rpqZDqBYd1mZYj",
+      "apple": "https://geo.music.apple.com/album/6806131574?at=1001l384j&ct=website-maebashi-witches-emoemories-b-va&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/maebashi-witches-emoemories-blooming-witches-shunka",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shunka",
+        "春化"
+      ],
+      "animeCandidates": [
+        "Maebashi Witches: Emoemories - Blooming Witches",
+        "Maebashi Witches: Majo Minarai no Emoemories",
+        "前橋ウィッチーズ ～魔女見習いのエモエモリーズ～"
+      ],
+      "artistCandidates": [
+        "16505",
+        "Maebashi Witches",
+        "前橋ウィッチーズ",
+        "5tQLD8Ak85HJXxXy6Pp5D9",
+        "1760278750",
+        "275744521",
+        "UCyVUXr9nGlMwz07Sv2U2YVw"
+      ]
+    },
     {
       "id": "28164",
       "anime": "Nia Liston: The Merciless Maiden",
@@ -5353,138 +5526,25 @@
         "159343",
         "UCrXA0Uh_s1VXKd6x7-dxxyQ"
       ]
-    },
-    {
-      "id": "28146",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "High Forever",
-      "artist": "Petite Meller",
-      "artistDisplay": "Petite Meller",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 7)",
-      "episodes": [
-        "7"
-      ],
-      "spotify": "https://open.spotify.com/track/3HO6JuiROufCO6HdEyLdb9",
-      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237564&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-7&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-7-high-forever",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "High Forever"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "23935",
-        "Petite Meller",
-        "2gUVyV9z7T6cielHCMSpvb",
-        "718238708",
-        "5299859",
-        "UCzhnTfx-ynhNr2irlAGAmRA"
-      ]
-    },
-    {
-      "id": "28144",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Bravo Foxtrot Golf",
-      "artist": "P.T. Adamczyk",
-      "artistDisplay": "P.T. Adamczyk",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 6)",
-      "episodes": [
-        "6"
-      ],
-      "spotify": "https://open.spotify.com/track/3cCBcPiT4J9sUgRw4UtRbf",
-      "apple": "https://geo.music.apple.com/album/1704850539?i=1704850780&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-6&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-6-bravo-foxtrot-golf",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Bravo Foxtrot Golf",
-        "Bravo Foxtrot Golf (From \"Cyberpunk 2077: Phantom Liberty\" Score)"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "12973",
-        "P.T. Adamczyk",
-        "27VhXJzIph9c75cBh1e8XM",
-        "1465114404",
-        "228305235",
-        "UCRcKXbzmmIxrpfM8w7q6hjg"
-      ]
     }
   ],
   "platformSamples": [
+    {
+      "id": "28171",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Deux Livres",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
+      "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music"
+    },
+    {
+      "id": "28170",
+      "anime": "Maebashi Witches: Emoemories - Blooming Witches",
+      "song": "Shunka",
+      "kind": "VA",
+      "spotify": "https://open.spotify.com/album/1ipu7IN0rpqZDqBYd1mZYj",
+      "apple": "https://geo.music.apple.com/album/6806131574?at=1001l384j&ct=website-maebashi-witches-emoemories-b-va&app=music"
+    },
     {
       "id": "28164",
       "anime": "Nia Liston: The Merciless Maiden",
@@ -5708,22 +5768,6 @@
       "kind": "IN",
       "spotify": "https://open.spotify.com/track/5YydpmBjuoy7I83WhopF9i",
       "apple": "https://geo.music.apple.com/album/6802372831?i=6802372834&at=1001l384j&ct=website-cyberpunk-edgerunners-in-ep-9-10&app=music"
-    },
-    {
-      "id": "28146",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "High Forever",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/3HO6JuiROufCO6HdEyLdb9",
-      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237564&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-7&app=music"
-    },
-    {
-      "id": "28144",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Bravo Foxtrot Golf",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/3cCBcPiT4J9sUgRw4UtRbf",
-      "apple": "https://geo.music.apple.com/album/1704850539?i=1704850780&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-6&app=music"
     }
   ]
 }

@@ -9450,7 +9450,8 @@
       "Keroro Gunsou☆",
       "Sergeant Frog",
       "Sgt. Frog",
-      "ケロロ軍曹☆"
+      "ケロロ軍曹☆",
+      "Keroro☆"
     ],
     "artistCandidates": [
       "12041",
@@ -10072,7 +10073,7 @@
     "kind": "ED",
     "spotify": "https://open.spotify.com/track/3tCiwcbtprnj4NzMxNTgNf",
     "apple": "https://geo.music.apple.com/album/6810979176?i=6810979177&at=1001l384j&ct=website-keroro-gunsou-ed&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/196f669684be9579444a7c13e8026fde62dd9e3d@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a581c1c47d67f019a716ebf3320a65cd290252c6@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/keroro-gunsou-ending",
     "rawKeys": [
       "id",
@@ -10111,7 +10112,8 @@
       "Keroro Gunsou☆",
       "Sergeant Frog",
       "Sgt. Frog",
-      "ケロロ軍曹☆"
+      "ケロロ軍曹☆",
+      "Keroro☆"
     ],
     "artistCandidates": [
       "24218",
@@ -13360,6 +13362,7 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -20274,5 +20277,152 @@
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-10-20T17:00:21.000Z"
+  },
+  "6085f134fee4a2ec": {
+    "id": "28171",
+    "anime": "Nia Liston: The Merciless Maiden",
+    "song": "Deux Livres",
+    "artist": "Nia Liston (CV: Honoka Inoue)",
+    "artistDisplay": "Nia Liston (CV: Honoka Inoue) & Sharro White (CV: Maaya Uchida)",
+    "artistDisplayCount": 2,
+    "kind": "OP",
+    "kindLabel": "Opening",
+    "episodes": [
+      "3"
+    ],
+    "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
+    "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp",
+    "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "episodes",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "status",
+      "tags",
+      "substitute",
+      "other_link_ids",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Deux Livres"
+    ],
+    "animeCandidates": [
+      "Nia Liston: The Merciless Maiden",
+      "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+      "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+    ],
+    "artistCandidates": [
+      "25678",
+      "Nia Liston (CV: Honoka Inoue)",
+      "ニア・リストン (CV: 井上ほの花)",
+      "1YOSNboXUUV8fcZJw4Zjob",
+      "6816815405",
+      "420276352",
+      "25679",
+      "Sharro White (CV: Maaya Uchida)",
+      "シャロ・ホワイト (CV: 内田真礼)",
+      "0u5zYLqFPffIeW9CfueFiG",
+      "6818432377",
+      "420276362"
+    ],
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/NiaListon-OP2.webm",
+      "basename": "NiaListon-OP2.webm",
+      "animeSlug": "kyouran_reijou_nia_liston",
+      "themeSlug": "",
+      "type": "OP",
+      "sequence": 2,
+      "version": 1
+    },
+    "firstSeen": "2026-10-21T13:11:58.000Z"
+  },
+  "ab013ea36161a119": {
+    "id": "28170",
+    "anime": "Maebashi Witches: Emoemories - Blooming Witches",
+    "song": "Shunka",
+    "artist": "Maebashi Witches",
+    "artistDisplay": "Maebashi Witches",
+    "artistDisplayCount": 1,
+    "kind": "VA",
+    "kindLabel": "Vocal Album",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/album/1ipu7IN0rpqZDqBYd1mZYj",
+    "apple": "https://geo.music.apple.com/album/6806131574?at=1001l384j&ct=website-maebashi-witches-emoemories-b-va&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886@2xl.jpeg",
+    "detailUrl": "https://aniplaylist.com/play/maebashi-witches-emoemories-blooming-witches-shunka",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "status",
+      "tags",
+      "other_link_ids",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Shunka",
+      "春化"
+    ],
+    "animeCandidates": [
+      "Maebashi Witches: Emoemories - Blooming Witches",
+      "Maebashi Witches: Majo Minarai no Emoemories",
+      "前橋ウィッチーズ ～魔女見習いのエモエモリーズ～"
+    ],
+    "artistCandidates": [
+      "16505",
+      "Maebashi Witches",
+      "前橋ウィッチーズ",
+      "5tQLD8Ak85HJXxXy6Pp5D9",
+      "1760278750",
+      "275744521",
+      "UCyVUXr9nGlMwz07Sv2U2YVw"
+    ],
+    "firstSeen": "2026-10-21T13:11:58.000Z"
   }
 }
