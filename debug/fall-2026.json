@@ -5,7 +5,7 @@
   "scrapeValidated": true,
   "resultCount": 230,
   "animeThemesChecked": 137,
-  "animeThemesMatched": 96,
+  "animeThemesMatched": 97,
   "animeThemesSeasonLinks": 72,
   "jsonResponses": 32,
   "algoliaResponses": 15,
@@ -301,7 +301,7 @@
       "episodes": [],
       "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
       "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy",
       "season": "Fall 2026",
       "rawKeys": [
@@ -396,52 +396,32 @@
     {
       "id": "28168",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4.jpg",
+      "thumbnail": "thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LDJkpL0y8{%N1B~pIAE200Nb?bs=",
+      "thumbnail_hash": "LEJ*i60eE3-q2{~WIAIo00ba-:fA",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg"
     },
     {
       "id": "28167",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4.jpg",
+      "thumbnail": "thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LDJkpL0y8{%N1B~pIAE200Nb?bs=",
+      "thumbnail_hash": "LEJ*i60eE3-q2{~WIAIo00ba-:fA",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg"
     },
     {
       "id": "28166",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4.jpg",
+      "thumbnail": "thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LDJkpL0y8{%N1B~pIAE200Nb?bs=",
+      "thumbnail_hash": "LEJ*i60eE3-q2{~WIAIo00ba-:fA",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg"
-    },
-    {
-      "id": "28160",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/4fe04ec3354fbba3c6af646297ccb18cf5bccd72.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LHFeEFJkFc=1|en%S2#-2V$P$jw{",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/4fe04ec3354fbba3c6af646297ccb18cf5bccd72@2xl.jpeg"
-    },
-    {
-      "id": "28159",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LHEM%tS64Ujb?wW=IAoMDgjck7n~",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg"
     },
     {
       "id": "28161",
@@ -456,12 +436,12 @@
     {
       "id": "28157",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c.jpg",
+      "thumbnail": "thumbnails/6b6893ebedf1618ee8ae63d8bc0a851e77084ed9.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "L6BfFSR*009v00jb~p-o=|t7M|IV",
+      "thumbnail_hash": "L5DILAIo005U00xH_N=_={xtNGIU",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/6b6893ebedf1618ee8ae63d8bc0a851e77084ed9@2xl.jpg"
     },
     {
       "id": "28155",
@@ -472,6 +452,26 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/2652b519492164107930f672fdb84a0e92def810@2xl.jpeg"
+    },
+    {
+      "id": "28149",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/611deec5a26819ffd4f563a6f112f6689439e064.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LUKI}2y?[urr~Cpw%2NF$+tRNZrX",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg"
+    },
+    {
+      "id": "28148",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/611deec5a26819ffd4f563a6f112f6689439e064.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LUKI}2y?[urr~Cpw%2NF$+tRNZrX",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg"
     }
   ],
   "expectedHits": 230,
@@ -489,7 +489,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -505,7 +505,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -521,7 +521,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -537,7 +537,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -553,7 +553,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -569,7 +569,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -585,7 +585,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -601,7 +601,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -617,7 +617,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -633,7 +633,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -649,7 +649,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -665,7 +665,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -681,7 +681,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -697,7 +697,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -713,7 +713,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28409,
+      "nbHits": 28438,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -1008,7 +1008,7 @@
       "episodes": [],
       "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
       "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy",
       "season": "Fall 2026",
       "rawKeys": [
@@ -1069,7 +1069,7 @@
       "episodes": [],
       "spotify": "https://open.spotify.com/track/0kgXakO9GnycldN5sGScwZ",
       "apple": "https://geo.music.apple.com/album/6816841824?i=6816842009&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-a-song-of-romance-pt-2",
       "season": "Fall 2026",
       "rawKeys": [
@@ -1130,7 +1130,7 @@
       "episodes": [],
       "spotify": "https://open.spotify.com/track/6HuRAiVekbXHrNKbIUkkOb",
       "apple": "https://geo.music.apple.com/album/6816841824?i=6816842008&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-kami-no-na-o",
       "season": "Fall 2026",
       "rawKeys": [
@@ -1180,155 +1180,6 @@
         "207829687",
         "UCcUQTshxx-7gwzKa8fZjn6A"
       ]
-    },
-    {
-      "id": "28160",
-      "anime": "Horror Collector",
-      "song": "Meiro",
-      "artist": "Shikao Suga",
-      "artistDisplay": "Shikao Suga",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6megJPIZVqe5E98dig1uR0",
-      "apple": "https://geo.music.apple.com/album/6819125191?i=6819125192&at=1001l384j&ct=website-horror-collector-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4fe04ec3354fbba3c6af646297ccb18cf5bccd72@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Meiro",
-        "迷路",
-        "Maze"
-      ],
-      "animeCandidates": [
-        "Horror Collector",
-        "Kyoufu Collector",
-        "恐怖コレクター"
-      ],
-      "artistCandidates": [
-        "72",
-        "Shikao Suga",
-        "スガシカオ",
-        "3sddhwNhGabYSvzYKhB7qj",
-        "202324935",
-        "4929503",
-        "UCaWq9OOi9wk961EOzugZuoA"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KyoufuCollector-ED1.webm",
-        "basename": "KyoufuCollector-ED1.webm",
-        "animeSlug": "kyoufu_collector",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28159",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Galaxy Mode",
-      "artist": "J SOUL BROTHERS III",
-      "artistDisplay": "J SOUL BROTHERS III",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
-      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Galaxy Mode"
-      ],
-      "animeCandidates": [
-        "DARK MACHINE: The Animation",
-        "DARK MACHINE -The Animation-",
-        "DARK MACHINE THE ANIMATION"
-      ],
-      "artistCandidates": [
-        "23755",
-        "J SOUL BROTHERS III",
-        "Sandaime J SOUL BROTHERS",
-        "三代目 J SOUL BROTHERS",
-        "J SOUL BROTHERS III from EXILE TRIBE",
-        "三代目 J Soul Brothers from EXILE TRIBE",
-        "1g51NlHKUXlgfvGP22m0uD",
-        "633832735",
-        "36984512",
-        "UCARcTUfyPaacDYADTb_Qveg"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/DarkMachine-ED1.webm",
-        "basename": "DarkMachine-ED1.webm",
-        "animeSlug": "dark_machine_the_animation",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
     },
     {
       "id": "28161",
@@ -1409,7 +1260,7 @@
       "episodes": [],
       "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
       "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6b6893ebedf1618ee8ae63d8bc0a851e77084ed9@2xl.jpg",
       "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending",
       "season": "Fall 2026",
       "rawKeys": [
@@ -1530,145 +1381,6 @@
         "1680440024",
         "207829687",
         "UCcUQTshxx-7gwzKa8fZjn6A"
-      ]
-    },
-    {
-      "id": "28158",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Nagi no Soko",
-      "artist": "tsukioukanata",
-      "artistDisplay": "tsukioukanata",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4vorQiy9sGivXhlZ9a1J9i",
-      "apple": "https://geo.music.apple.com/album/6820462157?i=6820462173&at=1001l384j&ct=website-with-vengeance-sincerely-your-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3fe0add5bded8cab2ab1ac4c8228eb4937c2f90a@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Nagi no Soko",
-        "凪の底"
-      ],
-      "animeCandidates": [
-        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
-        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
-        "傷だらけ聖女より報復をこめて Season2"
-      ],
-      "artistCandidates": [
-        "24215",
-        "tsukioukanata",
-        "月追う彼方",
-        "6eYaKnnDGQhAMKVhHhCo9X",
-        "1544592359",
-        "116595312",
-        "UCteTk1SBBJwCyj9zgQz7IVQ"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KizuDarakeSeijoS2-ED1.webm",
-        "basename": "KizuDarakeSeijoS2-ED1.webm",
-        "animeSlug": "kizu_darake_seijo_yori_houfuku_wo_komete_season2",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28150",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Core: Mikoshi",
-      "artist": "Paul Leonard-Morgan",
-      "artistDisplay": "Paul Leonard-Morgan",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 8)",
-      "episodes": [
-        "8"
-      ],
-      "spotify": "https://open.spotify.com/track/59tXusXMNsObXcqGwufddN",
-      "apple": "https://music.apple.com/us/album/1620553788?i=1620554201&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-8&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-8-core-mikoshi",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Core: Mikoshi",
-        "Core Mikoshi"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "13002",
-        "Paul Leonard-Morgan",
-        "0360rTDeUjEyBXaz2Ki00a",
-        "264822913",
-        "464569",
-        "UCTq0xhLkoXLlWD58eK4sqlQ"
       ]
     },
     {
@@ -1930,70 +1642,6 @@
       ]
     },
     {
-      "id": "28143",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Across the Floor",
-      "artist": "Private Press",
-      "artistDisplay": "Private Press",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 6)",
-      "episodes": [
-        "6"
-      ],
-      "spotify": "https://open.spotify.com/track/67sB1Bs6VeUqnoRkmgN5Kp",
-      "apple": "https://geo.music.apple.com/album/6786799182?i=6786799592&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-6&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-6-across-the-floor",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Across the Floor",
-        "Across the Floor by Retinal Scam"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "25670",
-        "Private Press",
-        "6P7gZ6hLuBrxelDuq28bR8",
-        "1423000324",
-        "49760602"
-      ]
-    },
-    {
       "id": "28140",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "Streetfighters",
@@ -2125,6 +1773,70 @@
         "7ISspHIxPlxgZRVrDc38p6",
         "1707392509",
         "230317215"
+      ]
+    },
+    {
+      "id": "28143",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Across the Floor",
+      "artist": "Private Press",
+      "artistDisplay": "Private Press",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 6)",
+      "episodes": [
+        "6"
+      ],
+      "spotify": "https://open.spotify.com/track/67sB1Bs6VeUqnoRkmgN5Kp",
+      "apple": "https://geo.music.apple.com/album/6786799182?i=6786799592&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-6&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-6-across-the-floor",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Across the Floor",
+        "Across the Floor by Retinal Scam"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2"
+      ],
+      "artistCandidates": [
+        "25670",
+        "Private Press",
+        "6P7gZ6hLuBrxelDuq28bR8",
+        "1423000324",
+        "49760602"
       ]
     },
     {
@@ -2264,69 +1976,6 @@
       ]
     },
     {
-      "id": "28128",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Me Machine",
-      "artist": "Poly Face",
-      "artistDisplay": "Poly Face",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 1)",
-      "episodes": [
-        "1"
-      ],
-      "spotify": "https://open.spotify.com/track/0EEVV5A9EE3NROnG4GVVcI",
-      "apple": "https://geo.music.apple.com/album/6786799182?i=6786799202&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-1&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-1-me-machine",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Me Machine"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "25652",
-        "Poly Face",
-        "7svw4BCEcnOE3J7na9MbU1",
-        "1567917474",
-        "133892722"
-      ]
-    },
-    {
       "id": "28132",
       "anime": "Sakihokore",
       "song": "Sakihokore",
@@ -2461,6 +2110,69 @@
         "Footage Missing",
         "2TjaoacswC5z50Ma8GftQT",
         "1540699277"
+      ]
+    },
+    {
+      "id": "28128",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Me Machine",
+      "artist": "Poly Face",
+      "artistDisplay": "Poly Face",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 1)",
+      "episodes": [
+        "1"
+      ],
+      "spotify": "https://open.spotify.com/track/0EEVV5A9EE3NROnG4GVVcI",
+      "apple": "https://geo.music.apple.com/album/6786799182?i=6786799202&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-1&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-1-me-machine",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Me Machine"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2"
+      ],
+      "artistCandidates": [
+        "25652",
+        "Poly Face",
+        "7svw4BCEcnOE3J7na9MbU1",
+        "1567917474",
+        "133892722"
       ]
     },
     {
@@ -2729,6 +2441,275 @@
         "1691467301",
         "159343",
         "UCrXA0Uh_s1VXKd6x7-dxxyQ"
+      ]
+    },
+    {
+      "id": "28158",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Nagi no Soko",
+      "artist": "tsukioukanata",
+      "artistDisplay": "tsukioukanata",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4vorQiy9sGivXhlZ9a1J9i",
+      "apple": "https://geo.music.apple.com/album/6820462157?i=6820462173&at=1001l384j&ct=website-with-vengeance-sincerely-your-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3fe0add5bded8cab2ab1ac4c8228eb4937c2f90a@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Nagi no Soko",
+        "凪の底"
+      ],
+      "animeCandidates": [
+        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
+        "傷だらけ聖女より報復をこめて Season2"
+      ],
+      "artistCandidates": [
+        "24215",
+        "tsukioukanata",
+        "月追う彼方",
+        "6eYaKnnDGQhAMKVhHhCo9X",
+        "1544592359",
+        "116595312",
+        "UCteTk1SBBJwCyj9zgQz7IVQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KizuDarakeSeijoS2-ED1.webm",
+        "basename": "KizuDarakeSeijoS2-ED1.webm",
+        "animeSlug": "kizu_darake_seijo_yori_houfuku_wo_komete_season2",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28146",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "High Forever",
+      "artist": "Petite Meller",
+      "artistDisplay": "Petite Meller",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 7)",
+      "episodes": [
+        "7"
+      ],
+      "spotify": "https://open.spotify.com/track/3HO6JuiROufCO6HdEyLdb9",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237564&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-7&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-7-high-forever",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "High Forever"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2"
+      ],
+      "artistCandidates": [
+        "23935",
+        "Petite Meller",
+        "2gUVyV9z7T6cielHCMSpvb",
+        "718238708",
+        "5299859",
+        "UCzhnTfx-ynhNr2irlAGAmRA"
+      ]
+    },
+    {
+      "id": "28144",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Bravo Foxtrot Golf",
+      "artist": "P.T. Adamczyk",
+      "artistDisplay": "P.T. Adamczyk",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 6)",
+      "episodes": [
+        "6"
+      ],
+      "spotify": "https://open.spotify.com/track/3cCBcPiT4J9sUgRw4UtRbf",
+      "apple": "https://geo.music.apple.com/album/1704850539?i=1704850780&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-6&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-6-bravo-foxtrot-golf",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Bravo Foxtrot Golf",
+        "Bravo Foxtrot Golf (From \"Cyberpunk 2077: Phantom Liberty\" Score)"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2"
+      ],
+      "artistCandidates": [
+        "12973",
+        "P.T. Adamczyk",
+        "27VhXJzIph9c75cBh1e8XM",
+        "1465114404",
+        "228305235",
+        "UCRcKXbzmmIxrpfM8w7q6hjg"
+      ]
+    },
+    {
+      "id": "28142",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Da Mi Jeszce Jedna Szanse",
+      "artist": "Piernikowski",
+      "artistDisplay": "Piernikowski",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 6, 8)",
+      "episodes": [
+        "6",
+        "8"
+      ],
+      "spotify": "https://open.spotify.com/track/2HQXZNYEluMRvHCNvYxnVC",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237566&at=1001l384j&ct=website-cyberpunk-edgerunners-in-ep-6-8&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-da-mi-jeszce-jedna-szanse",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Da Mi Jeszce Jedna Szanse",
+        "Daj Mi Jeszce Jedna Szanse"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2"
+      ],
+      "artistCandidates": [
+        "25669",
+        "Piernikowski",
+        "4i5BO8J8LCbzc1on7npUK5",
+        "1228809934",
+        "12350942",
+        "UCocLVbDRLjdpU1FqerTNFxA"
       ]
     }
   ],
@@ -3354,20 +3335,6 @@
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-kami-no-na-o"
     },
     {
-      "id": "28160",
-      "anime": "Horror Collector",
-      "song": "Meiro",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-ending"
-    },
-    {
-      "id": "28159",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Galaxy Mode",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending"
-    },
-    {
       "id": "28161",
       "anime": "My Happy Marriage Special",
       "song": "Shiawase de Namida ga Deru no wa.",
@@ -3387,20 +3354,6 @@
       "song": "A Song Of Romance",
       "kind": "IN",
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-a-song-of-romance"
-    },
-    {
-      "id": "28158",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Nagi no Soko",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-ending"
-    },
-    {
-      "id": "28150",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Core: Mikoshi",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-8-core-mikoshi"
     },
     {
       "id": "28149",
@@ -3431,13 +3384,6 @@
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-7-been-good-to-know-ya"
     },
     {
-      "id": "28143",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Across the Floor",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-6-across-the-floor"
-    },
-    {
       "id": "28140",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "Streetfighters",
@@ -3450,6 +3396,13 @@
       "song": "Pierwszy raz naprawdę",
       "kind": "IN",
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-4-pierwszy-raz-naprawde"
+    },
+    {
+      "id": "28143",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Across the Floor",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-6-across-the-floor"
     },
     {
       "id": "28135",
@@ -3466,13 +3419,6 @@
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-2-minion-sex"
     },
     {
-      "id": "28128",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Me Machine",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-1-me-machine"
-    },
-    {
       "id": "28132",
       "anime": "Sakihokore",
       "song": "Sakihokore",
@@ -3485,6 +3431,13 @@
       "song": "When It's War",
       "kind": "IN",
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-4-when-its-war"
+    },
+    {
+      "id": "28128",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Me Machine",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-1-me-machine"
     },
     {
       "id": "28154",
@@ -3513,6 +3466,34 @@
       "song": "A Rusty Dream",
       "kind": "IN",
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-a-rusty-dream"
+    },
+    {
+      "id": "28158",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Nagi no Soko",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-ending"
+    },
+    {
+      "id": "28146",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "High Forever",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-7-high-forever"
+    },
+    {
+      "id": "28144",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Bravo Foxtrot Golf",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-6-bravo-foxtrot-golf"
+    },
+    {
+      "id": "28142",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Da Mi Jeszce Jedna Szanse",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-da-mi-jeszce-jedna-szanse"
     }
   ],
   "usableSamples": [
@@ -3804,7 +3785,7 @@
       "episodes": [],
       "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
       "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy",
       "season": "Fall 2026",
       "rawKeys": [
@@ -3865,7 +3846,7 @@
       "episodes": [],
       "spotify": "https://open.spotify.com/track/0kgXakO9GnycldN5sGScwZ",
       "apple": "https://geo.music.apple.com/album/6816841824?i=6816842009&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-a-song-of-romance-pt-2",
       "season": "Fall 2026",
       "rawKeys": [
@@ -3926,7 +3907,7 @@
       "episodes": [],
       "spotify": "https://open.spotify.com/track/6HuRAiVekbXHrNKbIUkkOb",
       "apple": "https://geo.music.apple.com/album/6816841824?i=6816842008&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-kami-no-na-o",
       "season": "Fall 2026",
       "rawKeys": [
@@ -3976,155 +3957,6 @@
         "207829687",
         "UCcUQTshxx-7gwzKa8fZjn6A"
       ]
-    },
-    {
-      "id": "28160",
-      "anime": "Horror Collector",
-      "song": "Meiro",
-      "artist": "Shikao Suga",
-      "artistDisplay": "Shikao Suga",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6megJPIZVqe5E98dig1uR0",
-      "apple": "https://geo.music.apple.com/album/6819125191?i=6819125192&at=1001l384j&ct=website-horror-collector-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4fe04ec3354fbba3c6af646297ccb18cf5bccd72@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Meiro",
-        "迷路",
-        "Maze"
-      ],
-      "animeCandidates": [
-        "Horror Collector",
-        "Kyoufu Collector",
-        "恐怖コレクター"
-      ],
-      "artistCandidates": [
-        "72",
-        "Shikao Suga",
-        "スガシカオ",
-        "3sddhwNhGabYSvzYKhB7qj",
-        "202324935",
-        "4929503",
-        "UCaWq9OOi9wk961EOzugZuoA"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KyoufuCollector-ED1.webm",
-        "basename": "KyoufuCollector-ED1.webm",
-        "animeSlug": "kyoufu_collector",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28159",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Galaxy Mode",
-      "artist": "J SOUL BROTHERS III",
-      "artistDisplay": "J SOUL BROTHERS III",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
-      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Galaxy Mode"
-      ],
-      "animeCandidates": [
-        "DARK MACHINE: The Animation",
-        "DARK MACHINE -The Animation-",
-        "DARK MACHINE THE ANIMATION"
-      ],
-      "artistCandidates": [
-        "23755",
-        "J SOUL BROTHERS III",
-        "Sandaime J SOUL BROTHERS",
-        "三代目 J SOUL BROTHERS",
-        "J SOUL BROTHERS III from EXILE TRIBE",
-        "三代目 J Soul Brothers from EXILE TRIBE",
-        "1g51NlHKUXlgfvGP22m0uD",
-        "633832735",
-        "36984512",
-        "UCARcTUfyPaacDYADTb_Qveg"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/DarkMachine-ED1.webm",
-        "basename": "DarkMachine-ED1.webm",
-        "animeSlug": "dark_machine_the_animation",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
     },
     {
       "id": "28161",
@@ -4205,7 +4037,7 @@
       "episodes": [],
       "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
       "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6b6893ebedf1618ee8ae63d8bc0a851e77084ed9@2xl.jpg",
       "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending",
       "season": "Fall 2026",
       "rawKeys": [
@@ -4326,145 +4158,6 @@
         "1680440024",
         "207829687",
         "UCcUQTshxx-7gwzKa8fZjn6A"
-      ]
-    },
-    {
-      "id": "28158",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Nagi no Soko",
-      "artist": "tsukioukanata",
-      "artistDisplay": "tsukioukanata",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4vorQiy9sGivXhlZ9a1J9i",
-      "apple": "https://geo.music.apple.com/album/6820462157?i=6820462173&at=1001l384j&ct=website-with-vengeance-sincerely-your-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3fe0add5bded8cab2ab1ac4c8228eb4937c2f90a@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Nagi no Soko",
-        "凪の底"
-      ],
-      "animeCandidates": [
-        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
-        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
-        "傷だらけ聖女より報復をこめて Season2"
-      ],
-      "artistCandidates": [
-        "24215",
-        "tsukioukanata",
-        "月追う彼方",
-        "6eYaKnnDGQhAMKVhHhCo9X",
-        "1544592359",
-        "116595312",
-        "UCteTk1SBBJwCyj9zgQz7IVQ"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KizuDarakeSeijoS2-ED1.webm",
-        "basename": "KizuDarakeSeijoS2-ED1.webm",
-        "animeSlug": "kizu_darake_seijo_yori_houfuku_wo_komete_season2",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28150",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Core: Mikoshi",
-      "artist": "Paul Leonard-Morgan",
-      "artistDisplay": "Paul Leonard-Morgan",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 8)",
-      "episodes": [
-        "8"
-      ],
-      "spotify": "https://open.spotify.com/track/59tXusXMNsObXcqGwufddN",
-      "apple": "https://music.apple.com/us/album/1620553788?i=1620554201&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-8&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-8-core-mikoshi",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Core: Mikoshi",
-        "Core Mikoshi"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "13002",
-        "Paul Leonard-Morgan",
-        "0360rTDeUjEyBXaz2Ki00a",
-        "264822913",
-        "464569",
-        "UCTq0xhLkoXLlWD58eK4sqlQ"
       ]
     },
     {
@@ -4726,70 +4419,6 @@
       ]
     },
     {
-      "id": "28143",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Across the Floor",
-      "artist": "Private Press",
-      "artistDisplay": "Private Press",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 6)",
-      "episodes": [
-        "6"
-      ],
-      "spotify": "https://open.spotify.com/track/67sB1Bs6VeUqnoRkmgN5Kp",
-      "apple": "https://geo.music.apple.com/album/6786799182?i=6786799592&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-6&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-6-across-the-floor",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Across the Floor",
-        "Across the Floor by Retinal Scam"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "25670",
-        "Private Press",
-        "6P7gZ6hLuBrxelDuq28bR8",
-        "1423000324",
-        "49760602"
-      ]
-    },
-    {
       "id": "28140",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "Streetfighters",
@@ -4921,6 +4550,70 @@
         "7ISspHIxPlxgZRVrDc38p6",
         "1707392509",
         "230317215"
+      ]
+    },
+    {
+      "id": "28143",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Across the Floor",
+      "artist": "Private Press",
+      "artistDisplay": "Private Press",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 6)",
+      "episodes": [
+        "6"
+      ],
+      "spotify": "https://open.spotify.com/track/67sB1Bs6VeUqnoRkmgN5Kp",
+      "apple": "https://geo.music.apple.com/album/6786799182?i=6786799592&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-6&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-6-across-the-floor",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Across the Floor",
+        "Across the Floor by Retinal Scam"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2"
+      ],
+      "artistCandidates": [
+        "25670",
+        "Private Press",
+        "6P7gZ6hLuBrxelDuq28bR8",
+        "1423000324",
+        "49760602"
       ]
     },
     {
@@ -5060,69 +4753,6 @@
       ]
     },
     {
-      "id": "28128",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Me Machine",
-      "artist": "Poly Face",
-      "artistDisplay": "Poly Face",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 1)",
-      "episodes": [
-        "1"
-      ],
-      "spotify": "https://open.spotify.com/track/0EEVV5A9EE3NROnG4GVVcI",
-      "apple": "https://geo.music.apple.com/album/6786799182?i=6786799202&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-1&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-1-me-machine",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Me Machine"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "25652",
-        "Poly Face",
-        "7svw4BCEcnOE3J7na9MbU1",
-        "1567917474",
-        "133892722"
-      ]
-    },
-    {
       "id": "28132",
       "anime": "Sakihokore",
       "song": "Sakihokore",
@@ -5257,6 +4887,69 @@
         "Footage Missing",
         "2TjaoacswC5z50Ma8GftQT",
         "1540699277"
+      ]
+    },
+    {
+      "id": "28128",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Me Machine",
+      "artist": "Poly Face",
+      "artistDisplay": "Poly Face",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 1)",
+      "episodes": [
+        "1"
+      ],
+      "spotify": "https://open.spotify.com/track/0EEVV5A9EE3NROnG4GVVcI",
+      "apple": "https://geo.music.apple.com/album/6786799182?i=6786799202&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-1&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-1-me-machine",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Me Machine"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2"
+      ],
+      "artistCandidates": [
+        "25652",
+        "Poly Face",
+        "7svw4BCEcnOE3J7na9MbU1",
+        "1567917474",
+        "133892722"
       ]
     },
     {
@@ -5526,6 +5219,275 @@
         "159343",
         "UCrXA0Uh_s1VXKd6x7-dxxyQ"
       ]
+    },
+    {
+      "id": "28158",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Nagi no Soko",
+      "artist": "tsukioukanata",
+      "artistDisplay": "tsukioukanata",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4vorQiy9sGivXhlZ9a1J9i",
+      "apple": "https://geo.music.apple.com/album/6820462157?i=6820462173&at=1001l384j&ct=website-with-vengeance-sincerely-your-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3fe0add5bded8cab2ab1ac4c8228eb4937c2f90a@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Nagi no Soko",
+        "凪の底"
+      ],
+      "animeCandidates": [
+        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
+        "傷だらけ聖女より報復をこめて Season2"
+      ],
+      "artistCandidates": [
+        "24215",
+        "tsukioukanata",
+        "月追う彼方",
+        "6eYaKnnDGQhAMKVhHhCo9X",
+        "1544592359",
+        "116595312",
+        "UCteTk1SBBJwCyj9zgQz7IVQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KizuDarakeSeijoS2-ED1.webm",
+        "basename": "KizuDarakeSeijoS2-ED1.webm",
+        "animeSlug": "kizu_darake_seijo_yori_houfuku_wo_komete_season2",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28146",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "High Forever",
+      "artist": "Petite Meller",
+      "artistDisplay": "Petite Meller",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 7)",
+      "episodes": [
+        "7"
+      ],
+      "spotify": "https://open.spotify.com/track/3HO6JuiROufCO6HdEyLdb9",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237564&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-7&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-7-high-forever",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "High Forever"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2"
+      ],
+      "artistCandidates": [
+        "23935",
+        "Petite Meller",
+        "2gUVyV9z7T6cielHCMSpvb",
+        "718238708",
+        "5299859",
+        "UCzhnTfx-ynhNr2irlAGAmRA"
+      ]
+    },
+    {
+      "id": "28144",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Bravo Foxtrot Golf",
+      "artist": "P.T. Adamczyk",
+      "artistDisplay": "P.T. Adamczyk",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 6)",
+      "episodes": [
+        "6"
+      ],
+      "spotify": "https://open.spotify.com/track/3cCBcPiT4J9sUgRw4UtRbf",
+      "apple": "https://geo.music.apple.com/album/1704850539?i=1704850780&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-6&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-6-bravo-foxtrot-golf",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Bravo Foxtrot Golf",
+        "Bravo Foxtrot Golf (From \"Cyberpunk 2077: Phantom Liberty\" Score)"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2"
+      ],
+      "artistCandidates": [
+        "12973",
+        "P.T. Adamczyk",
+        "27VhXJzIph9c75cBh1e8XM",
+        "1465114404",
+        "228305235",
+        "UCRcKXbzmmIxrpfM8w7q6hjg"
+      ]
+    },
+    {
+      "id": "28142",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Da Mi Jeszce Jedna Szanse",
+      "artist": "Piernikowski",
+      "artistDisplay": "Piernikowski",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 6, 8)",
+      "episodes": [
+        "6",
+        "8"
+      ],
+      "spotify": "https://open.spotify.com/track/2HQXZNYEluMRvHCNvYxnVC",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237566&at=1001l384j&ct=website-cyberpunk-edgerunners-in-ep-6-8&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-da-mi-jeszce-jedna-szanse",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Da Mi Jeszce Jedna Szanse",
+        "Daj Mi Jeszce Jedna Szanse"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2"
+      ],
+      "artistCandidates": [
+        "25669",
+        "Piernikowski",
+        "4i5BO8J8LCbzc1on7npUK5",
+        "1228809934",
+        "12350942",
+        "UCocLVbDRLjdpU1FqerTNFxA"
+      ]
     }
   ],
   "platformSamples": [
@@ -5586,22 +5548,6 @@
       "apple": "https://geo.music.apple.com/album/6816841824?i=6816842008&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music"
     },
     {
-      "id": "28160",
-      "anime": "Horror Collector",
-      "song": "Meiro",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/6megJPIZVqe5E98dig1uR0",
-      "apple": "https://geo.music.apple.com/album/6819125191?i=6819125192&at=1001l384j&ct=website-horror-collector-ed&app=music"
-    },
-    {
-      "id": "28159",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Galaxy Mode",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
-      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music"
-    },
-    {
       "id": "28161",
       "anime": "My Happy Marriage Special",
       "song": "Shiawase de Namida ga Deru no wa.",
@@ -5624,22 +5570,6 @@
       "kind": "IN",
       "spotify": "https://open.spotify.com/track/7eeuJS8GJeKJKfSPomUIWb",
       "apple": "https://geo.music.apple.com/album/6806897026?i=6806897028&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music"
-    },
-    {
-      "id": "28158",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Nagi no Soko",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4vorQiy9sGivXhlZ9a1J9i",
-      "apple": "https://geo.music.apple.com/album/6820462157?i=6820462173&at=1001l384j&ct=website-with-vengeance-sincerely-your-ed&app=music"
-    },
-    {
-      "id": "28150",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Core: Mikoshi",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/59tXusXMNsObXcqGwufddN",
-      "apple": "https://music.apple.com/us/album/1620553788?i=1620554201&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-8&app=music"
     },
     {
       "id": "28149",
@@ -5674,14 +5604,6 @@
       "apple": "https://geo.music.apple.com/album/1544457960?i=1544458148&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-7&app=music"
     },
     {
-      "id": "28143",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Across the Floor",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/67sB1Bs6VeUqnoRkmgN5Kp",
-      "apple": "https://geo.music.apple.com/album/6786799182?i=6786799592&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-6&app=music"
-    },
-    {
       "id": "28140",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "Streetfighters",
@@ -5696,6 +5618,14 @@
       "kind": "IN",
       "spotify": "https://open.spotify.com/track/6YWKvhv8AmcLaC6BViYyFU",
       "apple": "https://geo.music.apple.com/album/1707392050?i=1707392508&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-4&app=music"
+    },
+    {
+      "id": "28143",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Across the Floor",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/67sB1Bs6VeUqnoRkmgN5Kp",
+      "apple": "https://geo.music.apple.com/album/6786799182?i=6786799592&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-6&app=music"
     },
     {
       "id": "28135",
@@ -5714,14 +5644,6 @@
       "apple": "https://geo.music.apple.com/album/1707392050?i=1707392520&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-2&app=music"
     },
     {
-      "id": "28128",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Me Machine",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/0EEVV5A9EE3NROnG4GVVcI",
-      "apple": "https://geo.music.apple.com/album/6786799182?i=6786799202&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-1&app=music"
-    },
-    {
       "id": "28132",
       "anime": "Sakihokore",
       "song": "Sakihokore",
@@ -5736,6 +5658,14 @@
       "kind": "IN",
       "spotify": "https://open.spotify.com/track/5dlbsITdpapmsiEqTjvU5l",
       "apple": "https://geo.music.apple.com/album/1545493788?i=1545493796&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-4&app=music"
+    },
+    {
+      "id": "28128",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Me Machine",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/0EEVV5A9EE3NROnG4GVVcI",
+      "apple": "https://geo.music.apple.com/album/6786799182?i=6786799202&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-1&app=music"
     },
     {
       "id": "28154",
@@ -5768,6 +5698,38 @@
       "kind": "IN",
       "spotify": "https://open.spotify.com/track/5YydpmBjuoy7I83WhopF9i",
       "apple": "https://geo.music.apple.com/album/6802372831?i=6802372834&at=1001l384j&ct=website-cyberpunk-edgerunners-in-ep-9-10&app=music"
+    },
+    {
+      "id": "28158",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Nagi no Soko",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/4vorQiy9sGivXhlZ9a1J9i",
+      "apple": "https://geo.music.apple.com/album/6820462157?i=6820462173&at=1001l384j&ct=website-with-vengeance-sincerely-your-ed&app=music"
+    },
+    {
+      "id": "28146",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "High Forever",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/3HO6JuiROufCO6HdEyLdb9",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237564&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-7&app=music"
+    },
+    {
+      "id": "28144",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Bravo Foxtrot Golf",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/3cCBcPiT4J9sUgRw4UtRbf",
+      "apple": "https://geo.music.apple.com/album/1704850539?i=1704850780&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-6&app=music"
+    },
+    {
+      "id": "28142",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Da Mi Jeszce Jedna Szanse",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/2HQXZNYEluMRvHCNvYxnVC",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237566&at=1001l384j&ct=website-cyberpunk-edgerunners-in-ep-6-8&app=music"
     }
   ]
 }

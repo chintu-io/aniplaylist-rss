@@ -6946,7 +6946,7 @@
     "kindLabel": "Ending",
     "spotify": "https://open.spotify.com/track/3i3FrUmNLW2C7Kg3d1teK2",
     "apple": "https://geo.music.apple.com/album/6810941092?i=6810941097&at=1001l384j&ct=website-firefly-wedding-ed&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0a5126ffb7d7577e0a38d14906b5a05564c1f20b@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e81c08137c426d629cfb6f95cf4ddffef13a1eea@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/firefly-wedding-ending",
     "rawKeys": [
       "id",
@@ -8737,7 +8737,7 @@
     "artistDisplayCount": 1,
     "kindLabel": "Opening",
     "apple": "https://geo.music.apple.com/album/6814318091?i=6814318214&at=1001l384j&ct=website-tetsuryou-meet-with-te-optv-size&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2aab051a5960e85e8847c10748331087529273ee@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/51207a0fa72b116dfac7f23d03e4b4c8bf3efcfb@2xl.jpg",
     "animethemesVideo": null,
     "episodes": []
   },
@@ -8801,7 +8801,7 @@
     "artistDisplayCount": 1,
     "kindLabel": "Opening",
     "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0a5126ffb7d7577e0a38d14906b5a05564c1f20b@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e81c08137c426d629cfb6f95cf4ddffef13a1eea@2xl.jpg",
     "animethemesVideo": {
       "url": "https://v.animethemes.moe/HotaruNoYomeiri-OP1.webm",
       "basename": "HotaruNoYomeiri-OP1.webm",
@@ -15538,7 +15538,15 @@
       "Sato",
       "370750"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/ZeroBelievers-OP1.webm",
+      "basename": "ZeroBelievers-OP1.webm",
+      "animeSlug": "shinja_zero_no_megamisama_to_hajimeru_isekai_kouryaku",
+      "themeSlug": "",
+      "type": "OP",
+      "sequence": 1,
+      "version": 1
+    },
     "firstSeen": "2026-10-10T18:01:06.000Z"
   },
   "c5744df822569883": {
@@ -15754,7 +15762,7 @@
     "episodes": [],
     "spotify": "https://open.spotify.com/track/0Y6OVdpYzC3ratVn23bI8w",
     "apple": "https://geo.music.apple.com/album/6815637289?i=6815637292&at=1001l384j&ct=website-mission-yozakura-family-seaso-op&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4572bcb0951634c379662aa188a4c998eb6c441f@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/226f98cd4153492c45b9be140127b9da13962a26@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/mission-yozakura-family-season-2-part-2-opening",
     "season": "Fall 2026",
     "rawKeys": [
@@ -16118,7 +16126,7 @@
     "episodes": [],
     "spotify": "https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC",
     "apple": "https://geo.music.apple.com/album/6815636614?i=6815636619&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-op&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6b6893ebedf1618ee8ae63d8bc0a851e77084ed9@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-opening",
     "season": "Fall 2026",
     "rawKeys": [
@@ -16846,7 +16854,7 @@
     "episodes": [],
     "spotify": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh",
     "apple": "https://geo.music.apple.com/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ab4f391fd6b2c7356a2538da3aac45cb97e0f5ee@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/28037ad8aacf689e5ac44b58de79f3e95d713f04@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-opening-1",
     "season": "Fall 2026",
     "rawKeys": [
@@ -17010,7 +17018,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "substitute",
       "other_link_ids",
@@ -17061,7 +17068,7 @@
     "episodes": [],
     "spotify": "https://open.spotify.com/track/4SBNInkgDsI628BV0N5Ao4",
     "apple": "https://geo.music.apple.com/album/6818116779?i=6818117230&at=1001l384j&ct=website-magic-knight-rayearth-2026-ed1&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ab4f391fd6b2c7356a2538da3aac45cb97e0f5ee@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/28037ad8aacf689e5ac44b58de79f3e95d713f04@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-ending-1",
     "season": "Fall 2026",
     "rawKeys": [
@@ -17089,7 +17096,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -17497,7 +17503,7 @@
     "episodes": [],
     "spotify": "https://open.spotify.com/track/2hhGjYncdykHxnxuqMURnN",
     "apple": "https://geo.music.apple.com/album/6819323104?i=6819323107&at=1001l384j&ct=website-a-certain-dark-sides-item-ed&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3e32241cc44569dc295542ffa2ae29aef3fcc8c3@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4031749b5b4748193a9d6f311bb472e32d8f46d7@2xl.webp",
     "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-ending",
     "season": "Fall 2026",
     "rawKeys": [
@@ -19593,7 +19599,7 @@
     "episodes": [],
     "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
     "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy",
     "season": "Fall 2026",
     "rawKeys": [
@@ -19655,7 +19661,7 @@
     "episodes": [],
     "spotify": "https://open.spotify.com/track/0kgXakO9GnycldN5sGScwZ",
     "apple": "https://geo.music.apple.com/album/6816841824?i=6816842009&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-a-song-of-romance-pt-2",
     "season": "Fall 2026",
     "rawKeys": [
@@ -19717,7 +19723,7 @@
     "episodes": [],
     "spotify": "https://open.spotify.com/track/6HuRAiVekbXHrNKbIUkkOb",
     "apple": "https://geo.music.apple.com/album/6816841824?i=6816842008&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1ffe272fcfec06e410abd13c80ce1a3f924250b4@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-kami-no-na-o",
     "season": "Fall 2026",
     "rawKeys": [
@@ -20143,7 +20149,7 @@
     "episodes": [],
     "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
     "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/80218bc8bf71649f90c2446af5b83e79ba9f837c@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6b6893ebedf1618ee8ae63d8bc0a851e77084ed9@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending",
     "season": "Fall 2026",
     "rawKeys": [
