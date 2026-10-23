@@ -12648,6 +12648,7 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
       "unreleased",
