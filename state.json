@@ -8738,7 +8738,15 @@
     "kindLabel": "Opening",
     "apple": "https://geo.music.apple.com/album/6814318091?i=6814318214&at=1001l384j&ct=website-tetsuryou-meet-with-te-optv-size&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/51207a0fa72b116dfac7f23d03e4b4c8bf3efcfb@2xl.jpg",
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/Tetsuryou-OP1.webm",
+      "basename": "Tetsuryou-OP1.webm",
+      "animeSlug": "tetsuryou_meet_with_tetsudou_musume",
+      "themeSlug": "",
+      "type": "OP",
+      "sequence": 1,
+      "version": 1
+    },
     "episodes": []
   },
   "c5a69663547c60fb": {
@@ -16730,7 +16738,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -17170,8 +17177,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -17244,8 +17249,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -20444,9 +20447,9 @@
     "kind": "OP",
     "kindLabel": "Opening",
     "spotify": "https://open.spotify.com/track/7ekzLBYJYjPRBaldfC4wU1",
-    "apple": "https://music.apple.com/nz/album/6818821896?i=6818821897&at=1001l384j&ct=website-the-detective-is-already-dead-op&app=music",
+    "apple": "https://geo.music.apple.com/album/6818821896?i=6818821897&at=1001l384j&ct=website-the-detective-is-already-dead-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/eb5a54b1a29735fa08d5634bad51a6dacfd1857e@2xl.jpeg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/the-detective-is-already-dead-season-2-opening",
     "rawKeys": [
       "id",
       "alert_id",
@@ -20471,9 +20474,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -20512,9 +20515,9 @@
     "kindLabel": "Theme Song",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/7KPJaB1GIlaATN9U5yA606",
-    "apple": "https://music.apple.com/nz/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music",
+    "apple": "https://geo.music.apple.com/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4cdb631214611d9ac6ca892eccb34d45259706b9@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-theme-song",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -20540,9 +20543,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -20579,9 +20582,9 @@
     "kindLabel": "OST",
     "episodes": [],
     "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
-    "apple": "https://music.apple.com/nz/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
+    "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -20607,8 +20610,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
-      "web",
+      "other_link_ids",
       "unreleased",
       "objectID"
     ],
@@ -20625,7 +20629,9 @@
       "725",
       "Kevin Penkin",
       "4S33gEeiCjwfD1FJKfMT3Y",
-      "1113369160"
+      "1113369160",
+      "10563699",
+      "UCmUdoXixFr4EffDIQkarfLg"
     ],
     "firstSeen": "2026-10-22T17:05:28.000Z"
   }
