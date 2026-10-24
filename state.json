@@ -9992,7 +9992,15 @@
       "128010782",
       "UC160OjZevHTl0K8vk_g1vZQ"
     ],
-    "animethemesVideo": null,
+    "animethemesVideo": {
+      "url": "https://v.animethemes.moe/NamaAnaru-ED1v2.webm",
+      "basename": "NamaAnaru-ED1v2.webm",
+      "animeSlug": "seitokai_ni_mo_ana_wa_aru",
+      "themeSlug": "",
+      "type": "ED",
+      "sequence": 1,
+      "version": 2
+    },
     "artistDisplay": "NANAOAKARI",
     "artistDisplayCount": 1,
     "kindLabel": "Ending",
