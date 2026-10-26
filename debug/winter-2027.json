@@ -385,26 +385,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/b0f07443b406e866c8135ad5a60694a7fedd62cf@2xl.jpeg"
     },
     {
-      "id": "us_3297",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/b563f7d81b57eddceec15435c23f346cb272d30e.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L8ILivBq{1].7O2a1G,qL2o}*{9@",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/b563f7d81b57eddceec15435c23f346cb272d30e@2xl.jpg"
-    },
-    {
-      "id": "us_3294",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/28d5f3f00ab8d9fe557195fee08a11d31fc5ae9a.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LFB|sXrq0OIB02R-~p%L-:s*t7ai",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/28d5f3f00ab8d9fe557195fee08a11d31fc5ae9a@2xl.jpg"
-    },
-    {
       "id": "us_3306",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c.jpg",
@@ -443,6 +423,26 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/d8e7432d5facf939ff335fba004c7315c52fb8b0@2xl.jpg"
+    },
+    {
+      "id": "us_3297",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/b563f7d81b57eddceec15435c23f346cb272d30e.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L8ILivBq{1].7O2a1G,qL2o}*{9@",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/b563f7d81b57eddceec15435c23f346cb272d30e@2xl.jpg"
+    },
+    {
+      "id": "us_3294",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/28d5f3f00ab8d9fe557195fee08a11d31fc5ae9a.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LFB|sXrq0OIB02R-~p%L-:s*t7ai",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/28d5f3f00ab8d9fe557195fee08a11d31fc5ae9a@2xl.jpg"
     },
     {
       "id": "us_3267",
@@ -805,112 +805,6 @@
       ]
     },
     {
-      "id": "us_3297",
-      "anime": "Kidou Senshi Gundam SEED Freedom Zero",
-      "song": "Original Soundtrack",
-      "artist": "",
-      "artistDisplay": "",
-      "artistDisplayCount": 0,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b563f7d81b57eddceec15435c23f346cb272d30e@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Original Soundtrack"
-      ],
-      "animeCandidates": [
-        "Kidou Senshi Gundam SEED Freedom Zero",
-        "機動戦士ガンダムSEED FREEDOM ZERO",
-        "Mobile Suit Gundam SEED Freedom Zero"
-      ],
-      "artistCandidates": []
-    },
-    {
-      "id": "us_3294",
-      "anime": "Magical Buffs: The Support Caster Is Stronger Than He Realized!",
-      "song": "Ecstatic Buffer",
-      "artist": "LiSA",
-      "artistDisplay": "LiSA",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/28d5f3f00ab8d9fe557195fee08a11d31fc5ae9a@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Ecstatic Buffer"
-      ],
-      "animeCandidates": [
-        "Magical Buffs: The Support Caster Is Stronger Than He Realized!",
-        "Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made",
-        "Until the Chore Granting Sorcerer Realized His Strongest",
-        "雑用付与術師が自分の最強に気付くまで"
-      ],
-      "artistCandidates": [
-        "167",
-        "LiSA",
-        "0blbVefuxOGltDBa00dspv",
-        "573943518",
-        "11446160",
-        "UCt4rbOMLsVxeMsoaRdTfr5A"
-      ]
-    },
-    {
       "id": "us_3306",
       "anime": "One Punch Man 3 Part 2",
       "song": "Never Done ~Saikyou VS Saikyou~",
@@ -1159,6 +1053,112 @@
         "3vmNuDgOAHVSVhI3aWmcR8",
         "1628797487",
         "3rtNjlT8krol2X6iAuelYA"
+      ]
+    },
+    {
+      "id": "us_3297",
+      "anime": "Kidou Senshi Gundam SEED Freedom Zero",
+      "song": "Original Soundtrack",
+      "artist": "",
+      "artistDisplay": "",
+      "artistDisplayCount": 0,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b563f7d81b57eddceec15435c23f346cb272d30e@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack"
+      ],
+      "animeCandidates": [
+        "Kidou Senshi Gundam SEED Freedom Zero",
+        "機動戦士ガンダムSEED FREEDOM ZERO",
+        "Mobile Suit Gundam SEED Freedom Zero"
+      ],
+      "artistCandidates": []
+    },
+    {
+      "id": "us_3294",
+      "anime": "Magical Buffs: The Support Caster Is Stronger Than He Realized!",
+      "song": "Ecstatic Buffer",
+      "artist": "LiSA",
+      "artistDisplay": "LiSA",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/28d5f3f00ab8d9fe557195fee08a11d31fc5ae9a@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Ecstatic Buffer"
+      ],
+      "animeCandidates": [
+        "Magical Buffs: The Support Caster Is Stronger Than He Realized!",
+        "Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made",
+        "Until the Chore Granting Sorcerer Realized His Strongest",
+        "雑用付与術師が自分の最強に気付くまで"
+      ],
+      "artistCandidates": [
+        "167",
+        "LiSA",
+        "0blbVefuxOGltDBa00dspv",
+        "573943518",
+        "11446160",
+        "UCt4rbOMLsVxeMsoaRdTfr5A"
       ]
     },
     {

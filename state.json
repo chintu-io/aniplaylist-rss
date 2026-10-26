@@ -11804,7 +11804,7 @@
     "kind": "OP",
     "spotify": "https://open.spotify.com/track/2tjDVp52gbqzImOMOToaWM",
     "apple": "https://geo.music.apple.com/album/6813726425?i=6813726426&at=1001l384j&ct=website-from-far-away-op&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/281c7476714d52aec9a7ee21d1a199e3792d4f68@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b0434dbd79dc205c1f788c134fbb6987f19b2d2d@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/from-far-away-opening",
     "rawKeys": [
       "id",
@@ -20659,9 +20659,9 @@
     "kindLabel": "Opening",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
-    "apple": "https://music.apple.com/nz/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music",
+    "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -20687,9 +20687,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -20707,7 +20707,10 @@
       "M!LK",
       "4jhJ8cnJ9vYKyCh289nuwQ",
       "1356706755",
-      "14307405"
+      "14307405",
+      "25225",
+      "MILK",
+      "UChbU0n7P86fWdZtlzCNCeGg"
     ],
     "animethemesVideo": {
       "url": "https://v.animethemes.moe/Chojun-OP1.webm",
@@ -20724,16 +20727,16 @@
     "id": "28230",
     "anime": "Umayuru: Full Gate!",
     "song": "Yuruyuru SAMBA",
-    "artist": "Silence Suzuka (CV: Marika Kouno)",
+    "artist": "Various artists",
     "artistDisplay": "Silence Suzuka (CV: Marika Kouno), Inari One (CV: Haruno Inoue), Shinko Windy (CV: Yuuki Takada), Bamboo Memory (CV: Kotomi Aihara), Biko Pegasus (CV: Aimi Tanaka), Mejiro Dober (CV: Hikari Kubota), Mejiro Bright (CV: Ayaka Ohnishi), Stay Gold (CV: Satsumi Matsuda) & Uma Musume Pretty Derby",
     "artistDisplayCount": 9,
     "kind": "ED",
     "kindLabel": "Ending",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/3UzhSsRoUMrGAoU7KVIFHD",
-    "apple": "https://music.apple.com/nz/album/6815901557?i=6815901737&at=1001l384j&ct=website-umayuru-full-gate-ed2&app=music",
+    "apple": "https://geo.music.apple.com/album/6815901557?i=6815901737&at=1001l384j&ct=website-umayuru-full-gate-ed2&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fb0f74339f134e9a446ec328fda51b2b71c68f1d@2xl.jpeg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/umayuru-full-gate-ending-2",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -20760,9 +20763,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -20775,22 +20778,7 @@
       "うまゆるふるげ〜と!"
     ],
     "artistCandidates": [
-      "4375",
-      "Silence Suzuka (CV: Marika Kouno)",
-      "サイレンススズカ (CV: 高野麻里佳)",
-      "Silence Suzuka (CV: Marika Kohno)",
-      "4pYvIklxg2YALG0A8MLUXD",
-      "1274375001",
-      "167345847",
-      "7512",
-      "Inari One (CV: Haruno Inoue)",
-      "イナリワン (CV: 井上遥乃)",
-      "7pxU6wxauuxXXdsY05TbZc",
-      "1576823255",
-      "322551711",
-      "25713",
-      "Shinko Windy (CV: Yuuki Takada)",
-      "シンコウウインディ (CV: 高田憂希)"
+      "Various artists"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-10-25T17:54:40.000Z"
@@ -20806,9 +20794,9 @@
     "kindLabel": "Ending",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/2wCob1Fah2VVX2CAtLxm2A",
-    "apple": "https://music.apple.com/nz/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music",
+    "apple": "https://geo.music.apple.com/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6ce5e7a260488767a0adc7eed15b59070f33ee39@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-ending",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -20834,9 +20822,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -20857,7 +20845,9 @@
       "Kashitaro Ito",
       "伊東歌詞太郎",
       "3i7tuzRfutJGAUowspOM1f",
-      "647767887"
+      "647767887",
+      "12940643",
+      "UC5_fOcOtisCekgSlPR-zPvA"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-10-25T17:54:40.000Z"
