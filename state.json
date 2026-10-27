@@ -11873,7 +11873,7 @@
     "kind": "OP",
     "spotify": "https://open.spotify.com/track/6xqdTZWgBBh9MuF9t0zEbq",
     "apple": "https://geo.music.apple.com/album/6812665302?i=6812665312&at=1001l384j&ct=website-psyren-op&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/bfe2ddaba65ade698ba6908a1cca838a1a5dae56@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b423e29105bb85e395556f6ab46d57309c4b5081@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/psyren-opening",
     "rawKeys": [
       "id",
@@ -12595,7 +12595,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
