@@ -3,25 +3,93 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 233,
+  "resultCount": 234,
   "animeThemesChecked": 140,
   "animeThemesMatched": 100,
   "animeThemesSeasonLinks": 72,
   "jsonResponses": 32,
   "algoliaResponses": 15,
   "hitArrays": 30,
-  "rawHits": 233,
-  "uniqueHits": 233,
-  "normalized": 233,
-  "withSpotify": 192,
-  "withApple": 193,
-  "withDetailUrl": 195,
-  "resolvedSpotify": 192,
-  "recordThumbnails": 233,
+  "rawHits": 234,
+  "uniqueHits": 234,
+  "normalized": 234,
+  "withSpotify": 193,
+  "withApple": 194,
+  "withDetailUrl": 196,
+  "resolvedSpotify": 193,
+  "recordThumbnails": 234,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28232",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Mist -Hikigatari ver.-",
+      "artist": "Kouki (CV: Yuu Kobayashi)",
+      "artistDisplay": "Kouki (CV: Yuu Kobayashi)",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 4)",
+      "episodes": [
+        "4"
+      ],
+      "spotify": "https://open.spotify.com/track/10384jlOLejbIdHinbrFWT",
+      "apple": "https://geo.music.apple.com/album/6819992281?i=6819992716&at=1001l384j&ct=website-even-the-student-council-in-ep-4&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/480ae241e7d0cf46e6db5881aeb896c8e028b18d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-insert-song-ep-4-mist-hikigatari-ver",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Mist -Hikigatari ver.-",
+        "ミスト-弾き語りver.-"
+      ],
+      "animeCandidates": [
+        "Even the Student Council Has Its Holes!",
+        "Seitokai ni mo Ana wa Aru!",
+        "生徒会にも穴はある！",
+        "There Is Also a Hole in the Student Organization!"
+      ],
+      "artistCandidates": [
+        "25720",
+        "Kouki (CV: Yuu Kobayashi)",
+        "こうき (CV: 小林ゆう)",
+        "5I1RCWRrpcr1YIQ9Yd3qH6",
+        "6819992714",
+        "420777172",
+        "UCO_mhhAStCP9fPAVD8XShVw"
+      ]
+    },
     {
       "id": "28231",
       "anime": "Super Psychic Policeman Chojo",
@@ -277,76 +345,20 @@
         "14777929",
         "UCu_TEd41PUb7qC5GXXauFuQ"
       ]
-    },
-    {
-      "id": "28222",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "Chain of the Abyss",
-      "artist": "Kevin Penkin",
-      "artistDisplay": "Kevin Penkin & Mori Calliope",
-      "artistDisplayCount": 2,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7KPJaB1GIlaATN9U5yA606",
-      "apple": "https://geo.music.apple.com/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4cdb631214611d9ac6ca892eccb34d45259706b9@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Chain of the Abyss"
-      ],
-      "animeCandidates": [
-        "Made in Abyss: Mezameru Shinpi",
-        "Made in Abyss: Awakening Mystery",
-        "メイドインアビス 目覚める神秘"
-      ],
-      "artistCandidates": [
-        "725",
-        "Kevin Penkin",
-        "4S33gEeiCjwfD1FJKfMT3Y",
-        "1113369160",
-        "10563699",
-        "12480",
-        "Mori Calliope",
-        "森 カリオペ",
-        "1PhE6rv0146ZTQosoPDjk8",
-        "119362592"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28232",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/480ae241e7d0cf46e6db5881aeb896c8e028b18d.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LmNv_Dt7?w%2-=jYRjWBx]o#ROog",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/480ae241e7d0cf46e6db5881aeb896c8e028b18d@2xl.jpeg"
+    },
     {
       "id": "28231",
       "thumbnailType": "string",
@@ -456,26 +468,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp"
-    },
-    {
-      "id": "28170",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LRMaFf_2S*-:*0RjjXt8I[eRWFWY",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/5257da185fc923f3b67b32e9de7dab43d86ae886@2xl.jpeg"
     }
   ],
-  "expectedHits": 233,
+  "expectedHits": 234,
   "expectedPages": 15,
   "receivedPages": 15,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -483,7 +485,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -491,7 +493,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -499,7 +501,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -507,7 +509,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -515,7 +517,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -523,7 +525,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -531,7 +533,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -539,7 +541,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -547,7 +549,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -555,7 +557,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -563,7 +565,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -571,7 +573,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -579,7 +581,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -587,7 +589,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -595,7 +597,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -603,7 +605,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -611,7 +613,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -619,7 +621,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -627,7 +629,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -635,7 +637,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -643,7 +645,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -651,7 +653,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -659,7 +661,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -667,7 +669,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -675,7 +677,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -683,7 +685,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -691,7 +693,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -699,21 +701,89 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 233,
+      "nbHits": 234,
       "hitsPerPage": 16,
       "nbPages": 15,
-      "count": 9
+      "count": 10
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28473,
+      "nbHits": 28474,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28232",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Mist -Hikigatari ver.-",
+      "artist": "Kouki (CV: Yuu Kobayashi)",
+      "artistDisplay": "Kouki (CV: Yuu Kobayashi)",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 4)",
+      "episodes": [
+        "4"
+      ],
+      "spotify": "https://open.spotify.com/track/10384jlOLejbIdHinbrFWT",
+      "apple": "https://geo.music.apple.com/album/6819992281?i=6819992716&at=1001l384j&ct=website-even-the-student-council-in-ep-4&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/480ae241e7d0cf46e6db5881aeb896c8e028b18d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-insert-song-ep-4-mist-hikigatari-ver",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Mist -Hikigatari ver.-",
+        "ミスト-弾き語りver.-"
+      ],
+      "animeCandidates": [
+        "Even the Student Council Has Its Holes!",
+        "Seitokai ni mo Ana wa Aru!",
+        "生徒会にも穴はある！",
+        "There Is Also a Hole in the Student Organization!"
+      ],
+      "artistCandidates": [
+        "25720",
+        "Kouki (CV: Yuu Kobayashi)",
+        "こうき (CV: 小林ゆう)",
+        "5I1RCWRrpcr1YIQ9Yd3qH6",
+        "6819992714",
+        "420777172",
+        "UCO_mhhAStCP9fPAVD8XShVw"
+      ]
+    },
     {
       "id": "28231",
       "anime": "Super Psychic Policeman Chojo",
@@ -2684,75 +2754,6 @@
         "446646984",
         "4956203",
         "UCmMzqlRl2b3KDWAv691S-AA"
-      ]
-    },
-    {
-      "id": "28139",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Pierwszy raz naprawdę",
-      "artist": "27.Fuckdemons",
-      "artistDisplay": "27.Fuckdemons & OLO Y",
-      "artistDisplayCount": 2,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 4)",
-      "episodes": [
-        "4"
-      ],
-      "spotify": "https://open.spotify.com/track/6YWKvhv8AmcLaC6BViYyFU",
-      "apple": "https://geo.music.apple.com/album/1707392050?i=1707392508&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-4&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-4-pierwszy-raz-naprawde",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Pierwszy raz naprawdę"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "25666",
-        "27.Fuckdemons",
-        "2FhI5QfUYl5iIlUog9HHEw",
-        "1491607120",
-        "81313962",
-        "UCiBAWqDmFflgbvSB0Xv4Dug",
-        "25667",
-        "OLO Y",
-        "7ISspHIxPlxgZRVrDc38p6",
-        "1707392509",
-        "230317215"
       ]
     }
   ],
@@ -3329,6 +3330,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28232",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Mist -Hikigatari ver.-",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-insert-song-ep-4-mist-hikigatari-ver"
+    },
+    {
       "id": "28231",
       "anime": "Super Psychic Policeman Chojo",
       "song": "That's! Choujou",
@@ -3530,16 +3538,77 @@
       "song": "Streetfighters",
       "kind": "IN",
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-5-streetfighters"
-    },
-    {
-      "id": "28139",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Pierwszy raz naprawdę",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-4-pierwszy-raz-naprawde"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28232",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Mist -Hikigatari ver.-",
+      "artist": "Kouki (CV: Yuu Kobayashi)",
+      "artistDisplay": "Kouki (CV: Yuu Kobayashi)",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 4)",
+      "episodes": [
+        "4"
+      ],
+      "spotify": "https://open.spotify.com/track/10384jlOLejbIdHinbrFWT",
+      "apple": "https://geo.music.apple.com/album/6819992281?i=6819992716&at=1001l384j&ct=website-even-the-student-council-in-ep-4&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/480ae241e7d0cf46e6db5881aeb896c8e028b18d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-insert-song-ep-4-mist-hikigatari-ver",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Mist -Hikigatari ver.-",
+        "ミスト-弾き語りver.-"
+      ],
+      "animeCandidates": [
+        "Even the Student Council Has Its Holes!",
+        "Seitokai ni mo Ana wa Aru!",
+        "生徒会にも穴はある！",
+        "There Is Also a Hole in the Student Organization!"
+      ],
+      "artistCandidates": [
+        "25720",
+        "Kouki (CV: Yuu Kobayashi)",
+        "こうき (CV: 小林ゆう)",
+        "5I1RCWRrpcr1YIQ9Yd3qH6",
+        "6819992714",
+        "420777172",
+        "UCO_mhhAStCP9fPAVD8XShVw"
+      ]
+    },
     {
       "id": "28231",
       "anime": "Super Psychic Policeman Chojo",
@@ -5511,78 +5580,17 @@
         "4956203",
         "UCmMzqlRl2b3KDWAv691S-AA"
       ]
-    },
-    {
-      "id": "28139",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Pierwszy raz naprawdę",
-      "artist": "27.Fuckdemons",
-      "artistDisplay": "27.Fuckdemons & OLO Y",
-      "artistDisplayCount": 2,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 4)",
-      "episodes": [
-        "4"
-      ],
-      "spotify": "https://open.spotify.com/track/6YWKvhv8AmcLaC6BViYyFU",
-      "apple": "https://geo.music.apple.com/album/1707392050?i=1707392508&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-4&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-4-pierwszy-raz-naprawde",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Pierwszy raz naprawdę"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2"
-      ],
-      "artistCandidates": [
-        "25666",
-        "27.Fuckdemons",
-        "2FhI5QfUYl5iIlUog9HHEw",
-        "1491607120",
-        "81313962",
-        "UCiBAWqDmFflgbvSB0Xv4Dug",
-        "25667",
-        "OLO Y",
-        "7ISspHIxPlxgZRVrDc38p6",
-        "1707392509",
-        "230317215"
-      ]
     }
   ],
   "platformSamples": [
+    {
+      "id": "28232",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Mist -Hikigatari ver.-",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/10384jlOLejbIdHinbrFWT",
+      "apple": "https://geo.music.apple.com/album/6819992281?i=6819992716&at=1001l384j&ct=website-even-the-student-council-in-ep-4&app=music"
+    },
     {
       "id": "28231",
       "anime": "Super Psychic Policeman Chojo",
@@ -5814,14 +5822,6 @@
       "kind": "IN",
       "spotify": "https://open.spotify.com/track/2rocnuFLQ8aLRpemkHW1hO",
       "apple": "https://geo.music.apple.com/album/1544457960?i=1544458097&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-5&app=music"
-    },
-    {
-      "id": "28139",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Pierwszy raz naprawdę",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/6YWKvhv8AmcLaC6BViYyFU",
-      "apple": "https://geo.music.apple.com/album/1707392050?i=1707392508&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-4&app=music"
     }
   ]
 }

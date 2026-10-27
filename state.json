@@ -20859,5 +20859,74 @@
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-10-25T17:54:40.000Z"
+  },
+  "e243b0292a9d992a": {
+    "id": "28232",
+    "anime": "Even the Student Council Has Its Holes!",
+    "song": "Mist -Hikigatari ver.-",
+    "artist": "Kouki (CV: Yuu Kobayashi)",
+    "artistDisplay": "Kouki (CV: Yuu Kobayashi)",
+    "artistDisplayCount": 1,
+    "kind": "IN",
+    "kindLabel": "Insert (ep 4)",
+    "episodes": [
+      "4"
+    ],
+    "spotify": "https://open.spotify.com/track/10384jlOLejbIdHinbrFWT",
+    "apple": "https://geo.music.apple.com/album/6819992281?i=6819992716&at=1001l384j&ct=website-even-the-student-council-in-ep-4&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/480ae241e7d0cf46e6db5881aeb896c8e028b18d@2xl.jpeg",
+    "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-insert-song-ep-4-mist-hikigatari-ver",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "episodes",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "status",
+      "tags",
+      "other_link_ids",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Mist -Hikigatari ver.-",
+      "ミスト-弾き語りver.-"
+    ],
+    "animeCandidates": [
+      "Even the Student Council Has Its Holes!",
+      "Seitokai ni mo Ana wa Aru!",
+      "生徒会にも穴はある！",
+      "There Is Also a Hole in the Student Organization!"
+    ],
+    "artistCandidates": [
+      "25720",
+      "Kouki (CV: Yuu Kobayashi)",
+      "こうき (CV: 小林ゆう)",
+      "5I1RCWRrpcr1YIQ9Yd3qH6",
+      "6819992714",
+      "420777172",
+      "UCO_mhhAStCP9fPAVD8XShVw"
+    ],
+    "firstSeen": "2026-10-27T05:33:03.000Z"
   }
 }
