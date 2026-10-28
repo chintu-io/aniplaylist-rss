@@ -10510,7 +10510,7 @@
     "kind": "ED",
     "spotify": "https://open.spotify.com/track/28IOFXg9DXdO634HLMdJ8T",
     "apple": "https://geo.music.apple.com/album/6810983447?i=6810983457&at=1001l384j&ct=website-blue-box-season-2-ed&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/93e99655a56103c00fc84ab4972eb7dd09d4c291@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-ending",
     "rawKeys": [
       "id",
@@ -20933,5 +20933,69 @@
       "UCO_mhhAStCP9fPAVD8XShVw"
     ],
     "firstSeen": "2026-10-27T05:33:03.000Z"
+  },
+  "fb801d9284e636fc": {
+    "id": "28245",
+    "anime": "Beyblade X",
+    "song": "SPIN",
+    "artist": "BAND-MAID",
+    "artistDisplay": "BAND-MAID",
+    "artistDisplayCount": 1,
+    "kind": "ED",
+    "kindLabel": "Ending",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/track/4VjifkYlIftEs7dQ4V5b9I",
+    "apple": "https://music.apple.com/nz/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b@2xl.jpg",
+    "detailUrl": "",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_number",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "tags",
+      "other_link_ids",
+      "web",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "SPIN"
+    ],
+    "animeCandidates": [
+      "Beyblade X",
+      "ベイブレードエックス"
+    ],
+    "artistCandidates": [
+      "27",
+      "BAND-MAID",
+      "5Wh3G01Xfxn2zzEZNpuYHH",
+      "1102275947",
+      "52494612",
+      "UCM35rMMfPj1wj1nwe-DxSAg"
+    ],
+    "animethemesVideo": null,
+    "firstSeen": "2026-10-28T00:28:15.000Z"
   }
 }
