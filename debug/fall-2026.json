@@ -15,13 +15,75 @@
   "normalized": 234,
   "withSpotify": 194,
   "withApple": 195,
-  "withDetailUrl": 196,
+  "withDetailUrl": 197,
   "resolvedSpotify": 194,
   "recordThumbnails": 234,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28245",
+      "anime": "Beyblade X",
+      "song": "SPIN",
+      "artist": "BAND-MAID",
+      "artistDisplay": "BAND-MAID",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4VjifkYlIftEs7dQ4V5b9I",
+      "apple": "https://geo.music.apple.com/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/beyblade-x-ending-6",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SPIN"
+      ],
+      "animeCandidates": [
+        "Beyblade X",
+        "ベイブレードエックス"
+      ],
+      "artistCandidates": [
+        "27",
+        "BAND-MAID",
+        "5Wh3G01Xfxn2zzEZNpuYHH",
+        "1102275947",
+        "52494612",
+        "UCM35rMMfPj1wj1nwe-DxSAg"
+      ]
+    },
     {
       "id": "28232",
       "anime": "Even the Student Council Has Its Holes!",
@@ -278,74 +340,20 @@
       "artistCandidates": [
         "Various artists"
       ]
-    },
-    {
-      "id": "27938",
-      "anime": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-      "song": "Still Water",
-      "artist": "Rico Sasaki",
-      "artistDisplay": "Rico Sasaki",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/38ux50kdbuJkD7BKSAPIJ5",
-      "apple": "https://geo.music.apple.com/album/6807839462?i=6807839465&at=1001l384j&ct=website-as-a-reincarnated-aristocrat-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8ae74089eb1e89545a2608c65ce46b7db6e98561@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Still Water"
-      ],
-      "animeCandidates": [
-        "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-        "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
-        "Reincarnated as an Aristocrat with an Appraisal Skill Season 3",
-        "転生貴族、鑑定スキルで成り上がる 第3期"
-      ],
-      "artistCandidates": [
-        "426",
-        "Rico Sasaki",
-        "佐々木李子",
-        "32vntVlDOsm1HGm9Xe0FSz",
-        "1361445379",
-        "122365542",
-        "UCmNJnINtgmp9XyYq_yADLpw"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28245",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LeH{_;RUIVR%.kW.bcfA%2WUJRn%",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b@2xl.jpg"
+    },
     {
       "id": "28232",
       "thumbnailType": "string",
@@ -455,16 +463,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/5290b4c10ffeb16037064e5cc7a4807d52aba5e5@2xl.jpeg"
-    },
-    {
-      "id": "27898",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/c1e15599ffceafbaccaf9625503d9a000d767238.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LhSX+3ywt%VH$vX8RRohgae@i%bC",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/c1e15599ffceafbaccaf9625503d9a000d767238@2xl.jpeg"
     }
   ],
   "expectedHits": 234,
@@ -482,7 +480,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -498,7 +496,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -514,7 +512,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -530,7 +528,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -546,7 +544,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -562,7 +560,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -578,7 +576,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -594,7 +592,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -610,7 +608,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -626,7 +624,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -642,7 +640,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -658,7 +656,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -674,7 +672,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -690,7 +688,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -706,13 +704,76 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28485,
+      "nbHits": 28486,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28245",
+      "anime": "Beyblade X",
+      "song": "SPIN",
+      "artist": "BAND-MAID",
+      "artistDisplay": "BAND-MAID",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4VjifkYlIftEs7dQ4V5b9I",
+      "apple": "https://geo.music.apple.com/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/beyblade-x-ending-6",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SPIN"
+      ],
+      "animeCandidates": [
+        "Beyblade X",
+        "ベイブレードエックス"
+      ],
+      "artistCandidates": [
+        "27",
+        "BAND-MAID",
+        "5Wh3G01Xfxn2zzEZNpuYHH",
+        "1102275947",
+        "52494612",
+        "UCM35rMMfPj1wj1nwe-DxSAg"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28232",
       "anime": "Even the Student Council Has Its Holes!",
@@ -2776,83 +2837,6 @@
         "themeSlug": "",
         "type": "OP",
         "sequence": 2,
-        "version": 1
-      }
-    },
-    {
-      "id": "28120",
-      "anime": "A Certain Dark Side's Item",
-      "song": "Meltdowner",
-      "artist": "KISIDA KYODAN & THE AKEBOSI ROCKETS",
-      "artistDisplay": "KISIDA KYODAN & THE AKEBOSI ROCKETS",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2hhGjYncdykHxnxuqMURnN",
-      "apple": "https://geo.music.apple.com/album/6819323104?i=6819323107&at=1001l384j&ct=website-a-certain-dark-sides-item-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4031749b5b4748193a9d6f311bb472e32d8f46d7@2xl.webp",
-      "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Meltdowner",
-        "Genshi Kuzushi (Meltdowner)",
-        "原⼦崩し(メルトダウナー)"
-      ],
-      "animeCandidates": [
-        "A Certain Dark Side's Item",
-        "Toaru Anbu no Item",
-        "Toaru Anbu no Shoujo Kyousei",
-        "とある暗部の少女共棲",
-        "A Certain Dark Item"
-      ],
-      "artistCandidates": [
-        "220",
-        "KISIDA KYODAN & THE AKEBOSI ROCKETS",
-        "Kishida Kyoudan & The Akeboshi Rockets",
-        "岸田教団&The明星ロケッツ",
-        "Kisida Kyodan & The Akebosi Rockets",
-        "1zPnpAM7fGFr7pl8OSNvak",
-        "736621456",
-        "7478946",
-        "UCSDwXTEapUN0qI5mBx9XzTw"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/ToaruAnbuNoItem-ED1.webm",
-        "basename": "ToaruAnbuNoItem-ED1.webm",
-        "animeSlug": "toaru_anbu_no_item",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
         "version": 1
       }
     }
@@ -3430,6 +3414,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28245",
+      "anime": "Beyblade X",
+      "song": "SPIN",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/beyblade-x-ending-6"
+    },
+    {
       "id": "28232",
       "anime": "Even the Student Council Has Its Holes!",
       "song": "Mist -Hikigatari ver.-",
@@ -3631,16 +3622,72 @@
       "song": "Deux Livres",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3"
-    },
-    {
-      "id": "28120",
-      "anime": "A Certain Dark Side's Item",
-      "song": "Meltdowner",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-ending"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28245",
+      "anime": "Beyblade X",
+      "song": "SPIN",
+      "artist": "BAND-MAID",
+      "artistDisplay": "BAND-MAID",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4VjifkYlIftEs7dQ4V5b9I",
+      "apple": "https://geo.music.apple.com/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/beyblade-x-ending-6",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SPIN"
+      ],
+      "animeCandidates": [
+        "Beyblade X",
+        "ベイブレードエックス"
+      ],
+      "artistCandidates": [
+        "27",
+        "BAND-MAID",
+        "5Wh3G01Xfxn2zzEZNpuYHH",
+        "1102275947",
+        "52494612",
+        "UCM35rMMfPj1wj1nwe-DxSAg"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28232",
       "anime": "Even the Student Council Has Its Holes!",
@@ -5706,86 +5753,17 @@
         "sequence": 2,
         "version": 1
       }
-    },
-    {
-      "id": "28120",
-      "anime": "A Certain Dark Side's Item",
-      "song": "Meltdowner",
-      "artist": "KISIDA KYODAN & THE AKEBOSI ROCKETS",
-      "artistDisplay": "KISIDA KYODAN & THE AKEBOSI ROCKETS",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2hhGjYncdykHxnxuqMURnN",
-      "apple": "https://geo.music.apple.com/album/6819323104?i=6819323107&at=1001l384j&ct=website-a-certain-dark-sides-item-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4031749b5b4748193a9d6f311bb472e32d8f46d7@2xl.webp",
-      "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Meltdowner",
-        "Genshi Kuzushi (Meltdowner)",
-        "原⼦崩し(メルトダウナー)"
-      ],
-      "animeCandidates": [
-        "A Certain Dark Side's Item",
-        "Toaru Anbu no Item",
-        "Toaru Anbu no Shoujo Kyousei",
-        "とある暗部の少女共棲",
-        "A Certain Dark Item"
-      ],
-      "artistCandidates": [
-        "220",
-        "KISIDA KYODAN & THE AKEBOSI ROCKETS",
-        "Kishida Kyoudan & The Akeboshi Rockets",
-        "岸田教団&The明星ロケッツ",
-        "Kisida Kyodan & The Akebosi Rockets",
-        "1zPnpAM7fGFr7pl8OSNvak",
-        "736621456",
-        "7478946",
-        "UCSDwXTEapUN0qI5mBx9XzTw"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/ToaruAnbuNoItem-ED1.webm",
-        "basename": "ToaruAnbuNoItem-ED1.webm",
-        "animeSlug": "toaru_anbu_no_item",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
     }
   ],
   "platformSamples": [
+    {
+      "id": "28245",
+      "anime": "Beyblade X",
+      "song": "SPIN",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/4VjifkYlIftEs7dQ4V5b9I",
+      "apple": "https://geo.music.apple.com/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music"
+    },
     {
       "id": "28232",
       "anime": "Even the Student Council Has Its Holes!",
@@ -6017,14 +5995,6 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
       "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music"
-    },
-    {
-      "id": "28120",
-      "anime": "A Certain Dark Side's Item",
-      "song": "Meltdowner",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/2hhGjYncdykHxnxuqMURnN",
-      "apple": "https://geo.music.apple.com/album/6819323104?i=6819323107&at=1001l384j&ct=website-a-certain-dark-sides-item-ed&app=music"
     }
   ]
 }

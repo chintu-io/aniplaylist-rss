@@ -13531,6 +13531,7 @@
       "label",
       "short_link",
       "tags",
+      "other_link_ids",
       "unreleased",
       "objectID"
     ],
@@ -14593,7 +14594,7 @@
     "song": "Everlasting",
     "artist": "krage",
     "kind": "ED",
-    "spotify": "https://open.spotify.com/track/0W5uQSYkrblhLljDOcmdGV",
+    "spotify": "https://open.spotify.com/track/37WU0gszb5AQ7eAFxXyFeW",
     "detailUrl": "https://aniplaylist.com/play/a-returners-magic-should-be-special-season-2-ending",
     "rawKeys": [
       "id",
@@ -14645,7 +14646,7 @@
     "artistDisplay": "krage",
     "artistDisplayCount": 1,
     "kindLabel": "Ending",
-    "apple": "https://geo.music.apple.com/album/6810085354?i=6810085358&at=1001l384j&ct=website-a-returners-magic-should-be-s-ed&app=music",
+    "apple": "https://geo.music.apple.com/album/6823025456?i=6823025457&at=1001l384j&ct=website-a-returners-magic-should-be-s-ed&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6e34c5ddf6e94e27b9511260421b15806fd60975@2xl.jpg",
     "animethemesVideo": {
       "url": "https://v.animethemes.moe/KikanshaNoMahouS2-ED1.webm",
@@ -15598,7 +15599,7 @@
     "song": "Firestarter",
     "artist": "MAN WITH A MISSION",
     "kind": "OP",
-    "spotify": "https://open.spotify.com/track/5JpHfVIJG0XEJjUhnKeyhb",
+    "spotify": "https://open.spotify.com/track/3PkVsdTPpvE1E9YpyNKybm",
     "detailUrl": "https://aniplaylist.com/play/the-vermilion-mask-opening",
     "rawKeys": [
       "id",
@@ -15650,7 +15651,7 @@
     "artistDisplayCount": 1,
     "kindLabel": "Opening",
     "episodes": [],
-    "apple": "https://geo.music.apple.com/album/6815691223?i=6815691224&at=1001l384j&ct=website-the-vermilion-mask-op&app=music",
+    "apple": "https://geo.music.apple.com/album/6823023927?i=6823023928&at=1001l384j&ct=website-the-vermilion-mask-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b38b9b60107a5868cedd2225c0e79d4cd1b6705c@2xl.jpg",
     "animethemesVideo": {
       "url": "https://v.animethemes.moe/ShuiroNoKamen-OP1.webm",
@@ -20903,9 +20904,9 @@
     "kindLabel": "Ending",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/4VjifkYlIftEs7dQ4V5b9I",
-    "apple": "https://music.apple.com/nz/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music",
+    "apple": "https://geo.music.apple.com/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/beyblade-x-ending-6",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -20932,9 +20933,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
