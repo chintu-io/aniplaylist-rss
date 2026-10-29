@@ -3,25 +3,100 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 234,
-  "animeThemesChecked": 141,
+  "resultCount": 233,
+  "animeThemesChecked": 143,
   "animeThemesMatched": 100,
   "animeThemesSeasonLinks": 72,
   "jsonResponses": 32,
   "algoliaResponses": 15,
   "hitArrays": 30,
-  "rawHits": 234,
-  "uniqueHits": 234,
-  "normalized": 234,
-  "withSpotify": 194,
-  "withApple": 195,
+  "rawHits": 233,
+  "uniqueHits": 233,
+  "normalized": 233,
+  "withSpotify": 196,
+  "withApple": 197,
   "withDetailUrl": 197,
-  "resolvedSpotify": 194,
-  "recordThumbnails": 234,
+  "resolvedSpotify": 196,
+  "recordThumbnails": 233,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28252",
+      "anime": "Grotesqqque",
+      "song": "Shoot Shoot Shoot",
+      "artist": "METALVERSE",
+      "artistDisplay": "METALVERSE",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3EMV8A7y6m9XqYw6K5o5vQ",
+      "apple": "https://geo.music.apple.com/album/6820414450?i=6820414452&at=1001l384j&ct=website-grotesqqque-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shoot Shoot Shoot"
+      ],
+      "animeCandidates": [
+        "Grotesqqque",
+        "GROTESQQQUE-グロテスク-",
+        "Æliens",
+        "Yoroshiku★Shoujo",
+        "Nocturn: En Cette Nuit Grotesque",
+        "GROTESQQQUE",
+        "GTQ123",
+        "ÆLIENS (エリィアンズ)",
+        "AELIENS",
+        "Yoroshiku★Shoujo (夜露死駆★少女)",
+        "4649Girl",
+        "Yoroshiku★Girl",
+        "Evening Dew Heads to Its Death★Girl",
+        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+        "NOCTURNE: NUIT GROTESQUE",
+        "NOCTURN: EN CETTE NUIT GROTESQUE"
+      ],
+      "artistCandidates": [
+        "23873",
+        "METALVERSE",
+        "4FZB47paQH8eOatPhgG7pp",
+        "1893607411",
+        "318870711",
+        "UCBetQ2VG1Fppe5mJOq0-4og"
+      ]
+    },
     {
       "id": "28245",
       "anime": "Beyblade X",
@@ -282,68 +357,20 @@
         "12940643",
         "UC5_fOcOtisCekgSlPR-zPvA"
       ]
-    },
-    {
-      "id": "28230",
-      "anime": "Umayuru: Full Gate!",
-      "song": "Yuruyuru SAMBA",
-      "artist": "Various artists",
-      "artistDisplay": "Silence Suzuka (CV: Marika Kouno), Inari One (CV: Haruno Inoue), Shinko Windy (CV: Yuuki Takada), Bamboo Memory (CV: Kotomi Aihara), Biko Pegasus (CV: Aimi Tanaka), Mejiro Dober (CV: Hikari Kubota), Mejiro Bright (CV: Ayaka Ohnishi), Stay Gold (CV: Satsumi Matsuda) & Uma Musume Pretty Derby",
-      "artistDisplayCount": 9,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3UzhSsRoUMrGAoU7KVIFHD",
-      "apple": "https://geo.music.apple.com/album/6815901557?i=6815901737&at=1001l384j&ct=website-umayuru-full-gate-ed2&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fb0f74339f134e9a446ec328fda51b2b71c68f1d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/umayuru-full-gate-ending-2",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yuruyuru SAMBA",
-        "ゆるゆるSAMBA"
-      ],
-      "animeCandidates": [
-        "Umayuru: Full Gate!",
-        "うまゆるふるげ〜と!"
-      ],
-      "artistCandidates": [
-        "Various artists"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28252",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LqHV0ywik7SwtpnSSxocIVa^s:kC",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg"
+    },
     {
       "id": "28245",
       "thumbnailType": "string",
@@ -435,16 +462,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/891562e1effbe9acb166cdf690eb2e109b4d926e@2xl.jpeg"
     },
     {
-      "id": "28074",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L89i}Or_0L]}R3s:%4Io18s7};Em",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
-    },
-    {
       "id": "27911",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/2afa92f0e75be1a945178c2c6f4fd4b22fd69301.jpg",
@@ -455,24 +472,24 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/2afa92f0e75be1a945178c2c6f4fd4b22fd69301@2xl.jpg"
     },
     {
-      "id": "27897",
+      "id": "28085",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/c1e15599ffceafbaccaf9625503d9a000d767238.jpeg",
+      "thumbnail": "thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LhSX+3ywt%VH$vX8RRohgae@i%bC",
+      "thumbnail_hash": "LKJHI64U9+-:0I-+E%V=v|XA=BV_",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/c1e15599ffceafbaccaf9625503d9a000d767238@2xl.jpeg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg"
     }
   ],
-  "expectedHits": 234,
+  "expectedHits": 233,
   "expectedPages": 15,
   "receivedPages": 15,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -480,7 +497,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -488,7 +505,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -496,7 +513,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -504,7 +521,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -512,7 +529,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -520,7 +537,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -528,7 +545,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -536,7 +553,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -544,7 +561,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -552,7 +569,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -560,7 +577,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -568,7 +585,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -576,7 +593,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -584,7 +601,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -592,7 +609,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -600,7 +617,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -608,7 +625,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -616,7 +633,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -624,7 +641,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -632,7 +649,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -640,7 +657,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -648,7 +665,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -656,7 +673,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -664,7 +681,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -672,7 +689,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -680,7 +697,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -688,7 +705,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -696,21 +713,97 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 234,
+      "nbHits": 233,
       "hitsPerPage": 16,
       "nbPages": 15,
-      "count": 10
+      "count": 9
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28487,
+      "nbHits": 28488,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28252",
+      "anime": "Grotesqqque",
+      "song": "Shoot Shoot Shoot",
+      "artist": "METALVERSE",
+      "artistDisplay": "METALVERSE",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3EMV8A7y6m9XqYw6K5o5vQ",
+      "apple": "https://geo.music.apple.com/album/6820414450?i=6820414452&at=1001l384j&ct=website-grotesqqque-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shoot Shoot Shoot"
+      ],
+      "animeCandidates": [
+        "Grotesqqque",
+        "GROTESQQQUE-グロテスク-",
+        "Æliens",
+        "Yoroshiku★Shoujo",
+        "Nocturn: En Cette Nuit Grotesque",
+        "GROTESQQQUE",
+        "GTQ123",
+        "ÆLIENS (エリィアンズ)",
+        "AELIENS",
+        "Yoroshiku★Shoujo (夜露死駆★少女)",
+        "4649Girl",
+        "Yoroshiku★Girl",
+        "Evening Dew Heads to Its Death★Girl",
+        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+        "NOCTURNE: NUIT GROTESQUE",
+        "NOCTURN: EN CETTE NUIT GROTESQUE"
+      ],
+      "artistCandidates": [
+        "23873",
+        "METALVERSE",
+        "4FZB47paQH8eOatPhgG7pp",
+        "1893607411",
+        "318870711",
+        "UCBetQ2VG1Fppe5mJOq0-4og"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28245",
       "anime": "Beyblade X",
@@ -1331,80 +1424,6 @@
       }
     },
     {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "artist": "Megatera Zero",
-      "artistDisplay": "Megatera Zero",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
-      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "products",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Onogami",
-        "オノガミ"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "14404",
-        "Megatera Zero",
-        "メガテラ・ゼロ",
-        "MEGATERA･ZERO",
-        "Mega Terra Zero",
-        "4I7F7bTQ9tBnRI2razDP9B",
-        "1466037690",
-        "147335922",
-        "UCe0GU9CHeC3hbvgYmzXc7OA"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-OP1.webm",
-        "basename": "DragonBallSuperBeerus-OP1.webm",
-        "animeSlug": "dragon_ball_super_beerus",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
       "id": "27911",
       "anime": "A Tale of the Secret Saint",
       "song": "Flare of Soul",
@@ -1480,6 +1499,73 @@
         "sequence": 1,
         "version": 1
       }
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "27897",
@@ -1634,73 +1720,6 @@
       }
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "27898",
       "anime": "FX Fighter Kurumi-chan",
       "song": "$・¥・€",
@@ -1769,6 +1788,80 @@
         "animeSlug": "fx_senshi_kurumichan",
         "themeSlug": "",
         "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "artist": "Megatera Zero",
+      "artistDisplay": "Megatera Zero",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
+      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "products",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Onogami",
+        "オノガミ"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "14404",
+        "Megatera Zero",
+        "メガテラ・ゼロ",
+        "MEGATERA･ZERO",
+        "Mega Terra Zero",
+        "4I7F7bTQ9tBnRI2razDP9B",
+        "1466037690",
+        "147335922",
+        "UCe0GU9CHeC3hbvgYmzXc7OA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-OP1.webm",
+        "basename": "DragonBallSuperBeerus-OP1.webm",
+        "animeSlug": "dragon_ball_super_beerus",
+        "themeSlug": "",
+        "type": "OP",
         "sequence": 1,
         "version": 1
       }
@@ -1843,78 +1936,6 @@
         "url": "https://v.animethemes.moe/KusuriyaNoHitorigotoS3-ED1.webm",
         "basename": "KusuriyaNoHitorigotoS3-ED1.webm",
         "animeSlug": "kusuriya_no_hitorigoto_3rd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
-      "artist": "VK Blanka",
-      "artistDisplay": "VK Blanka",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
-      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kanpeki no Peki",
-        "完璧のペキ",
-        "Kan Peki No Peki"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "498",
-        "VK Blanka",
-        "Vickeblanka",
-        "0PYPjvZaOa7bsCq26JOX8d",
-        "894895986",
-        "50322192",
-        "UCg2rvXE9x3zg01ZxyIt9DpA"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-ED1.webm",
-        "basename": "DragonBallSuperBeerus-ED1.webm",
-        "animeSlug": "dragon_ball_super_beerus",
         "themeSlug": "",
         "type": "ED",
         "sequence": 1,
@@ -2069,146 +2090,6 @@
       }
     },
     {
-      "id": "27870",
-      "anime": "The Ramparts of Ice Season 2",
-      "song": "Hanakage",
-      "artist": "Superfly",
-      "artistDisplay": "Superfly",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
-      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Hanakage",
-        "花蔭"
-      ],
-      "animeCandidates": [
-        "The Ramparts of Ice Season 2",
-        "Koori no Jouheki 2nd Season",
-        "氷の城壁 第2期"
-      ],
-      "artistCandidates": [
-        "372",
-        "Superfly",
-        "5M8AXrOifBT8elkLKbGPQZ",
-        "150974880",
-        "142878",
-        "UCarJ-jLDuyHOlRXzIcqL4oQ"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-ED1.webm",
-        "basename": "KooriNoJouhekiS2-ED1.webm",
-        "animeSlug": "koori_no_jouheki_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28226",
-      "anime": "The Detective Is Already Dead Season 2",
-      "song": "Kono Shinzou ni Hanataba o",
-      "artist": "Koume",
-      "artistDisplay": "Koume",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7ekzLBYJYjPRBaldfC4wU1",
-      "apple": "https://geo.music.apple.com/album/6818821896?i=6818821897&at=1001l384j&ct=website-the-detective-is-already-dead-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/eb5a54b1a29735fa08d5634bad51a6dacfd1857e@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/the-detective-is-already-dead-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kono Shinzou ni Hanataba o",
-        "この心臓に花束を"
-      ],
-      "animeCandidates": [
-        "The Detective Is Already Dead Season 2",
-        "Tantei wa Mou, Shindeiru. Season 2",
-        "Tanmoshi",
-        "探偵はもう、死んでいる。Season2"
-      ],
-      "artistCandidates": [
-        "23870",
-        "Koume",
-        "心梅",
-        "0YYOvEP549Xcqnr6E4zUWN",
-        "0q4U7TZGWUHr5yO47wSivP",
-        "279297737",
-        "1777994214",
-        "14777929",
-        "UCu_TEd41PUb7qC5GXXauFuQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28157",
       "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "song": "Role-Playing Life",
@@ -2275,6 +2156,78 @@
         "url": "https://v.animethemes.moe/ChiiFuyo-ED1.webm",
         "basename": "ChiiFuyo-ED1.webm",
         "animeSlug": "chiifuyo",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27870",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Hanakage",
+      "artist": "Superfly",
+      "artistDisplay": "Superfly",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
+      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hanakage",
+        "花蔭"
+      ],
+      "animeCandidates": [
+        "The Ramparts of Ice Season 2",
+        "Koori no Jouheki 2nd Season",
+        "氷の城壁 第2期"
+      ],
+      "artistCandidates": [
+        "372",
+        "Superfly",
+        "5M8AXrOifBT8elkLKbGPQZ",
+        "150974880",
+        "142878",
+        "UCarJ-jLDuyHOlRXzIcqL4oQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-ED1.webm",
+        "basename": "KooriNoJouhekiS2-ED1.webm",
+        "animeSlug": "koori_no_jouheki_2nd_season",
         "themeSlug": "",
         "type": "ED",
         "sequence": 1,
@@ -2701,6 +2654,78 @@
         "url": "https://v.animethemes.moe/ToaruAnbuNoItem-ED1.webm",
         "basename": "ToaruAnbuNoItem-ED1.webm",
         "animeSlug": "toaru_anbu_no_item",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "artist": "VK Blanka",
+      "artistDisplay": "VK Blanka",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
+      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kanpeki no Peki",
+        "完璧のペキ",
+        "Kan Peki No Peki"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "498",
+        "VK Blanka",
+        "Vickeblanka",
+        "0PYPjvZaOa7bsCq26JOX8d",
+        "894895986",
+        "50322192",
+        "UCg2rvXE9x3zg01ZxyIt9DpA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-ED1.webm",
+        "basename": "DragonBallSuperBeerus-ED1.webm",
+        "animeSlug": "dragon_ball_super_beerus",
         "themeSlug": "",
         "type": "ED",
         "sequence": 1,
@@ -3422,6 +3447,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28252",
+      "anime": "Grotesqqque",
+      "song": "Shoot Shoot Shoot",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-opening"
+    },
+    {
       "id": "28245",
       "anime": "Beyblade X",
       "song": "SPIN",
@@ -3485,18 +3517,18 @@
       "detailUrl": "https://aniplaylist.com/play/im-looking-for-a-zombie-ending"
     },
     {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
-    },
-    {
       "id": "27911",
       "anime": "A Tale of the Secret Saint",
       "song": "Flare of Soul",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/a-tale-of-the-secret-saint-opening"
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
     },
     {
       "id": "27897",
@@ -3513,13 +3545,6 @@
       "detailUrl": "https://aniplaylist.com/play/pan-dorobou-opening"
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
-    },
-    {
       "id": "27898",
       "anime": "FX Fighter Kurumi-chan",
       "song": "$・¥・€",
@@ -3527,18 +3552,18 @@
       "detailUrl": "https://aniplaylist.com/play/fx-fighter-kurumi-chan-ending"
     },
     {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
+    },
+    {
       "id": "27895",
       "anime": "The Apothecary Diaries Season 3",
       "song": "AIYOU",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending"
-    },
-    {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending"
     },
     {
       "id": "27900",
@@ -3555,25 +3580,18 @@
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-ending"
     },
     {
-      "id": "27870",
-      "anime": "The Ramparts of Ice Season 2",
-      "song": "Hanakage",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending"
-    },
-    {
-      "id": "28226",
-      "anime": "The Detective Is Already Dead Season 2",
-      "song": "Kono Shinzou ni Hanataba o",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/the-detective-is-already-dead-season-2-opening"
-    },
-    {
       "id": "28157",
       "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "song": "Role-Playing Life",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending"
+    },
+    {
+      "id": "27870",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Hanakage",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending"
     },
     {
       "id": "28084",
@@ -3618,6 +3636,13 @@
       "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-ending"
     },
     {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending"
+    },
+    {
       "id": "27976",
       "anime": "Even the Student Council Has Its Holes!",
       "song": "Pi",
@@ -3633,6 +3658,82 @@
     }
   ],
   "usableSamples": [
+    {
+      "id": "28252",
+      "anime": "Grotesqqque",
+      "song": "Shoot Shoot Shoot",
+      "artist": "METALVERSE",
+      "artistDisplay": "METALVERSE",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3EMV8A7y6m9XqYw6K5o5vQ",
+      "apple": "https://geo.music.apple.com/album/6820414450?i=6820414452&at=1001l384j&ct=website-grotesqqque-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shoot Shoot Shoot"
+      ],
+      "animeCandidates": [
+        "Grotesqqque",
+        "GROTESQQQUE-グロテスク-",
+        "Æliens",
+        "Yoroshiku★Shoujo",
+        "Nocturn: En Cette Nuit Grotesque",
+        "GROTESQQQUE",
+        "GTQ123",
+        "ÆLIENS (エリィアンズ)",
+        "AELIENS",
+        "Yoroshiku★Shoujo (夜露死駆★少女)",
+        "4649Girl",
+        "Yoroshiku★Girl",
+        "Evening Dew Heads to Its Death★Girl",
+        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+        "NOCTURNE: NUIT GROTESQUE",
+        "NOCTURN: EN CETTE NUIT GROTESQUE"
+      ],
+      "artistCandidates": [
+        "23873",
+        "METALVERSE",
+        "4FZB47paQH8eOatPhgG7pp",
+        "1893607411",
+        "318870711",
+        "UCBetQ2VG1Fppe5mJOq0-4og"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28245",
       "anime": "Beyblade X",
@@ -4253,80 +4354,6 @@
       }
     },
     {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "artist": "Megatera Zero",
-      "artistDisplay": "Megatera Zero",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
-      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "products",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Onogami",
-        "オノガミ"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "14404",
-        "Megatera Zero",
-        "メガテラ・ゼロ",
-        "MEGATERA･ZERO",
-        "Mega Terra Zero",
-        "4I7F7bTQ9tBnRI2razDP9B",
-        "1466037690",
-        "147335922",
-        "UCe0GU9CHeC3hbvgYmzXc7OA"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-OP1.webm",
-        "basename": "DragonBallSuperBeerus-OP1.webm",
-        "animeSlug": "dragon_ball_super_beerus",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
       "id": "27911",
       "anime": "A Tale of the Secret Saint",
       "song": "Flare of Soul",
@@ -4402,6 +4429,73 @@
         "sequence": 1,
         "version": 1
       }
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "27897",
@@ -4556,73 +4650,6 @@
       }
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "27898",
       "anime": "FX Fighter Kurumi-chan",
       "song": "$・¥・€",
@@ -4691,6 +4718,80 @@
         "animeSlug": "fx_senshi_kurumichan",
         "themeSlug": "",
         "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "artist": "Megatera Zero",
+      "artistDisplay": "Megatera Zero",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
+      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "products",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Onogami",
+        "オノガミ"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "14404",
+        "Megatera Zero",
+        "メガテラ・ゼロ",
+        "MEGATERA･ZERO",
+        "Mega Terra Zero",
+        "4I7F7bTQ9tBnRI2razDP9B",
+        "1466037690",
+        "147335922",
+        "UCe0GU9CHeC3hbvgYmzXc7OA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-OP1.webm",
+        "basename": "DragonBallSuperBeerus-OP1.webm",
+        "animeSlug": "dragon_ball_super_beerus",
+        "themeSlug": "",
+        "type": "OP",
         "sequence": 1,
         "version": 1
       }
@@ -4765,78 +4866,6 @@
         "url": "https://v.animethemes.moe/KusuriyaNoHitorigotoS3-ED1.webm",
         "basename": "KusuriyaNoHitorigotoS3-ED1.webm",
         "animeSlug": "kusuriya_no_hitorigoto_3rd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
-      "artist": "VK Blanka",
-      "artistDisplay": "VK Blanka",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
-      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kanpeki no Peki",
-        "完璧のペキ",
-        "Kan Peki No Peki"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "498",
-        "VK Blanka",
-        "Vickeblanka",
-        "0PYPjvZaOa7bsCq26JOX8d",
-        "894895986",
-        "50322192",
-        "UCg2rvXE9x3zg01ZxyIt9DpA"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-ED1.webm",
-        "basename": "DragonBallSuperBeerus-ED1.webm",
-        "animeSlug": "dragon_ball_super_beerus",
         "themeSlug": "",
         "type": "ED",
         "sequence": 1,
@@ -4991,146 +5020,6 @@
       }
     },
     {
-      "id": "27870",
-      "anime": "The Ramparts of Ice Season 2",
-      "song": "Hanakage",
-      "artist": "Superfly",
-      "artistDisplay": "Superfly",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
-      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Hanakage",
-        "花蔭"
-      ],
-      "animeCandidates": [
-        "The Ramparts of Ice Season 2",
-        "Koori no Jouheki 2nd Season",
-        "氷の城壁 第2期"
-      ],
-      "artistCandidates": [
-        "372",
-        "Superfly",
-        "5M8AXrOifBT8elkLKbGPQZ",
-        "150974880",
-        "142878",
-        "UCarJ-jLDuyHOlRXzIcqL4oQ"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-ED1.webm",
-        "basename": "KooriNoJouhekiS2-ED1.webm",
-        "animeSlug": "koori_no_jouheki_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28226",
-      "anime": "The Detective Is Already Dead Season 2",
-      "song": "Kono Shinzou ni Hanataba o",
-      "artist": "Koume",
-      "artistDisplay": "Koume",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7ekzLBYJYjPRBaldfC4wU1",
-      "apple": "https://geo.music.apple.com/album/6818821896?i=6818821897&at=1001l384j&ct=website-the-detective-is-already-dead-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/eb5a54b1a29735fa08d5634bad51a6dacfd1857e@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/the-detective-is-already-dead-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kono Shinzou ni Hanataba o",
-        "この心臓に花束を"
-      ],
-      "animeCandidates": [
-        "The Detective Is Already Dead Season 2",
-        "Tantei wa Mou, Shindeiru. Season 2",
-        "Tanmoshi",
-        "探偵はもう、死んでいる。Season2"
-      ],
-      "artistCandidates": [
-        "23870",
-        "Koume",
-        "心梅",
-        "0YYOvEP549Xcqnr6E4zUWN",
-        "0q4U7TZGWUHr5yO47wSivP",
-        "279297737",
-        "1777994214",
-        "14777929",
-        "UCu_TEd41PUb7qC5GXXauFuQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28157",
       "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "song": "Role-Playing Life",
@@ -5197,6 +5086,78 @@
         "url": "https://v.animethemes.moe/ChiiFuyo-ED1.webm",
         "basename": "ChiiFuyo-ED1.webm",
         "animeSlug": "chiifuyo",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
+      "id": "27870",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Hanakage",
+      "artist": "Superfly",
+      "artistDisplay": "Superfly",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
+      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hanakage",
+        "花蔭"
+      ],
+      "animeCandidates": [
+        "The Ramparts of Ice Season 2",
+        "Koori no Jouheki 2nd Season",
+        "氷の城壁 第2期"
+      ],
+      "artistCandidates": [
+        "372",
+        "Superfly",
+        "5M8AXrOifBT8elkLKbGPQZ",
+        "150974880",
+        "142878",
+        "UCarJ-jLDuyHOlRXzIcqL4oQ"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-ED1.webm",
+        "basename": "KooriNoJouhekiS2-ED1.webm",
+        "animeSlug": "koori_no_jouheki_2nd_season",
         "themeSlug": "",
         "type": "ED",
         "sequence": 1,
@@ -5630,6 +5591,78 @@
       }
     },
     {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "artist": "VK Blanka",
+      "artistDisplay": "VK Blanka",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
+      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kanpeki no Peki",
+        "完璧のペキ",
+        "Kan Peki No Peki"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "498",
+        "VK Blanka",
+        "Vickeblanka",
+        "0PYPjvZaOa7bsCq26JOX8d",
+        "894895986",
+        "50322192",
+        "UCg2rvXE9x3zg01ZxyIt9DpA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-ED1.webm",
+        "basename": "DragonBallSuperBeerus-ED1.webm",
+        "animeSlug": "dragon_ball_super_beerus",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
       "id": "27976",
       "anime": "Even the Student Council Has Its Holes!",
       "song": "Pi",
@@ -5773,6 +5806,14 @@
   ],
   "platformSamples": [
     {
+      "id": "28252",
+      "anime": "Grotesqqque",
+      "song": "Shoot Shoot Shoot",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/3EMV8A7y6m9XqYw6K5o5vQ",
+      "apple": "https://geo.music.apple.com/album/6820414450?i=6820414452&at=1001l384j&ct=website-grotesqqque-op&app=music"
+    },
+    {
       "id": "28245",
       "anime": "Beyblade X",
       "song": "SPIN",
@@ -5845,20 +5886,20 @@
       "apple": "https://geo.music.apple.com/album/6815581648?i=6815581651&at=1001l384j&ct=website-im-looking-for-a-zombie-ed&app=music"
     },
     {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
-      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
-    },
-    {
       "id": "27911",
       "anime": "A Tale of the Secret Saint",
       "song": "Flare of Soul",
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/7KRg2Gw4oWB1gumJBZQnh8",
       "apple": "https://geo.music.apple.com/album/6816815051?i=6816815053&at=1001l384j&ct=website-a-tale-of-the-secret-saint-op&app=music"
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
     },
     {
       "id": "27897",
@@ -5877,14 +5918,6 @@
       "apple": "https://geo.music.apple.com/album/6812164641?i=6812164934&at=1001l384j&ct=website-pan-dorobou-op&app=music"
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
-    },
-    {
       "id": "27898",
       "anime": "FX Fighter Kurumi-chan",
       "song": "$・¥・€",
@@ -5893,20 +5926,20 @@
       "apple": "https://geo.music.apple.com/album/6812593936?i=6812593943&at=1001l384j&ct=website-fx-fighter-kurumi-chan-ed&app=music"
     },
     {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
+      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
+    },
+    {
       "id": "27895",
       "anime": "The Apothecary Diaries Season 3",
       "song": "AIYOU",
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
       "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music"
-    },
-    {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
-      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music"
     },
     {
       "id": "27900",
@@ -5925,28 +5958,20 @@
       "apple": "https://geo.music.apple.com/album/6823237344?i=6823237558&at=1001l384j&ct=website-cyberpunk-edgerunners-2-ed&app=music"
     },
     {
-      "id": "27870",
-      "anime": "The Ramparts of Ice Season 2",
-      "song": "Hanakage",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
-      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music"
-    },
-    {
-      "id": "28226",
-      "anime": "The Detective Is Already Dead Season 2",
-      "song": "Kono Shinzou ni Hanataba o",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/7ekzLBYJYjPRBaldfC4wU1",
-      "apple": "https://geo.music.apple.com/album/6818821896?i=6818821897&at=1001l384j&ct=website-the-detective-is-already-dead-op&app=music"
-    },
-    {
       "id": "28157",
       "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "song": "Role-Playing Life",
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
       "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music"
+    },
+    {
+      "id": "27870",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Hanakage",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF",
+      "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music"
     },
     {
       "id": "28084",
@@ -5995,6 +6020,14 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/2hhGjYncdykHxnxuqMURnN",
       "apple": "https://geo.music.apple.com/album/6819323104?i=6819323107&at=1001l384j&ct=website-a-certain-dark-sides-item-ed&app=music"
+    },
+    {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
+      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music"
     },
     {
       "id": "27976",
