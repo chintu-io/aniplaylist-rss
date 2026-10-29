@@ -9341,7 +9341,7 @@
     "id": "27979",
     "anime": "Nia Liston: The Merciless Maiden",
     "song": "RESPAWN!!",
-    "artist": "Watame Tsunomaki",
+    "artist": "Tsunomaki Watame",
     "kind": "OP",
     "spotify": "https://open.spotify.com/track/0PNkniK6K47YBy4QpmM1nG",
     "apple": "https://geo.music.apple.com/album/6813373403?i=6813373404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-op&app=music",
@@ -9387,9 +9387,9 @@
     ],
     "artistCandidates": [
       "12291",
-      "Watame Tsunomaki",
-      "角巻わため",
       "Tsunomaki Watame",
+      "角巻わため",
+      "Watame Tsunomaki",
       "68609MOnEU86kVyMf26JnM",
       "1535893459",
       "110211102",
@@ -9404,7 +9404,7 @@
       "sequence": 1,
       "version": 1
     },
-    "artistDisplay": "Watame Tsunomaki",
+    "artistDisplay": "Tsunomaki Watame",
     "artistDisplayCount": 1,
     "kindLabel": "Opening",
     "episodes": []
@@ -10017,7 +10017,7 @@
     "kind": "ED",
     "spotify": "https://open.spotify.com/track/5PCRuecwNHzMVH57Oj5z5f",
     "apple": "https://geo.music.apple.com/album/6818981167?i=6818981171&at=1001l384j&ct=website-magical-girl-raising-project-ed&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/18189b74746f9accf0750616617b646e16f8bd45@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/bbf3eeff30c5396b3ae0b942525534a80ec075ac@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/magical-girl-raising-project-restart-ending",
     "rawKeys": [
       "id",
@@ -13834,6 +13834,7 @@
       "483",
       "Takanori Nishikawa",
       "西川貴教",
+      "西川 貴教",
       "2ayMogRmamCnzMAk4YiFAz",
       "338161170",
       "7951442"
@@ -20319,7 +20320,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "substitute",
       "other_link_ids",
@@ -20398,8 +20398,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
