@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 234,
+  "resultCount": 235,
   "animeThemesChecked": 143,
   "animeThemesMatched": 100,
   "animeThemesSeasonLinks": 73,
   "jsonResponses": 32,
   "algoliaResponses": 15,
   "hitArrays": 30,
-  "rawHits": 234,
-  "uniqueHits": 234,
-  "normalized": 234,
+  "rawHits": 235,
+  "uniqueHits": 235,
+  "normalized": 235,
   "withSpotify": 197,
   "withApple": 198,
   "withDetailUrl": 200,
   "resolvedSpotify": 197,
-  "recordThumbnails": 234,
+  "recordThumbnails": 235,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -491,14 +491,14 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/8ae74089eb1e89545a2608c65ce46b7db6e98561@2xl.jpeg"
     }
   ],
-  "expectedHits": 234,
+  "expectedHits": 235,
   "expectedPages": 15,
   "receivedPages": 15,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -506,7 +506,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -514,7 +514,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -522,7 +522,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -530,7 +530,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -538,7 +538,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -546,7 +546,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -554,7 +554,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -562,7 +562,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -570,7 +570,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -578,7 +578,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -586,7 +586,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -594,7 +594,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -602,7 +602,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -610,7 +610,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -618,7 +618,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -626,7 +626,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -634,7 +634,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -642,7 +642,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -650,7 +650,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -658,7 +658,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -666,7 +666,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -674,7 +674,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -682,7 +682,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -690,7 +690,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -698,7 +698,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -706,7 +706,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -714,7 +714,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -722,15 +722,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 234,
+      "nbHits": 235,
       "hitsPerPage": 16,
       "nbPages": 15,
-      "count": 10
+      "count": 11
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28489,
+      "nbHits": 28490,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -2384,6 +2384,67 @@
       }
     },
     {
+      "id": "us_3355",
+      "anime": "Witch on the Holy Night",
+      "song": "Original Soundtrack",
+      "artist": "Hideyuki Fukasawa",
+      "artistDisplay": "Hideyuki Fukasawa",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/26c7e54fe8d75f0be7adffe956da27a0759ef898@2xl.jpg",
+      "detailUrl": "",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack"
+      ],
+      "animeCandidates": [
+        "Witch on the Holy Night",
+        "Mahoutsukai no Yoru",
+        "A Magician's Night",
+        "MahoYo",
+        "魔法使いの夜"
+      ],
+      "artistCandidates": [
+        "7380",
+        "Hideyuki Fukasawa",
+        "深澤秀行",
+        "3cDGDsZOLwD5aBLoX0GICu",
+        "316744214",
+        "1648843",
+        "118042872",
+        "UCvPmnfjGL0HPmGJxqFm6FnQ"
+      ]
+    },
+    {
       "id": "27898",
       "anime": "FX Fighter Kurumi-chan",
       "song": "$・¥・€",
@@ -2819,77 +2880,6 @@
         "animeSlug": "koori_no_jouheki_2nd_season",
         "themeSlug": "",
         "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28084",
-      "anime": "The Ramparts of Ice Season 2",
-      "song": "Escort",
-      "artist": "THE BEAT GARDEN",
-      "artistDisplay": "THE BEAT GARDEN",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6SN1inZu149TLU3e8Xp2a0",
-      "apple": "https://geo.music.apple.com/album/6819121866?i=6819121868&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Escort",
-        "エスコート"
-      ],
-      "animeCandidates": [
-        "The Ramparts of Ice Season 2",
-        "Koori no Jouheki 2nd Season",
-        "氷の城壁 第2期"
-      ],
-      "artistCandidates": [
-        "435",
-        "THE BEAT GARDEN",
-        "7gcQfJbjZ2W440kQ2wmqzk",
-        "1081410768",
-        "12421168",
-        "UCx0PImuCTAcomS3v-cZOBDA"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-OP1.webm",
-        "basename": "KooriNoJouhekiS2-OP1.webm",
-        "animeSlug": "koori_no_jouheki_2nd_season",
-        "themeSlug": "",
-        "type": "OP",
         "sequence": 1,
         "version": 1
       }
