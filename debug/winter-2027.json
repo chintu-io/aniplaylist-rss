@@ -3,25 +3,88 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 17,
+  "resultCount": 18,
   "animeThemesChecked": 2,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 4,
   "jsonResponses": 6,
   "algoliaResponses": 2,
   "hitArrays": 4,
-  "rawHits": 17,
-  "uniqueHits": 17,
-  "normalized": 17,
+  "rawHits": 18,
+  "uniqueHits": 18,
+  "normalized": 18,
   "withSpotify": 3,
   "withApple": 3,
   "withDetailUrl": 3,
   "resolvedSpotify": 3,
-  "recordThumbnails": 17,
+  "recordThumbnails": 18,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "us_3357",
+      "anime": "Isshiki-san wa Koi wo Shiritai.",
+      "song": "Gouyoku Koi o Seisu!?",
+      "artist": "Enako",
+      "artistDisplay": "Enako",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Gouyoku Koi o Seisu!?",
+        "剛よく恋を制す！？"
+      ],
+      "animeCandidates": [
+        "Isshiki-san wa Koi wo Shiritai.",
+        "Koutetsu no Rinna wa XX Saretai",
+        "Fullmetal Rinna Wants to XX",
+        "一式さんは恋を知りたい。"
+      ],
+      "artistCandidates": [
+        "13551",
+        "Enako",
+        "えなこ",
+        "2jHLZmPoAmnlCswCMc8WCj",
+        "1223317638",
+        "0oC1SMfDzyyr7Tlzu2s63i",
+        "23Sh4LxrCSK3Or7uEjZ9Vy",
+        "114607442",
+        "UC0wDwW6Fuk6apQE9KdY8Dww",
+        "UCVHAhuPi2RcrY5LFyKwlp8w"
+      ]
+    },
     {
       "id": "us_3345",
       "anime": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
@@ -266,74 +329,20 @@
         "418290562",
         "UCLIFRNQRDAaD5H4REYsRdmA"
       ]
-    },
-    {
-      "id": "27894",
-      "anime": "Inherit the Winds",
-      "song": "Jinsuke no Theme",
-      "artist": "Shigeru Kishida",
-      "artistDisplay": "Shigeru Kishida",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/2ITxTFvNQ5LkODTM1kmnXF",
-      "apple": "https://geo.music.apple.com/album/6807781215?at=1001l384j&ct=website-inherit-the-winds-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b0f07443b406e866c8135ad5a60694a7fedd62cf@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-original-soundtrack",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Jinsuke no Theme",
-        "迅助のテーマ"
-      ],
-      "animeCandidates": [
-        "Inherit the Winds",
-        "Kaze wo Tsugumono",
-        "風を継ぐもの"
-      ],
-      "artistCandidates": [
-        "1277",
-        "Shigeru Kishida",
-        "岸田繁",
-        "62TpalmxXUjLKyxJUgZt6W",
-        "219771500",
-        "4897530",
-        "UCE7UTii69j5WCDZSWgkIjiw"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "us_3357",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LURxcTu+?KVZ*}QSMes;o~t8k9S}",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg"
+    },
     {
       "id": "us_3345",
       "thumbnailType": "string",
@@ -443,26 +452,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/28d5f3f00ab8d9fe557195fee08a11d31fc5ae9a@2xl.jpg"
-    },
-    {
-      "id": "us_3267",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/5282e7bf3206848f6009da09ac7d7e2c72a923d9.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LKJQyg9Et.N41N00-Uxt~CNbtSw{",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/5282e7bf3206848f6009da09ac7d7e2c72a923d9@2xl.jpg"
     }
   ],
-  "expectedHits": 17,
+  "expectedHits": 18,
   "expectedPages": 2,
   "receivedPages": 2,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 17,
+      "nbHits": 18,
       "hitsPerPage": 16,
       "nbPages": 2,
       "count": 16
@@ -470,7 +469,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28491,
+      "nbHits": 28498,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -478,21 +477,84 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 17,
+      "nbHits": 18,
       "hitsPerPage": 16,
       "nbPages": 2,
-      "count": 1
+      "count": 2
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28491,
+      "nbHits": 28498,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "us_3357",
+      "anime": "Isshiki-san wa Koi wo Shiritai.",
+      "song": "Gouyoku Koi o Seisu!?",
+      "artist": "Enako",
+      "artistDisplay": "Enako",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Gouyoku Koi o Seisu!?",
+        "剛よく恋を制す！？"
+      ],
+      "animeCandidates": [
+        "Isshiki-san wa Koi wo Shiritai.",
+        "Koutetsu no Rinna wa XX Saretai",
+        "Fullmetal Rinna Wants to XX",
+        "一式さんは恋を知りたい。"
+      ],
+      "artistCandidates": [
+        "13551",
+        "Enako",
+        "えなこ",
+        "2jHLZmPoAmnlCswCMc8WCj",
+        "1223317638",
+        "0oC1SMfDzyyr7Tlzu2s63i",
+        "23Sh4LxrCSK3Or7uEjZ9Vy",
+        "114607442",
+        "UC0wDwW6Fuk6apQE9KdY8Dww",
+        "UCVHAhuPi2RcrY5LFyKwlp8w"
+      ]
+    },
     {
       "id": "us_3345",
       "anime": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
