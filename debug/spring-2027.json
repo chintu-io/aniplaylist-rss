@@ -24,7 +24,7 @@
   "sample": [
     {
       "id": "us_3359",
-      "anime": "Romelia Senki Part 2",
+      "anime": "Romelia War Chronicle Part 2",
       "song": "[TBA]",
       "artist": "Hiro Shimono",
       "artistDisplay": "Hiro Shimono",
@@ -66,9 +66,9 @@
         "[TBA]"
       ],
       "animeCandidates": [
+        "Romelia War Chronicle Part 2",
         "Romelia Senki Part 2",
         "ロメリア戦記 第IIクール",
-        "Romelia War Chronicle Part 2",
         "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki shita",
         "Romelia Senki: Forming a Military Organization Because Humanity Still Looks Screwed After Defeating the Demon King",
         "A History of the Romelia"
@@ -116,7 +116,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28499,
+      "nbHits": 28502,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -125,7 +125,7 @@
   "normalizedSamples": [
     {
       "id": "us_3359",
-      "anime": "Romelia Senki Part 2",
+      "anime": "Romelia War Chronicle Part 2",
       "song": "[TBA]",
       "artist": "Hiro Shimono",
       "artistDisplay": "Hiro Shimono",
@@ -167,9 +167,9 @@
         "[TBA]"
       ],
       "animeCandidates": [
+        "Romelia War Chronicle Part 2",
         "Romelia Senki Part 2",
         "ロメリア戦記 第IIクール",
-        "Romelia War Chronicle Part 2",
         "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki shita",
         "Romelia Senki: Forming a Military Organization Because Humanity Still Looks Screwed After Defeating the Demon King",
         "A History of the Romelia"
