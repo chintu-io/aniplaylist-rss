@@ -3,25 +3,173 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 235,
-  "animeThemesChecked": 143,
+  "resultCount": 237,
+  "animeThemesChecked": 145,
   "animeThemesMatched": 100,
   "animeThemesSeasonLinks": 73,
   "jsonResponses": 32,
   "algoliaResponses": 15,
   "hitArrays": 30,
-  "rawHits": 235,
-  "uniqueHits": 235,
-  "normalized": 235,
-  "withSpotify": 197,
-  "withApple": 198,
-  "withDetailUrl": 200,
-  "resolvedSpotify": 197,
-  "recordThumbnails": 235,
+  "rawHits": 237,
+  "uniqueHits": 237,
+  "normalized": 237,
+  "withSpotify": 199,
+  "withApple": 200,
+  "withDetailUrl": 202,
+  "resolvedSpotify": 199,
+  "recordThumbnails": 237,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
+      "artist": "Ayumi Miyazaki",
+      "artistDisplay": "Ayumi Miyazaki, Takayoshi Tanimoto & 宮﨑歩",
+      "artistDisplayCount": 3,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SHAKARIKI!!"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "12570",
+        "Ayumi Miyazaki",
+        "宮崎歩",
+        "宮﨑 歩",
+        "4Hjely5D21wDWfluTrZRhT",
+        "218732056",
+        "UCk0cOzmc7azCdYwVlp9hMKw",
+        "3297",
+        "Takayoshi Tanimoto",
+        "谷本貴義",
+        "5nCVXtvsB2KsngsMbk8Hat",
+        "74954644",
+        "208716347",
+        "UCIdyBeiGorESL-FlrE_88Lw",
+        "25758",
+        "宮﨑歩"
+      ]
+    },
+    {
+      "id": "28263",
+      "anime": "Digimon: World's Best Picks",
+      "song": "Limitless Dreams",
+      "artist": "Ayumi Miyazaki",
+      "artistDisplay": "Ayumi Miyazaki, Takayoshi Tanimoto & 宮﨑歩",
+      "artistDisplayCount": 3,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/49y9nGifjz7t0BFAhvPk4E",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887971&at=1001l384j&ct=website-digimon-worlds-best-pi-edtv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-ending-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Limitless Dreams"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "12570",
+        "Ayumi Miyazaki",
+        "宮崎歩",
+        "宮﨑 歩",
+        "4Hjely5D21wDWfluTrZRhT",
+        "218732056",
+        "UCk0cOzmc7azCdYwVlp9hMKw",
+        "3297",
+        "Takayoshi Tanimoto",
+        "谷本貴義",
+        "5nCVXtvsB2KsngsMbk8Hat",
+        "74954644",
+        "208716347",
+        "UCIdyBeiGorESL-FlrE_88Lw",
+        "25758",
+        "宮﨑歩"
+      ]
+    },
     {
       "id": "28253",
       "anime": "Firefly Wedding",
@@ -229,150 +377,30 @@
         "126108412",
         "UCZvZY0bb28yhDCAGbB0-9Ig"
       ]
-    },
-    {
-      "id": "28252",
-      "anime": "Grotesqqque",
-      "song": "Shoot Shoot Shoot",
-      "artist": "METALVERSE",
-      "artistDisplay": "METALVERSE",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3EMV8A7y6m9XqYw6K5o5vQ",
-      "apple": "https://geo.music.apple.com/album/6820414450?i=6820414452&at=1001l384j&ct=website-grotesqqque-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/grotesqqque-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Shoot Shoot Shoot"
-      ],
-      "animeCandidates": [
-        "Grotesqqque",
-        "GROTESQQQUE-グロテスク-",
-        "Æliens",
-        "Yoroshiku★Shoujo",
-        "Nocturn: En Cette Nuit Grotesque",
-        "GROTESQQQUE",
-        "GTQ123",
-        "ÆLIENS (エリィアンズ)",
-        "AELIENS",
-        "Yoroshiku★Shoujo (夜露死駆★少女)",
-        "4649Girl",
-        "Yoroshiku★Girl",
-        "Evening Dew Heads to Its Death★Girl",
-        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
-        "NOCTURNE: NUIT GROTESQUE",
-        "NOCTURN: EN CETTE NUIT GROTESQUE"
-      ],
-      "artistCandidates": [
-        "23873",
-        "METALVERSE",
-        "4FZB47paQH8eOatPhgG7pp",
-        "1893607411",
-        "318870711",
-        "UCBetQ2VG1Fppe5mJOq0-4og"
-      ]
-    },
-    {
-      "id": "28046",
-      "anime": "Tetsuryou! Meet with Tetsudou Musume",
-      "song": "GO! GO! RAILWAY!!",
-      "artist": "Asaka",
-      "artistDisplay": "Asaka",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/21kePCGMv2YHbuGqJMyuiC",
-      "apple": "https://geo.music.apple.com/album/6814318091?i=6814318214&at=1001l384j&ct=website-tetsuryou-meet-with-te-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/51207a0fa72b116dfac7f23d03e4b4c8bf3efcfb@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/tetsuryou-meet-with-tetsudou-musume-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "GO! GO! RAILWAY!!"
-      ],
-      "animeCandidates": [
-        "Tetsuryou! Meet with Tetsudou Musume",
-        "Tetsuryo! Meet with Railroad Girls",
-        "てつりょー！meet with 鉄道むすめ"
-      ],
-      "artistCandidates": [
-        "397",
-        "Asaka",
-        "亜咲花",
-        "0QwTvn35AQMMELpKDU176h",
-        "1154905403",
-        "13887037",
-        "UCMRcsWDXgBZxkGV0E5ZGA2Q"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28262",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LLH{jJ-aMv9$Q-TJ$~IDNIIVsko~",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg"
+    },
+    {
+      "id": "28263",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LLH{jJ-aMv9$Q-TJ$~IDNIIVsko~",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg"
+    },
     {
       "id": "28253",
       "thumbnailType": "string",
@@ -434,16 +462,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/de376ae890066838bfa7ac09ebf8952a7c85ddf0@2xl.jpeg"
     },
     {
-      "id": "28245",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LeH{_;RUIVR%.kW.bcfA%2WUJRn%",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b@2xl.jpg"
-    },
-    {
       "id": "27989",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/4712f81b4fef2d9fb81ac022bae3515168c89f15.jpg",
@@ -464,6 +482,16 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/c9bfca2e4b0b28d04a73e1d24ee038b529fbcb05@2xl.jpeg"
     },
     {
+      "id": "28245",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LeH{_;RUIVR%.kW.bcfA%2WUJRn%",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b@2xl.jpg"
+    },
+    {
       "id": "27981",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375.jpg",
@@ -472,36 +500,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg"
-    },
-    {
-      "id": "27978",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/a581c1c47d67f019a716ebf3320a65cd290252c6.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LAFY[ITt02Y@8xP6UV,1?iRi$leT",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/a581c1c47d67f019a716ebf3320a65cd290252c6@2xl.jpg"
-    },
-    {
-      "id": "28232",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/480ae241e7d0cf46e6db5881aeb896c8e028b18d.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LmNv_Dt7?w%2-=jYRjWBx]o#ROog",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/480ae241e7d0cf46e6db5881aeb896c8e028b18d@2xl.jpeg"
     }
   ],
-  "expectedHits": 235,
+  "expectedHits": 237,
   "expectedPages": 15,
   "receivedPages": 15,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -509,7 +517,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -517,7 +525,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -525,7 +533,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -533,7 +541,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -541,7 +549,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -549,7 +557,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -557,7 +565,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -565,7 +573,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -573,7 +581,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -581,7 +589,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -589,7 +597,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -597,7 +605,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -605,7 +613,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -613,7 +621,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -621,7 +629,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -629,7 +637,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -637,7 +645,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -645,7 +653,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -653,7 +661,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -661,7 +669,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -669,7 +677,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -677,7 +685,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -685,7 +693,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -693,7 +701,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -701,7 +709,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -709,7 +717,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -717,7 +725,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -725,21 +733,171 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 235,
+      "nbHits": 237,
       "hitsPerPage": 16,
       "nbPages": 15,
-      "count": 11
+      "count": 13
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28502,
+      "nbHits": 28504,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
+      "artist": "Ayumi Miyazaki",
+      "artistDisplay": "Ayumi Miyazaki, Takayoshi Tanimoto & 宮﨑歩",
+      "artistDisplayCount": 3,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SHAKARIKI!!"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "12570",
+        "Ayumi Miyazaki",
+        "宮崎歩",
+        "宮﨑 歩",
+        "4Hjely5D21wDWfluTrZRhT",
+        "218732056",
+        "UCk0cOzmc7azCdYwVlp9hMKw",
+        "3297",
+        "Takayoshi Tanimoto",
+        "谷本貴義",
+        "5nCVXtvsB2KsngsMbk8Hat",
+        "74954644",
+        "208716347",
+        "UCIdyBeiGorESL-FlrE_88Lw",
+        "25758",
+        "宮﨑歩"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28263",
+      "anime": "Digimon: World's Best Picks",
+      "song": "Limitless Dreams",
+      "artist": "Ayumi Miyazaki",
+      "artistDisplay": "Ayumi Miyazaki, Takayoshi Tanimoto & 宮﨑歩",
+      "artistDisplayCount": 3,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/49y9nGifjz7t0BFAhvPk4E",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887971&at=1001l384j&ct=website-digimon-worlds-best-pi-edtv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-ending-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Limitless Dreams"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "12570",
+        "Ayumi Miyazaki",
+        "宮崎歩",
+        "宮﨑 歩",
+        "4Hjely5D21wDWfluTrZRhT",
+        "218732056",
+        "UCk0cOzmc7azCdYwVlp9hMKw",
+        "3297",
+        "Takayoshi Tanimoto",
+        "谷本貴義",
+        "5nCVXtvsB2KsngsMbk8Hat",
+        "74954644",
+        "208716347",
+        "UCIdyBeiGorESL-FlrE_88Lw",
+        "25758",
+        "宮﨑歩"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28253",
       "anime": "Firefly Wedding",
@@ -1183,69 +1341,6 @@
       }
     },
     {
-      "id": "28245",
-      "anime": "Beyblade X",
-      "song": "SPIN",
-      "artist": "BAND-MAID",
-      "artistDisplay": "BAND-MAID",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4VjifkYlIftEs7dQ4V5b9I",
-      "apple": "https://geo.music.apple.com/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/beyblade-x-ending-6",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "SPIN"
-      ],
-      "animeCandidates": [
-        "Beyblade X",
-        "ベイブレードエックス"
-      ],
-      "artistCandidates": [
-        "27",
-        "BAND-MAID",
-        "5Wh3G01Xfxn2zzEZNpuYHH",
-        "1102275947",
-        "52494612",
-        "UCM35rMMfPj1wj1nwe-DxSAg"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "27989",
       "anime": "The World's Strongest Witch",
       "song": "Hoshi o Meguru",
@@ -1385,6 +1480,69 @@
         "sequence": 1,
         "version": 1
       }
+    },
+    {
+      "id": "28245",
+      "anime": "Beyblade X",
+      "song": "SPIN",
+      "artist": "BAND-MAID",
+      "artistDisplay": "BAND-MAID",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4VjifkYlIftEs7dQ4V5b9I",
+      "apple": "https://geo.music.apple.com/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/beyblade-x-ending-6",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SPIN"
+      ],
+      "animeCandidates": [
+        "Beyblade X",
+        "ベイブレードエックス"
+      ],
+      "artistCandidates": [
+        "27",
+        "BAND-MAID",
+        "5Wh3G01Xfxn2zzEZNpuYHH",
+        "1102275947",
+        "52494612",
+        "UCM35rMMfPj1wj1nwe-DxSAg"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "27981",
@@ -1535,6 +1693,73 @@
       }
     },
     {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28232",
       "anime": "Even the Student Council Has Its Holes!",
       "song": "Mist -Hikigatari ver.-",
@@ -1603,73 +1828,6 @@
       ]
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "27938",
       "anime": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
       "song": "Still Water",
@@ -1736,82 +1894,6 @@
         "url": "https://v.animethemes.moe/KanteiSkillS3-OP1.webm",
         "basename": "KanteiSkillS3-OP1.webm",
         "animeSlug": "tensei_kizoku_kantei_skill_de_nariagaru_3rd_season",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27936",
-      "anime": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
-      "song": "Tsuyoki MAX Sengen",
-      "artist": "Konomi Suzuki",
-      "artistDisplay": "Konomi Suzuki",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7nCdmJT7l5lKBBraoYQ6w0",
-      "apple": "https://geo.music.apple.com/album/6817188290?i=6817188293&at=1001l384j&ct=website-even-though-im-a-super-timid-n-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e312ddf0e0785c632f82d78dd71d7b95e132baac@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Tsuyoki MAX Sengen",
-        "MAX METTLE MODE",
-        "強気MAX宣言"
-      ],
-      "animeCandidates": [
-        "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
-        "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-        "Even Though I'm a Super Timid Noble Girl",
-        "I Accepted the Bet From My Cunning Fiancé",
-        "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
-      ],
-      "artistCandidates": [
-        "257",
-        "Konomi Suzuki",
-        "鈴木このみ",
-        "3O0kLS5sLZ41XZRxjBKmLF",
-        "524306307",
-        "7501576",
-        "UCPUwlkBq5Gwg7frdT4juTfw"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/YowakiMax-OP1.webm",
-        "basename": "YowakiMax-OP1.webm",
-        "animeSlug": "yowaki_max_reijou_nano_ni_ratsuwan_konyakushasama_no_kake_ni_notte_shimatta",
         "themeSlug": "",
         "type": "OP",
         "sequence": 1,
@@ -2022,19 +2104,19 @@
       ]
     },
     {
-      "id": "27895",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "AIYOU",
-      "artist": "Eve",
-      "artistDisplay": "Eve",
+      "id": "27936",
+      "anime": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "song": "Tsuyoki MAX Sengen",
+      "artist": "Konomi Suzuki",
+      "artistDisplay": "Konomi Suzuki",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
-      "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending",
+      "spotify": "https://open.spotify.com/track/7nCdmJT7l5lKBBraoYQ6w0",
+      "apple": "https://geo.music.apple.com/album/6817188290?i=6817188293&at=1001l384j&ct=website-even-though-im-a-super-timid-n-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e312ddf0e0785c632f82d78dd71d7b95e132baac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -2060,38 +2142,39 @@
         "display_artists",
         "label",
         "short_link",
+        "status",
         "tags",
         "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "AIYOU"
+        "Tsuyoki MAX Sengen",
+        "MAX METTLE MODE",
+        "強気MAX宣言"
       ],
       "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
+        "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+        "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+        "Even Though I'm a Super Timid Noble Girl",
+        "I Accepted the Bet From My Cunning Fiancé",
+        "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
       ],
       "artistCandidates": [
-        "1376",
-        "Eve",
-        "58oPVy7oihAEXE0Ott6JOf",
-        "1080967231",
-        "69128312",
-        "UCcjpUrxD6_eT09KnzIg3U3A",
-        "24642",
-        "TOHO animation",
-        "UC14Yc2Qv92DMuyNRlHvpo2Q"
+        "257",
+        "Konomi Suzuki",
+        "鈴木このみ",
+        "3O0kLS5sLZ41XZRxjBKmLF",
+        "524306307",
+        "7501576",
+        "UCPUwlkBq5Gwg7frdT4juTfw"
       ],
       "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KusuriyaNoHitorigotoS3-ED1.webm",
-        "basename": "KusuriyaNoHitorigotoS3-ED1.webm",
-        "animeSlug": "kusuriya_no_hitorigoto_3rd_season",
+        "url": "https://v.animethemes.moe/YowakiMax-OP1.webm",
+        "basename": "YowakiMax-OP1.webm",
+        "animeSlug": "yowaki_max_reijou_nano_ni_ratsuwan_konyakushasama_no_kake_ni_notte_shimatta",
         "themeSlug": "",
-        "type": "ED",
+        "type": "OP",
         "sequence": 1,
         "version": 1
       }
@@ -2171,6 +2254,81 @@
       }
     },
     {
+      "id": "27895",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "AIYOU",
+      "artist": "Eve",
+      "artistDisplay": "Eve",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
+      "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "AIYOU"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "1376",
+        "Eve",
+        "58oPVy7oihAEXE0Ott6JOf",
+        "1080967231",
+        "69128312",
+        "UCcjpUrxD6_eT09KnzIg3U3A",
+        "24642",
+        "TOHO animation",
+        "UC14Yc2Qv92DMuyNRlHvpo2Q"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KusuriyaNoHitorigotoS3-ED1.webm",
+        "basename": "KusuriyaNoHitorigotoS3-ED1.webm",
+        "animeSlug": "kusuriya_no_hitorigoto_3rd_season",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
       "id": "28130",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "Watson",
@@ -2242,72 +2400,6 @@
         "sequence": 1,
         "version": 1
       }
-    },
-    {
-      "id": "27935",
-      "anime": "Onegai AiPri",
-      "song": "Kanaete Kiseki no Yell!",
-      "artist": "Onegai Kanae-tai",
-      "artistDisplay": "Onegai Kanae-tai",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1XoQVZBg9GfHVM6ehUmsyv",
-      "apple": "https://geo.music.apple.com/album/6808564603?i=6808564604&at=1001l384j&ct=website-onegai-aipri-op2-tv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/402589c1dc8e2de2402276ca154c689bcb0933b3@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/onegai-aipri-opening-2-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kanaete Kiseki no Yell!",
-        "かなえてキセキのエール！"
-      ],
-      "animeCandidates": [
-        "Onegai AiPri",
-        "+Himitsu no AiPri 3rd Season",
-        "おねがいアイプリ"
-      ],
-      "artistCandidates": [
-        "19685",
-        "Onegai Kanae-tai",
-        "おねがいかなえ隊",
-        "0KDvjjHDsPzDwWRqssth1r",
-        "6804625080",
-        "412270352"
-      ],
-      "animethemesVideo": null
     },
     {
       "id": "28157",
@@ -2809,77 +2901,6 @@
         "url": "https://v.animethemes.moe/HotaruNoYomeiri-OP1.webm",
         "basename": "HotaruNoYomeiri-OP1.webm",
         "animeSlug": "hotaru_no_yomeiri",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "artist": "aiko",
-      "artistDisplay": "aiko",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
-      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Anata no Hana no Iro",
-        "あなたの花の色",
-        "the color of your flower"
-      ],
-      "animeCandidates": [
-        "Blue Box Season 2",
-        "アオのハコ Season2",
-        "Ao no Hako Season 2"
-      ],
-      "artistCandidates": [
-        "3105",
-        "aiko",
-        "6TDMbiQCWeMClsMr9ORLRK",
-        "635154255",
-        "2643581"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/AoNoHakoS2-OP1.webm",
-        "basename": "AoNoHakoS2-OP1.webm",
-        "animeSlug": "ao_no_hako_season_2",
         "themeSlug": "",
         "type": "OP",
         "sequence": 1,
@@ -3462,6 +3483,20 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size"
+    },
+    {
+      "id": "28263",
+      "anime": "Digimon: World's Best Picks",
+      "song": "Limitless Dreams",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-ending-tv-size"
+    },
+    {
       "id": "28253",
       "anime": "Firefly Wedding",
       "song": "Original Soundtrack",
@@ -3504,13 +3539,6 @@
       "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening"
     },
     {
-      "id": "28245",
-      "anime": "Beyblade X",
-      "song": "SPIN",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/beyblade-x-ending-6"
-    },
-    {
       "id": "27989",
       "anime": "The World's Strongest Witch",
       "song": "Hoshi o Meguru",
@@ -3523,6 +3551,13 @@
       "song": "Chiisana Bokura",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/so-whats-wrong-with-getting-reborn-as-a-goblin-ending"
+    },
+    {
+      "id": "28245",
+      "anime": "Beyblade X",
+      "song": "SPIN",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/beyblade-x-ending-6"
     },
     {
       "id": "27981",
@@ -3539,13 +3574,6 @@
       "detailUrl": "https://aniplaylist.com/play/keroro-gunsou-ending"
     },
     {
-      "id": "28232",
-      "anime": "Even the Student Council Has Its Holes!",
-      "song": "Mist -Hikigatari ver.-",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-insert-song-ep-4-mist-hikigatari-ver"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -3553,18 +3581,18 @@
       "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
     },
     {
+      "id": "28232",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Mist -Hikigatari ver.-",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-insert-song-ep-4-mist-hikigatari-ver"
+    },
+    {
       "id": "27938",
       "anime": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
       "song": "Still Water",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3-opening"
-    },
-    {
-      "id": "27936",
-      "anime": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
-      "song": "Tsuyoki MAX Sengen",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-opening"
     },
     {
       "id": "28074",
@@ -3581,11 +3609,11 @@
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening"
     },
     {
-      "id": "27895",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "AIYOU",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending"
+      "id": "27936",
+      "anime": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "song": "Tsuyoki MAX Sengen",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-opening"
     },
     {
       "id": "27900",
@@ -3595,18 +3623,18 @@
       "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening"
     },
     {
+      "id": "27895",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "AIYOU",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending"
+    },
+    {
       "id": "28130",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "Watson",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-ending"
-    },
-    {
-      "id": "27935",
-      "anime": "Onegai AiPri",
-      "song": "Kanaete Kiseki no Yell!",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/onegai-aipri-opening-2-tv-size"
     },
     {
       "id": "28157",
@@ -3663,16 +3691,159 @@
       "song": "Anata no Hana no Iro",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening"
-    },
-    {
-      "id": "27823",
-      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-      "song": "Shinu ka Ikiru ka",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-ending"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
+      "artist": "Ayumi Miyazaki",
+      "artistDisplay": "Ayumi Miyazaki, Takayoshi Tanimoto & 宮﨑歩",
+      "artistDisplayCount": 3,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SHAKARIKI!!"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "12570",
+        "Ayumi Miyazaki",
+        "宮崎歩",
+        "宮﨑 歩",
+        "4Hjely5D21wDWfluTrZRhT",
+        "218732056",
+        "UCk0cOzmc7azCdYwVlp9hMKw",
+        "3297",
+        "Takayoshi Tanimoto",
+        "谷本貴義",
+        "5nCVXtvsB2KsngsMbk8Hat",
+        "74954644",
+        "208716347",
+        "UCIdyBeiGorESL-FlrE_88Lw",
+        "25758",
+        "宮﨑歩"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28263",
+      "anime": "Digimon: World's Best Picks",
+      "song": "Limitless Dreams",
+      "artist": "Ayumi Miyazaki",
+      "artistDisplay": "Ayumi Miyazaki, Takayoshi Tanimoto & 宮﨑歩",
+      "artistDisplayCount": 3,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/49y9nGifjz7t0BFAhvPk4E",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887971&at=1001l384j&ct=website-digimon-worlds-best-pi-edtv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-ending-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Limitless Dreams"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "12570",
+        "Ayumi Miyazaki",
+        "宮崎歩",
+        "宮﨑 歩",
+        "4Hjely5D21wDWfluTrZRhT",
+        "218732056",
+        "UCk0cOzmc7azCdYwVlp9hMKw",
+        "3297",
+        "Takayoshi Tanimoto",
+        "谷本貴義",
+        "5nCVXtvsB2KsngsMbk8Hat",
+        "74954644",
+        "208716347",
+        "UCIdyBeiGorESL-FlrE_88Lw",
+        "25758",
+        "宮﨑歩"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28253",
       "anime": "Firefly Wedding",
@@ -4116,69 +4287,6 @@
       }
     },
     {
-      "id": "28245",
-      "anime": "Beyblade X",
-      "song": "SPIN",
-      "artist": "BAND-MAID",
-      "artistDisplay": "BAND-MAID",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4VjifkYlIftEs7dQ4V5b9I",
-      "apple": "https://geo.music.apple.com/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/beyblade-x-ending-6",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "SPIN"
-      ],
-      "animeCandidates": [
-        "Beyblade X",
-        "ベイブレードエックス"
-      ],
-      "artistCandidates": [
-        "27",
-        "BAND-MAID",
-        "5Wh3G01Xfxn2zzEZNpuYHH",
-        "1102275947",
-        "52494612",
-        "UCM35rMMfPj1wj1nwe-DxSAg"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "27989",
       "anime": "The World's Strongest Witch",
       "song": "Hoshi o Meguru",
@@ -4318,6 +4426,69 @@
         "sequence": 1,
         "version": 1
       }
+    },
+    {
+      "id": "28245",
+      "anime": "Beyblade X",
+      "song": "SPIN",
+      "artist": "BAND-MAID",
+      "artistDisplay": "BAND-MAID",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4VjifkYlIftEs7dQ4V5b9I",
+      "apple": "https://geo.music.apple.com/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/182b73a0c3886a00d987b4962db7e09bd8a7930b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/beyblade-x-ending-6",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SPIN"
+      ],
+      "animeCandidates": [
+        "Beyblade X",
+        "ベイブレードエックス"
+      ],
+      "artistCandidates": [
+        "27",
+        "BAND-MAID",
+        "5Wh3G01Xfxn2zzEZNpuYHH",
+        "1102275947",
+        "52494612",
+        "UCM35rMMfPj1wj1nwe-DxSAg"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "27981",
@@ -4468,6 +4639,73 @@
       }
     },
     {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28232",
       "anime": "Even the Student Council Has Its Holes!",
       "song": "Mist -Hikigatari ver.-",
@@ -4536,73 +4774,6 @@
       ]
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "27938",
       "anime": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
       "song": "Still Water",
@@ -4669,82 +4840,6 @@
         "url": "https://v.animethemes.moe/KanteiSkillS3-OP1.webm",
         "basename": "KanteiSkillS3-OP1.webm",
         "animeSlug": "tensei_kizoku_kantei_skill_de_nariagaru_3rd_season",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27936",
-      "anime": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
-      "song": "Tsuyoki MAX Sengen",
-      "artist": "Konomi Suzuki",
-      "artistDisplay": "Konomi Suzuki",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7nCdmJT7l5lKBBraoYQ6w0",
-      "apple": "https://geo.music.apple.com/album/6817188290?i=6817188293&at=1001l384j&ct=website-even-though-im-a-super-timid-n-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e312ddf0e0785c632f82d78dd71d7b95e132baac@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Tsuyoki MAX Sengen",
-        "MAX METTLE MODE",
-        "強気MAX宣言"
-      ],
-      "animeCandidates": [
-        "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
-        "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-        "Even Though I'm a Super Timid Noble Girl",
-        "I Accepted the Bet From My Cunning Fiancé",
-        "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
-      ],
-      "artistCandidates": [
-        "257",
-        "Konomi Suzuki",
-        "鈴木このみ",
-        "3O0kLS5sLZ41XZRxjBKmLF",
-        "524306307",
-        "7501576",
-        "UCPUwlkBq5Gwg7frdT4juTfw"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/YowakiMax-OP1.webm",
-        "basename": "YowakiMax-OP1.webm",
-        "animeSlug": "yowaki_max_reijou_nano_ni_ratsuwan_konyakushasama_no_kake_ni_notte_shimatta",
         "themeSlug": "",
         "type": "OP",
         "sequence": 1,
@@ -4894,19 +4989,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "27895",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "AIYOU",
-      "artist": "Eve",
-      "artistDisplay": "Eve",
+      "id": "27936",
+      "anime": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "song": "Tsuyoki MAX Sengen",
+      "artist": "Konomi Suzuki",
+      "artistDisplay": "Konomi Suzuki",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
-      "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending",
+      "spotify": "https://open.spotify.com/track/7nCdmJT7l5lKBBraoYQ6w0",
+      "apple": "https://geo.music.apple.com/album/6817188290?i=6817188293&at=1001l384j&ct=website-even-though-im-a-super-timid-n-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e312ddf0e0785c632f82d78dd71d7b95e132baac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4932,38 +5027,39 @@
         "display_artists",
         "label",
         "short_link",
+        "status",
         "tags",
         "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "AIYOU"
+        "Tsuyoki MAX Sengen",
+        "MAX METTLE MODE",
+        "強気MAX宣言"
       ],
       "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
+        "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+        "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+        "Even Though I'm a Super Timid Noble Girl",
+        "I Accepted the Bet From My Cunning Fiancé",
+        "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
       ],
       "artistCandidates": [
-        "1376",
-        "Eve",
-        "58oPVy7oihAEXE0Ott6JOf",
-        "1080967231",
-        "69128312",
-        "UCcjpUrxD6_eT09KnzIg3U3A",
-        "24642",
-        "TOHO animation",
-        "UC14Yc2Qv92DMuyNRlHvpo2Q"
+        "257",
+        "Konomi Suzuki",
+        "鈴木このみ",
+        "3O0kLS5sLZ41XZRxjBKmLF",
+        "524306307",
+        "7501576",
+        "UCPUwlkBq5Gwg7frdT4juTfw"
       ],
       "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KusuriyaNoHitorigotoS3-ED1.webm",
-        "basename": "KusuriyaNoHitorigotoS3-ED1.webm",
-        "animeSlug": "kusuriya_no_hitorigoto_3rd_season",
+        "url": "https://v.animethemes.moe/YowakiMax-OP1.webm",
+        "basename": "YowakiMax-OP1.webm",
+        "animeSlug": "yowaki_max_reijou_nano_ni_ratsuwan_konyakushasama_no_kake_ni_notte_shimatta",
         "themeSlug": "",
-        "type": "ED",
+        "type": "OP",
         "sequence": 1,
         "version": 1
       }
@@ -5043,6 +5139,81 @@
       }
     },
     {
+      "id": "27895",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "AIYOU",
+      "artist": "Eve",
+      "artistDisplay": "Eve",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
+      "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "AIYOU"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "1376",
+        "Eve",
+        "58oPVy7oihAEXE0Ott6JOf",
+        "1080967231",
+        "69128312",
+        "UCcjpUrxD6_eT09KnzIg3U3A",
+        "24642",
+        "TOHO animation",
+        "UC14Yc2Qv92DMuyNRlHvpo2Q"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/KusuriyaNoHitorigotoS3-ED1.webm",
+        "basename": "KusuriyaNoHitorigotoS3-ED1.webm",
+        "animeSlug": "kusuriya_no_hitorigoto_3rd_season",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
+    {
       "id": "28130",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "Watson",
@@ -5114,72 +5285,6 @@
         "sequence": 1,
         "version": 1
       }
-    },
-    {
-      "id": "27935",
-      "anime": "Onegai AiPri",
-      "song": "Kanaete Kiseki no Yell!",
-      "artist": "Onegai Kanae-tai",
-      "artistDisplay": "Onegai Kanae-tai",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1XoQVZBg9GfHVM6ehUmsyv",
-      "apple": "https://geo.music.apple.com/album/6808564603?i=6808564604&at=1001l384j&ct=website-onegai-aipri-op2-tv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/402589c1dc8e2de2402276ca154c689bcb0933b3@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/onegai-aipri-opening-2-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kanaete Kiseki no Yell!",
-        "かなえてキセキのエール！"
-      ],
-      "animeCandidates": [
-        "Onegai AiPri",
-        "+Himitsu no AiPri 3rd Season",
-        "おねがいアイプリ"
-      ],
-      "artistCandidates": [
-        "19685",
-        "Onegai Kanae-tai",
-        "おねがいかなえ隊",
-        "0KDvjjHDsPzDwWRqssth1r",
-        "6804625080",
-        "412270352"
-      ],
-      "animethemesVideo": null
     },
     {
       "id": "28157",
@@ -5757,79 +5862,25 @@
         "sequence": 1,
         "version": 1
       }
-    },
-    {
-      "id": "27823",
-      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-      "song": "Shinu ka Ikiru ka",
-      "artist": "Yuki Chiba",
-      "artistDisplay": "Yuki Chiba",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7vdZztyuzNX1joqkbhWBxX",
-      "apple": "https://geo.music.apple.com/album/6809991313?i=6809991318&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e401524581656fa101348307b5daabc8550975f7@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Shinu ka Ikiru ka",
-        "死ぬか生きるか",
-        "Shinukaikiruka"
-      ],
-      "animeCandidates": [
-        "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-        "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
-        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
-        "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
-        "SBR",
-        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
-        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
-      ],
-      "artistCandidates": [
-        "24741",
-        "Yuki Chiba",
-        "千葉雄喜",
-        "6Qhgat07PNOdnJSnCXJigu",
-        "1727997785",
-        "1337238",
-        "UCnPf2oZPzg_pxf6RzjUoCgw"
-      ],
-      "animethemesVideo": null
     }
   ],
   "platformSamples": [
+    {
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music"
+    },
+    {
+      "id": "28263",
+      "anime": "Digimon: World's Best Picks",
+      "song": "Limitless Dreams",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/49y9nGifjz7t0BFAhvPk4E",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887971&at=1001l384j&ct=website-digimon-worlds-best-pi-edtv-size&app=music"
+    },
     {
       "id": "28253",
       "anime": "Firefly Wedding",
@@ -5879,14 +5930,6 @@
       "apple": "https://geo.music.apple.com/album/6813373403?i=6813373404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-op&app=music"
     },
     {
-      "id": "28245",
-      "anime": "Beyblade X",
-      "song": "SPIN",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4VjifkYlIftEs7dQ4V5b9I",
-      "apple": "https://geo.music.apple.com/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music"
-    },
-    {
       "id": "27989",
       "anime": "The World's Strongest Witch",
       "song": "Hoshi o Meguru",
@@ -5901,6 +5944,14 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/4NWr9o6nQKwBzYEpoCVzBB",
       "apple": "https://geo.music.apple.com/album/6809646816?i=6809647268&at=1001l384j&ct=website-so-whats-wrong-with-getting-r-ed&app=music"
+    },
+    {
+      "id": "28245",
+      "anime": "Beyblade X",
+      "song": "SPIN",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/4VjifkYlIftEs7dQ4V5b9I",
+      "apple": "https://geo.music.apple.com/album/6822591760?i=6822591762&at=1001l384j&ct=website-beyblade-x-ed6&app=music"
     },
     {
       "id": "27981",
@@ -5919,14 +5970,6 @@
       "apple": "https://geo.music.apple.com/album/6810979176?i=6810979177&at=1001l384j&ct=website-keroro-gunsou-ed&app=music"
     },
     {
-      "id": "28232",
-      "anime": "Even the Student Council Has Its Holes!",
-      "song": "Mist -Hikigatari ver.-",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/10384jlOLejbIdHinbrFWT",
-      "apple": "https://geo.music.apple.com/album/6819992281?i=6819992716&at=1001l384j&ct=website-even-the-student-council-in-ep-4&app=music"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -5935,20 +5978,20 @@
       "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
     },
     {
+      "id": "28232",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Mist -Hikigatari ver.-",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/10384jlOLejbIdHinbrFWT",
+      "apple": "https://geo.music.apple.com/album/6819992281?i=6819992716&at=1001l384j&ct=website-even-the-student-council-in-ep-4&app=music"
+    },
+    {
       "id": "27938",
       "anime": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
       "song": "Still Water",
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/38ux50kdbuJkD7BKSAPIJ5",
       "apple": "https://geo.music.apple.com/album/6807839462?i=6807839465&at=1001l384j&ct=website-as-a-reincarnated-aristocrat-op&app=music"
-    },
-    {
-      "id": "27936",
-      "anime": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
-      "song": "Tsuyoki MAX Sengen",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/7nCdmJT7l5lKBBraoYQ6w0",
-      "apple": "https://geo.music.apple.com/album/6817188290?i=6817188293&at=1001l384j&ct=website-even-though-im-a-super-timid-n-op&app=music"
     },
     {
       "id": "28074",
@@ -5967,12 +6010,12 @@
       "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music"
     },
     {
-      "id": "27895",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "AIYOU",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
-      "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music"
+      "id": "27936",
+      "anime": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "song": "Tsuyoki MAX Sengen",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/7nCdmJT7l5lKBBraoYQ6w0",
+      "apple": "https://geo.music.apple.com/album/6817188290?i=6817188293&at=1001l384j&ct=website-even-though-im-a-super-timid-n-op&app=music"
     },
     {
       "id": "27900",
@@ -5983,20 +6026,20 @@
       "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music"
     },
     {
+      "id": "27895",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "AIYOU",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
+      "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music"
+    },
+    {
       "id": "28130",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "Watson",
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/2x6cIXV8np81mpKhHXNbDS",
       "apple": "https://geo.music.apple.com/album/6823237344?i=6823237558&at=1001l384j&ct=website-cyberpunk-edgerunners-2-ed&app=music"
-    },
-    {
-      "id": "27935",
-      "anime": "Onegai AiPri",
-      "song": "Kanaete Kiseki no Yell!",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/1XoQVZBg9GfHVM6ehUmsyv",
-      "apple": "https://geo.music.apple.com/album/6808564603?i=6808564604&at=1001l384j&ct=website-onegai-aipri-op2-tv-size&app=music"
     },
     {
       "id": "28157",
@@ -6061,14 +6104,6 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
       "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music"
-    },
-    {
-      "id": "27823",
-      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-      "song": "Shinu ka Ikiru ka",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/7vdZztyuzNX1joqkbhWBxX",
-      "apple": "https://geo.music.apple.com/album/6809991313?i=6809991318&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-ed&app=music"
     }
   ]
 }
