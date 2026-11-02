@@ -27,8 +27,8 @@
       "anime": "Digimon: World's Best Picks",
       "song": "Limitless Dreams",
       "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki, Takayoshi Tanimoto & 宮﨑歩",
-      "artistDisplayCount": 3,
+      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
+      "artistDisplayCount": 2,
       "kind": "ED",
       "kindLabel": "Ending",
       "episodes": [],
@@ -81,9 +81,10 @@
         "12570",
         "Ayumi Miyazaki",
         "宮崎歩",
-        "宮﨑 歩",
+        "宮﨑歩",
         "4Hjely5D21wDWfluTrZRhT",
         "218732056",
+        "74835282",
         "UCk0cOzmc7azCdYwVlp9hMKw",
         "3297",
         "Takayoshi Tanimoto",
@@ -91,9 +92,7 @@
         "5nCVXtvsB2KsngsMbk8Hat",
         "74954644",
         "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw",
-        "25758",
-        "宮﨑歩"
+        "UCIdyBeiGorESL-FlrE_88Lw"
       ]
     },
     {
@@ -101,8 +100,8 @@
       "anime": "Digimon: World's Best Picks",
       "song": "SHAKARIKI!!",
       "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki, Takayoshi Tanimoto & 宮﨑歩",
-      "artistDisplayCount": 3,
+      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
+      "artistDisplayCount": 2,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
@@ -155,9 +154,10 @@
         "12570",
         "Ayumi Miyazaki",
         "宮崎歩",
-        "宮﨑 歩",
+        "宮﨑歩",
         "4Hjely5D21wDWfluTrZRhT",
         "218732056",
+        "74835282",
         "UCk0cOzmc7azCdYwVlp9hMKw",
         "3297",
         "Takayoshi Tanimoto",
@@ -165,9 +165,7 @@
         "5nCVXtvsB2KsngsMbk8Hat",
         "74954644",
         "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw",
-        "25758",
-        "宮﨑歩"
+        "UCIdyBeiGorESL-FlrE_88Lw"
       ]
     },
     {
@@ -517,7 +515,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -533,7 +531,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -549,7 +547,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -565,7 +563,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -581,7 +579,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -597,7 +595,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -613,7 +611,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -629,7 +627,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -645,7 +643,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -661,7 +659,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -677,7 +675,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -693,7 +691,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -709,7 +707,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -725,7 +723,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -741,7 +739,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -753,8 +751,8 @@
       "anime": "Digimon: World's Best Picks",
       "song": "Limitless Dreams",
       "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki, Takayoshi Tanimoto & 宮﨑歩",
-      "artistDisplayCount": 3,
+      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
+      "artistDisplayCount": 2,
       "kind": "ED",
       "kindLabel": "Ending",
       "episodes": [],
@@ -807,9 +805,10 @@
         "12570",
         "Ayumi Miyazaki",
         "宮崎歩",
-        "宮﨑 歩",
+        "宮﨑歩",
         "4Hjely5D21wDWfluTrZRhT",
         "218732056",
+        "74835282",
         "UCk0cOzmc7azCdYwVlp9hMKw",
         "3297",
         "Takayoshi Tanimoto",
@@ -817,9 +816,7 @@
         "5nCVXtvsB2KsngsMbk8Hat",
         "74954644",
         "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw",
-        "25758",
-        "宮﨑歩"
+        "UCIdyBeiGorESL-FlrE_88Lw"
       ],
       "animethemesVideo": null
     },
@@ -828,8 +825,8 @@
       "anime": "Digimon: World's Best Picks",
       "song": "SHAKARIKI!!",
       "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki, Takayoshi Tanimoto & 宮﨑歩",
-      "artistDisplayCount": 3,
+      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
+      "artistDisplayCount": 2,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
@@ -882,9 +879,10 @@
         "12570",
         "Ayumi Miyazaki",
         "宮崎歩",
-        "宮﨑 歩",
+        "宮﨑歩",
         "4Hjely5D21wDWfluTrZRhT",
         "218732056",
+        "74835282",
         "UCk0cOzmc7azCdYwVlp9hMKw",
         "3297",
         "Takayoshi Tanimoto",
@@ -892,9 +890,7 @@
         "5nCVXtvsB2KsngsMbk8Hat",
         "74954644",
         "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw",
-        "25758",
-        "宮﨑歩"
+        "UCIdyBeiGorESL-FlrE_88Lw"
       ],
       "animethemesVideo": null
     },
@@ -3703,8 +3699,8 @@
       "anime": "Digimon: World's Best Picks",
       "song": "Limitless Dreams",
       "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki, Takayoshi Tanimoto & 宮﨑歩",
-      "artistDisplayCount": 3,
+      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
+      "artistDisplayCount": 2,
       "kind": "ED",
       "kindLabel": "Ending",
       "episodes": [],
@@ -3757,9 +3753,10 @@
         "12570",
         "Ayumi Miyazaki",
         "宮崎歩",
-        "宮﨑 歩",
+        "宮﨑歩",
         "4Hjely5D21wDWfluTrZRhT",
         "218732056",
+        "74835282",
         "UCk0cOzmc7azCdYwVlp9hMKw",
         "3297",
         "Takayoshi Tanimoto",
@@ -3767,9 +3764,7 @@
         "5nCVXtvsB2KsngsMbk8Hat",
         "74954644",
         "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw",
-        "25758",
-        "宮﨑歩"
+        "UCIdyBeiGorESL-FlrE_88Lw"
       ],
       "animethemesVideo": null
     },
@@ -3778,8 +3773,8 @@
       "anime": "Digimon: World's Best Picks",
       "song": "SHAKARIKI!!",
       "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki, Takayoshi Tanimoto & 宮﨑歩",
-      "artistDisplayCount": 3,
+      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
+      "artistDisplayCount": 2,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
@@ -3832,9 +3827,10 @@
         "12570",
         "Ayumi Miyazaki",
         "宮崎歩",
-        "宮﨑 歩",
+        "宮﨑歩",
         "4Hjely5D21wDWfluTrZRhT",
         "218732056",
+        "74835282",
         "UCk0cOzmc7azCdYwVlp9hMKw",
         "3297",
         "Takayoshi Tanimoto",
@@ -3842,9 +3838,7 @@
         "5nCVXtvsB2KsngsMbk8Hat",
         "74954644",
         "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw",
-        "25758",
-        "宮﨑歩"
+        "UCIdyBeiGorESL-FlrE_88Lw"
       ],
       "animethemesVideo": null
     },

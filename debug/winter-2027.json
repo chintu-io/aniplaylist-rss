@@ -3,25 +3,82 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 18,
+  "resultCount": 19,
   "animeThemesChecked": 2,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 5,
-  "jsonResponses": 6,
+  "jsonResponses": 8,
   "algoliaResponses": 2,
   "hitArrays": 4,
-  "rawHits": 18,
-  "uniqueHits": 18,
-  "normalized": 18,
+  "rawHits": 19,
+  "uniqueHits": 19,
+  "normalized": 19,
   "withSpotify": 3,
   "withApple": 3,
   "withDetailUrl": 3,
   "resolvedSpotify": 3,
-  "recordThumbnails": 18,
+  "recordThumbnails": 19,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "us_3360",
+      "anime": "Hirayasumi",
+      "song": "Fuumi Zekka",
+      "artist": "TOMOO",
+      "artistDisplay": "TOMOO",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Fuumi Zekka",
+        "風味絶佳"
+      ],
+      "animeCandidates": [
+        "Hirayasumi",
+        "ひらやすみ"
+      ],
+      "artistCandidates": [
+        "16866",
+        "TOMOO",
+        "6rm1uaZjykvKCobTzRPs35",
+        "1317217947",
+        "4898648",
+        "UC_oxwNnzBxf49TaYkLnLk1g"
+      ]
+    },
     {
       "id": "us_3357",
       "anime": "Isshiki-san wa Koi wo Shiritai.",
@@ -279,67 +336,20 @@
         "4897530",
         "UCE7UTii69j5WCDZSWgkIjiw"
       ]
-    },
-    {
-      "id": "us_3345",
-      "anime": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
-      "song": "My Life Story",
-      "artist": "LINKL PLANET",
-      "artistDisplay": "LINKL PLANET",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "My Life Story"
-      ],
-      "animeCandidates": [
-        "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
-        "ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする",
-        "Reincarnation in the Game World Dankatsu: Game Addict Plays \"Encouragement for Job Hunting in Dungeons\" from a \"New Game\""
-      ],
-      "artistCandidates": [
-        "14620",
-        "LINKL PLANET",
-        "6sCkG9HLpaMHNATMZhHseS",
-        "1633172506",
-        "175654567",
-        "UCcEshkkxV1-e0yn5MvK-uZg"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "us_3360",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LAM[Qz$z?wB=01slE1EL+]tlD$Dh",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg"
+    },
     {
       "id": "us_3357",
       "thumbnailType": "string",
@@ -449,26 +459,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/b563f7d81b57eddceec15435c23f346cb272d30e@2xl.jpg"
-    },
-    {
-      "id": "us_3294",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/28d5f3f00ab8d9fe557195fee08a11d31fc5ae9a.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LFB|sXrq0OIB02R-~p%L-:s*t7ai",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/28d5f3f00ab8d9fe557195fee08a11d31fc5ae9a@2xl.jpg"
     }
   ],
-  "expectedHits": 18,
+  "expectedHits": 19,
   "expectedPages": 2,
   "receivedPages": 2,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 18,
+      "nbHits": 19,
       "hitsPerPage": 16,
       "nbPages": 2,
       "count": 16
@@ -476,7 +476,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -484,21 +484,78 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 18,
+      "nbHits": 19,
       "hitsPerPage": 16,
       "nbPages": 2,
-      "count": 2
+      "count": 3
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28504,
+      "nbHits": 28505,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "us_3360",
+      "anime": "Hirayasumi",
+      "song": "Fuumi Zekka",
+      "artist": "TOMOO",
+      "artistDisplay": "TOMOO",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Fuumi Zekka",
+        "風味絶佳"
+      ],
+      "animeCandidates": [
+        "Hirayasumi",
+        "ひらやすみ"
+      ],
+      "artistCandidates": [
+        "16866",
+        "TOMOO",
+        "6rm1uaZjykvKCobTzRPs35",
+        "1317217947",
+        "4898648",
+        "UC_oxwNnzBxf49TaYkLnLk1g"
+      ]
+    },
     {
       "id": "us_3357",
       "anime": "Isshiki-san wa Koi wo Shiritai.",
