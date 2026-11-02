@@ -7,7 +7,7 @@
   "animeThemesChecked": 2,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 5,
-  "jsonResponses": 8,
+  "jsonResponses": 6,
   "algoliaResponses": 2,
   "hitArrays": 4,
   "rawHits": 18,
@@ -83,120 +83,6 @@
         "114607442",
         "UC0wDwW6Fuk6apQE9KdY8Dww",
         "UCVHAhuPi2RcrY5LFyKwlp8w"
-      ]
-    },
-    {
-      "id": "us_3345",
-      "anime": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
-      "song": "My Life Story",
-      "artist": "LINKL PLANET",
-      "artistDisplay": "LINKL PLANET",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "My Life Story"
-      ],
-      "animeCandidates": [
-        "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
-        "ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする",
-        "Reincarnation in the Game World Dankatsu: Game Addict Plays \"Encouragement for Job Hunting in Dungeons\" from a \"New Game\""
-      ],
-      "artistCandidates": [
-        "14620",
-        "LINKL PLANET",
-        "6sCkG9HLpaMHNATMZhHseS",
-        "1633172506",
-        "175654567",
-        "UCcEshkkxV1-e0yn5MvK-uZg"
-      ]
-    },
-    {
-      "id": "us_3344",
-      "anime": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
-      "song": "Play the Play",
-      "artist": "MindaRyn",
-      "artistDisplay": "MindaRyn",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Play the Play"
-      ],
-      "animeCandidates": [
-        "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
-        "ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする",
-        "Reincarnation in the Game World Dankatsu: Game Addict Plays \"Encouragement for Job Hunting in Dungeons\" from a \"New Game\""
-      ],
-      "artistCandidates": [
-        "4631",
-        "MindaRyn",
-        "7MSns7VCEysJJhcp67gvtZ",
-        "1526820498",
-        "14418337",
-        "UCt4k-2TfcIRamDRZiLJKdNw"
       ]
     },
     {
@@ -329,6 +215,127 @@
         "418290562",
         "UCLIFRNQRDAaD5H4REYsRdmA"
       ]
+    },
+    {
+      "id": "27894",
+      "anime": "Inherit the Winds",
+      "song": "Jinsuke no Theme",
+      "artist": "Shigeru Kishida",
+      "artistDisplay": "Shigeru Kishida",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/2ITxTFvNQ5LkODTM1kmnXF",
+      "apple": "https://geo.music.apple.com/album/6807781215?at=1001l384j&ct=website-inherit-the-winds-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b0f07443b406e866c8135ad5a60694a7fedd62cf@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-original-soundtrack",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Jinsuke no Theme",
+        "迅助のテーマ"
+      ],
+      "animeCandidates": [
+        "Inherit the Winds",
+        "Kaze wo Tsugumono",
+        "風を継ぐもの"
+      ],
+      "artistCandidates": [
+        "1277",
+        "Shigeru Kishida",
+        "岸田繁",
+        "62TpalmxXUjLKyxJUgZt6W",
+        "219771500",
+        "4897530",
+        "UCE7UTii69j5WCDZSWgkIjiw"
+      ]
+    },
+    {
+      "id": "us_3345",
+      "anime": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
+      "song": "My Life Story",
+      "artist": "LINKL PLANET",
+      "artistDisplay": "LINKL PLANET",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "My Life Story"
+      ],
+      "animeCandidates": [
+        "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
+        "ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする",
+        "Reincarnation in the Game World Dankatsu: Game Addict Plays \"Encouragement for Job Hunting in Dungeons\" from a \"New Game\""
+      ],
+      "artistCandidates": [
+        "14620",
+        "LINKL PLANET",
+        "6sCkG9HLpaMHNATMZhHseS",
+        "1633172506",
+        "175654567",
+        "UCcEshkkxV1-e0yn5MvK-uZg"
+      ]
     }
   ],
   "errors": [],
@@ -342,26 +349,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg"
-    },
-    {
-      "id": "us_3345",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LUI}n,ELI]xa.Tk9xZoz-;oyNFs:",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg"
-    },
-    {
-      "id": "us_3344",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LUI}n,ELI]xa.Tk9xZoz-;oyNFs:",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg"
     },
     {
       "id": "27297",
@@ -392,6 +379,26 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/b0f07443b406e866c8135ad5a60694a7fedd62cf@2xl.jpeg"
+    },
+    {
+      "id": "us_3345",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LUI}n,ELI]xa.Tk9xZoz-;oyNFs:",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg"
+    },
+    {
+      "id": "us_3344",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LUI}n,ELI]xa.Tk9xZoz-;oyNFs:",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg"
     },
     {
       "id": "us_3306",
@@ -553,120 +560,6 @@
         "114607442",
         "UC0wDwW6Fuk6apQE9KdY8Dww",
         "UCVHAhuPi2RcrY5LFyKwlp8w"
-      ]
-    },
-    {
-      "id": "us_3345",
-      "anime": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
-      "song": "My Life Story",
-      "artist": "LINKL PLANET",
-      "artistDisplay": "LINKL PLANET",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "My Life Story"
-      ],
-      "animeCandidates": [
-        "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
-        "ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする",
-        "Reincarnation in the Game World Dankatsu: Game Addict Plays \"Encouragement for Job Hunting in Dungeons\" from a \"New Game\""
-      ],
-      "artistCandidates": [
-        "14620",
-        "LINKL PLANET",
-        "6sCkG9HLpaMHNATMZhHseS",
-        "1633172506",
-        "175654567",
-        "UCcEshkkxV1-e0yn5MvK-uZg"
-      ]
-    },
-    {
-      "id": "us_3344",
-      "anime": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
-      "song": "Play the Play",
-      "artist": "MindaRyn",
-      "artistDisplay": "MindaRyn",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Play the Play"
-      ],
-      "animeCandidates": [
-        "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
-        "ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする",
-        "Reincarnation in the Game World Dankatsu: Game Addict Plays \"Encouragement for Job Hunting in Dungeons\" from a \"New Game\""
-      ],
-      "artistCandidates": [
-        "4631",
-        "MindaRyn",
-        "7MSns7VCEysJJhcp67gvtZ",
-        "1526820498",
-        "14418337",
-        "UCt4k-2TfcIRamDRZiLJKdNw"
       ]
     },
     {
@@ -864,6 +757,120 @@
         "219771500",
         "4897530",
         "UCE7UTii69j5WCDZSWgkIjiw"
+      ]
+    },
+    {
+      "id": "us_3345",
+      "anime": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
+      "song": "My Life Story",
+      "artist": "LINKL PLANET",
+      "artistDisplay": "LINKL PLANET",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "My Life Story"
+      ],
+      "animeCandidates": [
+        "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
+        "ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする",
+        "Reincarnation in the Game World Dankatsu: Game Addict Plays \"Encouragement for Job Hunting in Dungeons\" from a \"New Game\""
+      ],
+      "artistCandidates": [
+        "14620",
+        "LINKL PLANET",
+        "6sCkG9HLpaMHNATMZhHseS",
+        "1633172506",
+        "175654567",
+        "UCcEshkkxV1-e0yn5MvK-uZg"
+      ]
+    },
+    {
+      "id": "us_3344",
+      "anime": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
+      "song": "Play the Play",
+      "artist": "MindaRyn",
+      "artistDisplay": "MindaRyn",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Play the Play"
+      ],
+      "animeCandidates": [
+        "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
+        "ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする",
+        "Reincarnation in the Game World Dankatsu: Game Addict Plays \"Encouragement for Job Hunting in Dungeons\" from a \"New Game\""
+      ],
+      "artistCandidates": [
+        "4631",
+        "MindaRyn",
+        "7MSns7VCEysJJhcp67gvtZ",
+        "1526820498",
+        "14418337",
+        "UCt4k-2TfcIRamDRZiLJKdNw"
       ]
     },
     {
