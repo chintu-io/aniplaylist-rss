@@ -4,8 +4,8 @@
   "pageLoaded": true,
   "scrapeValidated": true,
   "resultCount": 237,
-  "animeThemesChecked": 145,
-  "animeThemesMatched": 100,
+  "animeThemesChecked": 147,
+  "animeThemesMatched": 102,
   "animeThemesSeasonLinks": 73,
   "jsonResponses": 32,
   "algoliaResponses": 15,
@@ -13,15 +13,79 @@
   "rawHits": 237,
   "uniqueHits": 237,
   "normalized": 237,
-  "withSpotify": 199,
-  "withApple": 200,
-  "withDetailUrl": 202,
-  "resolvedSpotify": 199,
+  "withSpotify": 201,
+  "withApple": 202,
+  "withDetailUrl": 203,
+  "resolvedSpotify": 201,
   "recordThumbnails": 237,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28271",
+      "anime": "A Wild Last Boss Appeared! Season 2",
+      "song": "Yurete Skirt",
+      "artist": "Chakura",
+      "artistDisplay": "Chakura",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
+      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yurete Skirt",
+        "揺れてスカート"
+      ],
+      "animeCandidates": [
+        "A Wild Last Boss Appeared! Season 2",
+        "野生のラスボスが現れた！ 第2期",
+        "Yasei no Last Boss ga Arawareta! 2nd Season"
+      ],
+      "artistCandidates": [
+        "24213",
+        "Chakura",
+        "ちゃくら",
+        "4y8KqtQgzRVDnQ072O7Vqr",
+        "1659156116",
+        "193022797",
+        "UCOK1WCN-6ucanL1nO0ZmimA"
+      ]
+    },
     {
       "id": "28262",
       "anime": "Digimon: World's Best Picks",
@@ -310,78 +374,20 @@
         "128264352",
         "UCS8QqtsLzHF8VcIJFEkl8Uw"
       ]
-    },
-    {
-      "id": "28069",
-      "anime": "Paws & Palaces",
-      "song": "Truly",
-      "artist": "Riko Azuna",
-      "artistDisplay": "Riko Azuna",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0yPbwdkwden8aUhiWWNDZG",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802265&at=1001l384j&ct=website-paws-palaces-opjp&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-opening-jp",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Truly"
-      ],
-      "animeCandidates": [
-        "Paws & Palaces",
-        "Zi Jin: Yu Miao Fang",
-        "紫禁·御喵房",
-        "Forbidden City: Cat Imperial Study",
-        "Paw & Palaces",
-        "On Myao Bo",
-        "紫禁・御猫房〜紫禁城猫警備室〜"
-      ],
-      "artistCandidates": [
-        "1835",
-        "Riko Azuna",
-        "安月名莉子",
-        "7ChJuYuw9pM8MqaZOAmvHX",
-        "1438721351",
-        "128264352",
-        "UCS8QqtsLzHF8VcIJFEkl8Uw"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28271",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LVKJlsxSS4r@LzR:xvWm~qRiOYjF",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg"
+    },
     {
       "id": "28262",
       "thumbnailType": "string",
@@ -491,16 +497,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/51207a0fa72b116dfac7f23d03e4b4c8bf3efcfb@2xl.jpg"
-    },
-    {
-      "id": "27979",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/de376ae890066838bfa7ac09ebf8952a7c85ddf0.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LHIDLx0J9F=y0J-5x[wz1H}at2I:",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/de376ae890066838bfa7ac09ebf8952a7c85ddf0@2xl.jpeg"
     }
   ],
   "expectedHits": 237,
@@ -518,7 +514,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -534,7 +530,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -550,7 +546,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -566,7 +562,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -582,7 +578,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -598,7 +594,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -614,7 +610,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -630,7 +626,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -646,7 +642,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -662,7 +658,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -678,7 +674,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -694,7 +690,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -710,7 +706,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -726,7 +722,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -742,13 +738,86 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28505,
+      "nbHits": 28510,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28271",
+      "anime": "A Wild Last Boss Appeared! Season 2",
+      "song": "Yurete Skirt",
+      "artist": "Chakura",
+      "artistDisplay": "Chakura",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
+      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yurete Skirt",
+        "揺れてスカート"
+      ],
+      "animeCandidates": [
+        "A Wild Last Boss Appeared! Season 2",
+        "野生のラスボスが現れた！ 第2期",
+        "Yasei no Last Boss ga Arawareta! 2nd Season"
+      ],
+      "artistCandidates": [
+        "24213",
+        "Chakura",
+        "ちゃくら",
+        "4y8KqtQgzRVDnQ072O7Vqr",
+        "1659156116",
+        "193022797",
+        "UCOK1WCN-6ucanL1nO0ZmimA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/LastBossS2-ED1.webm",
+        "basename": "LastBossS2-ED1.webm",
+        "animeSlug": "yasei_no_last_boss_ga_arawareta_2nd_season",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
     {
       "id": "28262",
       "anime": "Digimon: World's Best Picks",
@@ -2824,76 +2893,6 @@
         "UCssoAGLly9DaABecIZoht_g"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "artist": "ONE OR EIGHT",
-      "artistDisplay": "ONE OR EIGHT",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/707fd0db5aeec803c5e71530f37d074ce87b58cb@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yellow Brick Road"
-      ],
-      "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
-      ],
-      "artistCandidates": [
-        "19216",
-        "ONE OR EIGHT",
-        "5bIttAFRf7URUmuuI9w7XA",
-        "1758291632",
-        "275967661",
-        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-ED1.webm",
-        "basename": "BlackCloverS2-ED1.webm",
-        "animeSlug": "black_clover_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
     }
   ],
   "sourceMetadataSamples": [
@@ -3471,6 +3470,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28271",
+      "anime": "A Wild Last Boss Appeared! Season 2",
+      "song": "Yurete Skirt",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending"
+    },
+    {
       "id": "28262",
       "anime": "Digimon: World's Best Picks",
       "song": "SHAKARIKI!!",
@@ -3672,16 +3678,82 @@
       "song": "SPIN",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening"
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28271",
+      "anime": "A Wild Last Boss Appeared! Season 2",
+      "song": "Yurete Skirt",
+      "artist": "Chakura",
+      "artistDisplay": "Chakura",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
+      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yurete Skirt",
+        "揺れてスカート"
+      ],
+      "animeCandidates": [
+        "A Wild Last Boss Appeared! Season 2",
+        "野生のラスボスが現れた！ 第2期",
+        "Yasei no Last Boss ga Arawareta! 2nd Season"
+      ],
+      "artistCandidates": [
+        "24213",
+        "Chakura",
+        "ちゃくら",
+        "4y8KqtQgzRVDnQ072O7Vqr",
+        "1659156116",
+        "193022797",
+        "UCOK1WCN-6ucanL1nO0ZmimA"
+      ],
+      "animethemesVideo": {
+        "url": "https://v.animethemes.moe/LastBossS2-ED1.webm",
+        "basename": "LastBossS2-ED1.webm",
+        "animeSlug": "yasei_no_last_boss_ga_arawareta_2nd_season",
+        "themeSlug": "",
+        "type": "ED",
+        "sequence": 1,
+        "version": 1
+      }
+    },
     {
       "id": "28262",
       "anime": "Digimon: World's Best Picks",
@@ -5757,79 +5829,17 @@
         "UCssoAGLly9DaABecIZoht_g"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "artist": "ONE OR EIGHT",
-      "artistDisplay": "ONE OR EIGHT",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/707fd0db5aeec803c5e71530f37d074ce87b58cb@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yellow Brick Road"
-      ],
-      "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
-      ],
-      "artistCandidates": [
-        "19216",
-        "ONE OR EIGHT",
-        "5bIttAFRf7URUmuuI9w7XA",
-        "1758291632",
-        "275967661",
-        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-ED1.webm",
-        "basename": "BlackCloverS2-ED1.webm",
-        "animeSlug": "black_clover_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
     }
   ],
   "platformSamples": [
+    {
+      "id": "28271",
+      "anime": "A Wild Last Boss Appeared! Season 2",
+      "song": "Yurete Skirt",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
+      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music"
+    },
     {
       "id": "28262",
       "anime": "Digimon: World's Best Picks",
@@ -6061,14 +6071,6 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
       "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music"
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music"
     }
   ]
 }
