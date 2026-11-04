@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 19,
+  "resultCount": 20,
   "animeThemesChecked": 2,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 5,
   "jsonResponses": 6,
   "algoliaResponses": 2,
   "hitArrays": 4,
-  "rawHits": 19,
-  "uniqueHits": 19,
-  "normalized": 19,
+  "rawHits": 20,
+  "uniqueHits": 20,
+  "normalized": 20,
   "withSpotify": 3,
   "withApple": 3,
   "withDetailUrl": 3,
   "resolvedSpotify": 3,
-  "recordThumbnails": 19,
+  "recordThumbnails": 20,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -77,6 +77,61 @@
         "1317217947",
         "4898648",
         "UC_oxwNnzBxf49TaYkLnLk1g"
+      ]
+    },
+    {
+      "id": "us_3361",
+      "anime": "Digimon: World's Best Picks",
+      "song": "[TBA]",
+      "artist": "WILD BLUE",
+      "artistDisplay": "WILD BLUE",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5@2xl.png",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "[TBA]"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "25775",
+        "WILD BLUE"
       ]
     },
     {
@@ -267,76 +322,6 @@
         "4897530",
         "UCE7UTii69j5WCDZSWgkIjiw"
       ]
-    },
-    {
-      "id": "28075",
-      "anime": "Inherit the Winds",
-      "song": "Namida no Kawa",
-      "artist": "Hitsujibungaku",
-      "artistDisplay": "Hitsujibungaku & Quruli",
-      "artistDisplayCount": 2,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
-      "apple": "https://geo.music.apple.com/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-ending",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Namida no Kawa",
-        "涙の河"
-      ],
-      "animeCandidates": [
-        "Inherit the Winds",
-        "Kaze wo Tsugumono",
-        "風を継ぐもの"
-      ],
-      "artistCandidates": [
-        "7233",
-        "Hitsujibungaku",
-        "羊文学",
-        "6S8w5rLsEwjN21jQeRES0n",
-        "1281384242",
-        "13290779",
-        "UCnZK-AT0Yrx8uXcFRqUy87g",
-        "315",
-        "Quruli",
-        "26WuprsX7JRG69T0PXkze4",
-        "105025123",
-        "418290562",
-        "UCLIFRNQRDAaD5H4REYsRdmA"
-      ]
     }
   ],
   "errors": [],
@@ -350,6 +335,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg"
+    },
+    {
+      "id": "us_3361",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5.png",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LRH.Qk0aS+-OPXM-ITroT2$bxuox",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5@2xl.png"
     },
     {
       "id": "us_3357",
@@ -450,26 +445,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/d8e7432d5facf939ff335fba004c7315c52fb8b0@2xl.jpg"
-    },
-    {
-      "id": "us_3297",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/b563f7d81b57eddceec15435c23f346cb272d30e.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L8ILivBq{1].7O2a1G,qL2o}*{9@",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/b563f7d81b57eddceec15435c23f346cb272d30e@2xl.jpg"
     }
   ],
-  "expectedHits": 19,
+  "expectedHits": 20,
   "expectedPages": 2,
   "receivedPages": 2,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 19,
+      "nbHits": 20,
       "hitsPerPage": 16,
       "nbPages": 2,
       "count": 16
@@ -477,7 +462,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28512,
+      "nbHits": 28519,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -485,15 +470,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 19,
+      "nbHits": 20,
       "hitsPerPage": 16,
       "nbPages": 2,
-      "count": 3
+      "count": 4
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28512,
+      "nbHits": 28519,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -555,6 +540,61 @@
         "1317217947",
         "4898648",
         "UC_oxwNnzBxf49TaYkLnLk1g"
+      ]
+    },
+    {
+      "id": "us_3361",
+      "anime": "Digimon: World's Best Picks",
+      "song": "[TBA]",
+      "artist": "WILD BLUE",
+      "artistDisplay": "WILD BLUE",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5@2xl.png",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "[TBA]"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "25775",
+        "WILD BLUE"
       ]
     },
     {
