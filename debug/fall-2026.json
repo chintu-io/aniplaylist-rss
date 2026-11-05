@@ -4,7 +4,7 @@
   "pageLoaded": true,
   "scrapeValidated": true,
   "resultCount": 237,
-  "animeThemesChecked": 147,
+  "animeThemesChecked": 149,
   "animeThemesMatched": 102,
   "animeThemesSeasonLinks": 73,
   "jsonResponses": 32,
@@ -13,15 +13,79 @@
   "rawHits": 237,
   "uniqueHits": 237,
   "normalized": 237,
-  "withSpotify": 201,
-  "withApple": 202,
-  "withDetailUrl": 204,
-  "resolvedSpotify": 201,
+  "withSpotify": 203,
+  "withApple": 204,
+  "withDetailUrl": 205,
+  "resolvedSpotify": 203,
   "recordThumbnails": 237,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28287",
+      "anime": "Devil's Crest",
+      "song": "Shinka",
+      "artist": "Ado",
+      "artistDisplay": "Ado",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
+      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f41272a50e16c95b48136ddee542bd5b88e5ec38@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shinka",
+        "シンカ"
+      ],
+      "animeCandidates": [
+        "Devil's Crest",
+        "Demons' Crest",
+        "デモンズ・クレスト",
+        "Devils' Crest"
+      ],
+      "artistCandidates": [
+        "7645",
+        "Ado",
+        "6mEQK9m2krja6X1cfsAjfl",
+        "1492604670",
+        "121146382",
+        "UC5DHwv9N4OQ9AWtKr8YSefw"
+      ]
+    },
     {
       "id": "28087",
       "anime": "Nia Liston: The Merciless Maiden",
@@ -33,7 +97,7 @@
       "kindLabel": "Ending",
       "episodes": [],
       "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
-      "apple": "https://music.apple.com/nz/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
+      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
       "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
       "season": "Fall 2026",
@@ -277,76 +341,20 @@
         "50322192",
         "UCg2rvXE9x3zg01ZxyIt9DpA"
       ]
-    },
-    {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "artist": "Megatera Zero",
-      "artistDisplay": "Megatera Zero",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
-      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "products",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Onogami",
-        "オノガミ"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "14404",
-        "Megatera Zero",
-        "メガテラ・ゼロ",
-        "MEGATERA･ZERO",
-        "Mega Terra Zero",
-        "4I7F7bTQ9tBnRI2razDP9B",
-        "1466037690",
-        "147335922",
-        "UCe0GU9CHeC3hbvgYmzXc7OA"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28287",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/f41272a50e16c95b48136ddee542bd5b88e5ec38.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L773,_QS3U%ML#oZy@RPRkuPS@X+",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/f41272a50e16c95b48136ddee542bd5b88e5ec38@2xl.jpg"
+    },
     {
       "id": "28087",
       "thumbnailType": "string",
@@ -456,16 +464,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/c4b49558e7b117e9d55ea12e5b2a1d84e188b9da@2xl.jpeg"
-    },
-    {
-      "id": "28062",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/c4b49558e7b117e9d55ea12e5b2a1d84e188b9da.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LDGkqV}=004.00ElRQxH4TMx?bxv",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/c4b49558e7b117e9d55ea12e5b2a1d84e188b9da@2xl.jpeg"
     }
   ],
   "expectedHits": 237,
@@ -483,7 +481,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -499,7 +497,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -515,7 +513,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -531,7 +529,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -547,7 +545,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -563,7 +561,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -579,7 +577,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -595,7 +593,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -611,7 +609,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -627,7 +625,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -643,7 +641,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -659,7 +657,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -675,7 +673,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -691,7 +689,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -707,13 +705,78 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28521,
+      "nbHits": 28528,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28287",
+      "anime": "Devil's Crest",
+      "song": "Shinka",
+      "artist": "Ado",
+      "artistDisplay": "Ado",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
+      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f41272a50e16c95b48136ddee542bd5b88e5ec38@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shinka",
+        "シンカ"
+      ],
+      "animeCandidates": [
+        "Devil's Crest",
+        "Demons' Crest",
+        "デモンズ・クレスト",
+        "Devils' Crest"
+      ],
+      "artistCandidates": [
+        "7645",
+        "Ado",
+        "6mEQK9m2krja6X1cfsAjfl",
+        "1492604670",
+        "121146382",
+        "UC5DHwv9N4OQ9AWtKr8YSefw"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28087",
       "anime": "Nia Liston: The Merciless Maiden",
@@ -725,7 +788,7 @@
       "kindLabel": "Ending",
       "episodes": [],
       "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
-      "apple": "https://music.apple.com/nz/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
+      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
       "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
       "season": "Fall 2026",
@@ -2788,78 +2851,6 @@
         "url": "https://v.animethemes.moe/AoNoHakoS2-OP1.webm",
         "basename": "AoNoHakoS2-OP1.webm",
         "animeSlug": "ao_no_hako_season_2",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "28231",
-      "anime": "Super Psychic Policeman Chojo",
-      "song": "That's! Choujou",
-      "artist": "M!LK",
-      "artistDisplay": "M!LK",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
-      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "That's! Choujou",
-        "ザッツ！超常"
-      ],
-      "animeCandidates": [
-        "Super Psychic Policeman Chojo",
-        "Choujun! Choujou-senpai",
-        "超巡!超条先輩"
-      ],
-      "artistCandidates": [
-        "3564",
-        "M!LK",
-        "MILK",
-        "4jhJ8cnJ9vYKyCh289nuwQ",
-        "1356706755",
-        "14307405",
-        "UChbU0n7P86fWdZtlzCNCeGg"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/Chojun-OP1.webm",
-        "basename": "Chojun-OP1.webm",
-        "animeSlug": "choujun_choujou_senpai",
         "themeSlug": "",
         "type": "OP",
         "sequence": 1,
@@ -3442,6 +3433,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28287",
+      "anime": "Devil's Crest",
+      "song": "Shinka",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening"
+    },
+    {
       "id": "28087",
       "anime": "Nia Liston: The Merciless Maiden",
       "song": "Tokimeki Un, Deux, Trois♪",
@@ -3643,16 +3641,74 @@
       "song": "Anata no Hana no Iro",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening"
-    },
-    {
-      "id": "28231",
-      "anime": "Super Psychic Policeman Chojo",
-      "song": "That's! Choujou",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28287",
+      "anime": "Devil's Crest",
+      "song": "Shinka",
+      "artist": "Ado",
+      "artistDisplay": "Ado",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
+      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f41272a50e16c95b48136ddee542bd5b88e5ec38@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shinka",
+        "シンカ"
+      ],
+      "animeCandidates": [
+        "Devil's Crest",
+        "Demons' Crest",
+        "デモンズ・クレスト",
+        "Devils' Crest"
+      ],
+      "artistCandidates": [
+        "7645",
+        "Ado",
+        "6mEQK9m2krja6X1cfsAjfl",
+        "1492604670",
+        "121146382",
+        "UC5DHwv9N4OQ9AWtKr8YSefw"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28087",
       "anime": "Nia Liston: The Merciless Maiden",
@@ -3664,7 +3720,7 @@
       "kindLabel": "Ending",
       "episodes": [],
       "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
-      "apple": "https://music.apple.com/nz/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
+      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
       "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
       "season": "Fall 2026",
@@ -5732,88 +5788,24 @@
         "sequence": 1,
         "version": 1
       }
-    },
-    {
-      "id": "28231",
-      "anime": "Super Psychic Policeman Chojo",
-      "song": "That's! Choujou",
-      "artist": "M!LK",
-      "artistDisplay": "M!LK",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
-      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "That's! Choujou",
-        "ザッツ！超常"
-      ],
-      "animeCandidates": [
-        "Super Psychic Policeman Chojo",
-        "Choujun! Choujou-senpai",
-        "超巡!超条先輩"
-      ],
-      "artistCandidates": [
-        "3564",
-        "M!LK",
-        "MILK",
-        "4jhJ8cnJ9vYKyCh289nuwQ",
-        "1356706755",
-        "14307405",
-        "UChbU0n7P86fWdZtlzCNCeGg"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/Chojun-OP1.webm",
-        "basename": "Chojun-OP1.webm",
-        "animeSlug": "choujun_choujou_senpai",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
     }
   ],
   "platformSamples": [
+    {
+      "id": "28287",
+      "anime": "Devil's Crest",
+      "song": "Shinka",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
+      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music"
+    },
     {
       "id": "28087",
       "anime": "Nia Liston: The Merciless Maiden",
       "song": "Tokimeki Un, Deux, Trois♪",
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
-      "apple": "https://music.apple.com/nz/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music"
+      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music"
     },
     {
       "id": "28271",
@@ -6038,14 +6030,6 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
       "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music"
-    },
-    {
-      "id": "28231",
-      "anime": "Super Psychic Policeman Chojo",
-      "song": "That's! Choujou",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
-      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music"
     }
   ]
 }
