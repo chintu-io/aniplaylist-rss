@@ -6857,12 +6857,12 @@
     "artist": "Hironobu Kageyama",
     "artistDisplay": "Hironobu Kageyama & Masami Okui",
     "artistDisplayCount": 2,
-    "kind": "TS",
-    "kindLabel": "Theme Song",
+    "kind": "OP",
+    "kindLabel": "Opening",
     "spotify": "https://open.spotify.com/track/2wawpRw3CxBQZDSFR8QYSy",
-    "apple": "https://geo.music.apple.com/album/6818374717?i=6818374718&at=1001l384j&ct=website-welsh-shedar-ts&app=music",
+    "apple": "https://geo.music.apple.com/album/6818374717?i=6818374718&at=1001l384j&ct=website-welsh-shedar-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c4b49558e7b117e9d55ea12e5b2a1d84e188b9da@2xl.jpeg",
-    "detailUrl": "https://aniplaylist.com/play/welsh-shedar-theme-song",
+    "detailUrl": "https://aniplaylist.com/play/welsh-shedar-opening",
     "rawKeys": [
       "id",
       "alert_id",
@@ -6917,7 +6917,8 @@
       "263554940",
       "4929099"
     ],
-    "episodes": []
+    "episodes": [],
+    "animethemesVideo": null
   },
   "866c7c48a97ec2d2": {
     "firstSeen": "2026-10-10T08:09:10.000Z",

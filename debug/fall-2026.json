@@ -4,9 +4,9 @@
   "pageLoaded": true,
   "scrapeValidated": true,
   "resultCount": 240,
-  "animeThemesChecked": 150,
+  "animeThemesChecked": 151,
   "animeThemesMatched": 0,
-  "animeThemesSeasonLinks": 0,
+  "animeThemesSeasonLinks": 73,
   "jsonResponses": 32,
   "algoliaResponses": 15,
   "hitArrays": 30,
@@ -2141,13 +2141,13 @@
       "artist": "Hironobu Kageyama",
       "artistDisplay": "Hironobu Kageyama & Masami Okui",
       "artistDisplayCount": 2,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
       "spotify": "https://open.spotify.com/track/2wawpRw3CxBQZDSFR8QYSy",
-      "apple": "https://geo.music.apple.com/album/6818374717?i=6818374718&at=1001l384j&ct=website-welsh-shedar-ts&app=music",
+      "apple": "https://geo.music.apple.com/album/6818374717?i=6818374718&at=1001l384j&ct=website-welsh-shedar-op&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c4b49558e7b117e9d55ea12e5b2a1d84e188b9da@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/welsh-shedar-theme-song",
+      "detailUrl": "https://aniplaylist.com/play/welsh-shedar-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -2202,7 +2202,8 @@
         "4Ii7UojF0YlO2h2dIhdWfU",
         "263554940",
         "4929099"
-      ]
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28062",
@@ -3409,8 +3410,8 @@
       "id": "28061",
       "anime": "Welsh & Shedar",
       "song": "Bokura no Mirai e",
-      "kind": "TS",
-      "detailUrl": "https://aniplaylist.com/play/welsh-shedar-theme-song"
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/welsh-shedar-opening"
     },
     {
       "id": "28062",
@@ -4781,13 +4782,13 @@
       "artist": "Hironobu Kageyama",
       "artistDisplay": "Hironobu Kageyama & Masami Okui",
       "artistDisplayCount": 2,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
       "spotify": "https://open.spotify.com/track/2wawpRw3CxBQZDSFR8QYSy",
-      "apple": "https://geo.music.apple.com/album/6818374717?i=6818374718&at=1001l384j&ct=website-welsh-shedar-ts&app=music",
+      "apple": "https://geo.music.apple.com/album/6818374717?i=6818374718&at=1001l384j&ct=website-welsh-shedar-op&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c4b49558e7b117e9d55ea12e5b2a1d84e188b9da@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/welsh-shedar-theme-song",
+      "detailUrl": "https://aniplaylist.com/play/welsh-shedar-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4842,7 +4843,8 @@
         "4Ii7UojF0YlO2h2dIhdWfU",
         "263554940",
         "4929099"
-      ]
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28062",
@@ -5664,9 +5666,9 @@
       "id": "28061",
       "anime": "Welsh & Shedar",
       "song": "Bokura no Mirai e",
-      "kind": "TS",
+      "kind": "OP",
       "spotify": "https://open.spotify.com/track/2wawpRw3CxBQZDSFR8QYSy",
-      "apple": "https://geo.music.apple.com/album/6818374717?i=6818374718&at=1001l384j&ct=website-welsh-shedar-ts&app=music"
+      "apple": "https://geo.music.apple.com/album/6818374717?i=6818374718&at=1001l384j&ct=website-welsh-shedar-op&app=music"
     },
     {
       "id": "28062",
