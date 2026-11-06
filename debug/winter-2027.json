@@ -135,6 +135,68 @@
       ]
     },
     {
+      "id": "27297",
+      "anime": "The Guy She Was Interested in Wasn't a Guy at All",
+      "song": "Breed",
+      "artist": "Nirvana",
+      "artistDisplay": "Nirvana",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5mJGLBNJM0GULqAoL5mb9C",
+      "apple": "https://music.apple.com/us/album/1586410660?i=1586410664&at=1001l384j&ct=website-the-guy-she-was-interested-in-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-guy-she-was-interested-in-wasnt-a-guy-at-all-opening",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Breed"
+      ],
+      "animeCandidates": [
+        "The Guy She Was Interested in Wasn't a Guy at All",
+        "Kininatteru Hito ga Otoko ja Nakatta",
+        "Kinioto",
+        "気になってる人が男じゃなかった",
+        "Green Yuri"
+      ],
+      "artistCandidates": [
+        "23857",
+        "Nirvana",
+        "6olE6TJLqED3rqDCT0FyPh",
+        "112018",
+        "415",
+        "UCrPe3hLA51968GwxHSZ1llw"
+      ]
+    },
+    {
       "id": "us_3357",
       "anime": "Isshiki-san wa Koi wo Shiritai.",
       "song": "Gouyoku Koi o Seisu!?",
@@ -195,68 +257,6 @@
         "114607442",
         "UC0wDwW6Fuk6apQE9KdY8Dww",
         "UCVHAhuPi2RcrY5LFyKwlp8w"
-      ]
-    },
-    {
-      "id": "27297",
-      "anime": "The Guy She Was Interested in Wasn't a Guy at All",
-      "song": "Breed",
-      "artist": "Nirvana",
-      "artistDisplay": "Nirvana",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5mJGLBNJM0GULqAoL5mb9C",
-      "apple": "https://music.apple.com/us/album/1586410660?i=1586410664&at=1001l384j&ct=website-the-guy-she-was-interested-in-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-guy-she-was-interested-in-wasnt-a-guy-at-all-opening",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Breed"
-      ],
-      "animeCandidates": [
-        "The Guy She Was Interested in Wasn't a Guy at All",
-        "Kininatteru Hito ga Otoko ja Nakatta",
-        "Kinioto",
-        "気になってる人が男じゃなかった",
-        "Green Yuri"
-      ],
-      "artistCandidates": [
-        "23857",
-        "Nirvana",
-        "6olE6TJLqED3rqDCT0FyPh",
-        "112018",
-        "415",
-        "UCrPe3hLA51968GwxHSZ1llw"
       ]
     },
     {
@@ -347,16 +347,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5@2xl.png"
     },
     {
-      "id": "us_3357",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LURxcTu+?KVZ*}QSMes;o~t8k9S}",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg"
-    },
-    {
       "id": "27297",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088.jpg",
@@ -365,6 +355,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088@2xl.jpg"
+    },
+    {
+      "id": "us_3357",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LURxcTu+?KVZ*}QSMes;o~t8k9S}",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg"
     },
     {
       "id": "27894",
@@ -462,7 +462,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28528,
+      "nbHits": 28530,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -478,7 +478,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28528,
+      "nbHits": 28530,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -598,69 +598,6 @@
       ]
     },
     {
-      "id": "us_3357",
-      "anime": "Isshiki-san wa Koi wo Shiritai.",
-      "song": "Gouyoku Koi o Seisu!?",
-      "artist": "Enako",
-      "artistDisplay": "Enako",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Gouyoku Koi o Seisu!?",
-        "剛よく恋を制す！？"
-      ],
-      "animeCandidates": [
-        "Isshiki-san wa Koi wo Shiritai.",
-        "Koutetsu no Rinna wa XX Saretai",
-        "Fullmetal Rinna Wants to XX",
-        "一式さんは恋を知りたい。"
-      ],
-      "artistCandidates": [
-        "13551",
-        "Enako",
-        "えなこ",
-        "2jHLZmPoAmnlCswCMc8WCj",
-        "1223317638",
-        "0oC1SMfDzyyr7Tlzu2s63i",
-        "23Sh4LxrCSK3Or7uEjZ9Vy",
-        "114607442",
-        "UC0wDwW6Fuk6apQE9KdY8Dww",
-        "UCVHAhuPi2RcrY5LFyKwlp8w"
-      ]
-    },
-    {
       "id": "27297",
       "anime": "The Guy She Was Interested in Wasn't a Guy at All",
       "song": "Breed",
@@ -722,6 +659,69 @@
         "UCrPe3hLA51968GwxHSZ1llw"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "us_3357",
+      "anime": "Isshiki-san wa Koi wo Shiritai.",
+      "song": "Gouyoku Koi o Seisu!?",
+      "artist": "Enako",
+      "artistDisplay": "Enako",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Gouyoku Koi o Seisu!?",
+        "剛よく恋を制す！？"
+      ],
+      "animeCandidates": [
+        "Isshiki-san wa Koi wo Shiritai.",
+        "Koutetsu no Rinna wa XX Saretai",
+        "Fullmetal Rinna Wants to XX",
+        "一式さんは恋を知りたい。"
+      ],
+      "artistCandidates": [
+        "13551",
+        "Enako",
+        "えなこ",
+        "2jHLZmPoAmnlCswCMc8WCj",
+        "1223317638",
+        "0oC1SMfDzyyr7Tlzu2s63i",
+        "23Sh4LxrCSK3Or7uEjZ9Vy",
+        "114607442",
+        "UC0wDwW6Fuk6apQE9KdY8Dww",
+        "UCVHAhuPi2RcrY5LFyKwlp8w"
+      ]
     },
     {
       "id": "27894",

@@ -7552,7 +7552,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -7641,7 +7640,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -7729,7 +7727,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -7817,7 +7814,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -7990,7 +7986,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -8076,7 +8071,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -9240,7 +9234,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9307,7 +9300,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9382,7 +9374,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9532,7 +9523,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9682,7 +9672,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9757,7 +9746,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9833,7 +9821,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9906,7 +9893,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -9984,7 +9970,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -10134,7 +10119,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -10209,7 +10193,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -10855,7 +10838,8 @@
       "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
       "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
-      "Mezameza"
+      "Mezameza",
+      "Saikyosoubi"
     ],
     "artistCandidates": [
       "41",
@@ -13275,7 +13259,8 @@
       "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
       "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
-      "Mezameza"
+      "Mezameza",
+      "Saikyosoubi"
     ],
     "artistCandidates": [
       "16848",
@@ -17794,7 +17779,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -17805,7 +17789,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "13002",
@@ -17859,7 +17844,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -17869,7 +17853,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "12974",
@@ -17924,7 +17909,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -17934,7 +17918,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "13002",
@@ -17988,7 +17973,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -17998,7 +17982,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "13002",
@@ -18052,7 +18037,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -18062,7 +18046,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "12974",
@@ -18117,7 +18102,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -18128,7 +18112,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "25670",
@@ -18181,7 +18166,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -18191,7 +18175,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "12974",
@@ -18246,7 +18231,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -18256,7 +18240,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "25666",
@@ -18315,7 +18300,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -18325,7 +18309,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "25657",
@@ -18383,7 +18368,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -18393,7 +18377,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "25655",
@@ -18451,7 +18436,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -18461,7 +18445,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "25652",
@@ -18576,7 +18561,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -18586,7 +18570,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "25663",
@@ -18660,7 +18645,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "1837",
@@ -18726,7 +18712,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "25674",
@@ -18800,7 +18787,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "25673",
@@ -18854,7 +18842,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -18864,7 +18851,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "24053",
@@ -18918,7 +18906,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -18928,7 +18915,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "23935",
@@ -18982,7 +18970,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -18993,7 +18980,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "12973",
@@ -19059,7 +19047,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "25669",
@@ -19123,7 +19112,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "25668",
@@ -19177,7 +19167,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -19188,7 +19177,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "25659",
@@ -19242,7 +19232,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -19253,7 +19242,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "12973",
@@ -19309,7 +19299,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -19320,7 +19309,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "1837",
@@ -19372,7 +19362,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -19382,7 +19371,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "23935",
@@ -19446,7 +19436,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -19457,7 +19446,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "1007",
@@ -19517,7 +19507,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -19528,7 +19517,8 @@
     ],
     "animeCandidates": [
       "Cyberpunk: Edgerunners 2",
-      "サイバーパンク エッジランナーズ2"
+      "サイバーパンク エッジランナーズ2",
+      "Cyberpunk Edgerunners 2"
     ],
     "artistCandidates": [
       "12973",
@@ -21001,8 +20991,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -21078,7 +21066,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -21156,7 +21143,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -21223,7 +21209,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -21570,7 +21555,7 @@
     "episodes": [],
     "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
     "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f41272a50e16c95b48136ddee542bd5b88e5ec38@2xl.jpg",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
     "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
     "season": "Fall 2026",
     "rawKeys": [
@@ -21635,9 +21620,9 @@
     "kindLabel": "Ending",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/5hvQhc2B5q5OH58Ps2TmWu",
-    "apple": "https://music.apple.com/nz/album/6828736329?i=6828736511&at=1001l384j&ct=website-devils-crest-ed&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f41272a50e16c95b48136ddee542bd5b88e5ec38@2xl.jpg",
-    "detailUrl": "",
+    "apple": "https://geo.music.apple.com/album/6828736329?i=6828736511&at=1001l384j&ct=website-devils-crest-ed&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
+    "detailUrl": "https://aniplaylist.com/play/devils-crest-ending",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -21663,8 +21648,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
-      "web",
+      "other_link_ids",
       "unreleased",
       "objectID"
     ],
@@ -21681,7 +21667,9 @@
       "17586",
       "Soala",
       "5MBWJMHvKch5TJxUPNOVer",
-      "1577002574"
+      "1577002574",
+      "139541192",
+      "UC3PFoXZPFJGy9F4PG84nNQQ"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-11-05T15:47:32.000Z"
