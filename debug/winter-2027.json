@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 20,
+  "resultCount": 21,
   "animeThemesChecked": 2,
   "animeThemesMatched": 0,
-  "animeThemesSeasonLinks": 5,
+  "animeThemesSeasonLinks": 0,
   "jsonResponses": 6,
   "algoliaResponses": 2,
   "hitArrays": 4,
-  "rawHits": 20,
-  "uniqueHits": 20,
-  "normalized": 20,
+  "rawHits": 21,
+  "uniqueHits": 21,
+  "normalized": 21,
   "withSpotify": 3,
   "withApple": 3,
   "withDetailUrl": 3,
   "resolvedSpotify": 3,
-  "recordThumbnails": 20,
+  "recordThumbnails": 21,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -77,6 +77,60 @@
         "1317217947",
         "4898648",
         "UC_oxwNnzBxf49TaYkLnLk1g"
+      ]
+    },
+    {
+      "id": "us_3367",
+      "anime": "Spirit Circle",
+      "song": "Koko ga Donna Sekai demo",
+      "artist": "Anna Nagase",
+      "artistDisplay": "Anna Nagase",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Koko ga Donna Sekai demo",
+        "此処がどんな世界でも"
+      ],
+      "animeCandidates": [
+        "Spirit Circle",
+        "スピリットサークル"
+      ],
+      "artistCandidates": [
+        "25788",
+        "Anna Nagase",
+        "永瀬アンナ"
       ]
     },
     {
@@ -258,70 +312,6 @@
         "UC0wDwW6Fuk6apQE9KdY8Dww",
         "UCVHAhuPi2RcrY5LFyKwlp8w"
       ]
-    },
-    {
-      "id": "27894",
-      "anime": "Inherit the Winds",
-      "song": "Jinsuke no Theme",
-      "artist": "Shigeru Kishida",
-      "artistDisplay": "Shigeru Kishida",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/2ITxTFvNQ5LkODTM1kmnXF",
-      "apple": "https://geo.music.apple.com/album/6807781215?at=1001l384j&ct=website-inherit-the-winds-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b0f07443b406e866c8135ad5a60694a7fedd62cf@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-original-soundtrack",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Jinsuke no Theme",
-        "迅助のテーマ"
-      ],
-      "animeCandidates": [
-        "Inherit the Winds",
-        "Kaze wo Tsugumono",
-        "風を継ぐもの"
-      ],
-      "artistCandidates": [
-        "1277",
-        "Shigeru Kishida",
-        "岸田繁",
-        "62TpalmxXUjLKyxJUgZt6W",
-        "219771500",
-        "4897530",
-        "UCE7UTii69j5WCDZSWgkIjiw"
-      ]
     }
   ],
   "errors": [],
@@ -335,6 +325,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg"
+    },
+    {
+      "id": "us_3367",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L7IgQ3v}01IU00$j~BM{Q7xZ=Xni",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240@2xl.jpg"
     },
     {
       "id": "us_3361",
@@ -435,26 +435,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/d8e7432d5facf939ff335fba004c7315c52fb8b0@2xl.jpg"
-    },
-    {
-      "id": "us_3301",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/d8e7432d5facf939ff335fba004c7315c52fb8b0.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LFLXAF*JI.vN9?4T_3I-E24n-;x]",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/d8e7432d5facf939ff335fba004c7315c52fb8b0@2xl.jpg"
     }
   ],
-  "expectedHits": 20,
+  "expectedHits": 21,
   "expectedPages": 2,
   "receivedPages": 2,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 20,
+      "nbHits": 21,
       "hitsPerPage": 16,
       "nbPages": 2,
       "count": 16
@@ -462,7 +452,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -470,15 +460,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 20,
+      "nbHits": 21,
       "hitsPerPage": 16,
       "nbPages": 2,
-      "count": 4
+      "count": 5
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -540,6 +530,60 @@
         "1317217947",
         "4898648",
         "UC_oxwNnzBxf49TaYkLnLk1g"
+      ]
+    },
+    {
+      "id": "us_3367",
+      "anime": "Spirit Circle",
+      "song": "Koko ga Donna Sekai demo",
+      "artist": "Anna Nagase",
+      "artistDisplay": "Anna Nagase",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Koko ga Donna Sekai demo",
+        "此処がどんな世界でも"
+      ],
+      "animeCandidates": [
+        "Spirit Circle",
+        "スピリットサークル"
+      ],
+      "artistCandidates": [
+        "25788",
+        "Anna Nagase",
+        "永瀬アンナ"
       ]
     },
     {

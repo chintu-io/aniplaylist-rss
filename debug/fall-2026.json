@@ -3,25 +3,109 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 237,
-  "animeThemesChecked": 149,
-  "animeThemesMatched": 102,
-  "animeThemesSeasonLinks": 73,
+  "resultCount": 240,
+  "animeThemesChecked": 150,
+  "animeThemesMatched": 0,
+  "animeThemesSeasonLinks": 0,
   "jsonResponses": 32,
   "algoliaResponses": 15,
   "hitArrays": 30,
-  "rawHits": 237,
-  "uniqueHits": 237,
-  "normalized": 237,
-  "withSpotify": 203,
-  "withApple": 204,
-  "withDetailUrl": 206,
-  "resolvedSpotify": 203,
-  "recordThumbnails": 237,
+  "rawHits": 240,
+  "uniqueHits": 240,
+  "normalized": 240,
+  "withSpotify": 205,
+  "withApple": 206,
+  "withDetailUrl": 208,
+  "resolvedSpotify": 205,
+  "recordThumbnails": 240,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28291",
+      "anime": "Grotesqqque",
+      "song": "Strings Vivantes",
+      "artist": "GROTESQQQUE",
+      "artistDisplay": "GROTESQQQUE & Nakano +",
+      "artistDisplayCount": 2,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 3)",
+      "episodes": [
+        "3"
+      ],
+      "spotify": "https://open.spotify.com/track/1G3r49XH0IhIRnCaHMd0g6",
+      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568634&at=1001l384j&ct=website-grotesqqque-in-ep-3&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-insert-song-ep-3-strings-vivantes",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Strings Vivantes"
+      ],
+      "animeCandidates": [
+        "Grotesqqque",
+        "GROTESQQQUE-グロテスク-",
+        "Æliens",
+        "Yoroshiku★Shoujo",
+        "Nocturn: En Cette Nuit Grotesque",
+        "GROTESQQQUE",
+        "GTQ123",
+        "ÆLIENS (エリィアンズ)",
+        "AELIENS",
+        "Yoroshiku★Shoujo (夜露死駆★少女)",
+        "4649Girl",
+        "Yoroshiku★Girl",
+        "Evening Dew Heads to Its Death★Girl",
+        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+        "NOCTURNE: NUIT GROTESQUE",
+        "NOCTURN: EN CETTE NUIT GROTESQUE"
+      ],
+      "artistCandidates": [
+        "24115",
+        "GROTESQQQUE",
+        "1In8PNOPWYnzc6PCjisqCn",
+        "6791445853",
+        "403964042",
+        "UCFQQnp5AUG5oPscUdhC5q1A",
+        "25794",
+        "Nakano +",
+        "1Ms9OCmbIMIBLaAVvbGQxy",
+        "6823055202",
+        "422493182",
+        "UCvCUhqQQ4MHWaMIn43Qu8Fw"
+      ]
+    },
     {
       "id": "28287",
       "anime": "Devil's Crest",
@@ -276,74 +360,20 @@
         "193022797",
         "UCOK1WCN-6ucanL1nO0ZmimA"
       ]
-    },
-    {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "artist": "Shikao Suga",
-      "artistDisplay": "Shikao Suga",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
-      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kageboushi",
-        "カゲボウシ"
-      ],
-      "animeCandidates": [
-        "Horror Collector",
-        "Kyoufu Collector",
-        "恐怖コレクター"
-      ],
-      "artistCandidates": [
-        "72",
-        "Shikao Suga",
-        "スガシカオ",
-        "3sddhwNhGabYSvzYKhB7qj",
-        "202324935",
-        "4929503",
-        "UCaWq9OOi9wk961EOzugZuoA"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28291",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LqHV0ywik7SwtpnSSxocIVa^s:kC",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg"
+    },
     {
       "id": "28287",
       "thumbnailType": "string",
@@ -395,6 +425,16 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg"
     },
     {
+      "id": "28293",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LFQlX+00n3NZ~p=^xUWt.Ru3S4s;",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb@2xl.jpg"
+    },
+    {
       "id": "28076",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b.jpg",
@@ -443,36 +483,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg"
-    },
-    {
-      "id": "28263",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LLH{jJ-aMv9$Q-TJ$~IDNIIVsko~",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg"
-    },
-    {
-      "id": "28070",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LFFE=kE458Ee01%MIT,@}mM{%hNt",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg"
     }
   ],
-  "expectedHits": 237,
+  "expectedHits": 240,
   "expectedPages": 15,
   "receivedPages": 15,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -480,7 +500,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -488,7 +508,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -496,7 +516,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -504,7 +524,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -512,7 +532,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -520,7 +540,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -528,7 +548,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -536,7 +556,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -544,7 +564,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -552,7 +572,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -560,7 +580,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -568,7 +588,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -576,7 +596,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -584,7 +604,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -592,7 +612,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -600,7 +620,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -608,7 +628,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -616,7 +636,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -624,7 +644,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -632,7 +652,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -640,7 +660,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -648,7 +668,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -656,7 +676,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -664,7 +684,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -672,7 +692,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -680,7 +700,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
       "count": 16
@@ -688,7 +708,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -696,21 +716,105 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 237,
+      "nbHits": 240,
       "hitsPerPage": 16,
       "nbPages": 15,
-      "count": 13
+      "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28530,
+      "nbHits": 28542,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28291",
+      "anime": "Grotesqqque",
+      "song": "Strings Vivantes",
+      "artist": "GROTESQQQUE",
+      "artistDisplay": "GROTESQQQUE & Nakano +",
+      "artistDisplayCount": 2,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 3)",
+      "episodes": [
+        "3"
+      ],
+      "spotify": "https://open.spotify.com/track/1G3r49XH0IhIRnCaHMd0g6",
+      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568634&at=1001l384j&ct=website-grotesqqque-in-ep-3&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-insert-song-ep-3-strings-vivantes",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Strings Vivantes"
+      ],
+      "animeCandidates": [
+        "Grotesqqque",
+        "GROTESQQQUE-グロテスク-",
+        "Æliens",
+        "Yoroshiku★Shoujo",
+        "Nocturn: En Cette Nuit Grotesque",
+        "GROTESQQQUE",
+        "GTQ123",
+        "ÆLIENS (エリィアンズ)",
+        "AELIENS",
+        "Yoroshiku★Shoujo (夜露死駆★少女)",
+        "4649Girl",
+        "Yoroshiku★Girl",
+        "Evening Dew Heads to Its Death★Girl",
+        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+        "NOCTURNE: NUIT GROTESQUE",
+        "NOCTURN: EN CETTE NUIT GROTESQUE"
+      ],
+      "artistCandidates": [
+        "24115",
+        "GROTESQQQUE",
+        "1In8PNOPWYnzc6PCjisqCn",
+        "6791445853",
+        "403964042",
+        "UCFQQnp5AUG5oPscUdhC5q1A",
+        "25794",
+        "Nakano +",
+        "1Ms9OCmbIMIBLaAVvbGQxy",
+        "6823055202",
+        "422493182",
+        "UCvCUhqQQ4MHWaMIn43Qu8Fw"
+      ]
+    },
     {
       "id": "28287",
       "anime": "Devil's Crest",
@@ -903,15 +1007,7 @@
         "418828852",
         "UCoueeWzU2MU1-ci3v3JZZBQ"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/NiaListon-ED1.webm",
-        "basename": "NiaListon-ED1.webm",
-        "animeSlug": "kyouran_reijou_nia_liston",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28271",
@@ -976,15 +1072,7 @@
         "193022797",
         "UCOK1WCN-6ucanL1nO0ZmimA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/LastBossS2-ED1.webm",
-        "basename": "LastBossS2-ED1.webm",
-        "animeSlug": "yasei_no_last_boss_ga_arawareta_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28272",
@@ -1049,15 +1137,71 @@
         "4929503",
         "UCaWq9OOi9wk961EOzugZuoA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KyoufuCollector-OP1.webm",
-        "basename": "KyoufuCollector-OP1.webm",
-        "animeSlug": "kyoufu_collector",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
+    },
+    {
+      "id": "28293",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Kareinaru Revenger",
+      "artist": "Juice=Juice",
+      "artistDisplay": "Juice=Juice",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0bL2gW6tG8tpgjqlI6ACle",
+      "apple": "https://music.apple.com/jp/album/6828325244?i=6828325245&at=1001l384j&ct=website-with-vengeance-sincerely-your-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kareinaru Revenger",
+        "華麗なるリベンジャー"
+      ],
+      "animeCandidates": [
+        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
+        "傷だらけ聖女より報復をこめて Season2"
+      ],
+      "artistCandidates": [
+        "24251",
+        "Juice=Juice",
+        "6ckfItpfxpSYKrZ0OIXUuh",
+        "623197059",
+        "13261347"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28076",
@@ -1122,15 +1266,7 @@
         "50322192",
         "UCg2rvXE9x3zg01ZxyIt9DpA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-ED1.webm",
-        "basename": "DragonBallSuperBeerus-ED1.webm",
-        "animeSlug": "dragon_ball_super_beerus",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28074",
@@ -1197,15 +1333,7 @@
         "147335922",
         "UCe0GU9CHeC3hbvgYmzXc7OA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-OP1.webm",
-        "basename": "DragonBallSuperBeerus-OP1.webm",
-        "animeSlug": "dragon_ball_super_beerus",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28262",
@@ -1344,15 +1472,7 @@
         "266646521",
         "6372"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BattleSpiritsReZekkaiNoKu-OP1.webm",
-        "basename": "BattleSpiritsReZekkaiNoKu-OP1.webm",
-        "animeSlug": "battle_spirits_re_zekkai_no_ku",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28088",
@@ -1766,15 +1886,120 @@
         "128010782",
         "UC160OjZevHTl0K8vk_g1vZQ"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/NamaAnaru-ED1v2.webm",
-        "basename": "NamaAnaru-ED1v2.webm",
-        "animeSlug": "seitokai_ni_mo_ana_wa_aru",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 2
-      }
+      "animethemesVideo": null
+    },
+    {
+      "id": "us_3372",
+      "anime": "Fool Night",
+      "song": "Iki",
+      "artist": "Nowlu",
+      "artistDisplay": "Nowlu",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
+      "detailUrl": "",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Iki",
+        "息"
+      ],
+      "animeCandidates": [
+        "Fool Night",
+        "フールナイト"
+      ],
+      "artistCandidates": [
+        "12154",
+        "Nowlu",
+        "0TAhk9VlgZqLcM4wn5nUpO",
+        "1616530162",
+        "164981917",
+        "UCXletLKBp8lJsi7KpItRMNQ"
+      ]
+    },
+    {
+      "id": "us_3371",
+      "anime": "Fool Night",
+      "song": "Shake! spit out",
+      "artist": "Tempalay",
+      "artistDisplay": "Tempalay",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
+      "detailUrl": "",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shake! spit out"
+      ],
+      "animeCandidates": [
+        "Fool Night",
+        "フールナイト"
+      ],
+      "artistCandidates": [
+        "13788",
+        "Tempalay",
+        "5IlQkA8Lq4X0dOWHBumeJP",
+        "1041632537",
+        "9488316",
+        "UCfbzpFkr-Idf7e4TdLudMEQ"
+      ]
     },
     {
       "id": "27900",
@@ -1840,15 +2065,7 @@
         "テレ東アニメ",
         "UC0OXPEQRKArB_EVyFMwDbAQ"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-OP1.webm",
-        "basename": "BlackCloverS2-OP1.webm",
-        "animeSlug": "black_clover_2nd_season",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "27895",
@@ -1915,15 +2132,7 @@
         "TOHO animation",
         "UC14Yc2Qv92DMuyNRlHvpo2Q"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KusuriyaNoHitorigotoS3-ED1.webm",
-        "basename": "KusuriyaNoHitorigotoS3-ED1.webm",
-        "animeSlug": "kusuriya_no_hitorigoto_3rd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28061",
@@ -2059,15 +2268,7 @@
         "9780734",
         "UCaSg7S3Cnjg1Hcw28yPQi0w"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/WelshAndShedar-ED1.webm",
-        "basename": "WelshAndShedar-ED1.webm",
-        "animeSlug": "aoki_denshou_welsh_shedar",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28153",
@@ -2264,15 +2465,7 @@
         "288597931",
         "UCpvym4hXdo4fVz0Rpu_LNoA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/Ranma2024S3-OP1.webm",
-        "basename": "Ranma2024S3-OP1.webm",
-        "animeSlug": "ranma_12_2024_3rd_season",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "27870",
@@ -2335,15 +2528,7 @@
         "142878",
         "UCarJ-jLDuyHOlRXzIcqL4oQ"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-ED1.webm",
-        "basename": "KooriNoJouhekiS2-ED1.webm",
-        "animeSlug": "koori_no_jouheki_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "27823",
@@ -2476,15 +2661,7 @@
         "12421168",
         "UCx0PImuCTAcomS3v-cZOBDA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-OP1.webm",
-        "basename": "KooriNoJouhekiS2-OP1.webm",
-        "animeSlug": "koori_no_jouheki_2nd_season",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28045",
@@ -2548,295 +2725,7 @@
         "1043542",
         "UCtlXP5iI7TgKj_BI636L8Qw"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/HotaruNoYomeiri-OP1.webm",
-        "basename": "HotaruNoYomeiri-OP1.webm",
-        "animeSlug": "hotaru_no_yomeiri",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27990",
-      "anime": "The World's Strongest Witch",
-      "song": "Eikyouroku ∞ Idol",
-      "artist": "MARUMOCHI from HoneyWorks",
-      "artistDisplay": "MARUMOCHI from HoneyWorks & HaKoniwalily",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1VvmVtY3brxOXTqgIOPjef",
-      "apple": "https://geo.music.apple.com/album/6815915313?i=6815915315&at=1001l384j&ct=website-the-worlds-strongest-witch-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4712f81b4fef2d9fb81ac022bae3515168c89f15@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-worlds-strongest-witch-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Eikyouroku ∞ Idol",
-        "影響力∞アイドル",
-        "Idol with Limitless Influence"
-      ],
-      "animeCandidates": [
-        "The World's Strongest Witch",
-        "Sekai Saikyou no Majo, Hajimemashita",
-        "世界最強の魔女、始めました"
-      ],
-      "artistCandidates": [
-        "16629",
-        "MARUMOCHI from HoneyWorks",
-        "6SE42YkzK2iVXMph1a3Hbp",
-        "1767973545",
-        "281706071",
-        "UCJxr7YkgS2mEZBFyq39Wkhg",
-        "7226",
-        "HaKoniwalily",
-        "ハコニワリリィ",
-        "HaKoniwaLily",
-        "ハコニワリリ",
-        "2rsT3GtKdBr9qBYXEn8lEZ",
-        "417230252"
-      ],
       "animethemesVideo": null
-    },
-    {
-      "id": "27821",
-      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-      "song": "SPIN",
-      "artist": "Kroi",
-      "artistDisplay": "Kroi",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
-      "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/62f935a021ce799e1890dd2bacab33a446e03999@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "products",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "SPIN"
-      ],
-      "animeCandidates": [
-        "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-        "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
-        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
-        "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
-        "SBR",
-        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
-        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
-      ],
-      "artistCandidates": [
-        "14747",
-        "Kroi",
-        "4S8J8Nct8lHsbzAeNJXcJa",
-        "1439157589",
-        "52711252",
-        "UCssoAGLly9DaABecIZoht_g"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "artist": "ONE OR EIGHT",
-      "artistDisplay": "ONE OR EIGHT",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/707fd0db5aeec803c5e71530f37d074ce87b58cb@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yellow Brick Road"
-      ],
-      "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
-      ],
-      "artistCandidates": [
-        "19216",
-        "ONE OR EIGHT",
-        "5bIttAFRf7URUmuuI9w7XA",
-        "1758291632",
-        "275967661",
-        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-ED1.webm",
-        "basename": "BlackCloverS2-ED1.webm",
-        "animeSlug": "black_clover_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "artist": "aiko",
-      "artistDisplay": "aiko",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
-      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Anata no Hana no Iro",
-        "あなたの花の色",
-        "the color of your flower"
-      ],
-      "animeCandidates": [
-        "Blue Box Season 2",
-        "アオのハコ Season2",
-        "Ao no Hako Season 2"
-      ],
-      "artistCandidates": [
-        "3105",
-        "aiko",
-        "6TDMbiQCWeMClsMr9ORLRK",
-        "635154255",
-        "2643581"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/AoNoHakoS2-OP1.webm",
-        "basename": "AoNoHakoS2-OP1.webm",
-        "animeSlug": "ao_no_hako_season_2",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
     }
   ],
   "sourceMetadataSamples": [
@@ -3384,6 +3273,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28291",
+      "anime": "Grotesqqque",
+      "song": "Strings Vivantes",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-insert-song-ep-3-strings-vivantes"
+    },
+    {
       "id": "28287",
       "anime": "Devil's Crest",
       "song": "Shinka",
@@ -3417,6 +3313,13 @@
       "song": "Kageboushi",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/horror-collector-opening"
+    },
+    {
+      "id": "28293",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Kareinaru Revenger",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-opening"
     },
     {
       "id": "28076",
@@ -3578,23 +3481,93 @@
       "song": "SPIN",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening"
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending"
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28291",
+      "anime": "Grotesqqque",
+      "song": "Strings Vivantes",
+      "artist": "GROTESQQQUE",
+      "artistDisplay": "GROTESQQQUE & Nakano +",
+      "artistDisplayCount": 2,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 3)",
+      "episodes": [
+        "3"
+      ],
+      "spotify": "https://open.spotify.com/track/1G3r49XH0IhIRnCaHMd0g6",
+      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568634&at=1001l384j&ct=website-grotesqqque-in-ep-3&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-insert-song-ep-3-strings-vivantes",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Strings Vivantes"
+      ],
+      "animeCandidates": [
+        "Grotesqqque",
+        "GROTESQQQUE-グロテスク-",
+        "Æliens",
+        "Yoroshiku★Shoujo",
+        "Nocturn: En Cette Nuit Grotesque",
+        "GROTESQQQUE",
+        "GTQ123",
+        "ÆLIENS (エリィアンズ)",
+        "AELIENS",
+        "Yoroshiku★Shoujo (夜露死駆★少女)",
+        "4649Girl",
+        "Yoroshiku★Girl",
+        "Evening Dew Heads to Its Death★Girl",
+        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+        "NOCTURNE: NUIT GROTESQUE",
+        "NOCTURN: EN CETTE NUIT GROTESQUE"
+      ],
+      "artistCandidates": [
+        "24115",
+        "GROTESQQQUE",
+        "1In8PNOPWYnzc6PCjisqCn",
+        "6791445853",
+        "403964042",
+        "UCFQQnp5AUG5oPscUdhC5q1A",
+        "25794",
+        "Nakano +",
+        "1Ms9OCmbIMIBLaAVvbGQxy",
+        "6823055202",
+        "422493182",
+        "UCvCUhqQQ4MHWaMIn43Qu8Fw"
+      ]
+    },
     {
       "id": "28287",
       "anime": "Devil's Crest",
@@ -3787,15 +3760,7 @@
         "418828852",
         "UCoueeWzU2MU1-ci3v3JZZBQ"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/NiaListon-ED1.webm",
-        "basename": "NiaListon-ED1.webm",
-        "animeSlug": "kyouran_reijou_nia_liston",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28271",
@@ -3860,15 +3825,7 @@
         "193022797",
         "UCOK1WCN-6ucanL1nO0ZmimA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/LastBossS2-ED1.webm",
-        "basename": "LastBossS2-ED1.webm",
-        "animeSlug": "yasei_no_last_boss_ga_arawareta_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28272",
@@ -3933,15 +3890,71 @@
         "4929503",
         "UCaWq9OOi9wk961EOzugZuoA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KyoufuCollector-OP1.webm",
-        "basename": "KyoufuCollector-OP1.webm",
-        "animeSlug": "kyoufu_collector",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
+    },
+    {
+      "id": "28293",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Kareinaru Revenger",
+      "artist": "Juice=Juice",
+      "artistDisplay": "Juice=Juice",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0bL2gW6tG8tpgjqlI6ACle",
+      "apple": "https://music.apple.com/jp/album/6828325244?i=6828325245&at=1001l384j&ct=website-with-vengeance-sincerely-your-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kareinaru Revenger",
+        "華麗なるリベンジャー"
+      ],
+      "animeCandidates": [
+        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
+        "傷だらけ聖女より報復をこめて Season2"
+      ],
+      "artistCandidates": [
+        "24251",
+        "Juice=Juice",
+        "6ckfItpfxpSYKrZ0OIXUuh",
+        "623197059",
+        "13261347"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28076",
@@ -4006,15 +4019,7 @@
         "50322192",
         "UCg2rvXE9x3zg01ZxyIt9DpA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-ED1.webm",
-        "basename": "DragonBallSuperBeerus-ED1.webm",
-        "animeSlug": "dragon_ball_super_beerus",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28074",
@@ -4081,15 +4086,7 @@
         "147335922",
         "UCe0GU9CHeC3hbvgYmzXc7OA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/DragonBallSuperBeerus-OP1.webm",
-        "basename": "DragonBallSuperBeerus-OP1.webm",
-        "animeSlug": "dragon_ball_super_beerus",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28262",
@@ -4228,15 +4225,7 @@
         "266646521",
         "6372"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BattleSpiritsReZekkaiNoKu-OP1.webm",
-        "basename": "BattleSpiritsReZekkaiNoKu-OP1.webm",
-        "animeSlug": "battle_spirits_re_zekkai_no_ku",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28088",
@@ -4650,15 +4639,7 @@
         "128010782",
         "UC160OjZevHTl0K8vk_g1vZQ"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/NamaAnaru-ED1v2.webm",
-        "basename": "NamaAnaru-ED1v2.webm",
-        "animeSlug": "seitokai_ni_mo_ana_wa_aru",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 2
-      }
+      "animethemesVideo": null
     },
     {
       "id": "27900",
@@ -4724,15 +4705,7 @@
         "テレ東アニメ",
         "UC0OXPEQRKArB_EVyFMwDbAQ"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-OP1.webm",
-        "basename": "BlackCloverS2-OP1.webm",
-        "animeSlug": "black_clover_2nd_season",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "27895",
@@ -4799,15 +4772,7 @@
         "TOHO animation",
         "UC14Yc2Qv92DMuyNRlHvpo2Q"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KusuriyaNoHitorigotoS3-ED1.webm",
-        "basename": "KusuriyaNoHitorigotoS3-ED1.webm",
-        "animeSlug": "kusuriya_no_hitorigoto_3rd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28061",
@@ -4943,15 +4908,7 @@
         "9780734",
         "UCaSg7S3Cnjg1Hcw28yPQi0w"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/WelshAndShedar-ED1.webm",
-        "basename": "WelshAndShedar-ED1.webm",
-        "animeSlug": "aoki_denshou_welsh_shedar",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28153",
@@ -5148,15 +5105,7 @@
         "288597931",
         "UCpvym4hXdo4fVz0Rpu_LNoA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/Ranma2024S3-OP1.webm",
-        "basename": "Ranma2024S3-OP1.webm",
-        "animeSlug": "ranma_12_2024_3rd_season",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "27870",
@@ -5219,15 +5168,7 @@
         "142878",
         "UCarJ-jLDuyHOlRXzIcqL4oQ"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-ED1.webm",
-        "basename": "KooriNoJouhekiS2-ED1.webm",
-        "animeSlug": "koori_no_jouheki_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "27823",
@@ -5360,15 +5301,7 @@
         "12421168",
         "UCx0PImuCTAcomS3v-cZOBDA"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/KooriNoJouhekiS2-OP1.webm",
-        "basename": "KooriNoJouhekiS2-OP1.webm",
-        "animeSlug": "koori_no_jouheki_2nd_season",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "28045",
@@ -5432,15 +5365,7 @@
         "1043542",
         "UCtlXP5iI7TgKj_BI636L8Qw"
       ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/HotaruNoYomeiri-OP1.webm",
-        "basename": "HotaruNoYomeiri-OP1.webm",
-        "animeSlug": "hotaru_no_yomeiri",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
+      "animethemesVideo": null
     },
     {
       "id": "27990",
@@ -5580,150 +5505,17 @@
         "UCssoAGLly9DaABecIZoht_g"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "artist": "ONE OR EIGHT",
-      "artistDisplay": "ONE OR EIGHT",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/707fd0db5aeec803c5e71530f37d074ce87b58cb@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yellow Brick Road"
-      ],
-      "animeCandidates": [
-        "Black Clover 2nd Season",
-        "ブラッククローバー 2nd season",
-        "Black Clover Season 2"
-      ],
-      "artistCandidates": [
-        "19216",
-        "ONE OR EIGHT",
-        "5bIttAFRf7URUmuuI9w7XA",
-        "1758291632",
-        "275967661",
-        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/BlackCloverS2-ED1.webm",
-        "basename": "BlackCloverS2-ED1.webm",
-        "animeSlug": "black_clover_2nd_season",
-        "themeSlug": "",
-        "type": "ED",
-        "sequence": 1,
-        "version": 1
-      }
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "artist": "aiko",
-      "artistDisplay": "aiko",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
-      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Anata no Hana no Iro",
-        "あなたの花の色",
-        "the color of your flower"
-      ],
-      "animeCandidates": [
-        "Blue Box Season 2",
-        "アオのハコ Season2",
-        "Ao no Hako Season 2"
-      ],
-      "artistCandidates": [
-        "3105",
-        "aiko",
-        "6TDMbiQCWeMClsMr9ORLRK",
-        "635154255",
-        "2643581"
-      ],
-      "animethemesVideo": {
-        "url": "https://v.animethemes.moe/AoNoHakoS2-OP1.webm",
-        "basename": "AoNoHakoS2-OP1.webm",
-        "animeSlug": "ao_no_hako_season_2",
-        "themeSlug": "",
-        "type": "OP",
-        "sequence": 1,
-        "version": 1
-      }
     }
   ],
   "platformSamples": [
+    {
+      "id": "28291",
+      "anime": "Grotesqqque",
+      "song": "Strings Vivantes",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/1G3r49XH0IhIRnCaHMd0g6",
+      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568634&at=1001l384j&ct=website-grotesqqque-in-ep-3&app=music"
+    },
     {
       "id": "28287",
       "anime": "Devil's Crest",
@@ -5763,6 +5555,14 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
       "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music"
+    },
+    {
+      "id": "28293",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Kareinaru Revenger",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/0bL2gW6tG8tpgjqlI6ACle",
+      "apple": "https://music.apple.com/jp/album/6828325244?i=6828325245&at=1001l384j&ct=website-with-vengeance-sincerely-your-op&app=music"
     },
     {
       "id": "28076",
@@ -5947,22 +5747,6 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
       "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music"
-    },
-    {
-      "id": "27992",
-      "anime": "Black Clover 2nd Season",
-      "song": "Yellow Brick Road",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
-      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music"
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
-      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music"
     }
   ]
 }
