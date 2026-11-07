@@ -7225,7 +7225,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -8123,7 +8122,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -8779,7 +8777,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -13069,11 +13066,11 @@
     "anime": "Cardfight!! Vanguard: Divinez Parallactic Fate",
     "song": "Escape",
     "artist": "Kis-My-Ft2",
-    "kind": "TS",
+    "kind": "ED",
     "spotify": "https://open.spotify.com/track/3BqsYnqnsdDWUmOuxHWX2U",
-    "apple": "https://geo.music.apple.com/album/6812151890?i=6812151891&at=1001l384j&ct=website-cardfight-vanguard-divinez-pa-ts&app=music",
+    "apple": "https://geo.music.apple.com/album/6812151890?i=6812151891&at=1001l384j&ct=website-cardfight-vanguard-divinez-pa-ed&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a5a8a802943acca2ac7f65f55217a5c82929e9b9@2xl.jpg",
-    "detailUrl": "https://aniplaylist.com/play/cardfight-vanguard-divinez-parallactic-fate-theme-song",
+    "detailUrl": "https://aniplaylist.com/play/cardfight-vanguard-divinez-parallactic-fate-ending",
     "rawKeys": [
       "id",
       "alert_id",
@@ -13120,8 +13117,9 @@
     ],
     "artistDisplay": "Kis-My-Ft2",
     "artistDisplayCount": 1,
-    "kindLabel": "Theme Song",
-    "episodes": []
+    "kindLabel": "Ending",
+    "episodes": [],
+    "animethemesVideo": null
   },
   "c7bb317cdb024122": {
     "firstSeen": "2026-09-29T08:00:48.000Z",
@@ -13994,7 +13992,8 @@
     ],
     "animeCandidates": [
       "Pan Dorobou",
-      "パンどろぼう"
+      "パンどろぼう",
+      "The Bread Thief"
     ],
     "artistCandidates": [
       "14",
@@ -14258,7 +14257,8 @@
     ],
     "animeCandidates": [
       "Pan Dorobou",
-      "パンどろぼう"
+      "パンどろぼう",
+      "The Bread Thief"
     ],
     "artistCandidates": [
       "25492",
@@ -21009,5 +21009,89 @@
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-11-06T17:36:23.000Z"
+  },
+  "1fa9506480bd902a": {
+    "id": "28292",
+    "anime": "Grotesqqque",
+    "song": "Shampoo Kaeta no",
+    "artist": "GROTESQQQUE",
+    "artistDisplay": "GROTESQQQUE & Haoto",
+    "artistDisplayCount": 2,
+    "kind": "ED",
+    "kindLabel": "Ending",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/track/0Go7z5T8APFHmAG0zKdrMO",
+    "apple": "https://geo.music.apple.com/album/6823568240?i=6823568817&at=1001l384j&ct=website-grotesqqque-ed&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
+    "detailUrl": "https://aniplaylist.com/play/grotesqqque-ending",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "status",
+      "tags",
+      "other_link_ids",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Shampoo Kaeta no",
+      "シャンプー変えたの"
+    ],
+    "animeCandidates": [
+      "Grotesqqque",
+      "GROTESQQQUE-グロテスク-",
+      "Æliens",
+      "Yoroshiku★Shoujo",
+      "Nocturn: En Cette Nuit Grotesque",
+      "GROTESQQQUE",
+      "GTQ123",
+      "ÆLIENS (エリィアンズ)",
+      "AELIENS",
+      "Yoroshiku★Shoujo (夜露死駆★少女)",
+      "4649Girl",
+      "Yoroshiku★Girl",
+      "Evening Dew Heads to Its Death★Girl",
+      "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+      "NOCTURNE: NUIT GROTESQUE",
+      "NOCTURN: EN CETTE NUIT GROTESQUE"
+    ],
+    "artistCandidates": [
+      "24115",
+      "GROTESQQQUE",
+      "1In8PNOPWYnzc6PCjisqCn",
+      "6791445853",
+      "403964042",
+      "UCFQQnp5AUG5oPscUdhC5q1A",
+      "25733",
+      "Haoto",
+      "葉音",
+      "5MkJ3ycBZl6A7sXr4AG5TD",
+      "438658686",
+      "5713960"
+    ],
+    "animethemesVideo": null,
+    "firstSeen": "2026-11-07T09:12:39.000Z"
   }
 }

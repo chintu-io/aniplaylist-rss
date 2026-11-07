@@ -3,25 +3,107 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 240,
-  "animeThemesChecked": 151,
+  "resultCount": 241,
+  "animeThemesChecked": 153,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 73,
-  "jsonResponses": 32,
-  "algoliaResponses": 15,
-  "hitArrays": 30,
-  "rawHits": 240,
-  "uniqueHits": 240,
-  "normalized": 240,
-  "withSpotify": 205,
-  "withApple": 206,
-  "withDetailUrl": 208,
-  "resolvedSpotify": 205,
-  "recordThumbnails": 240,
+  "jsonResponses": 34,
+  "algoliaResponses": 16,
+  "hitArrays": 32,
+  "rawHits": 241,
+  "uniqueHits": 241,
+  "normalized": 241,
+  "withSpotify": 206,
+  "withApple": 207,
+  "withDetailUrl": 209,
+  "resolvedSpotify": 206,
+  "recordThumbnails": 241,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28292",
+      "anime": "Grotesqqque",
+      "song": "Shampoo Kaeta no",
+      "artist": "GROTESQQQUE",
+      "artistDisplay": "GROTESQQQUE & Haoto",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0Go7z5T8APFHmAG0zKdrMO",
+      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568817&at=1001l384j&ct=website-grotesqqque-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shampoo Kaeta no",
+        "シャンプー変えたの"
+      ],
+      "animeCandidates": [
+        "Grotesqqque",
+        "GROTESQQQUE-グロテスク-",
+        "Æliens",
+        "Yoroshiku★Shoujo",
+        "Nocturn: En Cette Nuit Grotesque",
+        "GROTESQQQUE",
+        "GTQ123",
+        "ÆLIENS (エリィアンズ)",
+        "AELIENS",
+        "Yoroshiku★Shoujo (夜露死駆★少女)",
+        "4649Girl",
+        "Yoroshiku★Girl",
+        "Evening Dew Heads to Its Death★Girl",
+        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+        "NOCTURNE: NUIT GROTESQUE",
+        "NOCTURN: EN CETTE NUIT GROTESQUE"
+      ],
+      "artistCandidates": [
+        "24115",
+        "GROTESQQQUE",
+        "1In8PNOPWYnzc6PCjisqCn",
+        "6791445853",
+        "403964042",
+        "UCFQQnp5AUG5oPscUdhC5q1A",
+        "25733",
+        "Haoto",
+        "葉音",
+        "5MkJ3ycBZl6A7sXr4AG5TD",
+        "438658686",
+        "5713960"
+      ]
+    },
     {
       "id": "28291",
       "anime": "Grotesqqque",
@@ -296,74 +378,20 @@
         "418828852",
         "UCoueeWzU2MU1-ci3v3JZZBQ"
       ]
-    },
-    {
-      "id": "28271",
-      "anime": "A Wild Last Boss Appeared! Season 2",
-      "song": "Yurete Skirt",
-      "artist": "Chakura",
-      "artistDisplay": "Chakura",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
-      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yurete Skirt",
-        "揺れてスカート"
-      ],
-      "animeCandidates": [
-        "A Wild Last Boss Appeared! Season 2",
-        "野生のラスボスが現れた！ 第2期",
-        "Yasei no Last Boss ga Arawareta! 2nd Season"
-      ],
-      "artistCandidates": [
-        "24213",
-        "Chakura",
-        "ちゃくら",
-        "4y8KqtQgzRVDnQ072O7Vqr",
-        "1659156116",
-        "193022797",
-        "UCOK1WCN-6ucanL1nO0ZmimA"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28292",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LqHV0ywik7SwtpnSSxocIVa^s:kC",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg"
+    },
     {
       "id": "28291",
       "thumbnailType": "string",
@@ -415,16 +443,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg"
     },
     {
-      "id": "28272",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LHFeEFJkFc=1|en%S2#-2V$P$jw{",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg"
-    },
-    {
       "id": "28293",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb.jpg",
@@ -455,14 +473,14 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
     },
     {
-      "id": "28262",
+      "id": "28272",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b.jpeg",
+      "thumbnail": "thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2.jpeg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LLH{jJ-aMv9$Q-TJ$~IDNIIVsko~",
+      "thumbnail_hash": "LHFeEFJkFc=1|en%S2#-2V$P$jw{",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg"
     },
     {
       "id": "28086",
@@ -485,22 +503,22 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg"
     }
   ],
-  "expectedHits": 240,
-  "expectedPages": 15,
-  "receivedPages": 15,
+  "expectedHits": 241,
+  "expectedPages": 16,
+  "receivedPages": 16,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -508,15 +526,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -524,15 +542,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -540,15 +558,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -556,15 +574,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -572,15 +590,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -588,15 +606,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -604,15 +622,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -620,15 +638,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -636,15 +654,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -652,15 +670,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -668,15 +686,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -684,15 +702,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -700,15 +718,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -716,21 +734,120 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 240,
+      "nbHits": 241,
       "hitsPerPage": 16,
-      "nbPages": 15,
+      "nbPages": 16,
       "count": 16
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28544,
+      "nbHits": 28546,
+      "hitsPerPage": 0,
+      "nbPages": 0,
+      "count": 0
+    },
+    {
+      "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
+      "page": 15,
+      "nbHits": 241,
+      "hitsPerPage": 16,
+      "nbPages": 16,
+      "count": 1
+    },
+    {
+      "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
+      "page": 0,
+      "nbHits": 28546,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28292",
+      "anime": "Grotesqqque",
+      "song": "Shampoo Kaeta no",
+      "artist": "GROTESQQQUE",
+      "artistDisplay": "GROTESQQQUE & Haoto",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0Go7z5T8APFHmAG0zKdrMO",
+      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568817&at=1001l384j&ct=website-grotesqqque-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shampoo Kaeta no",
+        "シャンプー変えたの"
+      ],
+      "animeCandidates": [
+        "Grotesqqque",
+        "GROTESQQQUE-グロテスク-",
+        "Æliens",
+        "Yoroshiku★Shoujo",
+        "Nocturn: En Cette Nuit Grotesque",
+        "GROTESQQQUE",
+        "GTQ123",
+        "ÆLIENS (エリィアンズ)",
+        "AELIENS",
+        "Yoroshiku★Shoujo (夜露死駆★少女)",
+        "4649Girl",
+        "Yoroshiku★Girl",
+        "Evening Dew Heads to Its Death★Girl",
+        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+        "NOCTURNE: NUIT GROTESQUE",
+        "NOCTURN: EN CETTE NUIT GROTESQUE"
+      ],
+      "artistCandidates": [
+        "24115",
+        "GROTESQQQUE",
+        "1In8PNOPWYnzc6PCjisqCn",
+        "6791445853",
+        "403964042",
+        "UCFQQnp5AUG5oPscUdhC5q1A",
+        "25733",
+        "Haoto",
+        "葉音",
+        "5MkJ3ycBZl6A7sXr4AG5TD",
+        "438658686",
+        "5713960"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28291",
       "anime": "Grotesqqque",
@@ -1071,71 +1188,6 @@
         "1659156116",
         "193022797",
         "UCOK1WCN-6ucanL1nO0ZmimA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "artist": "Shikao Suga",
-      "artistDisplay": "Shikao Suga",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
-      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kageboushi",
-        "カゲボウシ"
-      ],
-      "animeCandidates": [
-        "Horror Collector",
-        "Kyoufu Collector",
-        "恐怖コレクター"
-      ],
-      "artistCandidates": [
-        "72",
-        "Shikao Suga",
-        "スガシカオ",
-        "3sddhwNhGabYSvzYKhB7qj",
-        "202324935",
-        "4929503",
-        "UCaWq9OOi9wk961EOzugZuoA"
       ],
       "animethemesVideo": null
     },
@@ -1336,19 +1388,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
-      "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
-      "artistDisplayCount": 2,
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "artist": "Shikao Suga",
+      "artistDisplay": "Shikao Suga",
+      "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
-      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
+      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
+      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1365,7 +1417,6 @@
         "platforms",
         "preview_url",
         "song_key",
-        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -1382,30 +1433,22 @@
         "objectID"
       ],
       "titleCandidates": [
-        "SHAKARIKI!!"
+        "Kageboushi",
+        "カゲボウシ"
       ],
       "animeCandidates": [
-        "Digimon: World's Best Picks",
-        "The Best Adventure We Chose",
-        "僕らが選んだベストアドベンチャー",
-        "Bokura ga Eranda Best Adventure"
+        "Horror Collector",
+        "Kyoufu Collector",
+        "恐怖コレクター"
       ],
       "artistCandidates": [
-        "12570",
-        "Ayumi Miyazaki",
-        "宮崎歩",
-        "宮﨑歩",
-        "4Hjely5D21wDWfluTrZRhT",
-        "218732056",
-        "74835282",
-        "UCk0cOzmc7azCdYwVlp9hMKw",
-        "3297",
-        "Takayoshi Tanimoto",
-        "谷本貴義",
-        "5nCVXtvsB2KsngsMbk8Hat",
-        "74954644",
-        "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw"
+        "72",
+        "Shikao Suga",
+        "スガシカオ",
+        "3sddhwNhGabYSvzYKhB7qj",
+        "202324935",
+        "4929503",
+        "UCaWq9OOi9wk961EOzugZuoA"
       ],
       "animethemesVideo": null
     },
@@ -1538,6 +1581,148 @@
         "73617069",
         "4359",
         "UCKoNktuAjXEn-f0ZCRpbDlA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
+      "artist": "Ayumi Miyazaki",
+      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
+      "artistDisplayCount": 2,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SHAKARIKI!!"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "12570",
+        "Ayumi Miyazaki",
+        "宮崎歩",
+        "宮﨑歩",
+        "4Hjely5D21wDWfluTrZRhT",
+        "218732056",
+        "74835282",
+        "UCk0cOzmc7azCdYwVlp9hMKw",
+        "3297",
+        "Takayoshi Tanimoto",
+        "谷本貴義",
+        "5nCVXtvsB2KsngsMbk8Hat",
+        "74954644",
+        "208716347",
+        "UCIdyBeiGorESL-FlrE_88Lw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
       ],
       "animethemesVideo": null
     },
@@ -1750,74 +1935,6 @@
         "1438721351",
         "128264352",
         "UCS8QqtsLzHF8VcIJFEkl8Uw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
       ],
       "animethemesVideo": null
     },
@@ -2131,143 +2248,6 @@
         "24642",
         "TOHO animation",
         "UC14Yc2Qv92DMuyNRlHvpo2Q"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28061",
-      "anime": "Welsh & Shedar",
-      "song": "Bokura no Mirai e",
-      "artist": "Hironobu Kageyama",
-      "artistDisplay": "Hironobu Kageyama & Masami Okui",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2wawpRw3CxBQZDSFR8QYSy",
-      "apple": "https://geo.music.apple.com/album/6818374717?i=6818374718&at=1001l384j&ct=website-welsh-shedar-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c4b49558e7b117e9d55ea12e5b2a1d84e188b9da@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/welsh-shedar-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Bokura no Mirai e",
-        "僕らの未来へ"
-      ],
-      "animeCandidates": [
-        "Welsh & Shedar",
-        "Aoki Denshou Welsh & Shedar",
-        "蒼き伝承 ウェルシュ＆シェダー"
-      ],
-      "artistCandidates": [
-        "2",
-        "Hironobu Kageyama",
-        "影山ヒロノブ",
-        "6qTKdHuHW9MFnjfV3JYmz8",
-        "334391255",
-        "9780734",
-        "UCaSg7S3Cnjg1Hcw28yPQi0w",
-        "2072",
-        "Masami Okui",
-        "奥井雅美",
-        "4Ii7UojF0YlO2h2dIhdWfU",
-        "263554940",
-        "4929099"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28062",
-      "anime": "Welsh & Shedar",
-      "song": "Omelet",
-      "artist": "Hironobu Kageyama",
-      "artistDisplay": "Hironobu Kageyama",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/02pRSSlcAX48EtVXqO01h4",
-      "apple": "https://geo.music.apple.com/album/6818374717?i=6818374723&at=1001l384j&ct=website-welsh-shedar-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c4b49558e7b117e9d55ea12e5b2a1d84e188b9da@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/welsh-shedar-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Omelet",
-        "オムレツ",
-        "Omelette"
-      ],
-      "animeCandidates": [
-        "Welsh & Shedar",
-        "Aoki Denshou Welsh & Shedar",
-        "蒼き伝承 ウェルシュ＆シェダー"
-      ],
-      "artistCandidates": [
-        "2",
-        "Hironobu Kageyama",
-        "影山ヒロノブ",
-        "6qTKdHuHW9MFnjfV3JYmz8",
-        "334391255",
-        "9780734",
-        "UCaSg7S3Cnjg1Hcw28yPQi0w"
       ],
       "animethemesVideo": null
     },
@@ -2725,6 +2705,77 @@
         "388343274",
         "1043542",
         "UCtlXP5iI7TgKj_BI636L8Qw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27990",
+      "anime": "The World's Strongest Witch",
+      "song": "Eikyouroku ∞ Idol",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "artistDisplay": "MARUMOCHI from HoneyWorks & HaKoniwalily",
+      "artistDisplayCount": 2,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1VvmVtY3brxOXTqgIOPjef",
+      "apple": "https://geo.music.apple.com/album/6815915313?i=6815915315&at=1001l384j&ct=website-the-worlds-strongest-witch-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4712f81b4fef2d9fb81ac022bae3515168c89f15@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-worlds-strongest-witch-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Eikyouroku ∞ Idol",
+        "影響力∞アイドル",
+        "Idol with Limitless Influence"
+      ],
+      "animeCandidates": [
+        "The World's Strongest Witch",
+        "Sekai Saikyou no Majo, Hajimemashita",
+        "世界最強の魔女、始めました"
+      ],
+      "artistCandidates": [
+        "16629",
+        "MARUMOCHI from HoneyWorks",
+        "6SE42YkzK2iVXMph1a3Hbp",
+        "1767973545",
+        "281706071",
+        "UCJxr7YkgS2mEZBFyq39Wkhg",
+        "7226",
+        "HaKoniwalily",
+        "ハコニワリリィ",
+        "HaKoniwaLily",
+        "ハコニワリリ",
+        "2rsT3GtKdBr9qBYXEn8lEZ",
+        "417230252"
       ],
       "animethemesVideo": null
     }
@@ -3274,6 +3325,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28292",
+      "anime": "Grotesqqque",
+      "song": "Shampoo Kaeta no",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-ending"
+    },
+    {
       "id": "28291",
       "anime": "Grotesqqque",
       "song": "Strings Vivantes",
@@ -3309,13 +3367,6 @@
       "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending"
     },
     {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening"
-    },
-    {
       "id": "28293",
       "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
       "song": "Kareinaru Revenger",
@@ -3337,11 +3388,11 @@
       "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
     },
     {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
       "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size"
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening"
     },
     {
       "id": "28086",
@@ -3356,6 +3407,20 @@
       "song": "Sonzai Riyu Kai",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size"
+    },
+    {
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size"
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
     },
     {
       "id": "28263",
@@ -3379,13 +3444,6 @@
       "detailUrl": "https://aniplaylist.com/play/paws-palaces-opening-jp"
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
-    },
-    {
       "id": "27976",
       "anime": "Even the Student Council Has Its Holes!",
       "song": "Pi",
@@ -3405,20 +3463,6 @@
       "song": "AIYOU",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending"
-    },
-    {
-      "id": "28061",
-      "anime": "Welsh & Shedar",
-      "song": "Bokura no Mirai e",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/welsh-shedar-opening"
-    },
-    {
-      "id": "28062",
-      "anime": "Welsh & Shedar",
-      "song": "Omelet",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/welsh-shedar-ending"
     },
     {
       "id": "28153",
@@ -3482,9 +3526,99 @@
       "song": "SPIN",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening"
+    },
+    {
+      "id": "27992",
+      "anime": "Black Clover 2nd Season",
+      "song": "Yellow Brick Road",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28292",
+      "anime": "Grotesqqque",
+      "song": "Shampoo Kaeta no",
+      "artist": "GROTESQQQUE",
+      "artistDisplay": "GROTESQQQUE & Haoto",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0Go7z5T8APFHmAG0zKdrMO",
+      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568817&at=1001l384j&ct=website-grotesqqque-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shampoo Kaeta no",
+        "シャンプー変えたの"
+      ],
+      "animeCandidates": [
+        "Grotesqqque",
+        "GROTESQQQUE-グロテスク-",
+        "Æliens",
+        "Yoroshiku★Shoujo",
+        "Nocturn: En Cette Nuit Grotesque",
+        "GROTESQQQUE",
+        "GTQ123",
+        "ÆLIENS (エリィアンズ)",
+        "AELIENS",
+        "Yoroshiku★Shoujo (夜露死駆★少女)",
+        "4649Girl",
+        "Yoroshiku★Girl",
+        "Evening Dew Heads to Its Death★Girl",
+        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+        "NOCTURNE: NUIT GROTESQUE",
+        "NOCTURN: EN CETTE NUIT GROTESQUE"
+      ],
+      "artistCandidates": [
+        "24115",
+        "GROTESQQQUE",
+        "1In8PNOPWYnzc6PCjisqCn",
+        "6791445853",
+        "403964042",
+        "UCFQQnp5AUG5oPscUdhC5q1A",
+        "25733",
+        "Haoto",
+        "葉音",
+        "5MkJ3ycBZl6A7sXr4AG5TD",
+        "438658686",
+        "5713960"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28291",
       "anime": "Grotesqqque",
@@ -3829,71 +3963,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "artist": "Shikao Suga",
-      "artistDisplay": "Shikao Suga",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
-      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kageboushi",
-        "カゲボウシ"
-      ],
-      "animeCandidates": [
-        "Horror Collector",
-        "Kyoufu Collector",
-        "恐怖コレクター"
-      ],
-      "artistCandidates": [
-        "72",
-        "Shikao Suga",
-        "スガシカオ",
-        "3sddhwNhGabYSvzYKhB7qj",
-        "202324935",
-        "4929503",
-        "UCaWq9OOi9wk961EOzugZuoA"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28293",
       "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
       "song": "Kareinaru Revenger",
@@ -4090,19 +4159,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
-      "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
-      "artistDisplayCount": 2,
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "artist": "Shikao Suga",
+      "artistDisplay": "Shikao Suga",
+      "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
-      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
+      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
+      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4119,7 +4188,6 @@
         "platforms",
         "preview_url",
         "song_key",
-        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -4136,30 +4204,22 @@
         "objectID"
       ],
       "titleCandidates": [
-        "SHAKARIKI!!"
+        "Kageboushi",
+        "カゲボウシ"
       ],
       "animeCandidates": [
-        "Digimon: World's Best Picks",
-        "The Best Adventure We Chose",
-        "僕らが選んだベストアドベンチャー",
-        "Bokura ga Eranda Best Adventure"
+        "Horror Collector",
+        "Kyoufu Collector",
+        "恐怖コレクター"
       ],
       "artistCandidates": [
-        "12570",
-        "Ayumi Miyazaki",
-        "宮崎歩",
-        "宮﨑歩",
-        "4Hjely5D21wDWfluTrZRhT",
-        "218732056",
-        "74835282",
-        "UCk0cOzmc7azCdYwVlp9hMKw",
-        "3297",
-        "Takayoshi Tanimoto",
-        "谷本貴義",
-        "5nCVXtvsB2KsngsMbk8Hat",
-        "74954644",
-        "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw"
+        "72",
+        "Shikao Suga",
+        "スガシカオ",
+        "3sddhwNhGabYSvzYKhB7qj",
+        "202324935",
+        "4929503",
+        "UCaWq9OOi9wk961EOzugZuoA"
       ],
       "animethemesVideo": null
     },
@@ -4292,6 +4352,148 @@
         "73617069",
         "4359",
         "UCKoNktuAjXEn-f0ZCRpbDlA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
+      "artist": "Ayumi Miyazaki",
+      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
+      "artistDisplayCount": 2,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SHAKARIKI!!"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "12570",
+        "Ayumi Miyazaki",
+        "宮崎歩",
+        "宮﨑歩",
+        "4Hjely5D21wDWfluTrZRhT",
+        "218732056",
+        "74835282",
+        "UCk0cOzmc7azCdYwVlp9hMKw",
+        "3297",
+        "Takayoshi Tanimoto",
+        "谷本貴義",
+        "5nCVXtvsB2KsngsMbk8Hat",
+        "74954644",
+        "208716347",
+        "UCIdyBeiGorESL-FlrE_88Lw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
       ],
       "animethemesVideo": null
     },
@@ -4508,74 +4710,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "27976",
       "anime": "Even the Student Council Has Its Holes!",
       "song": "Pi",
@@ -4772,143 +4906,6 @@
         "24642",
         "TOHO animation",
         "UC14Yc2Qv92DMuyNRlHvpo2Q"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28061",
-      "anime": "Welsh & Shedar",
-      "song": "Bokura no Mirai e",
-      "artist": "Hironobu Kageyama",
-      "artistDisplay": "Hironobu Kageyama & Masami Okui",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2wawpRw3CxBQZDSFR8QYSy",
-      "apple": "https://geo.music.apple.com/album/6818374717?i=6818374718&at=1001l384j&ct=website-welsh-shedar-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c4b49558e7b117e9d55ea12e5b2a1d84e188b9da@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/welsh-shedar-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Bokura no Mirai e",
-        "僕らの未来へ"
-      ],
-      "animeCandidates": [
-        "Welsh & Shedar",
-        "Aoki Denshou Welsh & Shedar",
-        "蒼き伝承 ウェルシュ＆シェダー"
-      ],
-      "artistCandidates": [
-        "2",
-        "Hironobu Kageyama",
-        "影山ヒロノブ",
-        "6qTKdHuHW9MFnjfV3JYmz8",
-        "334391255",
-        "9780734",
-        "UCaSg7S3Cnjg1Hcw28yPQi0w",
-        "2072",
-        "Masami Okui",
-        "奥井雅美",
-        "4Ii7UojF0YlO2h2dIhdWfU",
-        "263554940",
-        "4929099"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28062",
-      "anime": "Welsh & Shedar",
-      "song": "Omelet",
-      "artist": "Hironobu Kageyama",
-      "artistDisplay": "Hironobu Kageyama",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/02pRSSlcAX48EtVXqO01h4",
-      "apple": "https://geo.music.apple.com/album/6818374717?i=6818374723&at=1001l384j&ct=website-welsh-shedar-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c4b49558e7b117e9d55ea12e5b2a1d84e188b9da@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/welsh-shedar-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Omelet",
-        "オムレツ",
-        "Omelette"
-      ],
-      "animeCandidates": [
-        "Welsh & Shedar",
-        "Aoki Denshou Welsh & Shedar",
-        "蒼き伝承 ウェルシュ＆シェダー"
-      ],
-      "artistCandidates": [
-        "2",
-        "Hironobu Kageyama",
-        "影山ヒロノブ",
-        "6qTKdHuHW9MFnjfV3JYmz8",
-        "334391255",
-        "9780734",
-        "UCaSg7S3Cnjg1Hcw28yPQi0w"
       ],
       "animethemesVideo": null
     },
@@ -5507,9 +5504,79 @@
         "UCssoAGLly9DaABecIZoht_g"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "27992",
+      "anime": "Black Clover 2nd Season",
+      "song": "Yellow Brick Road",
+      "artist": "ONE OR EIGHT",
+      "artistDisplay": "ONE OR EIGHT",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
+      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/707fd0db5aeec803c5e71530f37d074ce87b58cb@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yellow Brick Road"
+      ],
+      "animeCandidates": [
+        "Black Clover 2nd Season",
+        "ブラッククローバー 2nd season",
+        "Black Clover Season 2"
+      ],
+      "artistCandidates": [
+        "19216",
+        "ONE OR EIGHT",
+        "5bIttAFRf7URUmuuI9w7XA",
+        "1758291632",
+        "275967661",
+        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
+      ],
+      "animethemesVideo": null
     }
   ],
   "platformSamples": [
+    {
+      "id": "28292",
+      "anime": "Grotesqqque",
+      "song": "Shampoo Kaeta no",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/0Go7z5T8APFHmAG0zKdrMO",
+      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568817&at=1001l384j&ct=website-grotesqqque-ed&app=music"
+    },
     {
       "id": "28291",
       "anime": "Grotesqqque",
@@ -5551,14 +5618,6 @@
       "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music"
     },
     {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
-      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music"
-    },
-    {
       "id": "28293",
       "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
       "song": "Kareinaru Revenger",
@@ -5583,12 +5642,12 @@
       "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
     },
     {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
       "kind": "OP",
-      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
-      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music"
+      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
+      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music"
     },
     {
       "id": "28086",
@@ -5605,6 +5664,22 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
       "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music"
+    },
+    {
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music"
+    },
+    {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
     },
     {
       "id": "28263",
@@ -5631,14 +5706,6 @@
       "apple": "https://geo.music.apple.com/album/6816802257?i=6816802265&at=1001l384j&ct=website-paws-palaces-opjp&app=music"
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
-    },
-    {
       "id": "27976",
       "anime": "Even the Student Council Has Its Holes!",
       "song": "Pi",
@@ -5661,22 +5728,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
       "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music"
-    },
-    {
-      "id": "28061",
-      "anime": "Welsh & Shedar",
-      "song": "Bokura no Mirai e",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/2wawpRw3CxBQZDSFR8QYSy",
-      "apple": "https://geo.music.apple.com/album/6818374717?i=6818374718&at=1001l384j&ct=website-welsh-shedar-op&app=music"
-    },
-    {
-      "id": "28062",
-      "anime": "Welsh & Shedar",
-      "song": "Omelet",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/02pRSSlcAX48EtVXqO01h4",
-      "apple": "https://geo.music.apple.com/album/6818374717?i=6818374723&at=1001l384j&ct=website-welsh-shedar-ed&app=music"
     },
     {
       "id": "28153",
@@ -5749,6 +5800,14 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
       "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music"
+    },
+    {
+      "id": "27992",
+      "anime": "Black Clover 2nd Season",
+      "song": "Yellow Brick Road",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
+      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music"
     }
   ]
 }
