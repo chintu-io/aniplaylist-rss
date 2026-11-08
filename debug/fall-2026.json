@@ -473,16 +473,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb@2xl.jpg"
     },
     {
-      "id": "28272",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LHFeEFJkFc=1|en%S2#-2V$P$jw{",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg"
-    },
-    {
       "id": "28086",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e.jpeg",
@@ -491,6 +481,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg"
+    },
+    {
+      "id": "28272",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LHFeEFJkFc=1|en%S2#-2V$P$jw{",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg"
     },
     {
       "id": "28088",
@@ -518,7 +518,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -534,7 +534,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -550,7 +550,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -566,7 +566,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -582,7 +582,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -598,7 +598,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -614,7 +614,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -630,7 +630,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -646,7 +646,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -662,7 +662,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -678,7 +678,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -694,7 +694,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -710,7 +710,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -726,7 +726,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -742,7 +742,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -758,7 +758,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -1388,71 +1388,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "artist": "Shikao Suga",
-      "artistDisplay": "Shikao Suga",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
-      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kageboushi",
-        "カゲボウシ"
-      ],
-      "animeCandidates": [
-        "Horror Collector",
-        "Kyoufu Collector",
-        "恐怖コレクター"
-      ],
-      "artistCandidates": [
-        "72",
-        "Shikao Suga",
-        "スガシカオ",
-        "3sddhwNhGabYSvzYKhB7qj",
-        "202324935",
-        "4929503",
-        "UCaWq9OOi9wk961EOzugZuoA"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28086",
       "anime": "Battle Spirits [Re]: Zekkai no Kuu",
       "song": "Here we are!",
@@ -1514,6 +1449,71 @@
         "0CPdwFVMsHZWpNgKuLaTuU",
         "266646521",
         "6372"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "artist": "Shikao Suga",
+      "artistDisplay": "Shikao Suga",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
+      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kageboushi",
+        "カゲボウシ"
+      ],
+      "animeCandidates": [
+        "Horror Collector",
+        "Kyoufu Collector",
+        "恐怖コレクター"
+      ],
+      "artistCandidates": [
+        "72",
+        "Shikao Suga",
+        "スガシカオ",
+        "3sddhwNhGabYSvzYKhB7qj",
+        "202324935",
+        "4929503",
+        "UCaWq9OOi9wk961EOzugZuoA"
       ],
       "animethemesVideo": null
     },
@@ -1651,6 +1651,79 @@
         "UCabLXblrQG4cO8F9qdd4Xsw"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "28153",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "In Love With Myself",
+      "artist": "Kalman Chodakiewitz",
+      "artistDisplay": "Kalman Chodakiewitz, Eli Shiffman, Petite Meller & Kalman Chodakiewitz, Eli Shiffman & Petite Meller",
+      "artistDisplayCount": 4,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 10)",
+      "episodes": [
+        "10"
+      ],
+      "spotify": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "In Love With Myself"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2",
+        "Cyberpunk Edgerunners 2"
+      ],
+      "artistCandidates": [
+        "25674",
+        "Kalman Chodakiewitz",
+        "04CWg0uT79a10dBoyRu4ft",
+        "198852877",
+        "25675",
+        "Eli Shiffman",
+        "49TPnY519EQ4n5pRuWlCgb",
+        "422377282",
+        "23935",
+        "Petite Meller",
+        "2gUVyV9z7T6cielHCMSpvb",
+        "718238708",
+        "5299859",
+        "UCzhnTfx-ynhNr2irlAGAmRA",
+        "25676",
+        "Kalman Chodakiewitz, Eli Shiffman & Petite Meller"
+      ]
     },
     {
       "id": "27976",
@@ -1966,79 +2039,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28153",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "In Love With Myself",
-      "artist": "Kalman Chodakiewitz",
-      "artistDisplay": "Kalman Chodakiewitz, Eli Shiffman, Petite Meller & Kalman Chodakiewitz, Eli Shiffman & Petite Meller",
-      "artistDisplayCount": 4,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 10)",
-      "episodes": [
-        "10"
-      ],
-      "spotify": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D",
-      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "In Love With Myself"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2",
-        "Cyberpunk Edgerunners 2"
-      ],
-      "artistCandidates": [
-        "25674",
-        "Kalman Chodakiewitz",
-        "04CWg0uT79a10dBoyRu4ft",
-        "198852877",
-        "25675",
-        "Eli Shiffman",
-        "49TPnY519EQ4n5pRuWlCgb",
-        "422377282",
-        "23935",
-        "Petite Meller",
-        "2gUVyV9z7T6cielHCMSpvb",
-        "718238708",
-        "5299859",
-        "UCzhnTfx-ynhNr2irlAGAmRA",
-        "25676",
-        "Kalman Chodakiewitz, Eli Shiffman & Petite Meller"
-      ]
-    },
-    {
       "id": "28230",
       "anime": "Umayuru: Full Gate!",
       "song": "Yuruyuru SAMBA",
@@ -2295,74 +2295,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28070",
-      "anime": "Paws & Palaces",
-      "song": "Chill Choose!",
-      "artist": "Riko Azuna",
-      "artistDisplay": "Riko Azuna",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Chill Choose!"
-      ],
-      "animeCandidates": [
-        "Paws & Palaces",
-        "Zi Jin: Yu Miao Fang",
-        "紫禁·御喵房",
-        "Forbidden City: Cat Imperial Study",
-        "Paw & Palaces",
-        "On Myao Bo",
-        "紫禁・御猫房〜紫禁城猫警備室〜"
-      ],
-      "artistCandidates": [
-        "1835",
-        "Riko Azuna",
-        "安月名莉子",
-        "7ChJuYuw9pM8MqaZOAmvHX",
-        "1438721351",
-        "128264352",
-        "UCS8QqtsLzHF8VcIJFEkl8Uw"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
@@ -2609,6 +2541,74 @@
       ],
       "titleCandidates": [
         "Truly"
+      ],
+      "animeCandidates": [
+        "Paws & Palaces",
+        "Zi Jin: Yu Miao Fang",
+        "紫禁·御喵房",
+        "Forbidden City: Cat Imperial Study",
+        "Paw & Palaces",
+        "On Myao Bo",
+        "紫禁・御猫房〜紫禁城猫警備室〜"
+      ],
+      "artistCandidates": [
+        "1835",
+        "Riko Azuna",
+        "安月名莉子",
+        "7ChJuYuw9pM8MqaZOAmvHX",
+        "1438721351",
+        "128264352",
+        "UCS8QqtsLzHF8VcIJFEkl8Uw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28070",
+      "anime": "Paws & Palaces",
+      "song": "Chill Choose!",
+      "artist": "Riko Azuna",
+      "artistDisplay": "Riko Azuna",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
+      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Chill Choose!"
       ],
       "animeCandidates": [
         "Paws & Palaces",
@@ -3378,18 +3378,18 @@
       "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-opening"
     },
     {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening"
-    },
-    {
       "id": "28086",
       "anime": "Battle Spirits [Re]: Zekkai no Kuu",
       "song": "Here we are!",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size"
+    },
+    {
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening"
     },
     {
       "id": "28088",
@@ -3404,6 +3404,13 @@
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
+    },
+    {
+      "id": "28153",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "In Love With Myself",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself"
     },
     {
       "id": "27976",
@@ -3425,13 +3432,6 @@
       "song": "AIYOU",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending"
-    },
-    {
-      "id": "28153",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "In Love With Myself",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself"
     },
     {
       "id": "28230",
@@ -3462,13 +3462,6 @@
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-ending"
     },
     {
-      "id": "28070",
-      "anime": "Paws & Palaces",
-      "song": "Chill Choose!",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp"
-    },
-    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
@@ -3495,6 +3488,13 @@
       "song": "Truly",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/paws-palaces-opening-jp"
+    },
+    {
+      "id": "28070",
+      "anime": "Paws & Palaces",
+      "song": "Chill Choose!",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp"
     },
     {
       "id": "27990",
@@ -4149,71 +4149,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "artist": "Shikao Suga",
-      "artistDisplay": "Shikao Suga",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
-      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kageboushi",
-        "カゲボウシ"
-      ],
-      "animeCandidates": [
-        "Horror Collector",
-        "Kyoufu Collector",
-        "恐怖コレクター"
-      ],
-      "artistCandidates": [
-        "72",
-        "Shikao Suga",
-        "スガシカオ",
-        "3sddhwNhGabYSvzYKhB7qj",
-        "202324935",
-        "4929503",
-        "UCaWq9OOi9wk961EOzugZuoA"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28086",
       "anime": "Battle Spirits [Re]: Zekkai no Kuu",
       "song": "Here we are!",
@@ -4275,6 +4210,71 @@
         "0CPdwFVMsHZWpNgKuLaTuU",
         "266646521",
         "6372"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "artist": "Shikao Suga",
+      "artistDisplay": "Shikao Suga",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
+      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kageboushi",
+        "カゲボウシ"
+      ],
+      "animeCandidates": [
+        "Horror Collector",
+        "Kyoufu Collector",
+        "恐怖コレクター"
+      ],
+      "artistCandidates": [
+        "72",
+        "Shikao Suga",
+        "スガシカオ",
+        "3sddhwNhGabYSvzYKhB7qj",
+        "202324935",
+        "4929503",
+        "UCaWq9OOi9wk961EOzugZuoA"
       ],
       "animethemesVideo": null
     },
@@ -4412,6 +4412,79 @@
         "UCabLXblrQG4cO8F9qdd4Xsw"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "28153",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "In Love With Myself",
+      "artist": "Kalman Chodakiewitz",
+      "artistDisplay": "Kalman Chodakiewitz, Eli Shiffman, Petite Meller & Kalman Chodakiewitz, Eli Shiffman & Petite Meller",
+      "artistDisplayCount": 4,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 10)",
+      "episodes": [
+        "10"
+      ],
+      "spotify": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "In Love With Myself"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2",
+        "Cyberpunk Edgerunners 2"
+      ],
+      "artistCandidates": [
+        "25674",
+        "Kalman Chodakiewitz",
+        "04CWg0uT79a10dBoyRu4ft",
+        "198852877",
+        "25675",
+        "Eli Shiffman",
+        "49TPnY519EQ4n5pRuWlCgb",
+        "422377282",
+        "23935",
+        "Petite Meller",
+        "2gUVyV9z7T6cielHCMSpvb",
+        "718238708",
+        "5299859",
+        "UCzhnTfx-ynhNr2irlAGAmRA",
+        "25676",
+        "Kalman Chodakiewitz, Eli Shiffman & Petite Meller"
+      ]
     },
     {
       "id": "27976",
@@ -4612,79 +4685,6 @@
         "UC14Yc2Qv92DMuyNRlHvpo2Q"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28153",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "In Love With Myself",
-      "artist": "Kalman Chodakiewitz",
-      "artistDisplay": "Kalman Chodakiewitz, Eli Shiffman, Petite Meller & Kalman Chodakiewitz, Eli Shiffman & Petite Meller",
-      "artistDisplayCount": 4,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 10)",
-      "episodes": [
-        "10"
-      ],
-      "spotify": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D",
-      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "In Love With Myself"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2",
-        "Cyberpunk Edgerunners 2"
-      ],
-      "artistCandidates": [
-        "25674",
-        "Kalman Chodakiewitz",
-        "04CWg0uT79a10dBoyRu4ft",
-        "198852877",
-        "25675",
-        "Eli Shiffman",
-        "49TPnY519EQ4n5pRuWlCgb",
-        "422377282",
-        "23935",
-        "Petite Meller",
-        "2gUVyV9z7T6cielHCMSpvb",
-        "718238708",
-        "5299859",
-        "UCzhnTfx-ynhNr2irlAGAmRA",
-        "25676",
-        "Kalman Chodakiewitz, Eli Shiffman & Petite Meller"
-      ]
     },
     {
       "id": "28230",
@@ -4943,74 +4943,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28070",
-      "anime": "Paws & Palaces",
-      "song": "Chill Choose!",
-      "artist": "Riko Azuna",
-      "artistDisplay": "Riko Azuna",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Chill Choose!"
-      ],
-      "animeCandidates": [
-        "Paws & Palaces",
-        "Zi Jin: Yu Miao Fang",
-        "紫禁·御喵房",
-        "Forbidden City: Cat Imperial Study",
-        "Paw & Palaces",
-        "On Myao Bo",
-        "紫禁・御猫房〜紫禁城猫警備室〜"
-      ],
-      "artistCandidates": [
-        "1835",
-        "Riko Azuna",
-        "安月名莉子",
-        "7ChJuYuw9pM8MqaZOAmvHX",
-        "1438721351",
-        "128264352",
-        "UCS8QqtsLzHF8VcIJFEkl8Uw"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
@@ -5257,6 +5189,74 @@
       ],
       "titleCandidates": [
         "Truly"
+      ],
+      "animeCandidates": [
+        "Paws & Palaces",
+        "Zi Jin: Yu Miao Fang",
+        "紫禁·御喵房",
+        "Forbidden City: Cat Imperial Study",
+        "Paw & Palaces",
+        "On Myao Bo",
+        "紫禁・御猫房〜紫禁城猫警備室〜"
+      ],
+      "artistCandidates": [
+        "1835",
+        "Riko Azuna",
+        "安月名莉子",
+        "7ChJuYuw9pM8MqaZOAmvHX",
+        "1438721351",
+        "128264352",
+        "UCS8QqtsLzHF8VcIJFEkl8Uw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28070",
+      "anime": "Paws & Palaces",
+      "song": "Chill Choose!",
+      "artist": "Riko Azuna",
+      "artistDisplay": "Riko Azuna",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
+      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Chill Choose!"
       ],
       "animeCandidates": [
         "Paws & Palaces",
@@ -5620,20 +5620,20 @@
       "apple": "https://music.apple.com/jp/album/6828325244?i=6828325245&at=1001l384j&ct=website-with-vengeance-sincerely-your-op&app=music"
     },
     {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
-      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music"
-    },
-    {
       "id": "28086",
       "anime": "Battle Spirits [Re]: Zekkai no Kuu",
       "song": "Here we are!",
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
       "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music"
+    },
+    {
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
+      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music"
     },
     {
       "id": "28088",
@@ -5650,6 +5650,14 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
       "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
+    },
+    {
+      "id": "28153",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "In Love With Myself",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music"
     },
     {
       "id": "27976",
@@ -5674,14 +5682,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
       "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music"
-    },
-    {
-      "id": "28153",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "In Love With Myself",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D",
-      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music"
     },
     {
       "id": "28230",
@@ -5716,14 +5716,6 @@
       "apple": "https://geo.music.apple.com/album/6809991313?i=6809991318&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-ed&app=music"
     },
     {
-      "id": "28070",
-      "anime": "Paws & Palaces",
-      "song": "Chill Choose!",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music"
-    },
-    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
@@ -5754,6 +5746,14 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/0yPbwdkwden8aUhiWWNDZG",
       "apple": "https://geo.music.apple.com/album/6816802257?i=6816802265&at=1001l384j&ct=website-paws-palaces-opjp&app=music"
+    },
+    {
+      "id": "28070",
+      "anime": "Paws & Palaces",
+      "song": "Chill Choose!",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
+      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music"
     },
     {
       "id": "27990",

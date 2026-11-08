@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 22,
+  "resultCount": 24,
   "animeThemesChecked": 2,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 5,
   "jsonResponses": 6,
   "algoliaResponses": 2,
   "hitArrays": 4,
-  "rawHits": 22,
-  "uniqueHits": 22,
-  "normalized": 22,
+  "rawHits": 24,
+  "uniqueHits": 24,
+  "normalized": 24,
   "withSpotify": 3,
   "withApple": 3,
   "withDetailUrl": 3,
   "resolvedSpotify": 3,
-  "recordThumbnails": 22,
+  "recordThumbnails": 24,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -137,6 +137,121 @@
       ]
     },
     {
+      "id": "us_3379",
+      "anime": "Bless",
+      "song": "New Page",
+      "artist": "HIKKA",
+      "artistDisplay": "HIKKA",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5ea5c3b87ec1846f996879dd94af359c39d4cda9@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "New Page"
+      ],
+      "animeCandidates": [
+        "Bless",
+        "ブレス"
+      ],
+      "artistCandidates": [
+        "25799",
+        "HIKKA"
+      ]
+    },
+    {
+      "id": "us_3378",
+      "anime": "One Punch Man 3 Part 2",
+      "song": "Hoshi no Hashikure",
+      "artist": "Makoto Furukawa",
+      "artistDisplay": "Makoto Furukawa",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hoshi no Hashikure",
+        "惑星の片隅"
+      ],
+      "animeCandidates": [
+        "One Punch Man 3 Part 2",
+        "ワンパンマン 3期 第2クール",
+        "One-Punch Man Season 3 Part 2",
+        "One Punch Man 3rd Season Part 2",
+        "OPM 3"
+      ],
+      "artistCandidates": [
+        "3945",
+        "Makoto Furukawa",
+        "古川慎",
+        "古川 慎",
+        "7cqs65sOpEfqF5T0XFnAWc",
+        "985880178",
+        "867993110",
+        "12971383",
+        "UC7dhQ2ElJ-KyXbZfDmT0kMQ"
+      ]
+    },
+    {
       "id": "us_3367",
       "anime": "Spirit Circle",
       "song": "Koko ga Donna Sekai demo",
@@ -189,123 +304,6 @@
         "Anna Nagase",
         "永瀬アンナ"
       ]
-    },
-    {
-      "id": "us_3361",
-      "anime": "Digimon: World's Best Picks",
-      "song": "[TBA]",
-      "artist": "WILD BLUE",
-      "artistDisplay": "WILD BLUE",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5@2xl.png",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "[TBA]"
-      ],
-      "animeCandidates": [
-        "Digimon: World's Best Picks",
-        "The Best Adventure We Chose",
-        "僕らが選んだベストアドベンチャー",
-        "Bokura ga Eranda Best Adventure"
-      ],
-      "artistCandidates": [
-        "25775",
-        "WILD BLUE"
-      ]
-    },
-    {
-      "id": "27297",
-      "anime": "The Guy She Was Interested in Wasn't a Guy at All",
-      "song": "Breed",
-      "artist": "Nirvana",
-      "artistDisplay": "Nirvana",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5mJGLBNJM0GULqAoL5mb9C",
-      "apple": "https://music.apple.com/us/album/1586410660?i=1586410664&at=1001l384j&ct=website-the-guy-she-was-interested-in-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-guy-she-was-interested-in-wasnt-a-guy-at-all-opening",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Breed"
-      ],
-      "animeCandidates": [
-        "The Guy She Was Interested in Wasn't a Guy at All",
-        "Kininatteru Hito ga Otoko ja Nakatta",
-        "Kinioto",
-        "気になってる人が男じゃなかった",
-        "Green Yuri"
-      ],
-      "artistCandidates": [
-        "23857",
-        "Nirvana",
-        "6olE6TJLqED3rqDCT0FyPh",
-        "112018",
-        "415",
-        "UCrPe3hLA51968GwxHSZ1llw"
-      ]
     }
   ],
   "errors": [],
@@ -329,6 +327,26 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/79b6eb56309427c04a29905886cd370ab041ccde@2xl.jpg"
+    },
+    {
+      "id": "us_3379",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/5ea5c3b87ec1846f996879dd94af359c39d4cda9.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LBIrT%00y?000000~qpH4nwgR5_2",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/5ea5c3b87ec1846f996879dd94af359c39d4cda9@2xl.jpg"
+    },
+    {
+      "id": "us_3378",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LEN9qS%y00-WEY58R$t2D6;2^hD+",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c@2xl.jpg"
     },
     {
       "id": "us_3367",
@@ -409,36 +427,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg"
-    },
-    {
-      "id": "us_3306",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LEN9qS%y00-WEY58R$t2D6;2^hD+",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c@2xl.jpg"
-    },
-    {
-      "id": "us_3305",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/1c9820ae08464cef979c8f73c0a7c09dc6acf9cc.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L56[H$I801b{~TNt9HRlQkpJSkMw",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/1c9820ae08464cef979c8f73c0a7c09dc6acf9cc@2xl.jpg"
     }
   ],
-  "expectedHits": 22,
+  "expectedHits": 24,
   "expectedPages": 2,
   "receivedPages": 2,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 22,
+      "nbHits": 24,
       "hitsPerPage": 16,
       "nbPages": 2,
       "count": 16
@@ -446,7 +444,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -454,15 +452,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 22,
+      "nbHits": 24,
       "hitsPerPage": 16,
       "nbPages": 2,
-      "count": 6
+      "count": 8
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28547,
+      "nbHits": 28550,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -581,6 +579,121 @@
         "76063095",
         "360687",
         "UCnG4qAnVAVzN9CTGJdcE50g"
+      ]
+    },
+    {
+      "id": "us_3379",
+      "anime": "Bless",
+      "song": "New Page",
+      "artist": "HIKKA",
+      "artistDisplay": "HIKKA",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5ea5c3b87ec1846f996879dd94af359c39d4cda9@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "New Page"
+      ],
+      "animeCandidates": [
+        "Bless",
+        "ブレス"
+      ],
+      "artistCandidates": [
+        "25799",
+        "HIKKA"
+      ]
+    },
+    {
+      "id": "us_3378",
+      "anime": "One Punch Man 3 Part 2",
+      "song": "Hoshi no Hashikure",
+      "artist": "Makoto Furukawa",
+      "artistDisplay": "Makoto Furukawa",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hoshi no Hashikure",
+        "惑星の片隅"
+      ],
+      "animeCandidates": [
+        "One Punch Man 3 Part 2",
+        "ワンパンマン 3期 第2クール",
+        "One-Punch Man Season 3 Part 2",
+        "One Punch Man 3rd Season Part 2",
+        "OPM 3"
+      ],
+      "artistCandidates": [
+        "3945",
+        "Makoto Furukawa",
+        "古川慎",
+        "古川 慎",
+        "7cqs65sOpEfqF5T0XFnAWc",
+        "985880178",
+        "867993110",
+        "12971383",
+        "UC7dhQ2ElJ-KyXbZfDmT0kMQ"
       ]
     },
     {
