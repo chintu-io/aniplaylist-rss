@@ -253,6 +253,69 @@
       ]
     },
     {
+      "id": "28286",
+      "anime": "Devil's Crest",
+      "song": "ReaL",
+      "artist": "Soala",
+      "artistDisplay": "Soala",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5hvQhc2B5q5OH58Ps2TmWu",
+      "apple": "https://geo.music.apple.com/album/6828736329?i=6828736511&at=1001l384j&ct=website-devils-crest-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/devils-crest-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "ReaL"
+      ],
+      "animeCandidates": [
+        "Devil's Crest",
+        "Demons' Crest",
+        "デモンズ・クレスト",
+        "Devils' Crest"
+      ],
+      "artistCandidates": [
+        "17586",
+        "Soala",
+        "5MBWJMHvKch5TJxUPNOVer",
+        "1577002574",
+        "139541192",
+        "UC3PFoXZPFJGy9F4PG84nNQQ"
+      ]
+    },
+    {
       "id": "28087",
       "anime": "Nia Liston: The Merciless Maiden",
       "song": "Tokimeki Un, Deux, Trois♪",
@@ -315,69 +378,6 @@
         "418828852",
         "UCoueeWzU2MU1-ci3v3JZZBQ"
       ]
-    },
-    {
-      "id": "28286",
-      "anime": "Devil's Crest",
-      "song": "ReaL",
-      "artist": "Soala",
-      "artistDisplay": "Soala",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5hvQhc2B5q5OH58Ps2TmWu",
-      "apple": "https://geo.music.apple.com/album/6828736329?i=6828736511&at=1001l384j&ct=website-devils-crest-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "ReaL"
-      ],
-      "animeCandidates": [
-        "Devil's Crest",
-        "Demons' Crest",
-        "デモンズ・クレスト",
-        "Devils' Crest"
-      ],
-      "artistCandidates": [
-        "17586",
-        "Soala",
-        "5MBWJMHvKch5TJxUPNOVer",
-        "1577002574",
-        "139541192",
-        "UC3PFoXZPFJGy9F4PG84nNQQ"
-      ]
     }
   ],
   "errors": [],
@@ -413,16 +413,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg"
     },
     {
-      "id": "28087",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LHIDLx0J9F=y0J-5x[wz1H}at2I:",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg"
-    },
-    {
       "id": "28286",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46.jpg",
@@ -433,14 +423,14 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg"
     },
     {
-      "id": "28076",
+      "id": "28087",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b.jpg",
+      "thumbnail": "thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51.jpeg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "L89i}Or_0L]}R3s:%4Io18s7};Em",
+      "thumbnail_hash": "LHIDLx0J9F=y0J-5x[wz1H}at2I:",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg"
     },
     {
       "id": "28074",
@@ -463,14 +453,14 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg"
     },
     {
-      "id": "28293",
+      "id": "28153",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb.jpg",
+      "thumbnail": "thumbnails/611deec5a26819ffd4f563a6f112f6689439e064.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LFQlX+00n3NZ~p=^xUWt.Ru3S4s;",
+      "thumbnail_hash": "LUKI}2y?[urr~Cpw%2NF$+tRNZrX",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg"
     },
     {
       "id": "28086",
@@ -483,16 +473,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg"
     },
     {
-      "id": "28272",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LHFeEFJkFc=1|en%S2#-2V$P$jw{",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg"
-    },
-    {
       "id": "28088",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54.jpg",
@@ -501,6 +481,26 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg"
+    },
+    {
+      "id": "28293",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LFQlX+00n3NZ~p=^xUWt.Ru3S4s;",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb@2xl.jpg"
+    },
+    {
+      "id": "28076",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L89i}Or_0L]}R3s:%4Io18s7};Em",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg"
     }
   ],
   "expectedHits": 241,
@@ -518,7 +518,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -534,7 +534,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -550,7 +550,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -566,7 +566,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -582,7 +582,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -598,7 +598,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -614,7 +614,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -630,7 +630,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -646,7 +646,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -662,7 +662,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -678,7 +678,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -694,7 +694,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -710,7 +710,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -726,7 +726,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -742,7 +742,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -758,7 +758,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -998,71 +998,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28087",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Tokimeki Un, Deux, Trois♪",
-      "artist": "Magic Vision Girls Party",
-      "artistDisplay": "Magic Vision Girls Party",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
-      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Tokimeki Un, Deux, Trois♪",
-        "ときめきアン・ドゥ・トロワ♪"
-      ],
-      "animeCandidates": [
-        "Nia Liston: The Merciless Maiden",
-        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
-      ],
-      "artistCandidates": [
-        "24259",
-        "Magic Vision Girls Party",
-        "魔法映像ひろめ隊",
-        "0xYoRHq0kMxSAmE0QF0qE0",
-        "6816815343",
-        "418828852",
-        "UCoueeWzU2MU1-ci3v3JZZBQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28286",
       "anime": "Devil's Crest",
       "song": "ReaL",
@@ -1127,19 +1062,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
-      "artist": "VK Blanka",
-      "artistDisplay": "VK Blanka",
+      "id": "28087",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Tokimeki Un, Deux, Trois♪",
+      "artist": "Magic Vision Girls Party",
+      "artistDisplay": "Magic Vision Girls Party",
       "artistDisplayCount": 1,
       "kind": "ED",
       "kindLabel": "Ending",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
-      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
+      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
+      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1172,22 +1107,22 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Kanpeki no Peki",
-        "完璧のペキ",
-        "Kan Peki No Peki"
+        "Tokimeki Un, Deux, Trois♪",
+        "ときめきアン・ドゥ・トロワ♪"
       ],
       "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
       ],
       "artistCandidates": [
-        "498",
-        "VK Blanka",
-        "Vickeblanka",
-        "0PYPjvZaOa7bsCq26JOX8d",
-        "894895986",
-        "50322192",
-        "UCg2rvXE9x3zg01ZxyIt9DpA"
+        "24259",
+        "Magic Vision Girls Party",
+        "魔法映像ひろめ隊",
+        "0xYoRHq0kMxSAmE0QF0qE0",
+        "6816815343",
+        "418828852",
+        "UCoueeWzU2MU1-ci3v3JZZBQ"
       ],
       "animethemesVideo": null
     },
@@ -1324,335 +1259,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28293",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Kareinaru Revenger",
-      "artist": "Juice=Juice",
-      "artistDisplay": "Juice=Juice",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0bL2gW6tG8tpgjqlI6ACle",
-      "apple": "https://music.apple.com/jp/album/6828325244?i=6828325245&at=1001l384j&ct=website-with-vengeance-sincerely-your-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kareinaru Revenger",
-        "華麗なるリベンジャー"
-      ],
-      "animeCandidates": [
-        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
-        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
-        "傷だらけ聖女より報復をこめて Season2"
-      ],
-      "artistCandidates": [
-        "24251",
-        "Juice=Juice",
-        "6ckfItpfxpSYKrZ0OIXUuh",
-        "623197059",
-        "13261347"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28086",
-      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
-      "song": "Here we are!",
-      "artist": "JAM Project",
-      "artistDisplay": "JAM Project",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
-      "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Here we are!"
-      ],
-      "animeCandidates": [
-        "Battle Spirits [Re]: Zekkai no Kuu",
-        "Battle Spirits [Re] 絶界の空",
-        "Battle Spirits [Re] Zekkai no Kuu",
-        "Battle Spirits [Re] Zekkai no Ku"
-      ],
-      "artistCandidates": [
-        "2070",
-        "JAM Project",
-        "0CPdwFVMsHZWpNgKuLaTuU",
-        "266646521",
-        "6372"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "artist": "Shikao Suga",
-      "artistDisplay": "Shikao Suga",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
-      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kageboushi",
-        "カゲボウシ"
-      ],
-      "animeCandidates": [
-        "Horror Collector",
-        "Kyoufu Collector",
-        "恐怖コレクター"
-      ],
-      "artistCandidates": [
-        "72",
-        "Shikao Suga",
-        "スガシカオ",
-        "3sddhwNhGabYSvzYKhB7qj",
-        "202324935",
-        "4929503",
-        "UCaWq9OOi9wk961EOzugZuoA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28088",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Sonzai Riyu Kai",
-      "artist": "BUCK-TICK",
-      "artistDisplay": "BUCK-TICK",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
-      "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Sonzai Riyu Kai",
-        "存在理由 改"
-      ],
-      "animeCandidates": [
-        "DARK MACHINE: The Animation",
-        "DARK MACHINE -The Animation-",
-        "DARK MACHINE THE ANIMATION"
-      ],
-      "artistCandidates": [
-        "1162",
-        "BUCK-TICK",
-        "BUCK∞TICK",
-        "2DiecQcRbDuSJuSPKtirrX",
-        "73617069",
-        "4359",
-        "UCKoNktuAjXEn-f0ZCRpbDlA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28153",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "In Love With Myself",
@@ -1726,19 +1332,151 @@
       ]
     },
     {
-      "id": "27976",
-      "anime": "Even the Student Council Has Its Holes!",
-      "song": "Pi",
-      "artist": "NANAOAKARI",
-      "artistDisplay": "NANAOAKARI",
+      "id": "28086",
+      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
+      "song": "Here we are!",
+      "artist": "JAM Project",
+      "artistDisplay": "JAM Project",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH",
-      "apple": "https://geo.music.apple.com/album/6815570138?i=6815570499&at=1001l384j&ct=website-even-the-student-council-has-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/bbd963588fc4cd1b5646237c064bd087c2fa3ef4@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-ending",
+      "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
+      "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Here we are!"
+      ],
+      "animeCandidates": [
+        "Battle Spirits [Re]: Zekkai no Kuu",
+        "Battle Spirits [Re] 絶界の空",
+        "Battle Spirits [Re] Zekkai no Kuu",
+        "Battle Spirits [Re] Zekkai no Ku"
+      ],
+      "artistCandidates": [
+        "2070",
+        "JAM Project",
+        "0CPdwFVMsHZWpNgKuLaTuU",
+        "266646521",
+        "6372"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28088",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Sonzai Riyu Kai",
+      "artist": "BUCK-TICK",
+      "artistDisplay": "BUCK-TICK",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
+      "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sonzai Riyu Kai",
+        "存在理由 改"
+      ],
+      "animeCandidates": [
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
+      ],
+      "artistCandidates": [
+        "1162",
+        "BUCK-TICK",
+        "BUCK∞TICK",
+        "2DiecQcRbDuSJuSPKtirrX",
+        "73617069",
+        "4359",
+        "UCKoNktuAjXEn-f0ZCRpbDlA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28293",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Kareinaru Revenger",
+      "artist": "Juice=Juice",
+      "artistDisplay": "Juice=Juice",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0bL2gW6tG8tpgjqlI6ACle",
+      "apple": "https://music.apple.com/jp/album/6828325244?i=6828325245&at=1001l384j&ct=website-with-vengeance-sincerely-your-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1764,48 +1502,45 @@
         "display_artists",
         "label",
         "short_link",
+        "status",
         "tags",
         "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Pi",
-        "ぴ"
+        "Kareinaru Revenger",
+        "華麗なるリベンジャー"
       ],
       "animeCandidates": [
-        "Even the Student Council Has Its Holes!",
-        "Seitokai ni mo Ana wa Aru!",
-        "生徒会にも穴はある！",
-        "There Is Also a Hole in the Student Organization!"
+        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
+        "傷だらけ聖女より報復をこめて Season2"
       ],
       "artistCandidates": [
-        "569",
-        "NANAOAKARI",
-        "Nanawoakari",
-        "ナナヲアカリ",
-        "Akari Nanawo",
-        "06jSjpC81wzjoUoE61Fhdn",
-        "1326067929",
-        "128010782",
-        "UC160OjZevHTl0K8vk_g1vZQ"
+        "24251",
+        "Juice=Juice",
+        "6ckfItpfxpSYKrZ0OIXUuh",
+        "623197059",
+        "13261347"
       ],
       "animethemesVideo": null
     },
     {
-      "id": "us_3372",
-      "anime": "Fool Night",
-      "song": "Iki",
-      "artist": "Nowlu",
-      "artistDisplay": "Nowlu",
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "artist": "VK Blanka",
+      "artistDisplay": "VK Blanka",
       "artistDisplayCount": 1,
       "kind": "ED",
       "kindLabel": "Ending",
       "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
-      "detailUrl": "",
+      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
+      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1818,6 +1553,9 @@
         "updated_at",
         "season",
         "artists",
+        "links",
+        "platforms",
+        "preview_url",
         "song_key",
         "song_type",
         "song_type_short",
@@ -1826,84 +1564,33 @@
         "thumbnail_hash",
         "blur_image",
         "display_artists",
+        "label",
         "short_link",
+        "status",
         "tags",
-        "web",
+        "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Iki",
-        "息"
+        "Kanpeki no Peki",
+        "完璧のペキ",
+        "Kan Peki No Peki"
       ],
       "animeCandidates": [
-        "Fool Night",
-        "フールナイト"
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
       ],
       "artistCandidates": [
-        "12154",
-        "Nowlu",
-        "0TAhk9VlgZqLcM4wn5nUpO",
-        "1616530162",
-        "164981917",
-        "UCXletLKBp8lJsi7KpItRMNQ"
-      ]
-    },
-    {
-      "id": "us_3371",
-      "anime": "Fool Night",
-      "song": "Shake! spit out",
-      "artist": "Tempalay",
-      "artistDisplay": "Tempalay",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
-      "detailUrl": "",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
+        "498",
+        "VK Blanka",
+        "Vickeblanka",
+        "0PYPjvZaOa7bsCq26JOX8d",
+        "894895986",
+        "50322192",
+        "UCg2rvXE9x3zg01ZxyIt9DpA"
       ],
-      "titleCandidates": [
-        "Shake! spit out"
-      ],
-      "animeCandidates": [
-        "Fool Night",
-        "フールナイト"
-      ],
-      "artistCandidates": [
-        "13788",
-        "Tempalay",
-        "5IlQkA8Lq4X0dOWHBumeJP",
-        "1041632537",
-        "9488316",
-        "UCfbzpFkr-Idf7e4TdLudMEQ"
-      ]
+      "animethemesVideo": null
     },
     {
       "id": "27900",
@@ -2295,6 +1982,71 @@
       "animethemesVideo": null
     },
     {
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "artist": "Shikao Suga",
+      "artistDisplay": "Shikao Suga",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
+      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kageboushi",
+        "カゲボウシ"
+      ],
+      "animeCandidates": [
+        "Horror Collector",
+        "Kyoufu Collector",
+        "恐怖コレクター"
+      ],
+      "artistCandidates": [
+        "72",
+        "Shikao Suga",
+        "スガシカオ",
+        "3sddhwNhGabYSvzYKhB7qj",
+        "202324935",
+        "4929503",
+        "UCaWq9OOi9wk961EOzugZuoA"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
@@ -2354,279 +2106,6 @@
         "1081410768",
         "12421168",
         "UCx0PImuCTAcomS3v-cZOBDA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
-      "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
-      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "SHAKARIKI!!"
-      ],
-      "animeCandidates": [
-        "Digimon: World's Best Picks",
-        "The Best Adventure We Chose",
-        "僕らが選んだベストアドベンチャー",
-        "Bokura ga Eranda Best Adventure"
-      ],
-      "artistCandidates": [
-        "12570",
-        "Ayumi Miyazaki",
-        "宮崎歩",
-        "宮﨑歩",
-        "4Hjely5D21wDWfluTrZRhT",
-        "218732056",
-        "74835282",
-        "UCk0cOzmc7azCdYwVlp9hMKw",
-        "3297",
-        "Takayoshi Tanimoto",
-        "谷本貴義",
-        "5nCVXtvsB2KsngsMbk8Hat",
-        "74954644",
-        "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "artist": "iri",
-      "artistDisplay": "iri",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
-      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e81c08137c426d629cfb6f95cf4ddffef13a1eea@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Period"
-      ],
-      "animeCandidates": [
-        "Firefly Wedding",
-        "Hotaru no Yomeiri",
-        "ホタルの嫁入り",
-        "Les Noces des Lucioles"
-      ],
-      "artistCandidates": [
-        "24229",
-        "iri",
-        "1mN9lPKzTRTOop4u7S1Uy9",
-        "388343274",
-        "1043542",
-        "UCtlXP5iI7TgKj_BI636L8Qw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28069",
-      "anime": "Paws & Palaces",
-      "song": "Truly",
-      "artist": "Riko Azuna",
-      "artistDisplay": "Riko Azuna",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0yPbwdkwden8aUhiWWNDZG",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802265&at=1001l384j&ct=website-paws-palaces-opjp&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-opening-jp",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Truly"
-      ],
-      "animeCandidates": [
-        "Paws & Palaces",
-        "Zi Jin: Yu Miao Fang",
-        "紫禁·御喵房",
-        "Forbidden City: Cat Imperial Study",
-        "Paw & Palaces",
-        "On Myao Bo",
-        "紫禁・御猫房〜紫禁城猫警備室〜"
-      ],
-      "artistCandidates": [
-        "1835",
-        "Riko Azuna",
-        "安月名莉子",
-        "7ChJuYuw9pM8MqaZOAmvHX",
-        "1438721351",
-        "128264352",
-        "UCS8QqtsLzHF8VcIJFEkl8Uw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28070",
-      "anime": "Paws & Palaces",
-      "song": "Chill Choose!",
-      "artist": "Riko Azuna",
-      "artistDisplay": "Riko Azuna",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Chill Choose!"
-      ],
-      "animeCandidates": [
-        "Paws & Palaces",
-        "Zi Jin: Yu Miao Fang",
-        "紫禁·御喵房",
-        "Forbidden City: Cat Imperial Study",
-        "Paw & Palaces",
-        "On Myao Bo",
-        "紫禁・御猫房〜紫禁城猫警備室〜"
-      ],
-      "artistCandidates": [
-        "1835",
-        "Riko Azuna",
-        "安月名莉子",
-        "7ChJuYuw9pM8MqaZOAmvHX",
-        "1438721351",
-        "128264352",
-        "UCS8QqtsLzHF8VcIJFEkl8Uw"
       ],
       "animethemesVideo": null
     },
@@ -2768,6 +2247,520 @@
         "UCssoAGLly9DaABecIZoht_g"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "27992",
+      "anime": "Black Clover 2nd Season",
+      "song": "Yellow Brick Road",
+      "artist": "ONE OR EIGHT",
+      "artistDisplay": "ONE OR EIGHT",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
+      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/707fd0db5aeec803c5e71530f37d074ce87b58cb@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yellow Brick Road"
+      ],
+      "animeCandidates": [
+        "Black Clover 2nd Season",
+        "ブラッククローバー 2nd season",
+        "Black Clover Season 2"
+      ],
+      "artistCandidates": [
+        "19216",
+        "ONE OR EIGHT",
+        "5bIttAFRf7URUmuuI9w7XA",
+        "1758291632",
+        "275967661",
+        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27817",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "TRICKSTER",
+      "artist": "go!go!vanillas",
+      "artistDisplay": "go!go!vanillas",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX",
+      "apple": "https://geo.music.apple.com/album/6810161017?i=6810161018&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "TRICKSTER",
+        "トリックスター"
+      ],
+      "animeCandidates": [
+        "Tokyo Revengers: War of the Three Titan Arc",
+        "Tokyo Revengers: Santen Sensou-hen",
+        "東京リベンジャーズ 三天戦争編"
+      ],
+      "artistCandidates": [
+        "794",
+        "go!go!vanillas",
+        "0aqPTOZlKG6ltJHv7BNlsm",
+        "671623880",
+        "10963206",
+        "UCPs1IqAe9_1RU9Dq7_yy8Eg",
+        "25503",
+        "TV anime \"Tokyo Revengers\"",
+        "UCnrudQZNXphuOk0QB8Yz6oQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "artist": "aiko",
+      "artistDisplay": "aiko",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
+      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Anata no Hana no Iro",
+        "あなたの花の色",
+        "the color of your flower"
+      ],
+      "animeCandidates": [
+        "Blue Box Season 2",
+        "アオのハコ Season2",
+        "Ao no Hako Season 2"
+      ],
+      "artistCandidates": [
+        "3105",
+        "aiko",
+        "6TDMbiQCWeMClsMr9ORLRK",
+        "635154255",
+        "2643581"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28231",
+      "anime": "Super Psychic Policeman Chojo",
+      "song": "That's! Choujou",
+      "artist": "M!LK",
+      "artistDisplay": "M!LK",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
+      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "That's! Choujou",
+        "ザッツ！超常"
+      ],
+      "animeCandidates": [
+        "Super Psychic Policeman Chojo",
+        "Choujun! Choujou-senpai",
+        "超巡!超条先輩"
+      ],
+      "artistCandidates": [
+        "3564",
+        "M!LK",
+        "MILK",
+        "4jhJ8cnJ9vYKyCh289nuwQ",
+        "1356706755",
+        "14307405",
+        "UChbU0n7P86fWdZtlzCNCeGg"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27761",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "IGNITE",
+      "artist": "JO1",
+      "artistDisplay": "JO1",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4AAiz8MarztbqTCTMfwXYr",
+      "apple": "https://geo.music.apple.com/album/6797375185?i=6797375186&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "IGNITE"
+      ],
+      "animeCandidates": [
+        "Tokyo Revengers: War of the Three Titan Arc",
+        "Tokyo Revengers: Santen Sensou-hen",
+        "東京リベンジャーズ 三天戦争編"
+      ],
+      "artistCandidates": [
+        "7989",
+        "JO1",
+        "2koP6FEfIEVk4l2Fe6jFhu",
+        "1500272115",
+        "10885914",
+        "UCWyo-2Efw9aSmemM3LluERg"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28229",
+      "anime": "My Happy Marriage Special",
+      "song": "Prelude no Temae ni ~for me&you~",
+      "artist": "Kashitaro Ito",
+      "artistDisplay": "Kashitaro Ito",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2wCob1Fah2VVX2CAtLxm2A",
+      "apple": "https://geo.music.apple.com/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6ce5e7a260488767a0adc7eed15b59070f33ee39@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Prelude no Temae ni ~for me&you~",
+        "プレリュードの手前に 〜for me&you〜",
+        "Just before the Prelude 〜for me&you〜"
+      ],
+      "animeCandidates": [
+        "My Happy Marriage Special",
+        "Watashi no Shiawase na Kekkon Special",
+        "わたしの幸せな結婚 特別篇",
+        "My Happy Marriage",
+        "My Blissful Marriage"
+      ],
+      "artistCandidates": [
+        "3944",
+        "Kashitaro Ito",
+        "伊東歌詞太郎",
+        "3i7tuzRfutJGAUowspOM1f",
+        "647767887",
+        "12940643",
+        "UC5_fOcOtisCekgSlPR-zPvA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28130",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Watson",
+      "artist": "Petite Meller",
+      "artistDisplay": "Petite Meller & Oslo Green",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2x6cIXV8np81mpKhHXNbDS",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237558&at=1001l384j&ct=website-cyberpunk-edgerunners-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Watson"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2",
+        "Cyberpunk Edgerunners 2"
+      ],
+      "artistCandidates": [
+        "23935",
+        "Petite Meller",
+        "2gUVyV9z7T6cielHCMSpvb",
+        "718238708",
+        "5299859",
+        "UCzhnTfx-ynhNr2irlAGAmRA",
+        "25653",
+        "Oslo Green",
+        "2A6l7lq3xqq2zLTOV3paBY",
+        "151888892"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28053",
+      "anime": "The Exiled Heavy Knight Knows How to Game the System",
+      "song": "Rewrite the Answer",
+      "artist": "Tokoyami Towa",
+      "artistDisplay": "Tokoyami Towa",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1GjqrSUNb5BeyVLecE48BV",
+      "apple": "https://geo.music.apple.com/album/6817218109?i=6817218111&at=1001l384j&ct=website-the-exiled-heavy-knight-know-op2&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a8bbb123bf5823f5df43a71a59321d84d6c072b2@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-exiled-heavy-knight-knows-how-to-game-the-system-opening-2",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Rewrite the Answer"
+      ],
+      "animeCandidates": [
+        "The Exiled Heavy Knight Knows How to Game the System",
+        "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+        "The Exiled Reincarnated Heavy Knight is Unrivaled in Game Knowledge",
+        "追放された転生重騎士はゲーム知識で無双する"
+      ],
+      "artistCandidates": [
+        "19083",
+        "Tokoyami Towa",
+        "常闇トワ",
+        "Towa Tokoyami",
+        "0XZGQi9wNsE1z9L0AWhC82",
+        "1554815946",
+        "330347311",
+        "UCL6zH0jSt3-2MqzAZ1ciUAw"
+      ],
+      "animethemesVideo": null
     }
   ],
   "sourceMetadataSamples": [
@@ -2808,48 +2801,6 @@
         "song_type": "Opening",
         "song_type_short": "OP",
         "label": "Sony Music Labels Inc.",
-        "tags": [
-          "2_airing"
-        ]
-      }
-    },
-    {
-      "id": "27981",
-      "titles": [
-        "Mata Ashita",
-        "またあした",
-        "Tomorrow again"
-      ],
-      "rawArtists": [
-        {
-          "id": 24281,
-          "names": [
-            "shifukuponcho",
-            "至福ぽんちょ"
-          ],
-          "links": [
-            "0jGAznw2F6sZBJZpIRMYwP",
-            "1723471479",
-            "248764362",
-            "UCierlqKaoSU6qir2Gy0pQZQ"
-          ]
-        }
-      ],
-      "rawDisplayArtists": [
-        "shifukuponcho"
-      ],
-      "type": "track",
-      "song_type": "Ending",
-      "song_type_short": "ED",
-      "label": "Speedstar",
-      "tags": [
-        "2_airing"
-      ],
-      "episodeFields": {
-        "type": "track",
-        "song_type": "Ending",
-        "song_type_short": "ED",
-        "label": "Speedstar",
         "tags": [
           "2_airing"
         ]
@@ -3158,6 +3109,48 @@
       }
     },
     {
+      "id": "27981",
+      "titles": [
+        "Mata Ashita",
+        "またあした",
+        "Tomorrow again"
+      ],
+      "rawArtists": [
+        {
+          "id": 24281,
+          "names": [
+            "shifukuponcho",
+            "至福ぽんちょ"
+          ],
+          "links": [
+            "0jGAznw2F6sZBJZpIRMYwP",
+            "1723471479",
+            "248764362",
+            "UCierlqKaoSU6qir2Gy0pQZQ"
+          ]
+        }
+      ],
+      "rawDisplayArtists": [
+        "shifukuponcho"
+      ],
+      "type": "track",
+      "song_type": "Ending",
+      "song_type_short": "ED",
+      "label": "Speedstar",
+      "tags": [
+        "2_airing"
+      ],
+      "episodeFields": {
+        "type": "track",
+        "song_type": "Ending",
+        "song_type_short": "ED",
+        "label": "Speedstar",
+        "tags": [
+          "2_airing"
+        ]
+      }
+    },
+    {
       "id": "28009",
       "titles": [
         "Steel My Soul"
@@ -3336,13 +3329,6 @@
       "detailUrl": "https://aniplaylist.com/play/devils-crest-opening"
     },
     {
-      "id": "28087",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Tokimeki Un, Deux, Trois♪",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending"
-    },
-    {
       "id": "28286",
       "anime": "Devil's Crest",
       "song": "ReaL",
@@ -3350,11 +3336,11 @@
       "detailUrl": "https://aniplaylist.com/play/devils-crest-ending"
     },
     {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
+      "id": "28087",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Tokimeki Un, Deux, Trois♪",
       "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending"
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending"
     },
     {
       "id": "28074",
@@ -3371,11 +3357,11 @@
       "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending"
     },
     {
-      "id": "28293",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Kareinaru Revenger",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-opening"
+      "id": "28153",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "In Love With Myself",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself"
     },
     {
       "id": "28086",
@@ -3385,13 +3371,6 @@
       "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size"
     },
     {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening"
-    },
-    {
       "id": "28088",
       "anime": "DARK MACHINE: The Animation",
       "song": "Sonzai Riyu Kai",
@@ -3399,25 +3378,18 @@
       "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size"
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "id": "28293",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Kareinaru Revenger",
       "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
+      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-opening"
     },
     {
-      "id": "28153",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "In Love With Myself",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself"
-    },
-    {
-      "id": "27976",
-      "anime": "Even the Student Council Has Its Holes!",
-      "song": "Pi",
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
       "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-ending"
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending"
     },
     {
       "id": "27900",
@@ -3462,39 +3434,18 @@
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-ending"
     },
     {
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening"
+    },
+    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-opening"
-    },
-    {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size"
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening"
-    },
-    {
-      "id": "28069",
-      "anime": "Paws & Palaces",
-      "song": "Truly",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-opening-jp"
-    },
-    {
-      "id": "28070",
-      "anime": "Paws & Palaces",
-      "song": "Chill Choose!",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp"
     },
     {
       "id": "27990",
@@ -3523,6 +3474,48 @@
       "song": "TRICKSTER",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-ending"
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening"
+    },
+    {
+      "id": "28231",
+      "anime": "Super Psychic Policeman Chojo",
+      "song": "That's! Choujou",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening"
+    },
+    {
+      "id": "27761",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "IGNITE",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-opening"
+    },
+    {
+      "id": "28229",
+      "anime": "My Happy Marriage Special",
+      "song": "Prelude no Temae ni ~for me&you~",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-ending"
+    },
+    {
+      "id": "28130",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Watson",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-ending"
+    },
+    {
+      "id": "28053",
+      "anime": "The Exiled Heavy Knight Knows How to Game the System",
+      "song": "Rewrite the Answer",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/the-exiled-heavy-knight-knows-how-to-game-the-system-opening-2"
     }
   ],
   "usableSamples": [
@@ -3759,71 +3752,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28087",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Tokimeki Un, Deux, Trois♪",
-      "artist": "Magic Vision Girls Party",
-      "artistDisplay": "Magic Vision Girls Party",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
-      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Tokimeki Un, Deux, Trois♪",
-        "ときめきアン・ドゥ・トロワ♪"
-      ],
-      "animeCandidates": [
-        "Nia Liston: The Merciless Maiden",
-        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
-      ],
-      "artistCandidates": [
-        "24259",
-        "Magic Vision Girls Party",
-        "魔法映像ひろめ隊",
-        "0xYoRHq0kMxSAmE0QF0qE0",
-        "6816815343",
-        "418828852",
-        "UCoueeWzU2MU1-ci3v3JZZBQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28286",
       "anime": "Devil's Crest",
       "song": "ReaL",
@@ -3888,19 +3816,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
-      "artist": "VK Blanka",
-      "artistDisplay": "VK Blanka",
+      "id": "28087",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Tokimeki Un, Deux, Trois♪",
+      "artist": "Magic Vision Girls Party",
+      "artistDisplay": "Magic Vision Girls Party",
       "artistDisplayCount": 1,
       "kind": "ED",
       "kindLabel": "Ending",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
-      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
+      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
+      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -3933,22 +3861,22 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Kanpeki no Peki",
-        "完璧のペキ",
-        "Kan Peki No Peki"
+        "Tokimeki Un, Deux, Trois♪",
+        "ときめきアン・ドゥ・トロワ♪"
       ],
       "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
       ],
       "artistCandidates": [
-        "498",
-        "VK Blanka",
-        "Vickeblanka",
-        "0PYPjvZaOa7bsCq26JOX8d",
-        "894895986",
-        "50322192",
-        "UCg2rvXE9x3zg01ZxyIt9DpA"
+        "24259",
+        "Magic Vision Girls Party",
+        "魔法映像ひろめ隊",
+        "0xYoRHq0kMxSAmE0QF0qE0",
+        "6816815343",
+        "418828852",
+        "UCoueeWzU2MU1-ci3v3JZZBQ"
       ],
       "animethemesVideo": null
     },
@@ -4085,335 +4013,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28293",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Kareinaru Revenger",
-      "artist": "Juice=Juice",
-      "artistDisplay": "Juice=Juice",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0bL2gW6tG8tpgjqlI6ACle",
-      "apple": "https://music.apple.com/jp/album/6828325244?i=6828325245&at=1001l384j&ct=website-with-vengeance-sincerely-your-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kareinaru Revenger",
-        "華麗なるリベンジャー"
-      ],
-      "animeCandidates": [
-        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
-        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
-        "傷だらけ聖女より報復をこめて Season2"
-      ],
-      "artistCandidates": [
-        "24251",
-        "Juice=Juice",
-        "6ckfItpfxpSYKrZ0OIXUuh",
-        "623197059",
-        "13261347"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28086",
-      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
-      "song": "Here we are!",
-      "artist": "JAM Project",
-      "artistDisplay": "JAM Project",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
-      "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Here we are!"
-      ],
-      "animeCandidates": [
-        "Battle Spirits [Re]: Zekkai no Kuu",
-        "Battle Spirits [Re] 絶界の空",
-        "Battle Spirits [Re] Zekkai no Kuu",
-        "Battle Spirits [Re] Zekkai no Ku"
-      ],
-      "artistCandidates": [
-        "2070",
-        "JAM Project",
-        "0CPdwFVMsHZWpNgKuLaTuU",
-        "266646521",
-        "6372"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "artist": "Shikao Suga",
-      "artistDisplay": "Shikao Suga",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
-      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kageboushi",
-        "カゲボウシ"
-      ],
-      "animeCandidates": [
-        "Horror Collector",
-        "Kyoufu Collector",
-        "恐怖コレクター"
-      ],
-      "artistCandidates": [
-        "72",
-        "Shikao Suga",
-        "スガシカオ",
-        "3sddhwNhGabYSvzYKhB7qj",
-        "202324935",
-        "4929503",
-        "UCaWq9OOi9wk961EOzugZuoA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28088",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Sonzai Riyu Kai",
-      "artist": "BUCK-TICK",
-      "artistDisplay": "BUCK-TICK",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
-      "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Sonzai Riyu Kai",
-        "存在理由 改"
-      ],
-      "animeCandidates": [
-        "DARK MACHINE: The Animation",
-        "DARK MACHINE -The Animation-",
-        "DARK MACHINE THE ANIMATION"
-      ],
-      "artistCandidates": [
-        "1162",
-        "BUCK-TICK",
-        "BUCK∞TICK",
-        "2DiecQcRbDuSJuSPKtirrX",
-        "73617069",
-        "4359",
-        "UCKoNktuAjXEn-f0ZCRpbDlA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28153",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "In Love With Myself",
@@ -4487,19 +4086,151 @@
       ]
     },
     {
-      "id": "27976",
-      "anime": "Even the Student Council Has Its Holes!",
-      "song": "Pi",
-      "artist": "NANAOAKARI",
-      "artistDisplay": "NANAOAKARI",
+      "id": "28086",
+      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
+      "song": "Here we are!",
+      "artist": "JAM Project",
+      "artistDisplay": "JAM Project",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH",
-      "apple": "https://geo.music.apple.com/album/6815570138?i=6815570499&at=1001l384j&ct=website-even-the-student-council-has-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/bbd963588fc4cd1b5646237c064bd087c2fa3ef4@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-ending",
+      "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
+      "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Here we are!"
+      ],
+      "animeCandidates": [
+        "Battle Spirits [Re]: Zekkai no Kuu",
+        "Battle Spirits [Re] 絶界の空",
+        "Battle Spirits [Re] Zekkai no Kuu",
+        "Battle Spirits [Re] Zekkai no Ku"
+      ],
+      "artistCandidates": [
+        "2070",
+        "JAM Project",
+        "0CPdwFVMsHZWpNgKuLaTuU",
+        "266646521",
+        "6372"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28088",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Sonzai Riyu Kai",
+      "artist": "BUCK-TICK",
+      "artistDisplay": "BUCK-TICK",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
+      "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sonzai Riyu Kai",
+        "存在理由 改"
+      ],
+      "animeCandidates": [
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
+      ],
+      "artistCandidates": [
+        "1162",
+        "BUCK-TICK",
+        "BUCK∞TICK",
+        "2DiecQcRbDuSJuSPKtirrX",
+        "73617069",
+        "4359",
+        "UCKoNktuAjXEn-f0ZCRpbDlA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28293",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Kareinaru Revenger",
+      "artist": "Juice=Juice",
+      "artistDisplay": "Juice=Juice",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0bL2gW6tG8tpgjqlI6ACle",
+      "apple": "https://music.apple.com/jp/album/6828325244?i=6828325245&at=1001l384j&ct=website-with-vengeance-sincerely-your-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f3796bcf675d50be53eac41614e19878ddb04edb@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4525,31 +4256,93 @@
         "display_artists",
         "label",
         "short_link",
+        "status",
         "tags",
         "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Pi",
-        "ぴ"
+        "Kareinaru Revenger",
+        "華麗なるリベンジャー"
       ],
       "animeCandidates": [
-        "Even the Student Council Has Its Holes!",
-        "Seitokai ni mo Ana wa Aru!",
-        "生徒会にも穴はある！",
-        "There Is Also a Hole in the Student Organization!"
+        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
+        "傷だらけ聖女より報復をこめて Season2"
       ],
       "artistCandidates": [
-        "569",
-        "NANAOAKARI",
-        "Nanawoakari",
-        "ナナヲアカリ",
-        "Akari Nanawo",
-        "06jSjpC81wzjoUoE61Fhdn",
-        "1326067929",
-        "128010782",
-        "UC160OjZevHTl0K8vk_g1vZQ"
+        "24251",
+        "Juice=Juice",
+        "6ckfItpfxpSYKrZ0OIXUuh",
+        "623197059",
+        "13261347"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "artist": "VK Blanka",
+      "artistDisplay": "VK Blanka",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
+      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kanpeki no Peki",
+        "完璧のペキ",
+        "Kan Peki No Peki"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "498",
+        "VK Blanka",
+        "Vickeblanka",
+        "0PYPjvZaOa7bsCq26JOX8d",
+        "894895986",
+        "50322192",
+        "UCg2rvXE9x3zg01ZxyIt9DpA"
       ],
       "animethemesVideo": null
     },
@@ -4943,6 +4736,71 @@
       "animethemesVideo": null
     },
     {
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "artist": "Shikao Suga",
+      "artistDisplay": "Shikao Suga",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
+      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kageboushi",
+        "カゲボウシ"
+      ],
+      "animeCandidates": [
+        "Horror Collector",
+        "Kyoufu Collector",
+        "恐怖コレクター"
+      ],
+      "artistCandidates": [
+        "72",
+        "Shikao Suga",
+        "スガシカオ",
+        "3sddhwNhGabYSvzYKhB7qj",
+        "202324935",
+        "4929503",
+        "UCaWq9OOi9wk961EOzugZuoA"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
@@ -5002,279 +4860,6 @@
         "1081410768",
         "12421168",
         "UCx0PImuCTAcomS3v-cZOBDA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
-      "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
-      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "SHAKARIKI!!"
-      ],
-      "animeCandidates": [
-        "Digimon: World's Best Picks",
-        "The Best Adventure We Chose",
-        "僕らが選んだベストアドベンチャー",
-        "Bokura ga Eranda Best Adventure"
-      ],
-      "artistCandidates": [
-        "12570",
-        "Ayumi Miyazaki",
-        "宮崎歩",
-        "宮﨑歩",
-        "4Hjely5D21wDWfluTrZRhT",
-        "218732056",
-        "74835282",
-        "UCk0cOzmc7azCdYwVlp9hMKw",
-        "3297",
-        "Takayoshi Tanimoto",
-        "谷本貴義",
-        "5nCVXtvsB2KsngsMbk8Hat",
-        "74954644",
-        "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "artist": "iri",
-      "artistDisplay": "iri",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
-      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e81c08137c426d629cfb6f95cf4ddffef13a1eea@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Period"
-      ],
-      "animeCandidates": [
-        "Firefly Wedding",
-        "Hotaru no Yomeiri",
-        "ホタルの嫁入り",
-        "Les Noces des Lucioles"
-      ],
-      "artistCandidates": [
-        "24229",
-        "iri",
-        "1mN9lPKzTRTOop4u7S1Uy9",
-        "388343274",
-        "1043542",
-        "UCtlXP5iI7TgKj_BI636L8Qw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28069",
-      "anime": "Paws & Palaces",
-      "song": "Truly",
-      "artist": "Riko Azuna",
-      "artistDisplay": "Riko Azuna",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0yPbwdkwden8aUhiWWNDZG",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802265&at=1001l384j&ct=website-paws-palaces-opjp&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-opening-jp",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Truly"
-      ],
-      "animeCandidates": [
-        "Paws & Palaces",
-        "Zi Jin: Yu Miao Fang",
-        "紫禁·御喵房",
-        "Forbidden City: Cat Imperial Study",
-        "Paw & Palaces",
-        "On Myao Bo",
-        "紫禁・御猫房〜紫禁城猫警備室〜"
-      ],
-      "artistCandidates": [
-        "1835",
-        "Riko Azuna",
-        "安月名莉子",
-        "7ChJuYuw9pM8MqaZOAmvHX",
-        "1438721351",
-        "128264352",
-        "UCS8QqtsLzHF8VcIJFEkl8Uw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28070",
-      "anime": "Paws & Palaces",
-      "song": "Chill Choose!",
-      "artist": "Riko Azuna",
-      "artistDisplay": "Riko Azuna",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/64e7df8d7ba8d8a1f405f467568bcc93352a5bcd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/paws-palaces-ending-jp",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Chill Choose!"
-      ],
-      "animeCandidates": [
-        "Paws & Palaces",
-        "Zi Jin: Yu Miao Fang",
-        "紫禁·御喵房",
-        "Forbidden City: Cat Imperial Study",
-        "Paw & Palaces",
-        "On Myao Bo",
-        "紫禁・御猫房〜紫禁城猫警備室〜"
-      ],
-      "artistCandidates": [
-        "1835",
-        "Riko Azuna",
-        "安月名莉子",
-        "7ChJuYuw9pM8MqaZOAmvHX",
-        "1438721351",
-        "128264352",
-        "UCS8QqtsLzHF8VcIJFEkl8Uw"
       ],
       "animethemesVideo": null
     },
@@ -5544,6 +5129,392 @@
         "UCnrudQZNXphuOk0QB8Yz6oQ"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "artist": "aiko",
+      "artistDisplay": "aiko",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
+      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Anata no Hana no Iro",
+        "あなたの花の色",
+        "the color of your flower"
+      ],
+      "animeCandidates": [
+        "Blue Box Season 2",
+        "アオのハコ Season2",
+        "Ao no Hako Season 2"
+      ],
+      "artistCandidates": [
+        "3105",
+        "aiko",
+        "6TDMbiQCWeMClsMr9ORLRK",
+        "635154255",
+        "2643581"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28231",
+      "anime": "Super Psychic Policeman Chojo",
+      "song": "That's! Choujou",
+      "artist": "M!LK",
+      "artistDisplay": "M!LK",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
+      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "That's! Choujou",
+        "ザッツ！超常"
+      ],
+      "animeCandidates": [
+        "Super Psychic Policeman Chojo",
+        "Choujun! Choujou-senpai",
+        "超巡!超条先輩"
+      ],
+      "artistCandidates": [
+        "3564",
+        "M!LK",
+        "MILK",
+        "4jhJ8cnJ9vYKyCh289nuwQ",
+        "1356706755",
+        "14307405",
+        "UChbU0n7P86fWdZtlzCNCeGg"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27761",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "IGNITE",
+      "artist": "JO1",
+      "artistDisplay": "JO1",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4AAiz8MarztbqTCTMfwXYr",
+      "apple": "https://geo.music.apple.com/album/6797375185?i=6797375186&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "IGNITE"
+      ],
+      "animeCandidates": [
+        "Tokyo Revengers: War of the Three Titan Arc",
+        "Tokyo Revengers: Santen Sensou-hen",
+        "東京リベンジャーズ 三天戦争編"
+      ],
+      "artistCandidates": [
+        "7989",
+        "JO1",
+        "2koP6FEfIEVk4l2Fe6jFhu",
+        "1500272115",
+        "10885914",
+        "UCWyo-2Efw9aSmemM3LluERg"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28229",
+      "anime": "My Happy Marriage Special",
+      "song": "Prelude no Temae ni ~for me&you~",
+      "artist": "Kashitaro Ito",
+      "artistDisplay": "Kashitaro Ito",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2wCob1Fah2VVX2CAtLxm2A",
+      "apple": "https://geo.music.apple.com/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6ce5e7a260488767a0adc7eed15b59070f33ee39@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Prelude no Temae ni ~for me&you~",
+        "プレリュードの手前に 〜for me&you〜",
+        "Just before the Prelude 〜for me&you〜"
+      ],
+      "animeCandidates": [
+        "My Happy Marriage Special",
+        "Watashi no Shiawase na Kekkon Special",
+        "わたしの幸せな結婚 特別篇",
+        "My Happy Marriage",
+        "My Blissful Marriage"
+      ],
+      "artistCandidates": [
+        "3944",
+        "Kashitaro Ito",
+        "伊東歌詞太郎",
+        "3i7tuzRfutJGAUowspOM1f",
+        "647767887",
+        "12940643",
+        "UC5_fOcOtisCekgSlPR-zPvA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28130",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Watson",
+      "artist": "Petite Meller",
+      "artistDisplay": "Petite Meller & Oslo Green",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2x6cIXV8np81mpKhHXNbDS",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237558&at=1001l384j&ct=website-cyberpunk-edgerunners-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Watson"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2",
+        "Cyberpunk Edgerunners 2"
+      ],
+      "artistCandidates": [
+        "23935",
+        "Petite Meller",
+        "2gUVyV9z7T6cielHCMSpvb",
+        "718238708",
+        "5299859",
+        "UCzhnTfx-ynhNr2irlAGAmRA",
+        "25653",
+        "Oslo Green",
+        "2A6l7lq3xqq2zLTOV3paBY",
+        "151888892"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28053",
+      "anime": "The Exiled Heavy Knight Knows How to Game the System",
+      "song": "Rewrite the Answer",
+      "artist": "Tokoyami Towa",
+      "artistDisplay": "Tokoyami Towa",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1GjqrSUNb5BeyVLecE48BV",
+      "apple": "https://geo.music.apple.com/album/6817218109?i=6817218111&at=1001l384j&ct=website-the-exiled-heavy-knight-know-op2&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a8bbb123bf5823f5df43a71a59321d84d6c072b2@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-exiled-heavy-knight-knows-how-to-game-the-system-opening-2",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Rewrite the Answer"
+      ],
+      "animeCandidates": [
+        "The Exiled Heavy Knight Knows How to Game the System",
+        "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+        "The Exiled Reincarnated Heavy Knight is Unrivaled in Game Knowledge",
+        "追放された転生重騎士はゲーム知識で無双する"
+      ],
+      "artistCandidates": [
+        "19083",
+        "Tokoyami Towa",
+        "常闇トワ",
+        "Towa Tokoyami",
+        "0XZGQi9wNsE1z9L0AWhC82",
+        "1554815946",
+        "330347311",
+        "UCL6zH0jSt3-2MqzAZ1ciUAw"
+      ],
+      "animethemesVideo": null
     }
   ],
   "platformSamples": [
@@ -5572,14 +5543,6 @@
       "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music"
     },
     {
-      "id": "28087",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Tokimeki Un, Deux, Trois♪",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
-      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music"
-    },
-    {
       "id": "28286",
       "anime": "Devil's Crest",
       "song": "ReaL",
@@ -5588,12 +5551,12 @@
       "apple": "https://geo.music.apple.com/album/6828736329?i=6828736511&at=1001l384j&ct=website-devils-crest-ed&app=music"
     },
     {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
+      "id": "28087",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Tokimeki Un, Deux, Trois♪",
       "kind": "ED",
-      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
-      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music"
+      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
+      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music"
     },
     {
       "id": "28074",
@@ -5612,12 +5575,12 @@
       "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music"
     },
     {
-      "id": "28293",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Kareinaru Revenger",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/0bL2gW6tG8tpgjqlI6ACle",
-      "apple": "https://music.apple.com/jp/album/6828325244?i=6828325245&at=1001l384j&ct=website-with-vengeance-sincerely-your-op&app=music"
+      "id": "28153",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "In Love With Myself",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music"
     },
     {
       "id": "28086",
@@ -5628,14 +5591,6 @@
       "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music"
     },
     {
-      "id": "28272",
-      "anime": "Horror Collector",
-      "song": "Kageboushi",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
-      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music"
-    },
-    {
       "id": "28088",
       "anime": "DARK MACHINE: The Animation",
       "song": "Sonzai Riyu Kai",
@@ -5644,28 +5599,20 @@
       "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music"
     },
     {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "id": "28293",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Kareinaru Revenger",
       "kind": "OP",
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
+      "spotify": "https://open.spotify.com/track/0bL2gW6tG8tpgjqlI6ACle",
+      "apple": "https://music.apple.com/jp/album/6828325244?i=6828325245&at=1001l384j&ct=website-with-vengeance-sincerely-your-op&app=music"
     },
     {
-      "id": "28153",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "In Love With Myself",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D",
-      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music"
-    },
-    {
-      "id": "27976",
-      "anime": "Even the Student Council Has Its Holes!",
-      "song": "Pi",
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
       "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH",
-      "apple": "https://geo.music.apple.com/album/6815570138?i=6815570499&at=1001l384j&ct=website-even-the-student-council-has-ed&app=music"
+      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
+      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music"
     },
     {
       "id": "27900",
@@ -5716,44 +5663,20 @@
       "apple": "https://geo.music.apple.com/album/6809991313?i=6809991318&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-ed&app=music"
     },
     {
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
+      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music"
+    },
+    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/6SN1inZu149TLU3e8Xp2a0",
       "apple": "https://geo.music.apple.com/album/6819121866?i=6819121868&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-op&app=music"
-    },
-    {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
-      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music"
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
-      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music"
-    },
-    {
-      "id": "28069",
-      "anime": "Paws & Palaces",
-      "song": "Truly",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/0yPbwdkwden8aUhiWWNDZG",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802265&at=1001l384j&ct=website-paws-palaces-opjp&app=music"
-    },
-    {
-      "id": "28070",
-      "anime": "Paws & Palaces",
-      "song": "Chill Choose!",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/5kBCqSyIWGY3gTWea2NnsA",
-      "apple": "https://geo.music.apple.com/album/6816802257?i=6816802435&at=1001l384j&ct=website-paws-palaces-edjp&app=music"
     },
     {
       "id": "27990",
@@ -5786,6 +5709,54 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX",
       "apple": "https://geo.music.apple.com/album/6810161017?i=6810161018&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-ed&app=music"
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
+      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music"
+    },
+    {
+      "id": "28231",
+      "anime": "Super Psychic Policeman Chojo",
+      "song": "That's! Choujou",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
+      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music"
+    },
+    {
+      "id": "27761",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "IGNITE",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/4AAiz8MarztbqTCTMfwXYr",
+      "apple": "https://geo.music.apple.com/album/6797375185?i=6797375186&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-op&app=music"
+    },
+    {
+      "id": "28229",
+      "anime": "My Happy Marriage Special",
+      "song": "Prelude no Temae ni ~for me&you~",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/2wCob1Fah2VVX2CAtLxm2A",
+      "apple": "https://geo.music.apple.com/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music"
+    },
+    {
+      "id": "28130",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Watson",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/2x6cIXV8np81mpKhHXNbDS",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237558&at=1001l384j&ct=website-cyberpunk-edgerunners-2-ed&app=music"
+    },
+    {
+      "id": "28053",
+      "anime": "The Exiled Heavy Knight Knows How to Game the System",
+      "song": "Rewrite the Answer",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/1GjqrSUNb5BeyVLecE48BV",
+      "apple": "https://geo.music.apple.com/album/6817218109?i=6817218111&at=1001l384j&ct=website-the-exiled-heavy-knight-know-op2&app=music"
     }
   ]
 }

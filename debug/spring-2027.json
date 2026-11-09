@@ -23,6 +23,64 @@
   "mismatchedDetailPages": 0,
   "sample": [
     {
+      "id": "us_3380",
+      "anime": "Houkago no Idol ni wa Himitsu ga Aru",
+      "song": "Naritai Watashi",
+      "artist": "Aiiro Impulse [Rei Kuromiya (CV: Hikaru Tono)",
+      "artistDisplay": "Aiiro Impulse [Rei Kuromiya (CV: Hikaru Tono), Sakura Akai (CV: Iori Noguchi) & Sora Konno (CV: Ami Maeshima)]",
+      "artistDisplayCount": 3,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/596a4c4fd9611ae3babf2d928b0be393e80e569f@2xl.jpg",
+      "detailUrl": "",
+      "season": "Spring 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Naritai Watashi",
+        "なりたいわたし"
+      ],
+      "animeCandidates": [
+        "Houkago no Idol ni wa Himitsu ga Aru",
+        "放課後のアイドルには秘密がある",
+        "Everyone's Darling Has a Secret"
+      ],
+      "artistCandidates": [
+        "25800",
+        "Aiiro Impulse [Rei Kuromiya (CV: Hikaru Tono)",
+        "25801",
+        "Sakura Akai (CV: Iori Noguchi)",
+        "25802",
+        "Sora Konno (CV: Ami Maeshima)]"
+      ]
+    },
+    {
       "id": "us_3369",
       "anime": "Yuru Camp△ Season 4",
       "song": "Happa no Tegami",
@@ -146,64 +204,6 @@
         "8627906",
         "13887037",
         "UCMRcsWDXgBZxkGV0E5ZGA2Q"
-      ]
-    },
-    {
-      "id": "us_3380",
-      "anime": "Houkago no Idol ni wa Himitsu ga Aru",
-      "song": "Naritai Watashi",
-      "artist": "Aiiro Impulse [Rei Kuromiya (CV: Hikaru Tono)",
-      "artistDisplay": "Aiiro Impulse [Rei Kuromiya (CV: Hikaru Tono), Sakura Akai (CV: Iori Noguchi) & Sora Konno (CV: Ami Maeshima)]",
-      "artistDisplayCount": 3,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/596a4c4fd9611ae3babf2d928b0be393e80e569f@2xl.jpg",
-      "detailUrl": "",
-      "season": "Spring 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Naritai Watashi",
-        "なりたいわたし"
-      ],
-      "animeCandidates": [
-        "Houkago no Idol ni wa Himitsu ga Aru",
-        "放課後のアイドルには秘密がある",
-        "Everyone's Darling Has a Secret"
-      ],
-      "artistCandidates": [
-        "25800",
-        "Aiiro Impulse [Rei Kuromiya (CV: Hikaru Tono)",
-        "25801",
-        "Sakura Akai (CV: Iori Noguchi)",
-        "25802",
-        "Sora Konno (CV: Ami Maeshima)]"
       ]
     },
     {
@@ -275,6 +275,16 @@
   "errors": [],
   "thumbnailFieldSamples": [
     {
+      "id": "us_3380",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/596a4c4fd9611ae3babf2d928b0be393e80e569f.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LVIrvm}]x0%39Xo}ozM_M_M{t7t7",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/596a4c4fd9611ae3babf2d928b0be393e80e569f@2xl.jpg"
+    },
+    {
       "id": "us_3369",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/fa2097ca717483fad7cb999a3fab350803944fa6.jpg",
@@ -293,16 +303,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/fa2097ca717483fad7cb999a3fab350803944fa6@2xl.jpg"
-    },
-    {
-      "id": "us_3380",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/596a4c4fd9611ae3babf2d928b0be393e80e569f.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LVIrvm}]x0%39Xo}ozM_M_M{t7t7",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/596a4c4fd9611ae3babf2d928b0be393e80e569f@2xl.jpg"
     },
     {
       "id": "us_3359",
@@ -330,13 +330,71 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "us_3380",
+      "anime": "Houkago no Idol ni wa Himitsu ga Aru",
+      "song": "Naritai Watashi",
+      "artist": "Aiiro Impulse [Rei Kuromiya (CV: Hikaru Tono)",
+      "artistDisplay": "Aiiro Impulse [Rei Kuromiya (CV: Hikaru Tono), Sakura Akai (CV: Iori Noguchi) & Sora Konno (CV: Ami Maeshima)]",
+      "artistDisplayCount": 3,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/596a4c4fd9611ae3babf2d928b0be393e80e569f@2xl.jpg",
+      "detailUrl": "",
+      "season": "Spring 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Naritai Watashi",
+        "なりたいわたし"
+      ],
+      "animeCandidates": [
+        "Houkago no Idol ni wa Himitsu ga Aru",
+        "放課後のアイドルには秘密がある",
+        "Everyone's Darling Has a Secret"
+      ],
+      "artistCandidates": [
+        "25800",
+        "Aiiro Impulse [Rei Kuromiya (CV: Hikaru Tono)",
+        "25801",
+        "Sakura Akai (CV: Iori Noguchi)",
+        "25802",
+        "Sora Konno (CV: Ami Maeshima)]"
+      ]
+    },
     {
       "id": "us_3369",
       "anime": "Yuru Camp△ Season 4",
@@ -461,64 +519,6 @@
         "8627906",
         "13887037",
         "UCMRcsWDXgBZxkGV0E5ZGA2Q"
-      ]
-    },
-    {
-      "id": "us_3380",
-      "anime": "Houkago no Idol ni wa Himitsu ga Aru",
-      "song": "Naritai Watashi",
-      "artist": "Aiiro Impulse [Rei Kuromiya (CV: Hikaru Tono)",
-      "artistDisplay": "Aiiro Impulse [Rei Kuromiya (CV: Hikaru Tono), Sakura Akai (CV: Iori Noguchi) & Sora Konno (CV: Ami Maeshima)]",
-      "artistDisplayCount": 3,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/596a4c4fd9611ae3babf2d928b0be393e80e569f@2xl.jpg",
-      "detailUrl": "",
-      "season": "Spring 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Naritai Watashi",
-        "なりたいわたし"
-      ],
-      "animeCandidates": [
-        "Houkago no Idol ni wa Himitsu ga Aru",
-        "放課後のアイドルには秘密がある",
-        "Everyone's Darling Has a Secret"
-      ],
-      "artistCandidates": [
-        "25800",
-        "Aiiro Impulse [Rei Kuromiya (CV: Hikaru Tono)",
-        "25801",
-        "Sakura Akai (CV: Iori Noguchi)",
-        "25802",
-        "Sora Konno (CV: Ami Maeshima)]"
       ]
     },
     {

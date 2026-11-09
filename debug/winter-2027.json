@@ -23,120 +23,6 @@
   "mismatchedDetailPages": 0,
   "sample": [
     {
-      "id": "us_3360",
-      "anime": "Hirayasumi",
-      "song": "Fuumi Zekka",
-      "artist": "TOMOO",
-      "artistDisplay": "TOMOO",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Fuumi Zekka",
-        "風味絶佳"
-      ],
-      "animeCandidates": [
-        "Hirayasumi",
-        "ひらやすみ"
-      ],
-      "artistCandidates": [
-        "16866",
-        "TOMOO",
-        "6rm1uaZjykvKCobTzRPs35",
-        "1317217947",
-        "4898648",
-        "UC_oxwNnzBxf49TaYkLnLk1g"
-      ]
-    },
-    {
-      "id": "us_3377",
-      "anime": "Kizuguchi to Houtai",
-      "song": "Show Me All Your Pain",
-      "artist": "MIYAVI",
-      "artistDisplay": "MIYAVI",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/79b6eb56309427c04a29905886cd370ab041ccde@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Show Me All Your Pain"
-      ],
-      "animeCandidates": [
-        "Kizuguchi to Houtai",
-        "傷口と包帯",
-        "Wound & Bandage"
-      ],
-      "artistCandidates": [
-        "484",
-        "MIYAVI",
-        "7sBtBCNVRujQhaHDODkfTN",
-        "76063095",
-        "360687",
-        "UCnG4qAnVAVzN9CTGJdcE50g"
-      ]
-    },
-    {
       "id": "us_3379",
       "anime": "Bless",
       "song": "New Page",
@@ -252,18 +138,80 @@
       ]
     },
     {
-      "id": "us_3367",
-      "anime": "Spirit Circle",
-      "song": "Koko ga Donna Sekai demo",
-      "artist": "Anna Nagase",
-      "artistDisplay": "Anna Nagase",
+      "id": "27297",
+      "anime": "The Guy She Was Interested in Wasn't a Guy at All",
+      "song": "Breed",
+      "artist": "Nirvana",
+      "artistDisplay": "Nirvana",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5mJGLBNJM0GULqAoL5mb9C",
+      "apple": "https://music.apple.com/us/album/1586410660?i=1586410664&at=1001l384j&ct=website-the-guy-she-was-interested-in-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-guy-she-was-interested-in-wasnt-a-guy-at-all-opening",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Breed"
+      ],
+      "animeCandidates": [
+        "The Guy She Was Interested in Wasn't a Guy at All",
+        "Kininatteru Hito ga Otoko ja Nakatta",
+        "Kinioto",
+        "気になってる人が男じゃなかった",
+        "Green Yuri"
+      ],
+      "artistCandidates": [
+        "23857",
+        "Nirvana",
+        "6olE6TJLqED3rqDCT0FyPh",
+        "112018",
+        "415",
+        "UCrPe3hLA51968GwxHSZ1llw"
+      ]
+    },
+    {
+      "id": "us_3377",
+      "anime": "Kizuguchi to Houtai",
+      "song": "Show Me All Your Pain",
+      "artist": "MIYAVI",
+      "artistDisplay": "MIYAVI",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/79b6eb56309427c04a29905886cd370ab041ccde@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -292,42 +240,89 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Koko ga Donna Sekai demo",
-        "此処がどんな世界でも"
+        "Show Me All Your Pain"
       ],
       "animeCandidates": [
-        "Spirit Circle",
-        "スピリットサークル"
+        "Kizuguchi to Houtai",
+        "傷口と包帯",
+        "Wound & Bandage"
       ],
       "artistCandidates": [
-        "25788",
-        "Anna Nagase",
-        "永瀬アンナ"
+        "484",
+        "MIYAVI",
+        "7sBtBCNVRujQhaHDODkfTN",
+        "76063095",
+        "360687",
+        "UCnG4qAnVAVzN9CTGJdcE50g"
+      ]
+    },
+    {
+      "id": "27894",
+      "anime": "Inherit the Winds",
+      "song": "Jinsuke no Theme",
+      "artist": "Shigeru Kishida",
+      "artistDisplay": "Shigeru Kishida",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/2ITxTFvNQ5LkODTM1kmnXF",
+      "apple": "https://geo.music.apple.com/album/6807781215?at=1001l384j&ct=website-inherit-the-winds-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b0f07443b406e866c8135ad5a60694a7fedd62cf@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-original-soundtrack",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Jinsuke no Theme",
+        "迅助のテーマ"
+      ],
+      "animeCandidates": [
+        "Inherit the Winds",
+        "Kaze wo Tsugumono",
+        "風を継ぐもの"
+      ],
+      "artistCandidates": [
+        "1277",
+        "Shigeru Kishida",
+        "岸田繁",
+        "62TpalmxXUjLKyxJUgZt6W",
+        "219771500",
+        "4897530",
+        "UCE7UTii69j5WCDZSWgkIjiw"
       ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
-    {
-      "id": "us_3360",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LAM[Qz$z?wB=01slE1EL+]tlD$Dh",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg"
-    },
-    {
-      "id": "us_3377",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/79b6eb56309427c04a29905886cd370ab041ccde.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LUM?_N-po*Ip_4R~IUxb%LxtxZni",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/79b6eb56309427c04a29905886cd370ab041ccde@2xl.jpg"
-    },
     {
       "id": "us_3379",
       "thumbnailType": "string",
@@ -349,26 +344,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c@2xl.jpg"
     },
     {
-      "id": "us_3367",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L7IgQ3v}01IU00$j~BM{Q7xZ=Xni",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240@2xl.jpg"
-    },
-    {
-      "id": "us_3361",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5.png",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LRH.Qk0aS+-OPXM-ITroT2$bxuox",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5@2xl.png"
-    },
-    {
       "id": "27297",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088.jpg",
@@ -379,14 +354,14 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088@2xl.jpg"
     },
     {
-      "id": "us_3357",
+      "id": "us_3377",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a.jpg",
+      "thumbnail": "thumbnails/79b6eb56309427c04a29905886cd370ab041ccde.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LURxcTu+?KVZ*}QSMes;o~t8k9S}",
+      "thumbnail_hash": "LUM?_N-po*Ip_4R~IUxb%LxtxZni",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/79b6eb56309427c04a29905886cd370ab041ccde@2xl.jpg"
     },
     {
       "id": "27894",
@@ -409,17 +384,57 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg"
     },
     {
-      "id": "us_3345",
+      "id": "us_3367",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f.jpg",
+      "thumbnail": "thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LUI}n,ELI]xa.Tk9xZoz-;oyNFs:",
+      "thumbnail_hash": "L7IgQ3v}01IU00$j~BM{Q7xZ=Xni",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240@2xl.jpg"
     },
     {
-      "id": "us_3344",
+      "id": "us_3361",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5.png",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LRH.Qk0aS+-OPXM-ITroT2$bxuox",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5@2xl.png"
+    },
+    {
+      "id": "us_3360",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LAM[Qz$z?wB=01slE1EL+]tlD$Dh",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg"
+    },
+    {
+      "id": "us_3306",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LEN9qS%y00-WEY58R$t2D6;2^hD+",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c@2xl.jpg"
+    },
+    {
+      "id": "us_3357",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LURxcTu+?KVZ*}QSMes;o~t8k9S}",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg"
+    },
+    {
+      "id": "us_3345",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f.jpg",
       "thumbnailHashType": "string",
@@ -444,7 +459,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -460,127 +475,13 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28550,
+      "nbHits": 28551,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
-    {
-      "id": "us_3360",
-      "anime": "Hirayasumi",
-      "song": "Fuumi Zekka",
-      "artist": "TOMOO",
-      "artistDisplay": "TOMOO",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Fuumi Zekka",
-        "風味絶佳"
-      ],
-      "animeCandidates": [
-        "Hirayasumi",
-        "ひらやすみ"
-      ],
-      "artistCandidates": [
-        "16866",
-        "TOMOO",
-        "6rm1uaZjykvKCobTzRPs35",
-        "1317217947",
-        "4898648",
-        "UC_oxwNnzBxf49TaYkLnLk1g"
-      ]
-    },
-    {
-      "id": "us_3377",
-      "anime": "Kizuguchi to Houtai",
-      "song": "Show Me All Your Pain",
-      "artist": "MIYAVI",
-      "artistDisplay": "MIYAVI",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/79b6eb56309427c04a29905886cd370ab041ccde@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Show Me All Your Pain"
-      ],
-      "animeCandidates": [
-        "Kizuguchi to Houtai",
-        "傷口と包帯",
-        "Wound & Bandage"
-      ],
-      "artistCandidates": [
-        "484",
-        "MIYAVI",
-        "7sBtBCNVRujQhaHDODkfTN",
-        "76063095",
-        "360687",
-        "UCnG4qAnVAVzN9CTGJdcE50g"
-      ]
-    },
     {
       "id": "us_3379",
       "anime": "Bless",
@@ -694,115 +595,6 @@
         "867993110",
         "12971383",
         "UC7dhQ2ElJ-KyXbZfDmT0kMQ"
-      ]
-    },
-    {
-      "id": "us_3367",
-      "anime": "Spirit Circle",
-      "song": "Koko ga Donna Sekai demo",
-      "artist": "Anna Nagase",
-      "artistDisplay": "Anna Nagase",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Koko ga Donna Sekai demo",
-        "此処がどんな世界でも"
-      ],
-      "animeCandidates": [
-        "Spirit Circle",
-        "スピリットサークル"
-      ],
-      "artistCandidates": [
-        "25788",
-        "Anna Nagase",
-        "永瀬アンナ"
-      ]
-    },
-    {
-      "id": "us_3361",
-      "anime": "Digimon: World's Best Picks",
-      "song": "[TBA]",
-      "artist": "WILD BLUE",
-      "artistDisplay": "WILD BLUE",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5@2xl.png",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "[TBA]"
-      ],
-      "animeCandidates": [
-        "Digimon: World's Best Picks",
-        "The Best Adventure We Chose",
-        "僕らが選んだベストアドベンチャー",
-        "Bokura ga Eranda Best Adventure"
-      ],
-      "artistCandidates": [
-        "25775",
-        "WILD BLUE"
       ]
     },
     {
@@ -869,18 +661,18 @@
       "animethemesVideo": null
     },
     {
-      "id": "us_3357",
-      "anime": "Isshiki-san wa Koi wo Shiritai.",
-      "song": "Gouyoku Koi o Seisu!?",
-      "artist": "Enako",
-      "artistDisplay": "Enako",
+      "id": "us_3377",
+      "anime": "Kizuguchi to Houtai",
+      "song": "Show Me All Your Pain",
+      "artist": "MIYAVI",
+      "artistDisplay": "MIYAVI",
       "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/79b6eb56309427c04a29905886cd370ab041ccde@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -909,26 +701,20 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Gouyoku Koi o Seisu!?",
-        "剛よく恋を制す！？"
+        "Show Me All Your Pain"
       ],
       "animeCandidates": [
-        "Isshiki-san wa Koi wo Shiritai.",
-        "Koutetsu no Rinna wa XX Saretai",
-        "Fullmetal Rinna Wants to XX",
-        "一式さんは恋を知りたい。"
+        "Kizuguchi to Houtai",
+        "傷口と包帯",
+        "Wound & Bandage"
       ],
       "artistCandidates": [
-        "13551",
-        "Enako",
-        "えなこ",
-        "2jHLZmPoAmnlCswCMc8WCj",
-        "1223317638",
-        "0oC1SMfDzyyr7Tlzu2s63i",
-        "23Sh4LxrCSK3Or7uEjZ9Vy",
-        "114607442",
-        "UC0wDwW6Fuk6apQE9KdY8Dww",
-        "UCVHAhuPi2RcrY5LFyKwlp8w"
+        "484",
+        "MIYAVI",
+        "7sBtBCNVRujQhaHDODkfTN",
+        "76063095",
+        "360687",
+        "UCnG4qAnVAVzN9CTGJdcE50g"
       ]
     },
     {
@@ -1067,6 +853,295 @@
       "animethemesVideo": null
     },
     {
+      "id": "us_3367",
+      "anime": "Spirit Circle",
+      "song": "Koko ga Donna Sekai demo",
+      "artist": "Anna Nagase",
+      "artistDisplay": "Anna Nagase",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Koko ga Donna Sekai demo",
+        "此処がどんな世界でも"
+      ],
+      "animeCandidates": [
+        "Spirit Circle",
+        "スピリットサークル"
+      ],
+      "artistCandidates": [
+        "25788",
+        "Anna Nagase",
+        "永瀬アンナ"
+      ]
+    },
+    {
+      "id": "us_3361",
+      "anime": "Digimon: World's Best Picks",
+      "song": "[TBA]",
+      "artist": "WILD BLUE",
+      "artistDisplay": "WILD BLUE",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5@2xl.png",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "[TBA]"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "25775",
+        "WILD BLUE"
+      ]
+    },
+    {
+      "id": "us_3360",
+      "anime": "Hirayasumi",
+      "song": "Fuumi Zekka",
+      "artist": "TOMOO",
+      "artistDisplay": "TOMOO",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Fuumi Zekka",
+        "風味絶佳"
+      ],
+      "animeCandidates": [
+        "Hirayasumi",
+        "ひらやすみ"
+      ],
+      "artistCandidates": [
+        "16866",
+        "TOMOO",
+        "6rm1uaZjykvKCobTzRPs35",
+        "1317217947",
+        "4898648",
+        "UC_oxwNnzBxf49TaYkLnLk1g"
+      ]
+    },
+    {
+      "id": "us_3306",
+      "anime": "One Punch Man 3 Part 2",
+      "song": "Never Done ~Saikyou VS Saikyou~",
+      "artist": "JAM Project",
+      "artistDisplay": "JAM Project",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Never Done ~Saikyou VS Saikyou~",
+        "Never Done～最強VS最恐～"
+      ],
+      "animeCandidates": [
+        "One Punch Man 3 Part 2",
+        "ワンパンマン 3期 第2クール",
+        "One-Punch Man Season 3 Part 2",
+        "One Punch Man 3rd Season Part 2",
+        "OPM 3"
+      ],
+      "artistCandidates": [
+        "2070",
+        "JAM Project",
+        "0CPdwFVMsHZWpNgKuLaTuU",
+        "266646521",
+        "6372",
+        "UCqlKb9p1A0D_SHEBAA5zKLQ"
+      ]
+    },
+    {
+      "id": "us_3357",
+      "anime": "Isshiki-san wa Koi wo Shiritai.",
+      "song": "Gouyoku Koi o Seisu!?",
+      "artist": "Enako",
+      "artistDisplay": "Enako",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Gouyoku Koi o Seisu!?",
+        "剛よく恋を制す！？"
+      ],
+      "animeCandidates": [
+        "Isshiki-san wa Koi wo Shiritai.",
+        "Koutetsu no Rinna wa XX Saretai",
+        "Fullmetal Rinna Wants to XX",
+        "一式さんは恋を知りたい。"
+      ],
+      "artistCandidates": [
+        "13551",
+        "Enako",
+        "えなこ",
+        "2jHLZmPoAmnlCswCMc8WCj",
+        "1223317638",
+        "0oC1SMfDzyyr7Tlzu2s63i",
+        "23Sh4LxrCSK3Or7uEjZ9Vy",
+        "114607442",
+        "UC0wDwW6Fuk6apQE9KdY8Dww",
+        "UCVHAhuPi2RcrY5LFyKwlp8w"
+      ]
+    },
+    {
       "id": "us_3345",
       "anime": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
       "song": "My Life Story",
@@ -1178,66 +1253,6 @@
         "1526820498",
         "14418337",
         "UCt4k-2TfcIRamDRZiLJKdNw"
-      ]
-    },
-    {
-      "id": "us_3306",
-      "anime": "One Punch Man 3 Part 2",
-      "song": "Never Done ~Saikyou VS Saikyou~",
-      "artist": "JAM Project",
-      "artistDisplay": "JAM Project",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Never Done ~Saikyou VS Saikyou~",
-        "Never Done～最強VS最恐～"
-      ],
-      "animeCandidates": [
-        "One Punch Man 3 Part 2",
-        "ワンパンマン 3期 第2クール",
-        "One-Punch Man Season 3 Part 2",
-        "One Punch Man 3rd Season Part 2",
-        "OPM 3"
-      ],
-      "artistCandidates": [
-        "2070",
-        "JAM Project",
-        "0CPdwFVMsHZWpNgKuLaTuU",
-        "266646521",
-        "6372",
-        "UCqlKb9p1A0D_SHEBAA5zKLQ"
       ]
     },
     {
