@@ -3,25 +3,82 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 24,
+  "resultCount": 25,
   "animeThemesChecked": 2,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 5,
   "jsonResponses": 6,
   "algoliaResponses": 2,
   "hitArrays": 4,
-  "rawHits": 24,
-  "uniqueHits": 24,
-  "normalized": 24,
+  "rawHits": 25,
+  "uniqueHits": 25,
+  "normalized": 25,
   "withSpotify": 3,
   "withApple": 3,
   "withDetailUrl": 3,
   "resolvedSpotify": 3,
-  "recordThumbnails": 24,
+  "recordThumbnails": 25,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "us_3381",
+      "anime": "Hirayasumi",
+      "song": "[TBA]",
+      "artist": "Gen Hoshino",
+      "artistDisplay": "Gen Hoshino",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "[TBA]"
+      ],
+      "animeCandidates": [
+        "Hirayasumi",
+        "ひらやすみ"
+      ],
+      "artistCandidates": [
+        "1854",
+        "Gen Hoshino",
+        "星野源",
+        "1S2S00lgLYLGHWA44qGEUs",
+        "269598403",
+        "4800610",
+        "UCUrcaHP1Qrlrxoxg9z1jlmg"
+      ]
+    },
     {
       "id": "us_3379",
       "anime": "Bless",
@@ -255,74 +312,20 @@
         "360687",
         "UCnG4qAnVAVzN9CTGJdcE50g"
       ]
-    },
-    {
-      "id": "27894",
-      "anime": "Inherit the Winds",
-      "song": "Jinsuke no Theme",
-      "artist": "Shigeru Kishida",
-      "artistDisplay": "Shigeru Kishida",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/2ITxTFvNQ5LkODTM1kmnXF",
-      "apple": "https://geo.music.apple.com/album/6807781215?at=1001l384j&ct=website-inherit-the-winds-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b0f07443b406e866c8135ad5a60694a7fedd62cf@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-original-soundtrack",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Jinsuke no Theme",
-        "迅助のテーマ"
-      ],
-      "animeCandidates": [
-        "Inherit the Winds",
-        "Kaze wo Tsugumono",
-        "風を継ぐもの"
-      ],
-      "artistCandidates": [
-        "1277",
-        "Shigeru Kishida",
-        "岸田繁",
-        "62TpalmxXUjLKyxJUgZt6W",
-        "219771500",
-        "4897530",
-        "UCE7UTii69j5WCDZSWgkIjiw"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "us_3381",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LAM[Qz$z?wB=01slE1EL+]tlD$Dh",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg"
+    },
     {
       "id": "us_3379",
       "thumbnailType": "string",
@@ -432,26 +435,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg"
-    },
-    {
-      "id": "us_3345",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LUI}n,ELI]xa.Tk9xZoz-;oyNFs:",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/aeb683b0e5710db37d3a2d9430b5edb87022d08f@2xl.jpg"
     }
   ],
-  "expectedHits": 24,
+  "expectedHits": 25,
   "expectedPages": 2,
   "receivedPages": 2,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 24,
+      "nbHits": 25,
       "hitsPerPage": 16,
       "nbPages": 2,
       "count": 16
@@ -459,7 +452,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28551,
+      "nbHits": 28556,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -467,21 +460,78 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 24,
+      "nbHits": 25,
       "hitsPerPage": 16,
       "nbPages": 2,
-      "count": 8
+      "count": 9
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28551,
+      "nbHits": 28556,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "us_3381",
+      "anime": "Hirayasumi",
+      "song": "[TBA]",
+      "artist": "Gen Hoshino",
+      "artistDisplay": "Gen Hoshino",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "[TBA]"
+      ],
+      "animeCandidates": [
+        "Hirayasumi",
+        "ひらやすみ"
+      ],
+      "artistCandidates": [
+        "1854",
+        "Gen Hoshino",
+        "星野源",
+        "1S2S00lgLYLGHWA44qGEUs",
+        "269598403",
+        "4800610",
+        "UCUrcaHP1Qrlrxoxg9z1jlmg"
+      ]
+    },
     {
       "id": "us_3379",
       "anime": "Bless",
