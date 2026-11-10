@@ -4,7 +4,7 @@
   "pageLoaded": true,
   "scrapeValidated": true,
   "resultCount": 242,
-  "animeThemesChecked": 153,
+  "animeThemesChecked": 154,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 73,
   "jsonResponses": 34,
@@ -13,10 +13,10 @@
   "rawHits": 242,
   "uniqueHits": 242,
   "normalized": 242,
-  "withSpotify": 206,
-  "withApple": 207,
+  "withSpotify": 208,
+  "withApple": 209,
   "withDetailUrl": 209,
-  "resolvedSpotify": 206,
+  "resolvedSpotify": 208,
   "recordThumbnails": 242,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
@@ -3266,7 +3266,7 @@
       }
     },
     {
-      "id": "us_3114",
+      "id": "28304",
       "titles": [
         "Hikari no Soba de",
         "光の側で"
@@ -3279,10 +3279,9 @@
             "名無し之太郎"
           ],
           "links": [
-            "1561101450",
             "32xxJA5U8ot0QZPDllZ1po",
-            "233584571",
-            "UCtYIwrBgW5h-nj6vytKbohQ"
+            "1561101450",
+            "233584571"
           ]
         }
       ],
@@ -3292,16 +3291,22 @@
       "type": "track",
       "song_type": "Ending",
       "song_type_short": "ED",
+      "label": "Universal Music LLC",
       "tags": [
         "2_airing",
+        "1_new",
+        "5_releasing",
         "4_missing"
       ],
       "episodeFields": {
         "type": "track",
         "song_type": "Ending",
         "song_type_short": "ED",
+        "label": "Universal Music LLC",
         "tags": [
           "2_airing",
+          "1_new",
+          "5_releasing",
           "4_missing"
         ]
       }
