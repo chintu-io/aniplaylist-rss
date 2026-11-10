@@ -13,10 +13,10 @@
   "rawHits": 25,
   "uniqueHits": 25,
   "normalized": 25,
-  "withSpotify": 3,
-  "withApple": 3,
+  "withSpotify": 4,
+  "withApple": 4,
   "withDetailUrl": 3,
-  "resolvedSpotify": 3,
+  "resolvedSpotify": 4,
   "recordThumbnails": 25,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
@@ -452,7 +452,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28556,
+      "nbHits": 28557,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -468,7 +468,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28556,
+      "nbHits": 28557,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -1901,7 +1901,7 @@
       ]
     },
     {
-      "id": "us_2832",
+      "id": "28302",
       "anime": "ghost / Yoru no Hate",
       "song": "Sugar",
       "artist": "Hitsujibungaku",
@@ -1910,8 +1910,8 @@
       "kind": "IN",
       "kindLabel": "Insert",
       "episodes": [],
-      "spotify": "",
-      "apple": "",
+      "spotify": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf",
+      "apple": "https://music.apple.com/nz/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5fa6ff6ca107aa497a8eb30d78b6fa6b7079f2bb@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
@@ -1926,6 +1926,9 @@
         "updated_at",
         "season",
         "artists",
+        "links",
+        "platforms",
+        "preview_url",
         "song_key",
         "song_type",
         "song_type_short",
@@ -1934,8 +1937,10 @@
         "thumbnail_hash",
         "blur_image",
         "display_artists",
+        "label",
         "short_link",
         "tags",
+        "other_link_ids",
         "web",
         "unreleased",
         "objectID"
@@ -1954,8 +1959,7 @@
         "羊文学",
         "6S8w5rLsEwjN21jQeRES0n",
         "1281384242",
-        "13290779",
-        "UCnZK-AT0Yrx8uXcFRqUy87g"
+        "13290779"
       ]
     }
   ],
@@ -2181,6 +2185,68 @@
         "UCLIFRNQRDAaD5H4REYsRdmA"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "28302",
+      "anime": "ghost / Yoru no Hate",
+      "song": "Sugar",
+      "artist": "Hitsujibungaku",
+      "artistDisplay": "Hitsujibungaku",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf",
+      "apple": "https://music.apple.com/nz/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5fa6ff6ca107aa497a8eb30d78b6fa6b7079f2bb@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sugar"
+      ],
+      "animeCandidates": [
+        "ghost / Yoru no Hate",
+        "ghost／夜の果て",
+        "Ghost: Yoru no Hate"
+      ],
+      "artistCandidates": [
+        "7233",
+        "Hitsujibungaku",
+        "羊文学",
+        "6S8w5rLsEwjN21jQeRES0n",
+        "1281384242",
+        "13290779"
+      ]
     }
   ],
   "platformSamples": [
@@ -2207,6 +2273,14 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
       "apple": "https://geo.music.apple.com/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music"
+    },
+    {
+      "id": "28302",
+      "anime": "ghost / Yoru no Hate",
+      "song": "Sugar",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf",
+      "apple": "https://music.apple.com/nz/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music"
     }
   ]
 }

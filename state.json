@@ -21081,5 +21081,68 @@
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-11-07T09:12:39.000Z"
+  },
+  "9a93178bd9e6ec57": {
+    "id": "28302",
+    "anime": "ghost / Yoru no Hate",
+    "song": "Sugar",
+    "artist": "Hitsujibungaku",
+    "artistDisplay": "Hitsujibungaku",
+    "artistDisplayCount": 1,
+    "kind": "IN",
+    "kindLabel": "Insert",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf",
+    "apple": "https://music.apple.com/nz/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5fa6ff6ca107aa497a8eb30d78b6fa6b7079f2bb@2xl.jpg",
+    "detailUrl": "",
+    "season": "Winter 2027",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "tags",
+      "other_link_ids",
+      "web",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Sugar"
+    ],
+    "animeCandidates": [
+      "ghost / Yoru no Hate",
+      "ghost／夜の果て",
+      "Ghost: Yoru no Hate"
+    ],
+    "artistCandidates": [
+      "7233",
+      "Hitsujibungaku",
+      "羊文学",
+      "6S8w5rLsEwjN21jQeRES0n",
+      "1281384242",
+      "13290779"
+    ],
+    "firstSeen": "2026-11-10T03:28:51.000Z"
   }
 }
