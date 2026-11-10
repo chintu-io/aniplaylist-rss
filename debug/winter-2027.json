@@ -15,13 +15,76 @@
   "normalized": 25,
   "withSpotify": 4,
   "withApple": 4,
-  "withDetailUrl": 3,
+  "withDetailUrl": 4,
   "resolvedSpotify": 4,
   "recordThumbnails": 25,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28302",
+      "anime": "ghost / Yoru no Hate",
+      "song": "Sugar",
+      "artist": "Hitsujibungaku",
+      "artistDisplay": "Hitsujibungaku",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf",
+      "apple": "https://geo.music.apple.com/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/ghost-yoru-no-hate-insert-song-sugar",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sugar"
+      ],
+      "animeCandidates": [
+        "ghost / Yoru no Hate",
+        "ghost／夜の果て",
+        "Ghost: Yoru no Hate"
+      ],
+      "artistCandidates": [
+        "7233",
+        "Hitsujibungaku",
+        "羊文学",
+        "6S8w5rLsEwjN21jQeRES0n",
+        "1281384242",
+        "13290779",
+        "UCnZK-AT0Yrx8uXcFRqUy87g"
+      ]
+    },
     {
       "id": "us_3381",
       "anime": "Hirayasumi",
@@ -255,67 +318,20 @@
         "415",
         "UCrPe3hLA51968GwxHSZ1llw"
       ]
-    },
-    {
-      "id": "us_3377",
-      "anime": "Kizuguchi to Houtai",
-      "song": "Show Me All Your Pain",
-      "artist": "MIYAVI",
-      "artistDisplay": "MIYAVI",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/79b6eb56309427c04a29905886cd370ab041ccde@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Show Me All Your Pain"
-      ],
-      "animeCandidates": [
-        "Kizuguchi to Houtai",
-        "傷口と包帯",
-        "Wound & Bandage"
-      ],
-      "artistCandidates": [
-        "484",
-        "MIYAVI",
-        "7sBtBCNVRujQhaHDODkfTN",
-        "76063095",
-        "360687",
-        "UCnG4qAnVAVzN9CTGJdcE50g"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28302",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LBP?O88wUxE1_M4Tmlv#00Mc8^M{",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg"
+    },
     {
       "id": "us_3381",
       "thumbnailType": "string",
@@ -425,16 +441,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/70d024b23f19cd25cc62698c3273f6356e2faa7c@2xl.jpg"
-    },
-    {
-      "id": "us_3357",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LURxcTu+?KVZ*}QSMes;o~t8k9S}",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg"
     }
   ],
   "expectedHits": 25,
@@ -452,7 +458,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28557,
+      "nbHits": 28558,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -468,13 +474,76 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28557,
+      "nbHits": 28558,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28302",
+      "anime": "ghost / Yoru no Hate",
+      "song": "Sugar",
+      "artist": "Hitsujibungaku",
+      "artistDisplay": "Hitsujibungaku",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf",
+      "apple": "https://geo.music.apple.com/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/ghost-yoru-no-hate-insert-song-sugar",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sugar"
+      ],
+      "animeCandidates": [
+        "ghost / Yoru no Hate",
+        "ghost／夜の果て",
+        "Ghost: Yoru no Hate"
+      ],
+      "artistCandidates": [
+        "7233",
+        "Hitsujibungaku",
+        "羊文学",
+        "6S8w5rLsEwjN21jQeRES0n",
+        "1281384242",
+        "13290779",
+        "UCnZK-AT0Yrx8uXcFRqUy87g"
+      ]
+    },
     {
       "id": "us_3381",
       "anime": "Hirayasumi",
@@ -1899,7 +1968,40 @@
         "4726033",
         "UCoO40PGRZLLymjlFuncg_hg"
       ]
+    }
+  ],
+  "sourceMetadataSamples": [],
+  "detailUrlSamples": [
+    {
+      "id": "28302",
+      "anime": "ghost / Yoru no Hate",
+      "song": "Sugar",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/ghost-yoru-no-hate-insert-song-sugar"
     },
+    {
+      "id": "27297",
+      "anime": "The Guy She Was Interested in Wasn't a Guy at All",
+      "song": "Breed",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/the-guy-she-was-interested-in-wasnt-a-guy-at-all-opening"
+    },
+    {
+      "id": "27894",
+      "anime": "Inherit the Winds",
+      "song": "Jinsuke no Theme",
+      "kind": "OST",
+      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-original-soundtrack"
+    },
+    {
+      "id": "28075",
+      "anime": "Inherit the Winds",
+      "song": "Namida no Kawa",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-ending"
+    }
+  ],
+  "usableSamples": [
     {
       "id": "28302",
       "anime": "ghost / Yoru no Hate",
@@ -1911,9 +2013,9 @@
       "kindLabel": "Insert",
       "episodes": [],
       "spotify": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf",
-      "apple": "https://music.apple.com/nz/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5fa6ff6ca107aa497a8eb30d78b6fa6b7079f2bb@2xl.jpg",
-      "detailUrl": "",
+      "apple": "https://geo.music.apple.com/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/ghost-yoru-no-hate-insert-song-sugar",
       "season": "Winter 2027",
       "rawKeys": [
         "id",
@@ -1939,9 +2041,9 @@
         "display_artists",
         "label",
         "short_link",
+        "status",
         "tags",
         "other_link_ids",
-        "web",
         "unreleased",
         "objectID"
       ],
@@ -1959,35 +2061,10 @@
         "羊文学",
         "6S8w5rLsEwjN21jQeRES0n",
         "1281384242",
-        "13290779"
+        "13290779",
+        "UCnZK-AT0Yrx8uXcFRqUy87g"
       ]
-    }
-  ],
-  "sourceMetadataSamples": [],
-  "detailUrlSamples": [
-    {
-      "id": "27297",
-      "anime": "The Guy She Was Interested in Wasn't a Guy at All",
-      "song": "Breed",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/the-guy-she-was-interested-in-wasnt-a-guy-at-all-opening"
     },
-    {
-      "id": "27894",
-      "anime": "Inherit the Winds",
-      "song": "Jinsuke no Theme",
-      "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-original-soundtrack"
-    },
-    {
-      "id": "28075",
-      "anime": "Inherit the Winds",
-      "song": "Namida no Kawa",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-ending"
-    }
-  ],
-  "usableSamples": [
     {
       "id": "27297",
       "anime": "The Guy She Was Interested in Wasn't a Guy at All",
@@ -2185,71 +2262,17 @@
         "UCLIFRNQRDAaD5H4REYsRdmA"
       ],
       "animethemesVideo": null
-    },
+    }
+  ],
+  "platformSamples": [
     {
       "id": "28302",
       "anime": "ghost / Yoru no Hate",
       "song": "Sugar",
-      "artist": "Hitsujibungaku",
-      "artistDisplay": "Hitsujibungaku",
-      "artistDisplayCount": 1,
       "kind": "IN",
-      "kindLabel": "Insert",
-      "episodes": [],
       "spotify": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf",
-      "apple": "https://music.apple.com/nz/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5fa6ff6ca107aa497a8eb30d78b6fa6b7079f2bb@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Sugar"
-      ],
-      "animeCandidates": [
-        "ghost / Yoru no Hate",
-        "ghost／夜の果て",
-        "Ghost: Yoru no Hate"
-      ],
-      "artistCandidates": [
-        "7233",
-        "Hitsujibungaku",
-        "羊文学",
-        "6S8w5rLsEwjN21jQeRES0n",
-        "1281384242",
-        "13290779"
-      ]
-    }
-  ],
-  "platformSamples": [
+      "apple": "https://geo.music.apple.com/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music"
+    },
     {
       "id": "27297",
       "anime": "The Guy She Was Interested in Wasn't a Guy at All",
@@ -2273,14 +2296,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/7nTfLzbYOOti4DFHD0s7bG",
       "apple": "https://geo.music.apple.com/album/6816009943?i=6816009946&at=1001l384j&ct=website-inherit-the-winds-ed&app=music"
-    },
-    {
-      "id": "28302",
-      "anime": "ghost / Yoru no Hate",
-      "song": "Sugar",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf",
-      "apple": "https://music.apple.com/nz/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music"
     }
   ]
 }

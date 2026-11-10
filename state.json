@@ -14695,7 +14695,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -14762,7 +14761,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -14831,7 +14829,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -14962,7 +14959,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -15026,7 +15022,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -21093,9 +21088,9 @@
     "kindLabel": "Insert",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf",
-    "apple": "https://music.apple.com/nz/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music",
-    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5fa6ff6ca107aa497a8eb30d78b6fa6b7079f2bb@2xl.jpg",
-    "detailUrl": "",
+    "apple": "https://geo.music.apple.com/album/6829592820?i=6829592821&at=1001l384j&ct=website-ghost-yoru-no-hate-in&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg",
+    "detailUrl": "https://aniplaylist.com/play/ghost-yoru-no-hate-insert-song-sugar",
     "season": "Winter 2027",
     "rawKeys": [
       "id",
@@ -21121,9 +21116,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -21141,7 +21136,8 @@
       "羊文学",
       "6S8w5rLsEwjN21jQeRES0n",
       "1281384242",
-      "13290779"
+      "13290779",
+      "UCnZK-AT0Yrx8uXcFRqUy87g"
     ],
     "firstSeen": "2026-11-10T03:28:51.000Z"
   }
