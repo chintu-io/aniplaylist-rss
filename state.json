@@ -18705,6 +18705,7 @@
       "V.A.",
       "V.A",
       "Variou Artists",
+      "V. A.",
       "0LyfQWJT6nXafLPZqxe9Of",
       "108420982"
     ],
@@ -19085,7 +19086,6 @@
       "1S7SMjan8hRLYOwqu920r0",
       "1140016301",
       "5209770",
-      "24991",
       "UCtK6yy8VIgt9e0WrAbYRwHg"
     ],
     "firstSeen": "2026-10-20T17:00:21.000Z"
@@ -20982,7 +20982,8 @@
       "Juice=Juice",
       "6ckfItpfxpSYKrZ0OIXUuh",
       "623197059",
-      "13261347"
+      "13261347",
+      "UCVI_PBGr3p9o_7ESaY3wSIQ"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-11-06T17:36:23.000Z"
@@ -21275,5 +21276,83 @@
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-11-10T19:39:41.000Z"
+  },
+  "b23580a44f718a30": {
+    "id": "28306",
+    "anime": "DARK MACHINE: The Animation",
+    "song": "Pitch Black",
+    "artist": "STELLATUS",
+    "artistDisplay": "STELLATUS, Nao Toyama, Rei Nakashima & Nonoka Oobuchi",
+    "artistDisplayCount": 4,
+    "kind": "IN",
+    "kindLabel": "Insert (ep 1, 3, 5)",
+    "episodes": [
+      "1",
+      "3",
+      "5"
+    ],
+    "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
+    "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+    "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "episodes",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "status",
+      "tags",
+      "other_link_ids",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Pitch Black"
+    ],
+    "animeCandidates": [
+      "DARK MACHINE: The Animation",
+      "DARK MACHINE -The Animation-",
+      "DARK MACHINE THE ANIMATION"
+    ],
+    "artistCandidates": [
+      "25813",
+      "STELLATUS",
+      "5Gc2maIYuCIBabPMzIy24T",
+      "6823022818",
+      "424920641",
+      "2231",
+      "Nao Toyama",
+      "東山奈央",
+      "Nao Touyama",
+      "Nao Tōyama",
+      "5FQ4vbNwpE1wFGoOPecJB9",
+      "UCiyiF5Kf2BAXmi8Ae-VOl3w",
+      "14465",
+      "Rei Nakashima",
+      "中島怜",
+      "7pQmC6NNs7KvWfrYKmqPbo"
+    ],
+    "firstSeen": "2026-11-11T22:16:21.000Z"
   }
 }

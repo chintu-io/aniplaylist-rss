@@ -3,25 +3,102 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 242,
+  "resultCount": 245,
   "animeThemesChecked": 154,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 73,
   "jsonResponses": 34,
   "algoliaResponses": 16,
   "hitArrays": 32,
-  "rawHits": 242,
-  "uniqueHits": 242,
-  "normalized": 242,
-  "withSpotify": 208,
-  "withApple": 209,
-  "withDetailUrl": 211,
-  "resolvedSpotify": 208,
-  "recordThumbnails": 242,
+  "rawHits": 245,
+  "uniqueHits": 245,
+  "normalized": 245,
+  "withSpotify": 209,
+  "withApple": 210,
+  "withDetailUrl": 212,
+  "resolvedSpotify": 209,
+  "recordThumbnails": 245,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28306",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Pitch Black",
+      "artist": "STELLATUS",
+      "artistDisplay": "STELLATUS, Nao Toyama, Rei Nakashima & Nonoka Oobuchi",
+      "artistDisplayCount": 4,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 1, 3, 5)",
+      "episodes": [
+        "1",
+        "3",
+        "5"
+      ],
+      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
+      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Pitch Black"
+      ],
+      "animeCandidates": [
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
+      ],
+      "artistCandidates": [
+        "25813",
+        "STELLATUS",
+        "5Gc2maIYuCIBabPMzIy24T",
+        "6823022818",
+        "424920641",
+        "2231",
+        "Nao Toyama",
+        "東山奈央",
+        "Nao Touyama",
+        "Nao Tōyama",
+        "5FQ4vbNwpE1wFGoOPecJB9",
+        "UCiyiF5Kf2BAXmi8Ae-VOl3w",
+        "14465",
+        "Rei Nakashima",
+        "中島怜",
+        "7pQmC6NNs7KvWfrYKmqPbo"
+      ]
+    },
     {
       "id": "28305",
       "anime": "Rakuen Tsuihou: Kokoro no Resonance",
@@ -307,92 +384,20 @@
         "422493182",
         "UCvCUhqQQ4MHWaMIn43Qu8Fw"
       ]
-    },
-    {
-      "id": "28292",
-      "anime": "Grotesqqque",
-      "song": "Shampoo Kaeta no",
-      "artist": "GROTESQQQUE",
-      "artistDisplay": "GROTESQQQUE & Haoto",
-      "artistDisplayCount": 2,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0Go7z5T8APFHmAG0zKdrMO",
-      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568817&at=1001l384j&ct=website-grotesqqque-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/grotesqqque-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Shampoo Kaeta no",
-        "シャンプー変えたの"
-      ],
-      "animeCandidates": [
-        "Grotesqqque",
-        "GROTESQQQUE-グロテスク-",
-        "Æliens",
-        "Yoroshiku★Shoujo",
-        "Nocturn: En Cette Nuit Grotesque",
-        "GROTESQQQUE",
-        "GTQ123",
-        "ÆLIENS (エリィアンズ)",
-        "AELIENS",
-        "Yoroshiku★Shoujo (夜露死駆★少女)",
-        "4649Girl",
-        "Yoroshiku★Girl",
-        "Evening Dew Heads to Its Death★Girl",
-        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
-        "NOCTURNE: NUIT GROTESQUE",
-        "NOCTURN: EN CETTE NUIT GROTESQUE"
-      ],
-      "artistCandidates": [
-        "24115",
-        "GROTESQQQUE",
-        "1In8PNOPWYnzc6PCjisqCn",
-        "6791445853",
-        "403964042",
-        "UCFQQnp5AUG5oPscUdhC5q1A",
-        "25733",
-        "Haoto",
-        "葉音",
-        "5MkJ3ycBZl6A7sXr4AG5TD",
-        "438658686",
-        "5713960"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28306",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LHEM%tS64Ujb?wW=IAoMDgjck7n~",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg"
+    },
     {
       "id": "28305",
       "thumbnailType": "string",
@@ -484,44 +489,34 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg"
     },
     {
-      "id": "28153",
+      "id": "us_3384",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/611deec5a26819ffd4f563a6f112f6689439e064.jpg",
+      "thumbnail": "thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LUKI}2y?[urr~Cpw%2NF$+tRNZrX",
+      "thumbnail_hash": "LJK^dIpc5r4oti9GtS4n?^4:NJ$y",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg"
     },
     {
-      "id": "27900",
+      "id": "us_3385",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/319bb5372941206224d54435dd7c5bfcc04ef60b.jpeg",
+      "thumbnail": "thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "L79$IS3CO@}a1c,DniJ73A{},tKO",
+      "thumbnail_hash": "LJK^dIpc5r4oti9GtS4n?^4:NJ$y",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/319bb5372941206224d54435dd7c5bfcc04ef60b@2xl.jpeg"
-    },
-    {
-      "id": "us_3382",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LBP?O88wUxE1_M4Tmlv#00Mc8^M{",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg"
     }
   ],
-  "expectedHits": 242,
+  "expectedHits": 245,
   "expectedPages": 16,
   "receivedPages": 16,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -529,7 +524,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -537,7 +532,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -545,7 +540,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -553,7 +548,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -561,7 +556,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -569,7 +564,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -577,7 +572,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -585,7 +580,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -593,7 +588,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -601,7 +596,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -609,7 +604,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -617,7 +612,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -625,7 +620,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -633,7 +628,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -641,7 +636,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -649,7 +644,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -657,7 +652,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -665,7 +660,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -673,7 +668,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -681,7 +676,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -689,7 +684,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -697,7 +692,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -705,7 +700,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -713,7 +708,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -721,7 +716,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -729,7 +724,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -737,7 +732,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -745,7 +740,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -753,7 +748,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -761,21 +756,98 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 15,
-      "nbHits": 242,
+      "nbHits": 245,
       "hitsPerPage": 16,
       "nbPages": 16,
-      "count": 2
+      "count": 5
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28558,
+      "nbHits": 28561,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28306",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Pitch Black",
+      "artist": "STELLATUS",
+      "artistDisplay": "STELLATUS, Nao Toyama, Rei Nakashima & Nonoka Oobuchi",
+      "artistDisplayCount": 4,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 1, 3, 5)",
+      "episodes": [
+        "1",
+        "3",
+        "5"
+      ],
+      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
+      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Pitch Black"
+      ],
+      "animeCandidates": [
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
+      ],
+      "artistCandidates": [
+        "25813",
+        "STELLATUS",
+        "5Gc2maIYuCIBabPMzIy24T",
+        "6823022818",
+        "424920641",
+        "2231",
+        "Nao Toyama",
+        "東山奈央",
+        "Nao Touyama",
+        "Nao Tōyama",
+        "5FQ4vbNwpE1wFGoOPecJB9",
+        "UCiyiF5Kf2BAXmi8Ae-VOl3w",
+        "14465",
+        "Rei Nakashima",
+        "中島怜",
+        "7pQmC6NNs7KvWfrYKmqPbo"
+      ]
+    },
     {
       "id": "28305",
       "anime": "Rakuen Tsuihou: Kokoro no Resonance",
@@ -1409,6 +1481,121 @@
         "UCoueeWzU2MU1-ci3v3JZZBQ"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "us_3384",
+      "anime": "Blue Box Season 2",
+      "song": "Jingle Bells",
+      "artist": "Kouki Etou",
+      "artistDisplay": "Kouki Etou",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 5)",
+      "episodes": [
+        "5"
+      ],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
+      "detailUrl": "",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Jingle Bells",
+        "ジングルベル"
+      ],
+      "animeCandidates": [
+        "Blue Box Season 2",
+        "アオのハコ Season2",
+        "Ao no Hako Season 2"
+      ],
+      "artistCandidates": [
+        "25814",
+        "Kouki Etou",
+        "えとうこうき"
+      ]
+    },
+    {
+      "id": "us_3385",
+      "anime": "Blue Box Season 2",
+      "song": "We Wish You A Merry Christmas",
+      "artist": "Kouki Etou",
+      "artistDisplay": "Kouki Etou",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 5)",
+      "episodes": [
+        "5"
+      ],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
+      "detailUrl": "",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "We Wish You A Merry Christmas"
+      ],
+      "animeCandidates": [
+        "Blue Box Season 2",
+        "アオのハコ Season2",
+        "Ao no Hako Season 2"
+      ],
+      "artistCandidates": [
+        "25814",
+        "Kouki Etou",
+        "えとうこうき"
+      ]
     },
     {
       "id": "28153",
@@ -2576,207 +2763,6 @@
         "UCWyo-2Efw9aSmemM3LluERg"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28229",
-      "anime": "My Happy Marriage Special",
-      "song": "Prelude no Temae ni ~for me&you~",
-      "artist": "Kashitaro Ito",
-      "artistDisplay": "Kashitaro Ito",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2wCob1Fah2VVX2CAtLxm2A",
-      "apple": "https://geo.music.apple.com/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6ce5e7a260488767a0adc7eed15b59070f33ee39@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Prelude no Temae ni ~for me&you~",
-        "プレリュードの手前に 〜for me&you〜",
-        "Just before the Prelude 〜for me&you〜"
-      ],
-      "animeCandidates": [
-        "My Happy Marriage Special",
-        "Watashi no Shiawase na Kekkon Special",
-        "わたしの幸せな結婚 特別篇",
-        "My Happy Marriage",
-        "My Blissful Marriage"
-      ],
-      "artistCandidates": [
-        "3944",
-        "Kashitaro Ito",
-        "伊東歌詞太郎",
-        "3i7tuzRfutJGAUowspOM1f",
-        "647767887",
-        "12940643",
-        "UC5_fOcOtisCekgSlPR-zPvA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
-      "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
-      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "SHAKARIKI!!"
-      ],
-      "animeCandidates": [
-        "Digimon: World's Best Picks",
-        "The Best Adventure We Chose",
-        "僕らが選んだベストアドベンチャー",
-        "Bokura ga Eranda Best Adventure"
-      ],
-      "artistCandidates": [
-        "12570",
-        "Ayumi Miyazaki",
-        "宮崎歩",
-        "宮﨑歩",
-        "4Hjely5D21wDWfluTrZRhT",
-        "218732056",
-        "74835282",
-        "UCk0cOzmc7azCdYwVlp9hMKw",
-        "3297",
-        "Takayoshi Tanimoto",
-        "谷本貴義",
-        "5nCVXtvsB2KsngsMbk8Hat",
-        "74954644",
-        "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "artist": "iri",
-      "artistDisplay": "iri",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
-      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e81c08137c426d629cfb6f95cf4ddffef13a1eea@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Period"
-      ],
-      "animeCandidates": [
-        "Firefly Wedding",
-        "Hotaru no Yomeiri",
-        "ホタルの嫁入り",
-        "Les Noces des Lucioles"
-      ],
-      "artistCandidates": [
-        "24229",
-        "iri",
-        "1mN9lPKzTRTOop4u7S1Uy9",
-        "388343274",
-        "1043542",
-        "UCtlXP5iI7TgKj_BI636L8Qw"
-      ],
-      "animethemesVideo": null
     }
   ],
   "sourceMetadataSamples": [
@@ -3326,6 +3312,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28306",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Pitch Black",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black"
+    },
+    {
       "id": "28305",
       "anime": "Rakuen Tsuihou: Kokoro no Resonance",
       "song": "Beyond the Night",
@@ -3527,16 +3520,86 @@
       "song": "Period",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening"
-    },
-    {
-      "id": "28130",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Watson",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-ending"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28306",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Pitch Black",
+      "artist": "STELLATUS",
+      "artistDisplay": "STELLATUS, Nao Toyama, Rei Nakashima & Nonoka Oobuchi",
+      "artistDisplayCount": 4,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 1, 3, 5)",
+      "episodes": [
+        "1",
+        "3",
+        "5"
+      ],
+      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
+      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Pitch Black"
+      ],
+      "animeCandidates": [
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
+      ],
+      "artistCandidates": [
+        "25813",
+        "STELLATUS",
+        "5Gc2maIYuCIBabPMzIy24T",
+        "6823022818",
+        "424920641",
+        "2231",
+        "Nao Toyama",
+        "東山奈央",
+        "Nao Touyama",
+        "Nao Tōyama",
+        "5FQ4vbNwpE1wFGoOPecJB9",
+        "UCiyiF5Kf2BAXmi8Ae-VOl3w",
+        "14465",
+        "Rei Nakashima",
+        "中島怜",
+        "7pQmC6NNs7KvWfrYKmqPbo"
+      ]
+    },
     {
       "id": "28305",
       "anime": "Rakuen Tsuihou: Kokoro no Resonance",
@@ -5480,74 +5543,17 @@
         "UCtlXP5iI7TgKj_BI636L8Qw"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28130",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Watson",
-      "artist": "Petite Meller",
-      "artistDisplay": "Petite Meller & Oslo Green",
-      "artistDisplayCount": 2,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2x6cIXV8np81mpKhHXNbDS",
-      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237558&at=1001l384j&ct=website-cyberpunk-edgerunners-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Watson"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2",
-        "Cyberpunk Edgerunners 2"
-      ],
-      "artistCandidates": [
-        "23935",
-        "Petite Meller",
-        "2gUVyV9z7T6cielHCMSpvb",
-        "718238708",
-        "5299859",
-        "UCzhnTfx-ynhNr2irlAGAmRA",
-        "25653",
-        "Oslo Green",
-        "2A6l7lq3xqq2zLTOV3paBY",
-        "151888892"
-      ],
-      "animethemesVideo": null
     }
   ],
   "platformSamples": [
+    {
+      "id": "28306",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Pitch Black",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
+      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music"
+    },
     {
       "id": "28305",
       "anime": "Rakuen Tsuihou: Kokoro no Resonance",
@@ -5779,14 +5785,6 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
       "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music"
-    },
-    {
-      "id": "28130",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Watson",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/2x6cIXV8np81mpKhHXNbDS",
-      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237558&at=1001l384j&ct=website-cyberpunk-edgerunners-2-ed&app=music"
     }
   ]
 }
