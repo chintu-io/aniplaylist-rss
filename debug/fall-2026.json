@@ -15,13 +15,215 @@
   "normalized": 242,
   "withSpotify": 208,
   "withApple": 209,
-  "withDetailUrl": 209,
+  "withDetailUrl": 211,
   "resolvedSpotify": 208,
   "recordThumbnails": 242,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28305",
+      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "song": "Beyond the Night",
+      "artist": "TeddyLoid",
+      "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
+      "artistDisplayCount": 3,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
+      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-reso-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Beyond the Night"
+      ],
+      "animeCandidates": [
+        "Rakuen Tsuihou: Kokoro no Resonance",
+        "Liberated from Paradise: Resonance of the Heart",
+        "楽園追放 心のレゾナンス"
+      ],
+      "artistCandidates": [
+        "274",
+        "TeddyLoid",
+        "3GfNJrDTZY7voXPDx8gH9I",
+        "376334342",
+        "582291",
+        "UCSMEyA3pVYdTrO9HBXdfsfg",
+        "5261",
+        "Ayane Sakura",
+        "佐倉綾音",
+        "0EQhKMJfrQjmIJ6im9KyRB",
+        "1021925121",
+        "118071212",
+        "UCy5-YguW8GIvQYLyCa33oLQ",
+        "25810",
+        "Nagi Inoue",
+        "井上和"
+      ]
+    },
+    {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "artist": "Nanashi no Taro",
+      "artistDisplay": "Nanashi no Taro",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
+      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hikari no Soba de",
+        "光の側で"
+      ],
+      "animeCandidates": [
+        "From Far Away",
+        "Kanata kara",
+        "From the Other Side",
+        "彼⽅から",
+        "彼方から"
+      ],
+      "artistCandidates": [
+        "16565",
+        "Nanashi no Taro",
+        "名無し之太郎",
+        "32xxJA5U8ot0QZPDllZ1po",
+        "1561101450",
+        "233584571",
+        "UCtYIwrBgW5h-nj6vytKbohQ"
+      ]
+    },
+    {
+      "id": "28287",
+      "anime": "Devil's Crest",
+      "song": "Shinka",
+      "artist": "Ado",
+      "artistDisplay": "Ado",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
+      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shinka",
+        "シンカ"
+      ],
+      "animeCandidates": [
+        "Devil's Crest",
+        "Demons' Crest",
+        "デモンズ・クレスト",
+        "Devils' Crest"
+      ],
+      "artistCandidates": [
+        "7645",
+        "Ado",
+        "6mEQK9m2krja6X1cfsAjfl",
+        "1492604670",
+        "121146382",
+        "UC5DHwv9N4OQ9AWtKr8YSefw"
+      ]
+    },
     {
       "id": "28291",
       "anime": "Grotesqqque",
@@ -187,201 +389,40 @@
         "438658686",
         "5713960"
       ]
-    },
-    {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
-      "artist": "Ado",
-      "artistDisplay": "Ado",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
-      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Shinka",
-        "シンカ"
-      ],
-      "animeCandidates": [
-        "Devil's Crest",
-        "Demons' Crest",
-        "デモンズ・クレスト",
-        "Devils' Crest"
-      ],
-      "artistCandidates": [
-        "7645",
-        "Ado",
-        "6mEQK9m2krja6X1cfsAjfl",
-        "1492604670",
-        "121146382",
-        "UC5DHwv9N4OQ9AWtKr8YSefw"
-      ]
-    },
-    {
-      "id": "28286",
-      "anime": "Devil's Crest",
-      "song": "ReaL",
-      "artist": "Soala",
-      "artistDisplay": "Soala",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5hvQhc2B5q5OH58Ps2TmWu",
-      "apple": "https://geo.music.apple.com/album/6828736329?i=6828736511&at=1001l384j&ct=website-devils-crest-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "ReaL"
-      ],
-      "animeCandidates": [
-        "Devil's Crest",
-        "Demons' Crest",
-        "デモンズ・クレスト",
-        "Devils' Crest"
-      ],
-      "artistCandidates": [
-        "17586",
-        "Soala",
-        "5MBWJMHvKch5TJxUPNOVer",
-        "1577002574",
-        "139541192",
-        "UC3PFoXZPFJGy9F4PG84nNQQ"
-      ]
-    },
-    {
-      "id": "28087",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Tokimeki Un, Deux, Trois♪",
-      "artist": "Magic Vision Girls Party",
-      "artistDisplay": "Magic Vision Girls Party",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
-      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Tokimeki Un, Deux, Trois♪",
-        "ときめきアン・ドゥ・トロワ♪"
-      ],
-      "animeCandidates": [
-        "Nia Liston: The Merciless Maiden",
-        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
-      ],
-      "artistCandidates": [
-        "24259",
-        "Magic Vision Girls Party",
-        "魔法映像ひろめ隊",
-        "0xYoRHq0kMxSAmE0QF0qE0",
-        "6816815343",
-        "418828852",
-        "UCoueeWzU2MU1-ci3v3JZZBQ"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28305",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LEN,[8Sb?a-;-;g50JrY~pw[4oEM",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg"
+    },
+    {
+      "id": "28304",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L9KmYXiVMUTUVAXw%l#O0*R1Vq?I",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg"
+    },
+    {
+      "id": "28287",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LaFGnRVCIVV@pys+a0kCkWo$s.t6",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg"
+    },
     {
       "id": "28291",
       "thumbnailType": "string",
@@ -403,14 +444,24 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg"
     },
     {
-      "id": "28287",
+      "id": "28085",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46.jpg",
+      "thumbnail": "thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LaFGnRVCIVV@pys+a0kCkWo$s.t6",
+      "thumbnail_hash": "LKJHI64U9+-:0I-+E%V=v|XA=BV_",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg"
+    },
+    {
+      "id": "28074",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L89i}Or_0L]}R3s:%4Io18s7};Em",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
     },
     {
       "id": "28286",
@@ -433,36 +484,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg"
     },
     {
-      "id": "28074",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L89i}Or_0L]}R3s:%4Io18s7};Em",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
-    },
-    {
-      "id": "28085",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LKJHI64U9+-:0I-+E%V=v|XA=BV_",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg"
-    },
-    {
-      "id": "28271",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LVKJlsxSS4r@LzR:xvWm~qRiOYjF",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg"
-    },
-    {
       "id": "28153",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/611deec5a26819ffd4f563a6f112f6689439e064.jpg",
@@ -471,16 +492,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg"
-    },
-    {
-      "id": "28076",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L89i}Or_0L]}R3s:%4Io18s7};Em",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg"
     },
     {
       "id": "27900",
@@ -766,6 +777,210 @@
   ],
   "normalizedSamples": [
     {
+      "id": "28305",
+      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "song": "Beyond the Night",
+      "artist": "TeddyLoid",
+      "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
+      "artistDisplayCount": 3,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
+      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-reso-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Beyond the Night"
+      ],
+      "animeCandidates": [
+        "Rakuen Tsuihou: Kokoro no Resonance",
+        "Liberated from Paradise: Resonance of the Heart",
+        "楽園追放 心のレゾナンス"
+      ],
+      "artistCandidates": [
+        "274",
+        "TeddyLoid",
+        "3GfNJrDTZY7voXPDx8gH9I",
+        "376334342",
+        "582291",
+        "UCSMEyA3pVYdTrO9HBXdfsfg",
+        "5261",
+        "Ayane Sakura",
+        "佐倉綾音",
+        "0EQhKMJfrQjmIJ6im9KyRB",
+        "1021925121",
+        "118071212",
+        "UCy5-YguW8GIvQYLyCa33oLQ",
+        "25810",
+        "Nagi Inoue",
+        "井上和"
+      ]
+    },
+    {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "artist": "Nanashi no Taro",
+      "artistDisplay": "Nanashi no Taro",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
+      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hikari no Soba de",
+        "光の側で"
+      ],
+      "animeCandidates": [
+        "From Far Away",
+        "Kanata kara",
+        "From the Other Side",
+        "彼⽅から",
+        "彼方から"
+      ],
+      "artistCandidates": [
+        "16565",
+        "Nanashi no Taro",
+        "名無し之太郎",
+        "32xxJA5U8ot0QZPDllZ1po",
+        "1561101450",
+        "233584571",
+        "UCtYIwrBgW5h-nj6vytKbohQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28287",
+      "anime": "Devil's Crest",
+      "song": "Shinka",
+      "artist": "Ado",
+      "artistDisplay": "Ado",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
+      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shinka",
+        "シンカ"
+      ],
+      "animeCandidates": [
+        "Devil's Crest",
+        "Demons' Crest",
+        "デモンズ・クレスト",
+        "Devils' Crest"
+      ],
+      "artistCandidates": [
+        "7645",
+        "Ado",
+        "6mEQK9m2krja6X1cfsAjfl",
+        "1492604670",
+        "121146382",
+        "UC5DHwv9N4OQ9AWtKr8YSefw"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28291",
       "anime": "Grotesqqque",
       "song": "Strings Vivantes",
@@ -933,19 +1148,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
-      "artist": "Ado",
-      "artistDisplay": "Ado",
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
       "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
-      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -978,22 +1193,91 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Shinka",
-        "シンカ"
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
       ],
       "animeCandidates": [
-        "Devil's Crest",
-        "Demons' Crest",
-        "デモンズ・クレスト",
-        "Devils' Crest"
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
       ],
       "artistCandidates": [
-        "7645",
-        "Ado",
-        "6mEQK9m2krja6X1cfsAjfl",
-        "1492604670",
-        "121146382",
-        "UC5DHwv9N4OQ9AWtKr8YSefw"
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "artist": "Megatera Zero",
+      "artistDisplay": "Megatera Zero",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
+      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "products",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Onogami",
+        "オノガミ"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "14404",
+        "Megatera Zero",
+        "メガテラ・ゼロ",
+        "MEGATERA･ZERO",
+        "Mega Terra Zero",
+        "4I7F7bTQ9tBnRI2razDP9B",
+        "1466037690",
+        "147335922",
+        "UCe0GU9CHeC3hbvgYmzXc7OA"
       ],
       "animethemesVideo": null
     },
@@ -1127,206 +1411,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "artist": "Megatera Zero",
-      "artistDisplay": "Megatera Zero",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
-      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "products",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Onogami",
-        "オノガミ"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "14404",
-        "Megatera Zero",
-        "メガテラ・ゼロ",
-        "MEGATERA･ZERO",
-        "Mega Terra Zero",
-        "4I7F7bTQ9tBnRI2razDP9B",
-        "1466037690",
-        "147335922",
-        "UCe0GU9CHeC3hbvgYmzXc7OA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28271",
-      "anime": "A Wild Last Boss Appeared! Season 2",
-      "song": "Yurete Skirt",
-      "artist": "Chakura",
-      "artistDisplay": "Chakura",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
-      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yurete Skirt",
-        "揺れてスカート"
-      ],
-      "animeCandidates": [
-        "A Wild Last Boss Appeared! Season 2",
-        "野生のラスボスが現れた！ 第2期",
-        "Yasei no Last Boss ga Arawareta! 2nd Season"
-      ],
-      "artistCandidates": [
-        "24213",
-        "Chakura",
-        "ちゃくら",
-        "4y8KqtQgzRVDnQ072O7Vqr",
-        "1659156116",
-        "193022797",
-        "UCOK1WCN-6ucanL1nO0ZmimA"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28153",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "In Love With Myself",
@@ -1398,71 +1482,6 @@
         "25676",
         "Kalman Chodakiewitz, Eli Shiffman & Petite Meller"
       ]
-    },
-    {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
-      "artist": "VK Blanka",
-      "artistDisplay": "VK Blanka",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
-      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kanpeki no Peki",
-        "完璧のペキ",
-        "Kan Peki No Peki"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "498",
-        "VK Blanka",
-        "Vickeblanka",
-        "0PYPjvZaOa7bsCq26JOX8d",
-        "894895986",
-        "50322192",
-        "UCg2rvXE9x3zg01ZxyIt9DpA"
-      ],
-      "animethemesVideo": null
     },
     {
       "id": "27900",
@@ -1714,71 +1733,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28086",
-      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
-      "song": "Here we are!",
-      "artist": "JAM Project",
-      "artistDisplay": "JAM Project",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
-      "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Here we are!"
-      ],
-      "animeCandidates": [
-        "Battle Spirits [Re]: Zekkai no Kuu",
-        "Battle Spirits [Re] 絶界の空",
-        "Battle Spirits [Re] Zekkai no Kuu",
-        "Battle Spirits [Re] Zekkai no Ku"
-      ],
-      "artistCandidates": [
-        "2070",
-        "JAM Project",
-        "0CPdwFVMsHZWpNgKuLaTuU",
-        "266646521",
-        "6372"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "27953",
       "anime": "Ranma ½ (2024) 3rd Season",
       "song": "Sunao Miman",
@@ -1977,19 +1931,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28088",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Sonzai Riyu Kai",
-      "artist": "BUCK-TICK",
-      "artistDisplay": "BUCK-TICK",
+      "id": "28271",
+      "anime": "A Wild Last Boss Appeared! Season 2",
+      "song": "Yurete Skirt",
+      "artist": "Chakura",
+      "artistDisplay": "Chakura",
       "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
+      "kind": "ED",
+      "kindLabel": "Ending",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
-      "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size",
+      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
+      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -2006,7 +1960,6 @@
         "platforms",
         "preview_url",
         "song_key",
-        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -2016,30 +1969,28 @@
         "display_artists",
         "label",
         "short_link",
-        "status",
         "tags",
-        "substitute",
         "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Sonzai Riyu Kai",
-        "存在理由 改"
+        "Yurete Skirt",
+        "揺れてスカート"
       ],
       "animeCandidates": [
-        "DARK MACHINE: The Animation",
-        "DARK MACHINE -The Animation-",
-        "DARK MACHINE THE ANIMATION"
+        "A Wild Last Boss Appeared! Season 2",
+        "野生のラスボスが現れた！ 第2期",
+        "Yasei no Last Boss ga Arawareta! 2nd Season"
       ],
       "artistCandidates": [
-        "1162",
-        "BUCK-TICK",
-        "BUCK∞TICK",
-        "2DiecQcRbDuSJuSPKtirrX",
-        "73617069",
-        "4359",
-        "UCKoNktuAjXEn-f0ZCRpbDlA"
+        "24213",
+        "Chakura",
+        "ちゃくら",
+        "4y8KqtQgzRVDnQ072O7Vqr",
+        "1659156116",
+        "193022797",
+        "UCOK1WCN-6ucanL1nO0ZmimA"
       ],
       "animethemesVideo": null
     },
@@ -2103,6 +2054,70 @@
         "1081410768",
         "12421168",
         "UCx0PImuCTAcomS3v-cZOBDA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "artist": "VK Blanka",
+      "artistDisplay": "VK Blanka",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
+      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kanpeki no Peki",
+        "完璧のペキ",
+        "Kan Peki No Peki"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "498",
+        "VK Blanka",
+        "Vickeblanka",
+        "0PYPjvZaOa7bsCq26JOX8d",
+        "894895986",
+        "50322192",
+        "UCg2rvXE9x3zg01ZxyIt9DpA"
       ],
       "animethemesVideo": null
     },
@@ -2766,6 +2781,49 @@
   ],
   "sourceMetadataSamples": [
     {
+      "id": "28304",
+      "titles": [
+        "Hikari no Soba de",
+        "光の側で"
+      ],
+      "rawArtists": [
+        {
+          "id": 16565,
+          "names": [
+            "Nanashi no Taro",
+            "名無し之太郎"
+          ],
+          "links": [
+            "32xxJA5U8ot0QZPDllZ1po",
+            "1561101450",
+            "233584571",
+            "UCtYIwrBgW5h-nj6vytKbohQ"
+          ]
+        }
+      ],
+      "rawDisplayArtists": [
+        "Nanashi no Taro"
+      ],
+      "type": "track",
+      "song_type": "Ending",
+      "song_type_short": "ED",
+      "label": "Universal Music LLC",
+      "tags": [
+        "2_airing",
+        "1_new"
+      ],
+      "episodeFields": {
+        "type": "track",
+        "song_type": "Ending",
+        "song_type_short": "ED",
+        "label": "Universal Music LLC",
+        "tags": [
+          "2_airing",
+          "1_new"
+        ]
+      }
+    },
+    {
       "id": "27977",
       "titles": [
         "Kanawanai,",
@@ -3264,55 +3322,30 @@
         "song_type_short": "IN",
         "label": "Sony Music Labels Inc."
       }
-    },
-    {
-      "id": "28304",
-      "titles": [
-        "Hikari no Soba de",
-        "光の側で"
-      ],
-      "rawArtists": [
-        {
-          "id": 16565,
-          "names": [
-            "Nanashi no Taro",
-            "名無し之太郎"
-          ],
-          "links": [
-            "32xxJA5U8ot0QZPDllZ1po",
-            "1561101450",
-            "233584571"
-          ]
-        }
-      ],
-      "rawDisplayArtists": [
-        "Nanashi no Taro"
-      ],
-      "type": "track",
-      "song_type": "Ending",
-      "song_type_short": "ED",
-      "label": "Universal Music LLC",
-      "tags": [
-        "2_airing",
-        "1_new",
-        "5_releasing",
-        "4_missing"
-      ],
-      "episodeFields": {
-        "type": "track",
-        "song_type": "Ending",
-        "song_type_short": "ED",
-        "label": "Universal Music LLC",
-        "tags": [
-          "2_airing",
-          "1_new",
-          "5_releasing",
-          "4_missing"
-        ]
-      }
     }
   ],
   "detailUrlSamples": [
+    {
+      "id": "28305",
+      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "song": "Beyond the Night",
+      "kind": "TS",
+      "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-theme-song"
+    },
+    {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending"
+    },
+    {
+      "id": "28287",
+      "anime": "Devil's Crest",
+      "song": "Shinka",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening"
+    },
     {
       "id": "28291",
       "anime": "Grotesqqque",
@@ -3328,11 +3361,18 @@
       "detailUrl": "https://aniplaylist.com/play/grotesqqque-ending"
     },
     {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
       "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening"
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
+    },
+    {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
     },
     {
       "id": "28286",
@@ -3349,39 +3389,11 @@
       "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending"
     },
     {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
-    },
-    {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
-    },
-    {
-      "id": "28271",
-      "anime": "A Wild Last Boss Appeared! Season 2",
-      "song": "Yurete Skirt",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending"
-    },
-    {
       "id": "28153",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "In Love With Myself",
       "kind": "IN",
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself"
-    },
-    {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending"
     },
     {
       "id": "27900",
@@ -3405,13 +3417,6 @@
       "detailUrl": "https://aniplaylist.com/play/umayuru-full-gate-ending-2"
     },
     {
-      "id": "28086",
-      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
-      "song": "Here we are!",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size"
-    },
-    {
       "id": "27953",
       "anime": "Ranma ½ (2024) 3rd Season",
       "song": "Sunao Miman",
@@ -3433,11 +3438,11 @@
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-ending"
     },
     {
-      "id": "28088",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Sonzai Riyu Kai",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size"
+      "id": "28271",
+      "anime": "A Wild Last Boss Appeared! Season 2",
+      "song": "Yurete Skirt",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending"
     },
     {
       "id": "28084",
@@ -3445,6 +3450,13 @@
       "song": "Escort",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-opening"
+    },
+    {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending"
     },
     {
       "id": "27990",
@@ -3525,6 +3537,210 @@
     }
   ],
   "usableSamples": [
+    {
+      "id": "28305",
+      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "song": "Beyond the Night",
+      "artist": "TeddyLoid",
+      "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
+      "artistDisplayCount": 3,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
+      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-reso-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Beyond the Night"
+      ],
+      "animeCandidates": [
+        "Rakuen Tsuihou: Kokoro no Resonance",
+        "Liberated from Paradise: Resonance of the Heart",
+        "楽園追放 心のレゾナンス"
+      ],
+      "artistCandidates": [
+        "274",
+        "TeddyLoid",
+        "3GfNJrDTZY7voXPDx8gH9I",
+        "376334342",
+        "582291",
+        "UCSMEyA3pVYdTrO9HBXdfsfg",
+        "5261",
+        "Ayane Sakura",
+        "佐倉綾音",
+        "0EQhKMJfrQjmIJ6im9KyRB",
+        "1021925121",
+        "118071212",
+        "UCy5-YguW8GIvQYLyCa33oLQ",
+        "25810",
+        "Nagi Inoue",
+        "井上和"
+      ]
+    },
+    {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "artist": "Nanashi no Taro",
+      "artistDisplay": "Nanashi no Taro",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
+      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hikari no Soba de",
+        "光の側で"
+      ],
+      "animeCandidates": [
+        "From Far Away",
+        "Kanata kara",
+        "From the Other Side",
+        "彼⽅から",
+        "彼方から"
+      ],
+      "artistCandidates": [
+        "16565",
+        "Nanashi no Taro",
+        "名無し之太郎",
+        "32xxJA5U8ot0QZPDllZ1po",
+        "1561101450",
+        "233584571",
+        "UCtYIwrBgW5h-nj6vytKbohQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28287",
+      "anime": "Devil's Crest",
+      "song": "Shinka",
+      "artist": "Ado",
+      "artistDisplay": "Ado",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
+      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shinka",
+        "シンカ"
+      ],
+      "animeCandidates": [
+        "Devil's Crest",
+        "Demons' Crest",
+        "デモンズ・クレスト",
+        "Devils' Crest"
+      ],
+      "artistCandidates": [
+        "7645",
+        "Ado",
+        "6mEQK9m2krja6X1cfsAjfl",
+        "1492604670",
+        "121146382",
+        "UC5DHwv9N4OQ9AWtKr8YSefw"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28291",
       "anime": "Grotesqqque",
@@ -3693,19 +3909,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
-      "artist": "Ado",
-      "artistDisplay": "Ado",
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
       "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
-      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -3738,22 +3954,91 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Shinka",
-        "シンカ"
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
       ],
       "animeCandidates": [
-        "Devil's Crest",
-        "Demons' Crest",
-        "デモンズ・クレスト",
-        "Devils' Crest"
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
       ],
       "artistCandidates": [
-        "7645",
-        "Ado",
-        "6mEQK9m2krja6X1cfsAjfl",
-        "1492604670",
-        "121146382",
-        "UC5DHwv9N4OQ9AWtKr8YSefw"
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "artist": "Megatera Zero",
+      "artistDisplay": "Megatera Zero",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
+      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "products",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Onogami",
+        "オノガミ"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "14404",
+        "Megatera Zero",
+        "メガテラ・ゼロ",
+        "MEGATERA･ZERO",
+        "Mega Terra Zero",
+        "4I7F7bTQ9tBnRI2razDP9B",
+        "1466037690",
+        "147335922",
+        "UCe0GU9CHeC3hbvgYmzXc7OA"
       ],
       "animethemesVideo": null
     },
@@ -3887,206 +4172,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "artist": "Megatera Zero",
-      "artistDisplay": "Megatera Zero",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
-      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "products",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Onogami",
-        "オノガミ"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "14404",
-        "Megatera Zero",
-        "メガテラ・ゼロ",
-        "MEGATERA･ZERO",
-        "Mega Terra Zero",
-        "4I7F7bTQ9tBnRI2razDP9B",
-        "1466037690",
-        "147335922",
-        "UCe0GU9CHeC3hbvgYmzXc7OA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28271",
-      "anime": "A Wild Last Boss Appeared! Season 2",
-      "song": "Yurete Skirt",
-      "artist": "Chakura",
-      "artistDisplay": "Chakura",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
-      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yurete Skirt",
-        "揺れてスカート"
-      ],
-      "animeCandidates": [
-        "A Wild Last Boss Appeared! Season 2",
-        "野生のラスボスが現れた！ 第2期",
-        "Yasei no Last Boss ga Arawareta! 2nd Season"
-      ],
-      "artistCandidates": [
-        "24213",
-        "Chakura",
-        "ちゃくら",
-        "4y8KqtQgzRVDnQ072O7Vqr",
-        "1659156116",
-        "193022797",
-        "UCOK1WCN-6ucanL1nO0ZmimA"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28153",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "In Love With Myself",
@@ -4158,71 +4243,6 @@
         "25676",
         "Kalman Chodakiewitz, Eli Shiffman & Petite Meller"
       ]
-    },
-    {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
-      "artist": "VK Blanka",
-      "artistDisplay": "VK Blanka",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
-      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kanpeki no Peki",
-        "完璧のペキ",
-        "Kan Peki No Peki"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "498",
-        "VK Blanka",
-        "Vickeblanka",
-        "0PYPjvZaOa7bsCq26JOX8d",
-        "894895986",
-        "50322192",
-        "UCg2rvXE9x3zg01ZxyIt9DpA"
-      ],
-      "animethemesVideo": null
     },
     {
       "id": "27900",
@@ -4412,71 +4432,6 @@
       ],
       "artistCandidates": [
         "Various artists"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28086",
-      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
-      "song": "Here we are!",
-      "artist": "JAM Project",
-      "artistDisplay": "JAM Project",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
-      "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2c1c50c2f6a6d9c93ff83773e379d9b1c9f0c61e@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/battle-spirits-re-zekkai-no-kuu-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Here we are!"
-      ],
-      "animeCandidates": [
-        "Battle Spirits [Re]: Zekkai no Kuu",
-        "Battle Spirits [Re] 絶界の空",
-        "Battle Spirits [Re] Zekkai no Kuu",
-        "Battle Spirits [Re] Zekkai no Ku"
-      ],
-      "artistCandidates": [
-        "2070",
-        "JAM Project",
-        "0CPdwFVMsHZWpNgKuLaTuU",
-        "266646521",
-        "6372"
       ],
       "animethemesVideo": null
     },
@@ -4679,19 +4634,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28088",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Sonzai Riyu Kai",
-      "artist": "BUCK-TICK",
-      "artistDisplay": "BUCK-TICK",
+      "id": "28271",
+      "anime": "A Wild Last Boss Appeared! Season 2",
+      "song": "Yurete Skirt",
+      "artist": "Chakura",
+      "artistDisplay": "Chakura",
       "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
+      "kind": "ED",
+      "kindLabel": "Ending",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
-      "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening-tv-size",
+      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
+      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4708,7 +4663,6 @@
         "platforms",
         "preview_url",
         "song_key",
-        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -4718,30 +4672,28 @@
         "display_artists",
         "label",
         "short_link",
-        "status",
         "tags",
-        "substitute",
         "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Sonzai Riyu Kai",
-        "存在理由 改"
+        "Yurete Skirt",
+        "揺れてスカート"
       ],
       "animeCandidates": [
-        "DARK MACHINE: The Animation",
-        "DARK MACHINE -The Animation-",
-        "DARK MACHINE THE ANIMATION"
+        "A Wild Last Boss Appeared! Season 2",
+        "野生のラスボスが現れた！ 第2期",
+        "Yasei no Last Boss ga Arawareta! 2nd Season"
       ],
       "artistCandidates": [
-        "1162",
-        "BUCK-TICK",
-        "BUCK∞TICK",
-        "2DiecQcRbDuSJuSPKtirrX",
-        "73617069",
-        "4359",
-        "UCKoNktuAjXEn-f0ZCRpbDlA"
+        "24213",
+        "Chakura",
+        "ちゃくら",
+        "4y8KqtQgzRVDnQ072O7Vqr",
+        "1659156116",
+        "193022797",
+        "UCOK1WCN-6ucanL1nO0ZmimA"
       ],
       "animethemesVideo": null
     },
@@ -4805,6 +4757,70 @@
         "1081410768",
         "12421168",
         "UCx0PImuCTAcomS3v-cZOBDA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "artist": "VK Blanka",
+      "artistDisplay": "VK Blanka",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
+      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kanpeki no Peki",
+        "完璧のペキ",
+        "Kan Peki No Peki"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "498",
+        "VK Blanka",
+        "Vickeblanka",
+        "0PYPjvZaOa7bsCq26JOX8d",
+        "894895986",
+        "50322192",
+        "UCg2rvXE9x3zg01ZxyIt9DpA"
       ],
       "animethemesVideo": null
     },
@@ -5533,6 +5549,30 @@
   ],
   "platformSamples": [
     {
+      "id": "28305",
+      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "song": "Beyond the Night",
+      "kind": "TS",
+      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
+      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-reso-ts&app=music"
+    },
+    {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
+      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music"
+    },
+    {
+      "id": "28287",
+      "anime": "Devil's Crest",
+      "song": "Shinka",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
+      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music"
+    },
+    {
       "id": "28291",
       "anime": "Grotesqqque",
       "song": "Strings Vivantes",
@@ -5549,12 +5589,20 @@
       "apple": "https://geo.music.apple.com/album/6823568240?i=6823568817&at=1001l384j&ct=website-grotesqqque-ed&app=music"
     },
     {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
       "kind": "OP",
-      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
-      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music"
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
+    },
+    {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
+      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
     },
     {
       "id": "28286",
@@ -5573,44 +5621,12 @@
       "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music"
     },
     {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
-      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
-    },
-    {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
-    },
-    {
-      "id": "28271",
-      "anime": "A Wild Last Boss Appeared! Season 2",
-      "song": "Yurete Skirt",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
-      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music"
-    },
-    {
       "id": "28153",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "In Love With Myself",
       "kind": "IN",
       "spotify": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D",
       "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music"
-    },
-    {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
-      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music"
     },
     {
       "id": "27900",
@@ -5637,14 +5653,6 @@
       "apple": "https://geo.music.apple.com/album/6815901557?i=6815901737&at=1001l384j&ct=website-umayuru-full-gate-ed2&app=music"
     },
     {
-      "id": "28086",
-      "anime": "Battle Spirits [Re]: Zekkai no Kuu",
-      "song": "Here we are!",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/1uBXNqNnqmFzduNER7qRGt",
-      "apple": "https://geo.music.apple.com/album/6810178697?i=6810178698&at=1001l384j&ct=website-battle-spirits-re-zekk-optv-size&app=music"
-    },
-    {
       "id": "27953",
       "anime": "Ranma ½ (2024) 3rd Season",
       "song": "Sunao Miman",
@@ -5669,12 +5677,12 @@
       "apple": "https://geo.music.apple.com/album/6809991313?i=6809991318&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-ed&app=music"
     },
     {
-      "id": "28088",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Sonzai Riyu Kai",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/77JB6khdwycEfat92XggUS",
-      "apple": "https://geo.music.apple.com/album/6815903180?i=6815903181&at=1001l384j&ct=website-dark-machine-the-anima-optv-size&app=music"
+      "id": "28271",
+      "anime": "A Wild Last Boss Appeared! Season 2",
+      "song": "Yurete Skirt",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
+      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music"
     },
     {
       "id": "28084",
@@ -5683,6 +5691,14 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/6SN1inZu149TLU3e8Xp2a0",
       "apple": "https://geo.music.apple.com/album/6819121866?i=6819121868&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-op&app=music"
+    },
+    {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
+      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music"
     },
     {
       "id": "27990",
