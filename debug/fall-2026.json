@@ -23,6 +23,68 @@
   "mismatchedDetailPages": 0,
   "sample": [
     {
+      "id": "27883",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Turn The World Upside Down",
+      "artist": "Touko Kirishima",
+      "artistDisplay": "Touko Kirishima",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2rxXEhF8pvGKgq0ODWT608",
+      "apple": "https://geo.music.apple.com/album/6809422891?i=6809422894&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-insert-song-turn-the-world-upside-down",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Turn The World Upside Down"
+      ],
+      "animeCandidates": [
+        "Rascal Does Not Dream of a Dear Friend",
+        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+        "青春ブタ野郎はディアフレンドの夢を見ない"
+      ],
+      "artistCandidates": [
+        "17885",
+        "Touko Kirishima",
+        "霧島透子",
+        "7IrMYd2djETd56sjTPt3UP",
+        "1811798060",
+        "320905841",
+        "UC2ZVM7UDClF1fvew91aajbg"
+      ]
+    },
+    {
       "id": "28306",
       "anime": "DARK MACHINE: The Animation",
       "song": "Pitch Black",
@@ -238,19 +300,19 @@
       ]
     },
     {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
-      "artist": "Ado",
-      "artistDisplay": "Ado",
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
       "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
-      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -283,111 +345,40 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Shinka",
-        "シンカ"
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
       ],
       "animeCandidates": [
-        "Devil's Crest",
-        "Demons' Crest",
-        "デモンズ・クレスト",
-        "Devils' Crest"
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
       ],
       "artistCandidates": [
-        "7645",
-        "Ado",
-        "6mEQK9m2krja6X1cfsAjfl",
-        "1492604670",
-        "121146382",
-        "UC5DHwv9N4OQ9AWtKr8YSefw"
-      ]
-    },
-    {
-      "id": "28291",
-      "anime": "Grotesqqque",
-      "song": "Strings Vivantes",
-      "artist": "GROTESQQQUE",
-      "artistDisplay": "GROTESQQQUE & Nakano +",
-      "artistDisplayCount": 2,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 3)",
-      "episodes": [
-        "3"
-      ],
-      "spotify": "https://open.spotify.com/track/1G3r49XH0IhIRnCaHMd0g6",
-      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568634&at=1001l384j&ct=website-grotesqqque-in-ep-3&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/grotesqqque-insert-song-ep-3-strings-vivantes",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Strings Vivantes"
-      ],
-      "animeCandidates": [
-        "Grotesqqque",
-        "GROTESQQQUE-グロテスク-",
-        "Æliens",
-        "Yoroshiku★Shoujo",
-        "Nocturn: En Cette Nuit Grotesque",
-        "GROTESQQQUE",
-        "GTQ123",
-        "ÆLIENS (エリィアンズ)",
-        "AELIENS",
-        "Yoroshiku★Shoujo (夜露死駆★少女)",
-        "4649Girl",
-        "Yoroshiku★Girl",
-        "Evening Dew Heads to Its Death★Girl",
-        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
-        "NOCTURNE: NUIT GROTESQUE",
-        "NOCTURN: EN CETTE NUIT GROTESQUE"
-      ],
-      "artistCandidates": [
-        "24115",
-        "GROTESQQQUE",
-        "1In8PNOPWYnzc6PCjisqCn",
-        "6791445853",
-        "403964042",
-        "UCFQQnp5AUG5oPscUdhC5q1A",
-        "25794",
-        "Nakano +",
-        "1Ms9OCmbIMIBLaAVvbGQxy",
-        "6823055202",
-        "422493182",
-        "UCvCUhqQQ4MHWaMIn43Qu8Fw"
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
       ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "27883",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LCDv]2009E?wTe8w#%kQ5G-nxZo}",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg"
+    },
     {
       "id": "28306",
       "thumbnailType": "string",
@@ -419,36 +410,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg"
     },
     {
-      "id": "28287",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LaFGnRVCIVV@pys+a0kCkWo$s.t6",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg"
-    },
-    {
-      "id": "28291",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LqHV0ywik7SwtpnSSxocIVa^s:kC",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg"
-    },
-    {
-      "id": "28292",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LqHV0ywik7SwtpnSSxocIVa^s:kC",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg"
-    },
-    {
       "id": "28085",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82.jpg",
@@ -469,26 +430,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
     },
     {
-      "id": "28286",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LaFGnRVCIVV@pys+a0kCkWo$s.t6",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg"
-    },
-    {
-      "id": "28087",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LHIDLx0J9F=y0J-5x[wz1H}at2I:",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg"
-    },
-    {
       "id": "us_3384",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd.jpg",
@@ -507,6 +448,46 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg"
+    },
+    {
+      "id": "28287",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LaFGnRVCIVV@pys+a0kCkWo$s.t6",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg"
+    },
+    {
+      "id": "28291",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LqHV0ywik7SwtpnSSxocIVa^s:kC",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg"
+    },
+    {
+      "id": "28153",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/611deec5a26819ffd4f563a6f112f6689439e064.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LUKI}2y?[urr~Cpw%2NF$+tRNZrX",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg"
+    },
+    {
+      "id": "28292",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LqHV0ywik7SwtpnSSxocIVa^s:kC",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg"
     }
   ],
   "expectedHits": 245,
@@ -524,7 +505,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -540,7 +521,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -556,7 +537,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -572,7 +553,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -588,7 +569,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -604,7 +585,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -620,7 +601,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -636,7 +617,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -652,7 +633,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -668,7 +649,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -684,7 +665,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -700,7 +681,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -716,7 +697,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -732,7 +713,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -748,7 +729,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -764,13 +745,75 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28561,
+      "nbHits": 28566,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "27883",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Turn The World Upside Down",
+      "artist": "Touko Kirishima",
+      "artistDisplay": "Touko Kirishima",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2rxXEhF8pvGKgq0ODWT608",
+      "apple": "https://geo.music.apple.com/album/6809422891?i=6809422894&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-insert-song-turn-the-world-upside-down",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Turn The World Upside Down"
+      ],
+      "animeCandidates": [
+        "Rascal Does Not Dream of a Dear Friend",
+        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+        "青春ブタ野郎はディアフレンドの夢を見ない"
+      ],
+      "artistCandidates": [
+        "17885",
+        "Touko Kirishima",
+        "霧島透子",
+        "7IrMYd2djETd56sjTPt3UP",
+        "1811798060",
+        "320905841",
+        "UC2ZVM7UDClF1fvew91aajbg"
+      ]
+    },
     {
       "id": "28306",
       "anime": "DARK MACHINE: The Animation",
@@ -984,238 +1027,6 @@
         "1561101450",
         "233584571",
         "UCtYIwrBgW5h-nj6vytKbohQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
-      "artist": "Ado",
-      "artistDisplay": "Ado",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
-      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Shinka",
-        "シンカ"
-      ],
-      "animeCandidates": [
-        "Devil's Crest",
-        "Demons' Crest",
-        "デモンズ・クレスト",
-        "Devils' Crest"
-      ],
-      "artistCandidates": [
-        "7645",
-        "Ado",
-        "6mEQK9m2krja6X1cfsAjfl",
-        "1492604670",
-        "121146382",
-        "UC5DHwv9N4OQ9AWtKr8YSefw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28291",
-      "anime": "Grotesqqque",
-      "song": "Strings Vivantes",
-      "artist": "GROTESQQQUE",
-      "artistDisplay": "GROTESQQQUE & Nakano +",
-      "artistDisplayCount": 2,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 3)",
-      "episodes": [
-        "3"
-      ],
-      "spotify": "https://open.spotify.com/track/1G3r49XH0IhIRnCaHMd0g6",
-      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568634&at=1001l384j&ct=website-grotesqqque-in-ep-3&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/grotesqqque-insert-song-ep-3-strings-vivantes",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Strings Vivantes"
-      ],
-      "animeCandidates": [
-        "Grotesqqque",
-        "GROTESQQQUE-グロテスク-",
-        "Æliens",
-        "Yoroshiku★Shoujo",
-        "Nocturn: En Cette Nuit Grotesque",
-        "GROTESQQQUE",
-        "GTQ123",
-        "ÆLIENS (エリィアンズ)",
-        "AELIENS",
-        "Yoroshiku★Shoujo (夜露死駆★少女)",
-        "4649Girl",
-        "Yoroshiku★Girl",
-        "Evening Dew Heads to Its Death★Girl",
-        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
-        "NOCTURNE: NUIT GROTESQUE",
-        "NOCTURN: EN CETTE NUIT GROTESQUE"
-      ],
-      "artistCandidates": [
-        "24115",
-        "GROTESQQQUE",
-        "1In8PNOPWYnzc6PCjisqCn",
-        "6791445853",
-        "403964042",
-        "UCFQQnp5AUG5oPscUdhC5q1A",
-        "25794",
-        "Nakano +",
-        "1Ms9OCmbIMIBLaAVvbGQxy",
-        "6823055202",
-        "422493182",
-        "UCvCUhqQQ4MHWaMIn43Qu8Fw"
-      ]
-    },
-    {
-      "id": "28292",
-      "anime": "Grotesqqque",
-      "song": "Shampoo Kaeta no",
-      "artist": "GROTESQQQUE",
-      "artistDisplay": "GROTESQQQUE & Haoto",
-      "artistDisplayCount": 2,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0Go7z5T8APFHmAG0zKdrMO",
-      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568817&at=1001l384j&ct=website-grotesqqque-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/grotesqqque-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Shampoo Kaeta no",
-        "シャンプー変えたの"
-      ],
-      "animeCandidates": [
-        "Grotesqqque",
-        "GROTESQQQUE-グロテスク-",
-        "Æliens",
-        "Yoroshiku★Shoujo",
-        "Nocturn: En Cette Nuit Grotesque",
-        "GROTESQQQUE",
-        "GTQ123",
-        "ÆLIENS (エリィアンズ)",
-        "AELIENS",
-        "Yoroshiku★Shoujo (夜露死駆★少女)",
-        "4649Girl",
-        "Yoroshiku★Girl",
-        "Evening Dew Heads to Its Death★Girl",
-        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
-        "NOCTURNE: NUIT GROTESQUE",
-        "NOCTURN: EN CETTE NUIT GROTESQUE"
-      ],
-      "artistCandidates": [
-        "24115",
-        "GROTESQQQUE",
-        "1In8PNOPWYnzc6PCjisqCn",
-        "6791445853",
-        "403964042",
-        "UCFQQnp5AUG5oPscUdhC5q1A",
-        "25733",
-        "Haoto",
-        "葉音",
-        "5MkJ3ycBZl6A7sXr4AG5TD",
-        "438658686",
-        "5713960"
       ],
       "animethemesVideo": null
     },
@@ -1354,135 +1165,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28286",
-      "anime": "Devil's Crest",
-      "song": "ReaL",
-      "artist": "Soala",
-      "artistDisplay": "Soala",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5hvQhc2B5q5OH58Ps2TmWu",
-      "apple": "https://geo.music.apple.com/album/6828736329?i=6828736511&at=1001l384j&ct=website-devils-crest-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "ReaL"
-      ],
-      "animeCandidates": [
-        "Devil's Crest",
-        "Demons' Crest",
-        "デモンズ・クレスト",
-        "Devils' Crest"
-      ],
-      "artistCandidates": [
-        "17586",
-        "Soala",
-        "5MBWJMHvKch5TJxUPNOVer",
-        "1577002574",
-        "139541192",
-        "UC3PFoXZPFJGy9F4PG84nNQQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28087",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Tokimeki Un, Deux, Trois♪",
-      "artist": "Magic Vision Girls Party",
-      "artistDisplay": "Magic Vision Girls Party",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
-      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Tokimeki Un, Deux, Trois♪",
-        "ときめきアン・ドゥ・トロワ♪"
-      ],
-      "animeCandidates": [
-        "Nia Liston: The Merciless Maiden",
-        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
-      ],
-      "artistCandidates": [
-        "24259",
-        "Magic Vision Girls Party",
-        "魔法映像ひろめ隊",
-        "0xYoRHq0kMxSAmE0QF0qE0",
-        "6816815343",
-        "418828852",
-        "UCoueeWzU2MU1-ci3v3JZZBQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "us_3384",
       "anime": "Blue Box Season 2",
       "song": "Jingle Bells",
@@ -1598,6 +1280,155 @@
       ]
     },
     {
+      "id": "28287",
+      "anime": "Devil's Crest",
+      "song": "Shinka",
+      "artist": "Ado",
+      "artistDisplay": "Ado",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
+      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shinka",
+        "シンカ"
+      ],
+      "animeCandidates": [
+        "Devil's Crest",
+        "Demons' Crest",
+        "デモンズ・クレスト",
+        "Devils' Crest"
+      ],
+      "artistCandidates": [
+        "7645",
+        "Ado",
+        "6mEQK9m2krja6X1cfsAjfl",
+        "1492604670",
+        "121146382",
+        "UC5DHwv9N4OQ9AWtKr8YSefw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28291",
+      "anime": "Grotesqqque",
+      "song": "Strings Vivantes",
+      "artist": "GROTESQQQUE",
+      "artistDisplay": "GROTESQQQUE & Nakano +",
+      "artistDisplayCount": 2,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 3)",
+      "episodes": [
+        "3"
+      ],
+      "spotify": "https://open.spotify.com/track/1G3r49XH0IhIRnCaHMd0g6",
+      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568634&at=1001l384j&ct=website-grotesqqque-in-ep-3&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-insert-song-ep-3-strings-vivantes",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Strings Vivantes"
+      ],
+      "animeCandidates": [
+        "Grotesqqque",
+        "GROTESQQQUE-グロテスク-",
+        "Æliens",
+        "Yoroshiku★Shoujo",
+        "Nocturn: En Cette Nuit Grotesque",
+        "GROTESQQQUE",
+        "GTQ123",
+        "ÆLIENS (エリィアンズ)",
+        "AELIENS",
+        "Yoroshiku★Shoujo (夜露死駆★少女)",
+        "4649Girl",
+        "Yoroshiku★Girl",
+        "Evening Dew Heads to Its Death★Girl",
+        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+        "NOCTURNE: NUIT GROTESQUE",
+        "NOCTURN: EN CETTE NUIT GROTESQUE"
+      ],
+      "artistCandidates": [
+        "24115",
+        "GROTESQQQUE",
+        "1In8PNOPWYnzc6PCjisqCn",
+        "6791445853",
+        "403964042",
+        "UCFQQnp5AUG5oPscUdhC5q1A",
+        "25794",
+        "Nakano +",
+        "1Ms9OCmbIMIBLaAVvbGQxy",
+        "6823055202",
+        "422493182",
+        "UCvCUhqQQ4MHWaMIn43Qu8Fw"
+      ]
+    },
+    {
       "id": "28153",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "In Love With Myself",
@@ -1669,6 +1500,89 @@
         "25676",
         "Kalman Chodakiewitz, Eli Shiffman & Petite Meller"
       ]
+    },
+    {
+      "id": "28292",
+      "anime": "Grotesqqque",
+      "song": "Shampoo Kaeta no",
+      "artist": "GROTESQQQUE",
+      "artistDisplay": "GROTESQQQUE & Haoto",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0Go7z5T8APFHmAG0zKdrMO",
+      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568817&at=1001l384j&ct=website-grotesqqque-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8cb01922ee600b5d05a77cbac27a6c583865624@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shampoo Kaeta no",
+        "シャンプー変えたの"
+      ],
+      "animeCandidates": [
+        "Grotesqqque",
+        "GROTESQQQUE-グロテスク-",
+        "Æliens",
+        "Yoroshiku★Shoujo",
+        "Nocturn: En Cette Nuit Grotesque",
+        "GROTESQQQUE",
+        "GTQ123",
+        "ÆLIENS (エリィアンズ)",
+        "AELIENS",
+        "Yoroshiku★Shoujo (夜露死駆★少女)",
+        "4649Girl",
+        "Yoroshiku★Girl",
+        "Evening Dew Heads to Its Death★Girl",
+        "Nocturne: Kono Grotesque na Yoru ni (ノクターン～このグロテスクな夜に～)",
+        "NOCTURNE: NUIT GROTESQUE",
+        "NOCTURN: EN CETTE NUIT GROTESQUE"
+      ],
+      "artistCandidates": [
+        "24115",
+        "GROTESQQQUE",
+        "1In8PNOPWYnzc6PCjisqCn",
+        "6791445853",
+        "403964042",
+        "UCFQQnp5AUG5oPscUdhC5q1A",
+        "25733",
+        "Haoto",
+        "葉音",
+        "5MkJ3ycBZl6A7sXr4AG5TD",
+        "438658686",
+        "5713960"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "27900",
@@ -2510,6 +2424,71 @@
       "animethemesVideo": null
     },
     {
+      "id": "28087",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Tokimeki Un, Deux, Trois♪",
+      "artist": "Magic Vision Girls Party",
+      "artistDisplay": "Magic Vision Girls Party",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
+      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Tokimeki Un, Deux, Trois♪",
+        "ときめきアン・ドゥ・トロワ♪"
+      ],
+      "animeCandidates": [
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+      ],
+      "artistCandidates": [
+        "24259",
+        "Magic Vision Girls Party",
+        "魔法映像ひろめ隊",
+        "0xYoRHq0kMxSAmE0QF0qE0",
+        "6816815343",
+        "418828852",
+        "UCoueeWzU2MU1-ci3v3JZZBQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "27817",
       "anime": "Tokyo Revengers: War of the Three Titan Arc",
       "song": "TRICKSTER",
@@ -2560,7 +2539,8 @@
       "animeCandidates": [
         "Tokyo Revengers: War of the Three Titan Arc",
         "Tokyo Revengers: Santen Sensou-hen",
-        "東京リベンジャーズ 三天戦争編"
+        "東京リベンジャーズ 三天戦争編",
+        "Tokyo Revengers: War of the Three Titans Arc"
       ],
       "artistCandidates": [
         "794",
@@ -2752,7 +2732,8 @@
       "animeCandidates": [
         "Tokyo Revengers: War of the Three Titan Arc",
         "Tokyo Revengers: Santen Sensou-hen",
-        "東京リベンジャーズ 三天戦争編"
+        "東京リベンジャーズ 三天戦争編",
+        "Tokyo Revengers: War of the Three Titans Arc"
       ],
       "artistCandidates": [
         "7989",
@@ -3312,6 +3293,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "27883",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Turn The World Upside Down",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-insert-song-turn-the-world-upside-down"
+    },
+    {
       "id": "28306",
       "anime": "DARK MACHINE: The Animation",
       "song": "Pitch Black",
@@ -3333,27 +3321,6 @@
       "detailUrl": "https://aniplaylist.com/play/from-far-away-ending"
     },
     {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening"
-    },
-    {
-      "id": "28291",
-      "anime": "Grotesqqque",
-      "song": "Strings Vivantes",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/grotesqqque-insert-song-ep-3-strings-vivantes"
-    },
-    {
-      "id": "28292",
-      "anime": "Grotesqqque",
-      "song": "Shampoo Kaeta no",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/grotesqqque-ending"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -3368,18 +3335,18 @@
       "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
     },
     {
-      "id": "28286",
+      "id": "28287",
       "anime": "Devil's Crest",
-      "song": "ReaL",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-ending"
+      "song": "Shinka",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening"
     },
     {
-      "id": "28087",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Tokimeki Un, Deux, Trois♪",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending"
+      "id": "28291",
+      "anime": "Grotesqqque",
+      "song": "Strings Vivantes",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-insert-song-ep-3-strings-vivantes"
     },
     {
       "id": "28153",
@@ -3387,6 +3354,13 @@
       "song": "In Love With Myself",
       "kind": "IN",
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself"
+    },
+    {
+      "id": "28292",
+      "anime": "Grotesqqque",
+      "song": "Shampoo Kaeta no",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/grotesqqque-ending"
     },
     {
       "id": "27900",
@@ -3473,6 +3447,13 @@
       "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending"
     },
     {
+      "id": "28087",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Tokimeki Un, Deux, Trois♪",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending"
+    },
+    {
       "id": "27817",
       "anime": "Tokyo Revengers: War of the Three Titan Arc",
       "song": "TRICKSTER",
@@ -3523,6 +3504,68 @@
     }
   ],
   "usableSamples": [
+    {
+      "id": "27883",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Turn The World Upside Down",
+      "artist": "Touko Kirishima",
+      "artistDisplay": "Touko Kirishima",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2rxXEhF8pvGKgq0ODWT608",
+      "apple": "https://geo.music.apple.com/album/6809422891?i=6809422894&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-insert-song-turn-the-world-upside-down",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Turn The World Upside Down"
+      ],
+      "animeCandidates": [
+        "Rascal Does Not Dream of a Dear Friend",
+        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+        "青春ブタ野郎はディアフレンドの夢を見ない"
+      ],
+      "artistCandidates": [
+        "17885",
+        "Touko Kirishima",
+        "霧島透子",
+        "7IrMYd2djETd56sjTPt3UP",
+        "1811798060",
+        "320905841",
+        "UC2ZVM7UDClF1fvew91aajbg"
+      ]
+    },
     {
       "id": "28306",
       "anime": "DARK MACHINE: The Animation",
@@ -3740,6 +3783,140 @@
       "animethemesVideo": null
     },
     {
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "artist": "Megatera Zero",
+      "artistDisplay": "Megatera Zero",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
+      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "products",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Onogami",
+        "オノガミ"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "14404",
+        "Megatera Zero",
+        "メガテラ・ゼロ",
+        "MEGATERA･ZERO",
+        "Mega Terra Zero",
+        "4I7F7bTQ9tBnRI2razDP9B",
+        "1466037690",
+        "147335922",
+        "UCe0GU9CHeC3hbvgYmzXc7OA"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28287",
       "anime": "Devil's Crest",
       "song": "Shinka",
@@ -3889,6 +4066,79 @@
       ]
     },
     {
+      "id": "28153",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "In Love With Myself",
+      "artist": "Kalman Chodakiewitz",
+      "artistDisplay": "Kalman Chodakiewitz, Eli Shiffman, Petite Meller & Kalman Chodakiewitz, Eli Shiffman & Petite Meller",
+      "artistDisplayCount": 4,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 10)",
+      "episodes": [
+        "10"
+      ],
+      "spotify": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "In Love With Myself"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2",
+        "Cyberpunk Edgerunners 2"
+      ],
+      "artistCandidates": [
+        "25674",
+        "Kalman Chodakiewitz",
+        "04CWg0uT79a10dBoyRu4ft",
+        "198852877",
+        "25675",
+        "Eli Shiffman",
+        "49TPnY519EQ4n5pRuWlCgb",
+        "422377282",
+        "23935",
+        "Petite Meller",
+        "2gUVyV9z7T6cielHCMSpvb",
+        "718238708",
+        "5299859",
+        "UCzhnTfx-ynhNr2irlAGAmRA",
+        "25676",
+        "Kalman Chodakiewitz, Eli Shiffman & Petite Meller"
+      ]
+    },
+    {
       "id": "28292",
       "anime": "Grotesqqque",
       "song": "Shampoo Kaeta no",
@@ -3970,342 +4220,6 @@
         "5713960"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "artist": "Megatera Zero",
-      "artistDisplay": "Megatera Zero",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
-      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "products",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Onogami",
-        "オノガミ"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "14404",
-        "Megatera Zero",
-        "メガテラ・ゼロ",
-        "MEGATERA･ZERO",
-        "Mega Terra Zero",
-        "4I7F7bTQ9tBnRI2razDP9B",
-        "1466037690",
-        "147335922",
-        "UCe0GU9CHeC3hbvgYmzXc7OA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28286",
-      "anime": "Devil's Crest",
-      "song": "ReaL",
-      "artist": "Soala",
-      "artistDisplay": "Soala",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5hvQhc2B5q5OH58Ps2TmWu",
-      "apple": "https://geo.music.apple.com/album/6828736329?i=6828736511&at=1001l384j&ct=website-devils-crest-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "ReaL"
-      ],
-      "animeCandidates": [
-        "Devil's Crest",
-        "Demons' Crest",
-        "デモンズ・クレスト",
-        "Devils' Crest"
-      ],
-      "artistCandidates": [
-        "17586",
-        "Soala",
-        "5MBWJMHvKch5TJxUPNOVer",
-        "1577002574",
-        "139541192",
-        "UC3PFoXZPFJGy9F4PG84nNQQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28087",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Tokimeki Un, Deux, Trois♪",
-      "artist": "Magic Vision Girls Party",
-      "artistDisplay": "Magic Vision Girls Party",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
-      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Tokimeki Un, Deux, Trois♪",
-        "ときめきアン・ドゥ・トロワ♪"
-      ],
-      "animeCandidates": [
-        "Nia Liston: The Merciless Maiden",
-        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
-      ],
-      "artistCandidates": [
-        "24259",
-        "Magic Vision Girls Party",
-        "魔法映像ひろめ隊",
-        "0xYoRHq0kMxSAmE0QF0qE0",
-        "6816815343",
-        "418828852",
-        "UCoueeWzU2MU1-ci3v3JZZBQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28153",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "In Love With Myself",
-      "artist": "Kalman Chodakiewitz",
-      "artistDisplay": "Kalman Chodakiewitz, Eli Shiffman, Petite Meller & Kalman Chodakiewitz, Eli Shiffman & Petite Meller",
-      "artistDisplayCount": 4,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 10)",
-      "episodes": [
-        "10"
-      ],
-      "spotify": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D",
-      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "In Love With Myself"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2",
-        "Cyberpunk Edgerunners 2"
-      ],
-      "artistCandidates": [
-        "25674",
-        "Kalman Chodakiewitz",
-        "04CWg0uT79a10dBoyRu4ft",
-        "198852877",
-        "25675",
-        "Eli Shiffman",
-        "49TPnY519EQ4n5pRuWlCgb",
-        "422377282",
-        "23935",
-        "Petite Meller",
-        "2gUVyV9z7T6cielHCMSpvb",
-        "718238708",
-        "5299859",
-        "UCzhnTfx-ynhNr2irlAGAmRA",
-        "25676",
-        "Kalman Chodakiewitz, Eli Shiffman & Petite Meller"
-      ]
     },
     {
       "id": "27900",
@@ -5089,6 +5003,71 @@
       "animethemesVideo": null
     },
     {
+      "id": "28087",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Tokimeki Un, Deux, Trois♪",
+      "artist": "Magic Vision Girls Party",
+      "artistDisplay": "Magic Vision Girls Party",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
+      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7fe96388a92df48009817ca6e9e6e34a111f7a51@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Tokimeki Un, Deux, Trois♪",
+        "ときめきアン・ドゥ・トロワ♪"
+      ],
+      "animeCandidates": [
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+      ],
+      "artistCandidates": [
+        "24259",
+        "Magic Vision Girls Party",
+        "魔法映像ひろめ隊",
+        "0xYoRHq0kMxSAmE0QF0qE0",
+        "6816815343",
+        "418828852",
+        "UCoueeWzU2MU1-ci3v3JZZBQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "27817",
       "anime": "Tokyo Revengers: War of the Three Titan Arc",
       "song": "TRICKSTER",
@@ -5139,7 +5118,8 @@
       "animeCandidates": [
         "Tokyo Revengers: War of the Three Titan Arc",
         "Tokyo Revengers: Santen Sensou-hen",
-        "東京リベンジャーズ 三天戦争編"
+        "東京リベンジャーズ 三天戦争編",
+        "Tokyo Revengers: War of the Three Titans Arc"
       ],
       "artistCandidates": [
         "794",
@@ -5331,7 +5311,8 @@
       "animeCandidates": [
         "Tokyo Revengers: War of the Three Titan Arc",
         "Tokyo Revengers: Santen Sensou-hen",
-        "東京リベンジャーズ 三天戦争編"
+        "東京リベンジャーズ 三天戦争編",
+        "Tokyo Revengers: War of the Three Titans Arc"
       ],
       "artistCandidates": [
         "7989",
@@ -5547,6 +5528,14 @@
   ],
   "platformSamples": [
     {
+      "id": "27883",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Turn The World Upside Down",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/2rxXEhF8pvGKgq0ODWT608",
+      "apple": "https://geo.music.apple.com/album/6809422891?i=6809422894&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-in&app=music"
+    },
+    {
       "id": "28306",
       "anime": "DARK MACHINE: The Animation",
       "song": "Pitch Black",
@@ -5571,30 +5560,6 @@
       "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music"
     },
     {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
-      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music"
-    },
-    {
-      "id": "28291",
-      "anime": "Grotesqqque",
-      "song": "Strings Vivantes",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/1G3r49XH0IhIRnCaHMd0g6",
-      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568634&at=1001l384j&ct=website-grotesqqque-in-ep-3&app=music"
-    },
-    {
-      "id": "28292",
-      "anime": "Grotesqqque",
-      "song": "Shampoo Kaeta no",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/0Go7z5T8APFHmAG0zKdrMO",
-      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568817&at=1001l384j&ct=website-grotesqqque-ed&app=music"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -5611,20 +5576,20 @@
       "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
     },
     {
-      "id": "28286",
+      "id": "28287",
       "anime": "Devil's Crest",
-      "song": "ReaL",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/5hvQhc2B5q5OH58Ps2TmWu",
-      "apple": "https://geo.music.apple.com/album/6828736329?i=6828736511&at=1001l384j&ct=website-devils-crest-ed&app=music"
+      "song": "Shinka",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
+      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music"
     },
     {
-      "id": "28087",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Tokimeki Un, Deux, Trois♪",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
-      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music"
+      "id": "28291",
+      "anime": "Grotesqqque",
+      "song": "Strings Vivantes",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/1G3r49XH0IhIRnCaHMd0g6",
+      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568634&at=1001l384j&ct=website-grotesqqque-in-ep-3&app=music"
     },
     {
       "id": "28153",
@@ -5633,6 +5598,14 @@
       "kind": "IN",
       "spotify": "https://open.spotify.com/track/2iyaHQlYrR8Eyr4wOmOT5D",
       "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music"
+    },
+    {
+      "id": "28292",
+      "anime": "Grotesqqque",
+      "song": "Shampoo Kaeta no",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/0Go7z5T8APFHmAG0zKdrMO",
+      "apple": "https://geo.music.apple.com/album/6823568240?i=6823568817&at=1001l384j&ct=website-grotesqqque-ed&app=music"
     },
     {
       "id": "27900",
@@ -5729,6 +5702,14 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
       "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music"
+    },
+    {
+      "id": "28087",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Tokimeki Un, Deux, Trois♪",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/4yKMH87vthfpjr9YI1u45e",
+      "apple": "https://geo.music.apple.com/album/6816815403?i=6816815404&at=1001l384j&ct=website-nia-liston-the-merciless-maid-ed&app=music"
     },
     {
       "id": "27817",

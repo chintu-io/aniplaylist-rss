@@ -11906,7 +11906,8 @@
     "animeCandidates": [
       "Tokyo Revengers: War of the Three Titan Arc",
       "Tokyo Revengers: Santen Sensou-hen",
-      "東京リベンジャーズ 三天戦争編"
+      "東京リベンジャーズ 三天戦争編",
+      "Tokyo Revengers: War of the Three Titans Arc"
     ],
     "artistCandidates": [
       "7989",
@@ -12034,7 +12035,8 @@
     "animeCandidates": [
       "Tokyo Revengers: War of the Three Titan Arc",
       "Tokyo Revengers: Santen Sensou-hen",
-      "東京リベンジャーズ 三天戦争編"
+      "東京リベンジャーズ 三天戦争編",
+      "Tokyo Revengers: War of the Three Titans Arc"
     ],
     "artistCandidates": [
       "794",
@@ -15553,7 +15555,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -15620,7 +15621,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
