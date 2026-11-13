@@ -19538,6 +19538,7 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "substitute",
       "other_link_ids",
@@ -21140,7 +21141,7 @@
   },
   "f47bad901bc8edb3": {
     "id": "28305",
-    "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+    "anime": "Expelled from Paradise: Resonance",
     "song": "Beyond the Night",
     "artist": "TeddyLoid",
     "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
@@ -21149,9 +21150,9 @@
     "kindLabel": "Theme Song",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
-    "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-reso-ts&app=music",
+    "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
-    "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-theme-song",
+    "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -21187,6 +21188,7 @@
       "Beyond the Night"
     ],
     "animeCandidates": [
+      "Expelled from Paradise: Resonance",
       "Rakuen Tsuihou: Kokoro no Resonance",
       "Liberated from Paradise: Resonance of the Heart",
       "楽園追放 心のレゾナンス"
@@ -21359,7 +21361,7 @@
   },
   "720955d1c3a428f0": {
     "id": "28311",
-    "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+    "anime": "Expelled from Paradise: Resonance",
     "song": "Original Soundtrack",
     "artist": "NARASAKI",
     "artistDisplay": "NARASAKI",
@@ -21368,9 +21370,9 @@
     "kindLabel": "OST",
     "episodes": [],
     "spotify": "https://open.spotify.com/album/2lhhBq4sm0uXhZ7fumSBpz",
-    "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-res-ost&app=music",
+    "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-expelled-from-paradise-reson-ost&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f22d1d306b0b0b46c997ffca164b85466d6448b5@2xl.jpeg",
-    "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-original-soundtrack",
+    "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-original-soundtrack",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -21407,6 +21409,7 @@
       "「楽園追放 心のレゾナンス」オリジナルサウンドトラック"
     ],
     "animeCandidates": [
+      "Expelled from Paradise: Resonance",
       "Rakuen Tsuihou: Kokoro no Resonance",
       "Liberated from Paradise: Resonance of the Heart",
       "楽園追放 心のレゾナンス"

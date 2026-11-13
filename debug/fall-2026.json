@@ -24,7 +24,7 @@
   "sample": [
     {
       "id": "28311",
-      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "anime": "Expelled from Paradise: Resonance",
       "song": "Original Soundtrack",
       "artist": "NARASAKI",
       "artistDisplay": "NARASAKI",
@@ -33,9 +33,9 @@
       "kindLabel": "OST",
       "episodes": [],
       "spotify": "https://open.spotify.com/album/2lhhBq4sm0uXhZ7fumSBpz",
-      "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-res-ost&app=music",
+      "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-expelled-from-paradise-reson-ost&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f22d1d306b0b0b46c997ffca164b85466d6448b5@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-original-soundtrack",
+      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-original-soundtrack",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -72,6 +72,7 @@
         "「楽園追放 心のレゾナンス」オリジナルサウンドトラック"
       ],
       "animeCandidates": [
+        "Expelled from Paradise: Resonance",
         "Rakuen Tsuihou: Kokoro no Resonance",
         "Liberated from Paradise: Resonance of the Heart",
         "楽園追放 心のレゾナンス"
@@ -226,7 +227,7 @@
     },
     {
       "id": "28305",
-      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "anime": "Expelled from Paradise: Resonance",
       "song": "Beyond the Night",
       "artist": "TeddyLoid",
       "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
@@ -235,9 +236,9 @@
       "kindLabel": "Theme Song",
       "episodes": [],
       "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
-      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-reso-ts&app=music",
+      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-theme-song",
+      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -273,6 +274,7 @@
         "Beyond the Night"
       ],
       "animeCandidates": [
+        "Expelled from Paradise: Resonance",
         "Rakuen Tsuihou: Kokoro no Resonance",
         "Liberated from Paradise: Resonance of the Heart",
         "楽園追放 心のレゾナンス"
@@ -501,7 +503,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -517,7 +519,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -533,7 +535,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -549,7 +551,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -565,7 +567,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -581,7 +583,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -597,7 +599,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -613,7 +615,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -629,7 +631,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -645,7 +647,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -661,7 +663,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -677,7 +679,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -693,7 +695,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -709,7 +711,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -725,7 +727,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -741,7 +743,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28567,
+      "nbHits": 28569,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -750,7 +752,7 @@
   "normalizedSamples": [
     {
       "id": "28311",
-      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "anime": "Expelled from Paradise: Resonance",
       "song": "Original Soundtrack",
       "artist": "NARASAKI",
       "artistDisplay": "NARASAKI",
@@ -759,9 +761,9 @@
       "kindLabel": "OST",
       "episodes": [],
       "spotify": "https://open.spotify.com/album/2lhhBq4sm0uXhZ7fumSBpz",
-      "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-res-ost&app=music",
+      "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-expelled-from-paradise-reson-ost&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f22d1d306b0b0b46c997ffca164b85466d6448b5@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-original-soundtrack",
+      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-original-soundtrack",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -798,6 +800,7 @@
         "「楽園追放 心のレゾナンス」オリジナルサウンドトラック"
       ],
       "animeCandidates": [
+        "Expelled from Paradise: Resonance",
         "Rakuen Tsuihou: Kokoro no Resonance",
         "Liberated from Paradise: Resonance of the Heart",
         "楽園追放 心のレゾナンス"
@@ -952,7 +955,7 @@
     },
     {
       "id": "28305",
-      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "anime": "Expelled from Paradise: Resonance",
       "song": "Beyond the Night",
       "artist": "TeddyLoid",
       "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
@@ -961,9 +964,9 @@
       "kindLabel": "Theme Song",
       "episodes": [],
       "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
-      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-reso-ts&app=music",
+      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-theme-song",
+      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -999,6 +1002,7 @@
         "Beyond the Night"
       ],
       "animeCandidates": [
+        "Expelled from Paradise: Resonance",
         "Rakuen Tsuihou: Kokoro no Resonance",
         "Liberated from Paradise: Resonance of the Heart",
         "楽園追放 心のレゾナンス"
@@ -3250,10 +3254,10 @@
   "detailUrlSamples": [
     {
       "id": "28311",
-      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "anime": "Expelled from Paradise: Resonance",
       "song": "Original Soundtrack",
       "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-original-soundtrack"
+      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-original-soundtrack"
     },
     {
       "id": "27883",
@@ -3271,10 +3275,10 @@
     },
     {
       "id": "28305",
-      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "anime": "Expelled from Paradise: Resonance",
       "song": "Beyond the Night",
       "kind": "TS",
-      "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-theme-song"
+      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song"
     },
     {
       "id": "28304",
@@ -3462,7 +3466,7 @@
   "usableSamples": [
     {
       "id": "28311",
-      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "anime": "Expelled from Paradise: Resonance",
       "song": "Original Soundtrack",
       "artist": "NARASAKI",
       "artistDisplay": "NARASAKI",
@@ -3471,9 +3475,9 @@
       "kindLabel": "OST",
       "episodes": [],
       "spotify": "https://open.spotify.com/album/2lhhBq4sm0uXhZ7fumSBpz",
-      "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-res-ost&app=music",
+      "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-expelled-from-paradise-reson-ost&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f22d1d306b0b0b46c997ffca164b85466d6448b5@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-original-soundtrack",
+      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-original-soundtrack",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -3510,6 +3514,7 @@
         "「楽園追放 心のレゾナンス」オリジナルサウンドトラック"
       ],
       "animeCandidates": [
+        "Expelled from Paradise: Resonance",
         "Rakuen Tsuihou: Kokoro no Resonance",
         "Liberated from Paradise: Resonance of the Heart",
         "楽園追放 心のレゾナンス"
@@ -3664,7 +3669,7 @@
     },
     {
       "id": "28305",
-      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "anime": "Expelled from Paradise: Resonance",
       "song": "Beyond the Night",
       "artist": "TeddyLoid",
       "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
@@ -3673,9 +3678,9 @@
       "kindLabel": "Theme Song",
       "episodes": [],
       "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
-      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-reso-ts&app=music",
+      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/rakuen-tsuihou-kokoro-no-resonance-theme-song",
+      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -3711,6 +3716,7 @@
         "Beyond the Night"
       ],
       "animeCandidates": [
+        "Expelled from Paradise: Resonance",
         "Rakuen Tsuihou: Kokoro no Resonance",
         "Liberated from Paradise: Resonance of the Heart",
         "楽園追放 心のレゾナンス"
@@ -5436,11 +5442,11 @@
   "platformSamples": [
     {
       "id": "28311",
-      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "anime": "Expelled from Paradise: Resonance",
       "song": "Original Soundtrack",
       "kind": "OST",
       "spotify": "https://open.spotify.com/album/2lhhBq4sm0uXhZ7fumSBpz",
-      "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-res-ost&app=music"
+      "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-expelled-from-paradise-reson-ost&app=music"
     },
     {
       "id": "27883",
@@ -5460,11 +5466,11 @@
     },
     {
       "id": "28305",
-      "anime": "Rakuen Tsuihou: Kokoro no Resonance",
+      "anime": "Expelled from Paradise: Resonance",
       "song": "Beyond the Night",
       "kind": "TS",
       "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
-      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-rakuen-tsuihou-kokoro-no-reso-ts&app=music"
+      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music"
     },
     {
       "id": "28304",
