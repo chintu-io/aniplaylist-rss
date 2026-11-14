@@ -9055,7 +9055,8 @@
     "animeCandidates": [
       "The World's Strongest Witch",
       "Sekai Saikyou no Majo, Hajimemashita",
-      "世界最強の魔女、始めました"
+      "世界最強の魔女、始めました",
+      "Sekamajo"
     ],
     "artistCandidates": [
       "16629",
@@ -9127,7 +9128,8 @@
     "animeCandidates": [
       "The World's Strongest Witch",
       "Sekai Saikyou no Majo, Hajimemashita",
-      "世界最強の魔女、始めました"
+      "世界最強の魔女、始めました",
+      "Sekamajo"
     ],
     "artistCandidates": [
       "15614",
@@ -16425,7 +16427,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -20882,8 +20883,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -20964,7 +20963,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -21030,8 +21028,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -21423,5 +21419,72 @@
       "UC-peGh6hOhrOrji2w61yRGA"
     ],
     "firstSeen": "2026-11-13T07:51:48.000Z"
+  },
+  "ec03a1490771873b": {
+    "id": "28312",
+    "anime": "Tokyo Revengers: War of the Three Titan Arc",
+    "song": "Original Soundtrack",
+    "artist": "Hiroaki Tsutsumi",
+    "artistDisplay": "Hiroaki Tsutsumi",
+    "artistDisplayCount": 1,
+    "kind": "OST",
+    "kindLabel": "OST",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/album/4Hi5b3quDrK9wjT6SKOSUZ",
+    "apple": "https://geo.music.apple.com/album/6827479496?at=1001l384j&ct=website-tokyo-revengers-war-of-the-t-ost&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/87d1da6c3e33f75ee83b673a5681f65ffebf0662@2xl.jpeg",
+    "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-original-soundtrack",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "status",
+      "tags",
+      "other_link_ids",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Original Soundtrack",
+      "TVアニメ『東京リベンジャーズ』三天戦争編 オリジナル・サウンドトラック"
+    ],
+    "animeCandidates": [
+      "Tokyo Revengers: War of the Three Titan Arc",
+      "Tokyo Revengers: Santen Sensou-hen",
+      "東京リベンジャーズ 三天戦争編",
+      "Tokyo Revengers: War of the Three Titans Arc"
+    ],
+    "artistCandidates": [
+      "1024",
+      "Hiroaki Tsutsumi",
+      "堤博明",
+      "堤 博明",
+      "4uXJgaCc1GtHWtFq8CmPmQ",
+      "977896275",
+      "118070312",
+      "UCryC22FtgLGUvq5kk2ckvlA"
+    ],
+    "firstSeen": "2026-11-14T10:13:30.000Z"
   }
 }

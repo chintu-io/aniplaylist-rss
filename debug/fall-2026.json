@@ -3,25 +3,91 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 246,
+  "resultCount": 247,
   "animeThemesChecked": 154,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 73,
   "jsonResponses": 34,
   "algoliaResponses": 16,
   "hitArrays": 32,
-  "rawHits": 246,
-  "uniqueHits": 246,
-  "normalized": 246,
-  "withSpotify": 210,
-  "withApple": 212,
-  "withDetailUrl": 213,
-  "resolvedSpotify": 210,
-  "recordThumbnails": 246,
+  "rawHits": 247,
+  "uniqueHits": 247,
+  "normalized": 247,
+  "withSpotify": 211,
+  "withApple": 213,
+  "withDetailUrl": 214,
+  "resolvedSpotify": 211,
+  "recordThumbnails": 247,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28312",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "Original Soundtrack",
+      "artist": "Hiroaki Tsutsumi",
+      "artistDisplay": "Hiroaki Tsutsumi",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/4Hi5b3quDrK9wjT6SKOSUZ",
+      "apple": "https://geo.music.apple.com/album/6827479496?at=1001l384j&ct=website-tokyo-revengers-war-of-the-t-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/87d1da6c3e33f75ee83b673a5681f65ffebf0662@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack",
+        "TVアニメ『東京リベンジャーズ』三天戦争編 オリジナル・サウンドトラック"
+      ],
+      "animeCandidates": [
+        "Tokyo Revengers: War of the Three Titan Arc",
+        "Tokyo Revengers: Santen Sensou-hen",
+        "東京リベンジャーズ 三天戦争編",
+        "Tokyo Revengers: War of the Three Titans Arc"
+      ],
+      "artistCandidates": [
+        "1024",
+        "Hiroaki Tsutsumi",
+        "堤博明",
+        "堤 博明",
+        "4uXJgaCc1GtHWtFq8CmPmQ",
+        "977896275",
+        "118070312",
+        "UCryC22FtgLGUvq5kk2ckvlA"
+      ]
+    },
     {
       "id": "28311",
       "anime": "Expelled from Paradise: Resonance",
@@ -226,19 +292,21 @@
       ]
     },
     {
-      "id": "28305",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Beyond the Night",
-      "artist": "TeddyLoid",
-      "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
-      "artistDisplayCount": 3,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
-      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song",
+      "id": "28171",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Deux Livres",
+      "artist": "Nia Liston (CV: Honoka Inoue)",
+      "artistDisplay": "Nia Liston (CV: Honoka Inoue) & Sharro White (CV: Maaya Uchida)",
+      "artistDisplayCount": 2,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [
+        "3"
+      ],
+      "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
+      "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -255,6 +323,7 @@
         "platforms",
         "preview_url",
         "song_key",
+        "episodes",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -266,107 +335,47 @@
         "short_link",
         "status",
         "tags",
+        "substitute",
         "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Beyond the Night"
+        "Deux Livres"
       ],
       "animeCandidates": [
-        "Expelled from Paradise: Resonance",
-        "Rakuen Tsuihou: Kokoro no Resonance",
-        "Liberated from Paradise: Resonance of the Heart",
-        "楽園追放 心のレゾナンス"
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
       ],
       "artistCandidates": [
-        "274",
-        "TeddyLoid",
-        "3GfNJrDTZY7voXPDx8gH9I",
-        "376334342",
-        "582291",
-        "UCSMEyA3pVYdTrO9HBXdfsfg",
-        "5261",
-        "Ayane Sakura",
-        "佐倉綾音",
-        "0EQhKMJfrQjmIJ6im9KyRB",
-        "1021925121",
-        "118071212",
-        "UCy5-YguW8GIvQYLyCa33oLQ",
-        "25810",
-        "Nagi Inoue",
-        "井上和"
-      ]
-    },
-    {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "artist": "Nanashi no Taro",
-      "artistDisplay": "Nanashi no Taro",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
-      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Hikari no Soba de",
-        "光の側で"
-      ],
-      "animeCandidates": [
-        "From Far Away",
-        "Kanata kara",
-        "From the Other Side",
-        "彼⽅から",
-        "彼方から"
-      ],
-      "artistCandidates": [
-        "16565",
-        "Nanashi no Taro",
-        "名無し之太郎",
-        "32xxJA5U8ot0QZPDllZ1po",
-        "1561101450",
-        "233584571",
-        "UCtYIwrBgW5h-nj6vytKbohQ"
+        "25678",
+        "Nia Liston (CV: Honoka Inoue)",
+        "ニア・リストン (CV: 井上ほの花)",
+        "1YOSNboXUUV8fcZJw4Zjob",
+        "6816815405",
+        "420276352",
+        "25679",
+        "Sharro White (CV: Maaya Uchida)",
+        "シャロ・ホワイト (CV: 内田真礼)",
+        "0u5zYLqFPffIeW9CfueFiG",
+        "6818432377",
+        "420276362"
       ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28312",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/87d1da6c3e33f75ee83b673a5681f65ffebf0662.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L4S6Y-004T$*3KYP?wxv0000MdjF",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/87d1da6c3e33f75ee83b673a5681f65ffebf0662@2xl.jpeg"
+    },
     {
       "id": "28311",
       "thumbnailType": "string",
@@ -398,6 +407,16 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg"
     },
     {
+      "id": "28171",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52.webp",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LHIDLx0J9F=y0J-5x[wz1H}at2I:",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp"
+    },
+    {
       "id": "28305",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b.jpeg",
@@ -406,16 +425,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg"
-    },
-    {
-      "id": "28304",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L9KmYXiVMUTUVAXw%l#O0*R1Vq?I",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg"
     },
     {
       "id": "28161",
@@ -448,6 +457,16 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg"
     },
     {
+      "id": "28304",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L9KmYXiVMUTUVAXw%l#O0*R1Vq?I",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg"
+    },
+    {
       "id": "28168",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a.jpg",
@@ -466,36 +485,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg"
-    },
-    {
-      "id": "28160",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/4fe04ec3354fbba3c6af646297ccb18cf5bccd72.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LHFeEFJkFc=1|en%S2#-2V$P$jw{",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/4fe04ec3354fbba3c6af646297ccb18cf5bccd72@2xl.jpeg"
-    },
-    {
-      "id": "28159",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LHEM%tS64Ujb?wW=IAoMDgjck7n~",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg"
     }
   ],
-  "expectedHits": 246,
+  "expectedHits": 247,
   "expectedPages": 16,
   "receivedPages": 16,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -503,7 +502,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -511,7 +510,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -519,7 +518,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -527,7 +526,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -535,7 +534,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -543,7 +542,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -551,7 +550,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -559,7 +558,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -567,7 +566,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -575,7 +574,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -583,7 +582,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -591,7 +590,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -599,7 +598,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -607,7 +606,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -615,7 +614,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -623,7 +622,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -631,7 +630,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -639,7 +638,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -647,7 +646,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -655,7 +654,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -663,7 +662,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -671,7 +670,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -679,7 +678,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -687,7 +686,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -695,7 +694,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -703,7 +702,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -711,7 +710,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -719,7 +718,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -727,7 +726,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -735,21 +734,87 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 15,
-      "nbHits": 246,
+      "nbHits": 247,
       "hitsPerPage": 16,
       "nbPages": 16,
-      "count": 6
+      "count": 7
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28569,
+      "nbHits": 28570,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28312",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "Original Soundtrack",
+      "artist": "Hiroaki Tsutsumi",
+      "artistDisplay": "Hiroaki Tsutsumi",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/4Hi5b3quDrK9wjT6SKOSUZ",
+      "apple": "https://geo.music.apple.com/album/6827479496?at=1001l384j&ct=website-tokyo-revengers-war-of-the-t-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/87d1da6c3e33f75ee83b673a5681f65ffebf0662@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack",
+        "TVアニメ『東京リベンジャーズ』三天戦争編 オリジナル・サウンドトラック"
+      ],
+      "animeCandidates": [
+        "Tokyo Revengers: War of the Three Titan Arc",
+        "Tokyo Revengers: Santen Sensou-hen",
+        "東京リベンジャーズ 三天戦争編",
+        "Tokyo Revengers: War of the Three Titans Arc"
+      ],
+      "artistCandidates": [
+        "1024",
+        "Hiroaki Tsutsumi",
+        "堤博明",
+        "堤 博明",
+        "4uXJgaCc1GtHWtFq8CmPmQ",
+        "977896275",
+        "118070312",
+        "UCryC22FtgLGUvq5kk2ckvlA"
+      ]
+    },
     {
       "id": "28311",
       "anime": "Expelled from Paradise: Resonance",
@@ -954,6 +1019,79 @@
       ]
     },
     {
+      "id": "28171",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Deux Livres",
+      "artist": "Nia Liston (CV: Honoka Inoue)",
+      "artistDisplay": "Nia Liston (CV: Honoka Inoue) & Sharro White (CV: Maaya Uchida)",
+      "artistDisplayCount": 2,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [
+        "3"
+      ],
+      "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
+      "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Deux Livres"
+      ],
+      "animeCandidates": [
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+      ],
+      "artistCandidates": [
+        "25678",
+        "Nia Liston (CV: Honoka Inoue)",
+        "ニア・リストン (CV: 井上ほの花)",
+        "1YOSNboXUUV8fcZJw4Zjob",
+        "6816815405",
+        "420276352",
+        "25679",
+        "Sharro White (CV: Maaya Uchida)",
+        "シャロ・ホワイト (CV: 内田真礼)",
+        "0u5zYLqFPffIeW9CfueFiG",
+        "6818432377",
+        "420276362"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28305",
       "anime": "Expelled from Paradise: Resonance",
       "song": "Beyond the Night",
@@ -1025,73 +1163,6 @@
         "Nagi Inoue",
         "井上和"
       ]
-    },
-    {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "artist": "Nanashi no Taro",
-      "artistDisplay": "Nanashi no Taro",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
-      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Hikari no Soba de",
-        "光の側で"
-      ],
-      "animeCandidates": [
-        "From Far Away",
-        "Kanata kara",
-        "From the Other Side",
-        "彼⽅から",
-        "彼方から"
-      ],
-      "artistCandidates": [
-        "16565",
-        "Nanashi no Taro",
-        "名無し之太郎",
-        "32xxJA5U8ot0QZPDllZ1po",
-        "1561101450",
-        "233584571",
-        "UCtYIwrBgW5h-nj6vytKbohQ"
-      ],
-      "animethemesVideo": null
     },
     {
       "id": "28161",
@@ -1285,6 +1356,73 @@
         "207829687",
         "UCcUQTshxx-7gwzKa8fZjn6A"
       ]
+    },
+    {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "artist": "Nanashi no Taro",
+      "artistDisplay": "Nanashi no Taro",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
+      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hikari no Soba de",
+        "光の側で"
+      ],
+      "animeCandidates": [
+        "From Far Away",
+        "Kanata kara",
+        "From the Other Side",
+        "彼⽅から",
+        "彼方から"
+      ],
+      "artistCandidates": [
+        "16565",
+        "Nanashi no Taro",
+        "名無し之太郎",
+        "32xxJA5U8ot0QZPDllZ1po",
+        "1561101450",
+        "233584571",
+        "UCtYIwrBgW5h-nj6vytKbohQ"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28168",
@@ -2565,145 +2703,6 @@
         "UCg2rvXE9x3zg01ZxyIt9DpA"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "27990",
-      "anime": "The World's Strongest Witch",
-      "song": "Eikyouroku ∞ Idol",
-      "artist": "MARUMOCHI from HoneyWorks",
-      "artistDisplay": "MARUMOCHI from HoneyWorks & HaKoniwalily",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1VvmVtY3brxOXTqgIOPjef",
-      "apple": "https://geo.music.apple.com/album/6815915313?i=6815915315&at=1001l384j&ct=website-the-worlds-strongest-witch-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4712f81b4fef2d9fb81ac022bae3515168c89f15@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-worlds-strongest-witch-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Eikyouroku ∞ Idol",
-        "影響力∞アイドル",
-        "Idol with Limitless Influence"
-      ],
-      "animeCandidates": [
-        "The World's Strongest Witch",
-        "Sekai Saikyou no Majo, Hajimemashita",
-        "世界最強の魔女、始めました"
-      ],
-      "artistCandidates": [
-        "16629",
-        "MARUMOCHI from HoneyWorks",
-        "6SE42YkzK2iVXMph1a3Hbp",
-        "1767973545",
-        "281706071",
-        "UCJxr7YkgS2mEZBFyq39Wkhg",
-        "7226",
-        "HaKoniwalily",
-        "ハコニワリリィ",
-        "HaKoniwaLily",
-        "ハコニワリリ",
-        "2rsT3GtKdBr9qBYXEn8lEZ",
-        "417230252"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27821",
-      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-      "song": "SPIN",
-      "artist": "Kroi",
-      "artistDisplay": "Kroi",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
-      "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/62f935a021ce799e1890dd2bacab33a446e03999@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "products",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "SPIN"
-      ],
-      "animeCandidates": [
-        "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-        "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
-        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
-        "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
-        "SBR",
-        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
-        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
-      ],
-      "artistCandidates": [
-        "14747",
-        "Kroi",
-        "4S8J8Nct8lHsbzAeNJXcJa",
-        "1439157589",
-        "52711252",
-        "UCssoAGLly9DaABecIZoht_g"
-      ],
-      "animethemesVideo": null
     }
   ],
   "sourceMetadataSamples": [
@@ -3253,6 +3252,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28312",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "Original Soundtrack",
+      "kind": "OST",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-original-soundtrack"
+    },
+    {
       "id": "28311",
       "anime": "Expelled from Paradise: Resonance",
       "song": "Original Soundtrack",
@@ -3274,18 +3280,18 @@
       "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black"
     },
     {
+      "id": "28171",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Deux Livres",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3"
+    },
+    {
       "id": "28305",
       "anime": "Expelled from Paradise: Resonance",
       "song": "Beyond the Night",
       "kind": "TS",
       "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song"
-    },
-    {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending"
     },
     {
       "id": "28161",
@@ -3307,6 +3313,13 @@
       "song": "A Song Of Romance Pt. 2",
       "kind": "IN",
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-a-song-of-romance-pt-2"
+    },
+    {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending"
     },
     {
       "id": "28168",
@@ -3447,23 +3460,75 @@
       "song": "Yellow Brick Road",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending"
-    },
-    {
-      "id": "27817",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "TRICKSTER",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-ending"
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28312",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "Original Soundtrack",
+      "artist": "Hiroaki Tsutsumi",
+      "artistDisplay": "Hiroaki Tsutsumi",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/4Hi5b3quDrK9wjT6SKOSUZ",
+      "apple": "https://geo.music.apple.com/album/6827479496?at=1001l384j&ct=website-tokyo-revengers-war-of-the-t-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/87d1da6c3e33f75ee83b673a5681f65ffebf0662@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack",
+        "TVアニメ『東京リベンジャーズ』三天戦争編 オリジナル・サウンドトラック"
+      ],
+      "animeCandidates": [
+        "Tokyo Revengers: War of the Three Titan Arc",
+        "Tokyo Revengers: Santen Sensou-hen",
+        "東京リベンジャーズ 三天戦争編",
+        "Tokyo Revengers: War of the Three Titans Arc"
+      ],
+      "artistCandidates": [
+        "1024",
+        "Hiroaki Tsutsumi",
+        "堤博明",
+        "堤 博明",
+        "4uXJgaCc1GtHWtFq8CmPmQ",
+        "977896275",
+        "118070312",
+        "UCryC22FtgLGUvq5kk2ckvlA"
+      ]
+    },
     {
       "id": "28311",
       "anime": "Expelled from Paradise: Resonance",
@@ -3668,6 +3733,79 @@
       ]
     },
     {
+      "id": "28171",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Deux Livres",
+      "artist": "Nia Liston (CV: Honoka Inoue)",
+      "artistDisplay": "Nia Liston (CV: Honoka Inoue) & Sharro White (CV: Maaya Uchida)",
+      "artistDisplayCount": 2,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [
+        "3"
+      ],
+      "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
+      "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Deux Livres"
+      ],
+      "animeCandidates": [
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+      ],
+      "artistCandidates": [
+        "25678",
+        "Nia Liston (CV: Honoka Inoue)",
+        "ニア・リストン (CV: 井上ほの花)",
+        "1YOSNboXUUV8fcZJw4Zjob",
+        "6816815405",
+        "420276352",
+        "25679",
+        "Sharro White (CV: Maaya Uchida)",
+        "シャロ・ホワイト (CV: 内田真礼)",
+        "0u5zYLqFPffIeW9CfueFiG",
+        "6818432377",
+        "420276362"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28305",
       "anime": "Expelled from Paradise: Resonance",
       "song": "Beyond the Night",
@@ -3739,73 +3877,6 @@
         "Nagi Inoue",
         "井上和"
       ]
-    },
-    {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "artist": "Nanashi no Taro",
-      "artistDisplay": "Nanashi no Taro",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
-      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Hikari no Soba de",
-        "光の側で"
-      ],
-      "animeCandidates": [
-        "From Far Away",
-        "Kanata kara",
-        "From the Other Side",
-        "彼⽅から",
-        "彼方から"
-      ],
-      "artistCandidates": [
-        "16565",
-        "Nanashi no Taro",
-        "名無し之太郎",
-        "32xxJA5U8ot0QZPDllZ1po",
-        "1561101450",
-        "233584571",
-        "UCtYIwrBgW5h-nj6vytKbohQ"
-      ],
-      "animethemesVideo": null
     },
     {
       "id": "28161",
@@ -3999,6 +4070,73 @@
         "207829687",
         "UCcUQTshxx-7gwzKa8fZjn6A"
       ]
+    },
+    {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "artist": "Nanashi no Taro",
+      "artistDisplay": "Nanashi no Taro",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
+      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hikari no Soba de",
+        "光の側で"
+      ],
+      "animeCandidates": [
+        "From Far Away",
+        "Kanata kara",
+        "From the Other Side",
+        "彼⽅から",
+        "彼方から"
+      ],
+      "artistCandidates": [
+        "16565",
+        "Nanashi no Taro",
+        "名無し之太郎",
+        "32xxJA5U8ot0QZPDllZ1po",
+        "1561101450",
+        "233584571",
+        "UCtYIwrBgW5h-nj6vytKbohQ"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28168",
@@ -5159,7 +5297,8 @@
       "animeCandidates": [
         "The World's Strongest Witch",
         "Sekai Saikyou no Majo, Hajimemashita",
-        "世界最強の魔女、始めました"
+        "世界最強の魔女、始めました",
+        "Sekamajo"
       ],
       "artistCandidates": [
         "16629",
@@ -5307,139 +5446,17 @@
         "UCwwBJHxlinPZ6cHS6UzQ7Ig"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "27817",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "TRICKSTER",
-      "artist": "go!go!vanillas",
-      "artistDisplay": "go!go!vanillas",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX",
-      "apple": "https://geo.music.apple.com/album/6810161017?i=6810161018&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "TRICKSTER",
-        "トリックスター"
-      ],
-      "animeCandidates": [
-        "Tokyo Revengers: War of the Three Titan Arc",
-        "Tokyo Revengers: Santen Sensou-hen",
-        "東京リベンジャーズ 三天戦争編",
-        "Tokyo Revengers: War of the Three Titans Arc"
-      ],
-      "artistCandidates": [
-        "794",
-        "go!go!vanillas",
-        "0aqPTOZlKG6ltJHv7BNlsm",
-        "671623880",
-        "10963206",
-        "UCPs1IqAe9_1RU9Dq7_yy8Eg",
-        "25503",
-        "TV anime \"Tokyo Revengers\"",
-        "UCnrudQZNXphuOk0QB8Yz6oQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "artist": "aiko",
-      "artistDisplay": "aiko",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
-      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Anata no Hana no Iro",
-        "あなたの花の色",
-        "the color of your flower"
-      ],
-      "animeCandidates": [
-        "Blue Box Season 2",
-        "アオのハコ Season2",
-        "Ao no Hako Season 2"
-      ],
-      "artistCandidates": [
-        "3105",
-        "aiko",
-        "6TDMbiQCWeMClsMr9ORLRK",
-        "635154255",
-        "2643581"
-      ],
-      "animethemesVideo": null
     }
   ],
   "platformSamples": [
+    {
+      "id": "28312",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "Original Soundtrack",
+      "kind": "OST",
+      "spotify": "https://open.spotify.com/album/4Hi5b3quDrK9wjT6SKOSUZ",
+      "apple": "https://geo.music.apple.com/album/6827479496?at=1001l384j&ct=website-tokyo-revengers-war-of-the-t-ost&app=music"
+    },
     {
       "id": "28311",
       "anime": "Expelled from Paradise: Resonance",
@@ -5465,20 +5482,20 @@
       "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music"
     },
     {
+      "id": "28171",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "Deux Livres",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
+      "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music"
+    },
+    {
       "id": "28305",
       "anime": "Expelled from Paradise: Resonance",
       "song": "Beyond the Night",
       "kind": "TS",
       "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
       "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music"
-    },
-    {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
-      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music"
     },
     {
       "id": "28161",
@@ -5503,6 +5520,14 @@
       "kind": "IN",
       "spotify": "https://open.spotify.com/track/0kgXakO9GnycldN5sGScwZ",
       "apple": "https://geo.music.apple.com/album/6816841824?i=6816842009&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music"
+    },
+    {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
+      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music"
     },
     {
       "id": "28168",
@@ -5663,22 +5688,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
       "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music"
-    },
-    {
-      "id": "27817",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "TRICKSTER",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX",
-      "apple": "https://geo.music.apple.com/album/6810161017?i=6810161018&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-ed&app=music"
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
-      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music"
     }
   ]
 }
