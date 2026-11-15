@@ -3,25 +3,91 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 27,
+  "resultCount": 28,
   "animeThemesChecked": 2,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 5,
   "jsonResponses": 6,
   "algoliaResponses": 2,
   "hitArrays": 4,
-  "rawHits": 27,
-  "uniqueHits": 27,
-  "normalized": 27,
-  "withSpotify": 4,
-  "withApple": 4,
-  "withDetailUrl": 4,
-  "resolvedSpotify": 4,
-  "recordThumbnails": 27,
+  "rawHits": 28,
+  "uniqueHits": 28,
+  "normalized": 28,
+  "withSpotify": 5,
+  "withApple": 5,
+  "withDetailUrl": 5,
+  "resolvedSpotify": 5,
+  "recordThumbnails": 28,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28315",
+      "anime": "Inherit the Winds",
+      "song": "Jokyoku \"Reimei\"",
+      "artist": "Shigeru Kishida",
+      "artistDisplay": "Shigeru Kishida",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/4PGsYpXx7jjqfio1qlWc8N",
+      "apple": "https://geo.music.apple.com/album/6828269476?at=1001l384j&ct=website-inherit-the-winds-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/eff3c11c29034611350289f7982b84784c96c1c6@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-original-soundtrack-jokyoku-reimei",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Jokyoku \"Reimei\"",
+        "序曲『黎明』",
+        "Overture: Dawn"
+      ],
+      "animeCandidates": [
+        "Inherit the Winds",
+        "Kaze wo Tsugumono",
+        "風を継ぐもの"
+      ],
+      "artistCandidates": [
+        "1277",
+        "Shigeru Kishida",
+        "岸田繁",
+        "62TpalmxXUjLKyxJUgZt6W",
+        "219771500",
+        "4897530",
+        "UCE7UTii69j5WCDZSWgkIjiw"
+      ]
+    },
     {
       "id": "28302",
       "anime": "ghost / Yoru no Hate",
@@ -254,62 +320,20 @@
         "4800610",
         "UCUrcaHP1Qrlrxoxg9z1jlmg"
       ]
-    },
-    {
-      "id": "us_3379",
-      "anime": "Bless",
-      "song": "New Page",
-      "artist": "HIKKA",
-      "artistDisplay": "HIKKA",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5ea5c3b87ec1846f996879dd94af359c39d4cda9@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "New Page"
-      ],
-      "animeCandidates": [
-        "Bless",
-        "ブレス"
-      ],
-      "artistCandidates": [
-        "25799",
-        "HIKKA"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28315",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/eff3c11c29034611350289f7982b84784c96c1c6.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L6P%O%~qIT%M~WayRjRjjYj]ayWB",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/eff3c11c29034611350289f7982b84784c96c1c6@2xl.jpeg"
+    },
     {
       "id": "28302",
       "thumbnailType": "string",
@@ -419,26 +443,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240@2xl.jpg"
-    },
-    {
-      "id": "us_3361",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5.png",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LRH.Qk0aS+-OPXM-ITroT2$bxuox",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/j7LSAn5gravbYJOXOcNxfKldo2DYoGNLzYgNIVN5@2xl.png"
     }
   ],
-  "expectedHits": 27,
+  "expectedHits": 28,
   "expectedPages": 2,
   "receivedPages": 2,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 27,
+      "nbHits": 28,
       "hitsPerPage": 16,
       "nbPages": 2,
       "count": 16
@@ -446,7 +460,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28575,
+      "nbHits": 28576,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -454,21 +468,87 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 27,
+      "nbHits": 28,
       "hitsPerPage": 16,
       "nbPages": 2,
-      "count": 11
+      "count": 12
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28575,
+      "nbHits": 28576,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28315",
+      "anime": "Inherit the Winds",
+      "song": "Jokyoku \"Reimei\"",
+      "artist": "Shigeru Kishida",
+      "artistDisplay": "Shigeru Kishida",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/4PGsYpXx7jjqfio1qlWc8N",
+      "apple": "https://geo.music.apple.com/album/6828269476?at=1001l384j&ct=website-inherit-the-winds-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/eff3c11c29034611350289f7982b84784c96c1c6@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-original-soundtrack-jokyoku-reimei",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Jokyoku \"Reimei\"",
+        "序曲『黎明』",
+        "Overture: Dawn"
+      ],
+      "animeCandidates": [
+        "Inherit the Winds",
+        "Kaze wo Tsugumono",
+        "風を継ぐもの"
+      ],
+      "artistCandidates": [
+        "1277",
+        "Shigeru Kishida",
+        "岸田繁",
+        "62TpalmxXUjLKyxJUgZt6W",
+        "219771500",
+        "4897530",
+        "UCE7UTii69j5WCDZSWgkIjiw"
+      ]
+    },
     {
       "id": "28302",
       "anime": "ghost / Yoru no Hate",
@@ -2073,6 +2153,13 @@
   "sourceMetadataSamples": [],
   "detailUrlSamples": [
     {
+      "id": "28315",
+      "anime": "Inherit the Winds",
+      "song": "Jokyoku \"Reimei\"",
+      "kind": "OST",
+      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-original-soundtrack-jokyoku-reimei"
+    },
+    {
       "id": "28302",
       "anime": "ghost / Yoru no Hate",
       "song": "Sugar",
@@ -2102,6 +2189,72 @@
     }
   ],
   "usableSamples": [
+    {
+      "id": "28315",
+      "anime": "Inherit the Winds",
+      "song": "Jokyoku \"Reimei\"",
+      "artist": "Shigeru Kishida",
+      "artistDisplay": "Shigeru Kishida",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/4PGsYpXx7jjqfio1qlWc8N",
+      "apple": "https://geo.music.apple.com/album/6828269476?at=1001l384j&ct=website-inherit-the-winds-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/eff3c11c29034611350289f7982b84784c96c1c6@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-original-soundtrack-jokyoku-reimei",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "substitute",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Jokyoku \"Reimei\"",
+        "序曲『黎明』",
+        "Overture: Dawn"
+      ],
+      "animeCandidates": [
+        "Inherit the Winds",
+        "Kaze wo Tsugumono",
+        "風を継ぐもの"
+      ],
+      "artistCandidates": [
+        "1277",
+        "Shigeru Kishida",
+        "岸田繁",
+        "62TpalmxXUjLKyxJUgZt6W",
+        "219771500",
+        "4897530",
+        "UCE7UTii69j5WCDZSWgkIjiw"
+      ]
+    },
     {
       "id": "28302",
       "anime": "ghost / Yoru no Hate",
@@ -2364,6 +2517,14 @@
     }
   ],
   "platformSamples": [
+    {
+      "id": "28315",
+      "anime": "Inherit the Winds",
+      "song": "Jokyoku \"Reimei\"",
+      "kind": "OST",
+      "spotify": "https://open.spotify.com/album/4PGsYpXx7jjqfio1qlWc8N",
+      "apple": "https://geo.music.apple.com/album/6828269476?at=1001l384j&ct=website-inherit-the-winds-ost&app=music"
+    },
     {
       "id": "28302",
       "anime": "ghost / Yoru no Hate",

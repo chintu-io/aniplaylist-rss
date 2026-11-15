@@ -12637,7 +12637,8 @@
     ],
     "titleCandidates": [
       "Kaze no Naka wa Hashirukkyanai!",
-      "風の中は走るっきゃないっ！"
+      "風の中は走るっきゃないっ！",
+      "Run, Anyway."
     ],
     "animeCandidates": [
       "Even the Student Council Has Its Holes!",
@@ -21554,5 +21555,72 @@
       "UCL2YV8cKYu7F3Qr2WkQ7sPQ"
     ],
     "firstSeen": "2026-11-15T01:17:36.000Z"
+  },
+  "097d5eb4203603d8": {
+    "id": "28315",
+    "anime": "Inherit the Winds",
+    "song": "Jokyoku \"Reimei\"",
+    "artist": "Shigeru Kishida",
+    "artistDisplay": "Shigeru Kishida",
+    "artistDisplayCount": 1,
+    "kind": "OST",
+    "kindLabel": "OST",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/album/4PGsYpXx7jjqfio1qlWc8N",
+    "apple": "https://geo.music.apple.com/album/6828269476?at=1001l384j&ct=website-inherit-the-winds-ost&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/eff3c11c29034611350289f7982b84784c96c1c6@2xl.jpeg",
+    "detailUrl": "https://aniplaylist.com/play/inherit-the-winds-original-soundtrack-jokyoku-reimei",
+    "season": "Winter 2027",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "status",
+      "tags",
+      "substitute",
+      "other_link_ids",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Jokyoku \"Reimei\"",
+      "序曲『黎明』",
+      "Overture: Dawn"
+    ],
+    "animeCandidates": [
+      "Inherit the Winds",
+      "Kaze wo Tsugumono",
+      "風を継ぐもの"
+    ],
+    "artistCandidates": [
+      "1277",
+      "Shigeru Kishida",
+      "岸田繁",
+      "62TpalmxXUjLKyxJUgZt6W",
+      "219771500",
+      "4897530",
+      "UCE7UTii69j5WCDZSWgkIjiw"
+    ],
+    "firstSeen": "2026-11-15T15:51:23.000Z"
   }
 }
