@@ -21488,5 +21488,67 @@
       "UCryC22FtgLGUvq5kk2ckvlA"
     ],
     "firstSeen": "2026-11-14T10:13:30.000Z"
+  },
+  "d1c62835b97bc586": {
+    "id": "28314",
+    "anime": "Vertex Force",
+    "song": "Original Soundtrack Vol. 2",
+    "artist": "Nobuaki Nobusawa",
+    "artistDisplay": "Nobuaki Nobusawa",
+    "artistDisplayCount": 1,
+    "kind": "OST",
+    "kindLabel": "OST",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/album/3ONh9xDaFFAgOLM2Vgkfh6",
+    "apple": "https://music.apple.com/nz/album/6828270847?at=1001l384j&ct=website-vertex-force-ost2&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/426841c044353c8ac90af4ffca408f3ffbd0b01b@2xl.jpeg",
+    "detailUrl": "",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_number",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "tags",
+      "web",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Original Soundtrack Vol. 2",
+      "バーテックスフォース オリジナルサウンドトラック Vol. 2"
+    ],
+    "animeCandidates": [
+      "Vertex Force",
+      "バーテックスフォース"
+    ],
+    "artistCandidates": [
+      "1003",
+      "Nobuaki Nobusawa",
+      "信澤宣明",
+      "4q4tYjUtx81Sfmm17JkH5I",
+      "877551022"
+    ],
+    "firstSeen": "2026-11-15T01:17:36.000Z"
   }
 }
