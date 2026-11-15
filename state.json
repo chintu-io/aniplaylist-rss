@@ -16492,7 +16492,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -16565,7 +16564,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -19673,6 +19671,7 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -19741,6 +19740,7 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -19807,6 +19807,7 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -21500,9 +21501,9 @@
     "kindLabel": "OST",
     "episodes": [],
     "spotify": "https://open.spotify.com/album/3ONh9xDaFFAgOLM2Vgkfh6",
-    "apple": "https://music.apple.com/nz/album/6828270847?at=1001l384j&ct=website-vertex-force-ost2&app=music",
+    "apple": "https://geo.music.apple.com/album/6828270847?at=1001l384j&ct=website-vertex-force-ost2&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/426841c044353c8ac90af4ffca408f3ffbd0b01b@2xl.jpeg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/vertex-force-original-soundtrack-2",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -21529,8 +21530,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
-      "web",
+      "other_link_ids",
       "unreleased",
       "objectID"
     ],
@@ -21547,7 +21549,9 @@
       "Nobuaki Nobusawa",
       "信澤宣明",
       "4q4tYjUtx81Sfmm17JkH5I",
-      "877551022"
+      "877551022",
+      "10572287",
+      "UCL2YV8cKYu7F3Qr2WkQ7sPQ"
     ],
     "firstSeen": "2026-11-15T01:17:36.000Z"
   }
