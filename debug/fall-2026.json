@@ -217,19 +217,19 @@
       ]
     },
     {
-      "id": "27883",
-      "anime": "Rascal Does Not Dream of a Dear Friend",
-      "song": "Turn The World Upside Down",
-      "artist": "Touko Kirishima",
-      "artistDisplay": "Touko Kirishima",
+      "id": "28221",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "ORIGINAL SOUNDTRACK",
+      "artist": "Kevin Penkin",
+      "artistDisplay": "Kevin Penkin",
       "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert",
+      "kind": "OST",
+      "kindLabel": "OST",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/2rxXEhF8pvGKgq0ODWT608",
-      "apple": "https://geo.music.apple.com/album/6809422891?i=6809422894&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-insert-song-turn-the-world-upside-down",
+      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
+      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -261,21 +261,22 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Turn The World Upside Down"
+        "ORIGINAL SOUNDTRACK",
+        "MADE IN ABYSS ORIGINAL SOUNDTRACK (4)"
       ],
       "animeCandidates": [
-        "Rascal Does Not Dream of a Dear Friend",
-        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
-        "青春ブタ野郎はディアフレンドの夢を見ない"
+        "Made in Abyss: Mezameru Shinpi",
+        "Made in Abyss: Awakening Mystery",
+        "メイドインアビス 目覚める神秘"
       ],
       "artistCandidates": [
-        "17885",
-        "Touko Kirishima",
-        "霧島透子",
-        "7IrMYd2djETd56sjTPt3UP",
-        "1811798060",
-        "320905841",
-        "UC2ZVM7UDClF1fvew91aajbg"
+        "725",
+        "Kevin Penkin",
+        "ケビン・ペンキン",
+        "4S33gEeiCjwfD1FJKfMT3Y",
+        "1113369160",
+        "10563699",
+        "UCmUdoXixFr4EffDIQkarfLg"
       ]
     },
     {
@@ -378,14 +379,14 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/f22d1d306b0b0b46c997ffca164b85466d6448b5@2xl.jpeg"
     },
     {
-      "id": "27883",
+      "id": "28221",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac.jpg",
+      "thumbnail": "thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282.jpeg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LCDv]2009E?wTe8w#%kQ5G-nxZo}",
+      "thumbnail_hash": "LAF5]eED$_~V02NGITIS?I^*b19I",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg"
     },
     {
       "id": "28222",
@@ -398,14 +399,14 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/4cdb631214611d9ac6ca892eccb34d45259706b9@2xl.jpg"
     },
     {
-      "id": "28221",
+      "id": "27883",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282.jpeg",
+      "thumbnail": "thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LAF5]eED$_~V02NGITIS?I^*b19I",
+      "thumbnail_hash": "LCDv]2009E?wTe8w#%kQ5G-nxZo}",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg"
     },
     {
       "id": "28171",
@@ -428,16 +429,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/804e064d0ecf17f9d8ba8fc63e8e63856e1f7303@2xl.jpeg"
     },
     {
-      "id": "28306",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LHEM%tS64Ujb?wW=IAoMDgjck7n~",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg"
-    },
-    {
       "id": "28164",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/d441be9edb09846f87b53e2a7a38a83aba0a09e7.jpeg",
@@ -449,6 +440,16 @@
     },
     {
       "id": "28167",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LEJ*i60eE3-q2{~WIAIo00ba-:fA",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg"
+    },
+    {
+      "id": "28166",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a.jpg",
       "thumbnailHashType": "string",
@@ -925,19 +926,19 @@
       ]
     },
     {
-      "id": "27883",
-      "anime": "Rascal Does Not Dream of a Dear Friend",
-      "song": "Turn The World Upside Down",
-      "artist": "Touko Kirishima",
-      "artistDisplay": "Touko Kirishima",
+      "id": "28221",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "ORIGINAL SOUNDTRACK",
+      "artist": "Kevin Penkin",
+      "artistDisplay": "Kevin Penkin",
       "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert",
+      "kind": "OST",
+      "kindLabel": "OST",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/2rxXEhF8pvGKgq0ODWT608",
-      "apple": "https://geo.music.apple.com/album/6809422891?i=6809422894&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-insert-song-turn-the-world-upside-down",
+      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
+      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -969,21 +970,22 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Turn The World Upside Down"
+        "ORIGINAL SOUNDTRACK",
+        "MADE IN ABYSS ORIGINAL SOUNDTRACK (4)"
       ],
       "animeCandidates": [
-        "Rascal Does Not Dream of a Dear Friend",
-        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
-        "青春ブタ野郎はディアフレンドの夢を見ない"
+        "Made in Abyss: Mezameru Shinpi",
+        "Made in Abyss: Awakening Mystery",
+        "メイドインアビス 目覚める神秘"
       ],
       "artistCandidates": [
-        "17885",
-        "Touko Kirishima",
-        "霧島透子",
-        "7IrMYd2djETd56sjTPt3UP",
-        "1811798060",
-        "320905841",
-        "UC2ZVM7UDClF1fvew91aajbg"
+        "725",
+        "Kevin Penkin",
+        "ケビン・ペンキン",
+        "4S33gEeiCjwfD1FJKfMT3Y",
+        "1113369160",
+        "10563699",
+        "UCmUdoXixFr4EffDIQkarfLg"
       ]
     },
     {
@@ -1053,19 +1055,19 @@
       ]
     },
     {
-      "id": "28221",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "ORIGINAL SOUNDTRACK",
-      "artist": "Kevin Penkin",
-      "artistDisplay": "Kevin Penkin",
+      "id": "27883",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Turn The World Upside Down",
+      "artist": "Touko Kirishima",
+      "artistDisplay": "Touko Kirishima",
       "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
+      "kind": "IN",
+      "kindLabel": "Insert",
       "episodes": [],
-      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
-      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack",
+      "spotify": "https://open.spotify.com/track/2rxXEhF8pvGKgq0ODWT608",
+      "apple": "https://geo.music.apple.com/album/6809422891?i=6809422894&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-insert-song-turn-the-world-upside-down",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1097,22 +1099,21 @@
         "objectID"
       ],
       "titleCandidates": [
-        "ORIGINAL SOUNDTRACK",
-        "MADE IN ABYSS ORIGINAL SOUNDTRACK (4)"
+        "Turn The World Upside Down"
       ],
       "animeCandidates": [
-        "Made in Abyss: Mezameru Shinpi",
-        "Made in Abyss: Awakening Mystery",
-        "メイドインアビス 目覚める神秘"
+        "Rascal Does Not Dream of a Dear Friend",
+        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+        "青春ブタ野郎はディアフレンドの夢を見ない"
       ],
       "artistCandidates": [
-        "725",
-        "Kevin Penkin",
-        "ケビン・ペンキン",
-        "4S33gEeiCjwfD1FJKfMT3Y",
-        "1113369160",
-        "10563699",
-        "UCmUdoXixFr4EffDIQkarfLg"
+        "17885",
+        "Touko Kirishima",
+        "霧島透子",
+        "7IrMYd2djETd56sjTPt3UP",
+        "1811798060",
+        "320905841",
+        "UC2ZVM7UDClF1fvew91aajbg"
       ]
     },
     {
@@ -1255,83 +1256,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28306",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Pitch Black",
-      "artist": "STELLATUS",
-      "artistDisplay": "STELLATUS, Nao Toyama, Rei Nakashima & Nonoka Oobuchi",
-      "artistDisplayCount": 4,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 1, 3, 5)",
-      "episodes": [
-        "1",
-        "3",
-        "5"
-      ],
-      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
-      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Pitch Black"
-      ],
-      "animeCandidates": [
-        "DARK MACHINE: The Animation",
-        "DARK MACHINE -The Animation-",
-        "DARK MACHINE THE ANIMATION"
-      ],
-      "artistCandidates": [
-        "25813",
-        "STELLATUS",
-        "5Gc2maIYuCIBabPMzIy24T",
-        "6823022818",
-        "424920641",
-        "2231",
-        "Nao Toyama",
-        "東山奈央",
-        "Nao Touyama",
-        "Nao Tōyama",
-        "5FQ4vbNwpE1wFGoOPecJB9",
-        "UCiyiF5Kf2BAXmi8Ae-VOl3w",
-        "14465",
-        "Rei Nakashima",
-        "中島怜",
-        "7pQmC6NNs7KvWfrYKmqPbo"
-      ]
-    },
-    {
       "id": "28164",
       "anime": "Nia Liston: The Merciless Maiden",
       "song": "ORIGINAL SOUNDTRACK",
@@ -1459,67 +1383,6 @@
       ]
     },
     {
-      "id": "28168",
-      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
-      "song": "BADDY BADDY",
-      "artist": "Ave Mujica",
-      "artistDisplay": "Ave Mujica",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
-      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "BADDY BADDY"
-      ],
-      "animeCandidates": [
-        "BanG Dream! Ave Mujica: Prima Aurora",
-        "BanG Dream! Ave Mujica prima aurora"
-      ],
-      "artistCandidates": [
-        "14696",
-        "Ave Mujica",
-        "5BKIH2Kwc6LbetG04Boai7",
-        "1680440024",
-        "207829687",
-        "UCcUQTshxx-7gwzKa8fZjn6A"
-      ]
-    },
-    {
       "id": "28166",
       "anime": "BanG Dream! Ave Mujica: Prima Aurora",
       "song": "Kami no Na o",
@@ -1583,19 +1446,19 @@
       ]
     },
     {
-      "id": "28305",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Beyond the Night",
-      "artist": "TeddyLoid",
-      "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
-      "artistDisplayCount": 3,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
+      "id": "28168",
+      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
+      "song": "BADDY BADDY",
+      "artist": "Ave Mujica",
+      "artistDisplay": "Ave Mujica",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
-      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song",
+      "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
+      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1628,180 +1491,39 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Beyond the Night"
+        "BADDY BADDY"
       ],
       "animeCandidates": [
-        "Expelled from Paradise: Resonance",
-        "Rakuen Tsuihou: Kokoro no Resonance",
-        "Liberated from Paradise: Resonance of the Heart",
-        "楽園追放 心のレゾナンス"
+        "BanG Dream! Ave Mujica: Prima Aurora",
+        "BanG Dream! Ave Mujica prima aurora"
       ],
       "artistCandidates": [
-        "274",
-        "TeddyLoid",
-        "3GfNJrDTZY7voXPDx8gH9I",
-        "376334342",
-        "582291",
-        "UCSMEyA3pVYdTrO9HBXdfsfg",
-        "5261",
-        "Ayane Sakura",
-        "佐倉綾音",
-        "0EQhKMJfrQjmIJ6im9KyRB",
-        "1021925121",
-        "118071212",
-        "UCy5-YguW8GIvQYLyCa33oLQ",
-        "25810",
-        "Nagi Inoue",
-        "井上和"
+        "14696",
+        "Ave Mujica",
+        "5BKIH2Kwc6LbetG04Boai7",
+        "1680440024",
+        "207829687",
+        "UCcUQTshxx-7gwzKa8fZjn6A"
       ]
     },
     {
-      "id": "28160",
-      "anime": "Horror Collector",
-      "song": "Meiro",
-      "artist": "Shikao Suga",
-      "artistDisplay": "Shikao Suga",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6megJPIZVqe5E98dig1uR0",
-      "apple": "https://geo.music.apple.com/album/6819125191?i=6819125192&at=1001l384j&ct=website-horror-collector-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4fe04ec3354fbba3c6af646297ccb18cf5bccd72@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Meiro",
-        "迷路",
-        "Maze"
-      ],
-      "animeCandidates": [
-        "Horror Collector",
-        "Kyoufu Collector",
-        "恐怖コレクター"
-      ],
-      "artistCandidates": [
-        "72",
-        "Shikao Suga",
-        "スガシカオ",
-        "3sddhwNhGabYSvzYKhB7qj",
-        "202324935",
-        "4929503",
-        "UCaWq9OOi9wk961EOzugZuoA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "artist": "Nanashi no Taro",
-      "artistDisplay": "Nanashi no Taro",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
-      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Hikari no Soba de",
-        "光の側で"
-      ],
-      "animeCandidates": [
-        "From Far Away",
-        "Kanata kara",
-        "From the Other Side",
-        "彼⽅から",
-        "彼方から"
-      ],
-      "artistCandidates": [
-        "16565",
-        "Nanashi no Taro",
-        "名無し之太郎",
-        "32xxJA5U8ot0QZPDllZ1po",
-        "1561101450",
-        "233584571",
-        "UCtYIwrBgW5h-nj6vytKbohQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28159",
+      "id": "28306",
       "anime": "DARK MACHINE: The Animation",
-      "song": "Galaxy Mode",
-      "artist": "J SOUL BROTHERS III",
-      "artistDisplay": "J SOUL BROTHERS III",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
-      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music",
+      "song": "Pitch Black",
+      "artist": "STELLATUS",
+      "artistDisplay": "STELLATUS, Nao Toyama, Rei Nakashima & Nonoka Oobuchi",
+      "artistDisplayCount": 4,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 1, 3, 5)",
+      "episodes": [
+        "1",
+        "3",
+        "5"
+      ],
+      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
+      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1818,6 +1540,7 @@
         "platforms",
         "preview_url",
         "song_key",
+        "episodes",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -1834,7 +1557,7 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Galaxy Mode"
+        "Pitch Black"
       ],
       "animeCandidates": [
         "DARK MACHINE: The Animation",
@@ -1842,265 +1565,22 @@
         "DARK MACHINE THE ANIMATION"
       ],
       "artistCandidates": [
-        "23755",
-        "J SOUL BROTHERS III",
-        "Sandaime J SOUL BROTHERS",
-        "三代目 J SOUL BROTHERS",
-        "J SOUL BROTHERS III from EXILE TRIBE",
-        "三代目 J Soul Brothers from EXILE TRIBE",
-        "1g51NlHKUXlgfvGP22m0uD",
-        "633832735",
-        "36984512",
-        "UCARcTUfyPaacDYADTb_Qveg"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "artist": "Megatera Zero",
-      "artistDisplay": "Megatera Zero",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
-      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "products",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Onogami",
-        "オノガミ"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "14404",
-        "Megatera Zero",
-        "メガテラ・ゼロ",
-        "MEGATERA･ZERO",
-        "Mega Terra Zero",
-        "4I7F7bTQ9tBnRI2razDP9B",
-        "1466037690",
-        "147335922",
-        "UCe0GU9CHeC3hbvgYmzXc7OA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "us_3384",
-      "anime": "Blue Box Season 2",
-      "song": "Jingle Bells",
-      "artist": "Kouki Etou",
-      "artistDisplay": "Kouki Etou",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 5)",
-      "episodes": [
-        "5"
-      ],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
-      "detailUrl": "",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Jingle Bells",
-        "ジングルベル"
-      ],
-      "animeCandidates": [
-        "Blue Box Season 2",
-        "アオのハコ Season2",
-        "Ao no Hako Season 2"
-      ],
-      "artistCandidates": [
-        "25814",
-        "Kouki Etou",
-        "えとうこうき"
-      ]
-    },
-    {
-      "id": "us_3385",
-      "anime": "Blue Box Season 2",
-      "song": "We Wish You A Merry Christmas",
-      "artist": "Kouki Etou",
-      "artistDisplay": "Kouki Etou",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 5)",
-      "episodes": [
-        "5"
-      ],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
-      "detailUrl": "",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "We Wish You A Merry Christmas"
-      ],
-      "animeCandidates": [
-        "Blue Box Season 2",
-        "アオのハコ Season2",
-        "Ao no Hako Season 2"
-      ],
-      "artistCandidates": [
-        "25814",
-        "Kouki Etou",
-        "えとうこうき"
+        "25813",
+        "STELLATUS",
+        "5Gc2maIYuCIBabPMzIy24T",
+        "6823022818",
+        "424920641",
+        "2231",
+        "Nao Toyama",
+        "東山奈央",
+        "Nao Touyama",
+        "Nao Tōyama",
+        "5FQ4vbNwpE1wFGoOPecJB9",
+        "UCiyiF5Kf2BAXmi8Ae-VOl3w",
+        "14465",
+        "Rei Nakashima",
+        "中島怜",
+        "7pQmC6NNs7KvWfrYKmqPbo"
       ]
     },
     {
@@ -2177,6 +1657,212 @@
       ]
     },
     {
+      "id": "28160",
+      "anime": "Horror Collector",
+      "song": "Meiro",
+      "artist": "Shikao Suga",
+      "artistDisplay": "Shikao Suga",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6megJPIZVqe5E98dig1uR0",
+      "apple": "https://geo.music.apple.com/album/6819125191?i=6819125192&at=1001l384j&ct=website-horror-collector-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4fe04ec3354fbba3c6af646297ccb18cf5bccd72@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Meiro",
+        "迷路",
+        "Maze"
+      ],
+      "animeCandidates": [
+        "Horror Collector",
+        "Kyoufu Collector",
+        "恐怖コレクター"
+      ],
+      "artistCandidates": [
+        "72",
+        "Shikao Suga",
+        "スガシカオ",
+        "3sddhwNhGabYSvzYKhB7qj",
+        "202324935",
+        "4929503",
+        "UCaWq9OOi9wk961EOzugZuoA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28159",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Galaxy Mode",
+      "artist": "J SOUL BROTHERS III",
+      "artistDisplay": "J SOUL BROTHERS III",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
+      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Galaxy Mode"
+      ],
+      "animeCandidates": [
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
+      ],
+      "artistCandidates": [
+        "23755",
+        "J SOUL BROTHERS III",
+        "Sandaime J SOUL BROTHERS",
+        "三代目 J SOUL BROTHERS",
+        "J SOUL BROTHERS III from EXILE TRIBE",
+        "三代目 J Soul Brothers from EXILE TRIBE",
+        "1g51NlHKUXlgfvGP22m0uD",
+        "633832735",
+        "36984512",
+        "UCARcTUfyPaacDYADTb_Qveg"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28305",
+      "anime": "Expelled from Paradise: Resonance",
+      "song": "Beyond the Night",
+      "artist": "TeddyLoid",
+      "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
+      "artistDisplayCount": 3,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
+      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Beyond the Night"
+      ],
+      "animeCandidates": [
+        "Expelled from Paradise: Resonance",
+        "Rakuen Tsuihou: Kokoro no Resonance",
+        "Liberated from Paradise: Resonance of the Heart",
+        "楽園追放 心のレゾナンス"
+      ],
+      "artistCandidates": [
+        "274",
+        "TeddyLoid",
+        "3GfNJrDTZY7voXPDx8gH9I",
+        "376334342",
+        "582291",
+        "UCSMEyA3pVYdTrO9HBXdfsfg",
+        "5261",
+        "Ayane Sakura",
+        "佐倉綾音",
+        "0EQhKMJfrQjmIJ6im9KyRB",
+        "1021925121",
+        "118071212",
+        "UCy5-YguW8GIvQYLyCa33oLQ",
+        "25810",
+        "Nagi Inoue",
+        "井上和"
+      ]
+    },
+    {
       "id": "27900",
       "anime": "Black Clover 2nd Season",
       "song": "Kienai Riyuu",
@@ -2240,128 +1926,6 @@
         "TV Tokyo Anime",
         "テレ東アニメ",
         "UC0OXPEQRKArB_EVyFMwDbAQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "us_3382",
-      "anime": "ghost / Yoru no Hate",
-      "song": "life",
-      "artist": "Hitsujibungaku",
-      "artistDisplay": "Hitsujibungaku",
-      "artistDisplayCount": 1,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg",
-      "detailUrl": "",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "life"
-      ],
-      "animeCandidates": [
-        "ghost / Yoru no Hate",
-        "ghost／夜の果て",
-        "Ghost: Yoru no Hate"
-      ],
-      "artistCandidates": [
-        "7233",
-        "Hitsujibungaku",
-        "羊文学",
-        "6S8w5rLsEwjN21jQeRES0n",
-        "1281384242",
-        "13290779",
-        "UCnZK-AT0Yrx8uXcFRqUy87g"
-      ]
-    },
-    {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
-      "artist": "Ado",
-      "artistDisplay": "Ado",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
-      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Shinka",
-        "シンカ"
-      ],
-      "animeCandidates": [
-        "Devil's Crest",
-        "Demons' Crest",
-        "デモンズ・クレスト",
-        "Devils' Crest"
-      ],
-      "artistCandidates": [
-        "7645",
-        "Ado",
-        "6mEQK9m2krja6X1cfsAjfl",
-        "1492604670",
-        "121146382",
-        "UC5DHwv9N4OQ9AWtKr8YSefw"
       ],
       "animethemesVideo": null
     },
@@ -2619,6 +2183,73 @@
       "animethemesVideo": null
     },
     {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "artist": "Nanashi no Taro",
+      "artistDisplay": "Nanashi no Taro",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
+      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hikari no Soba de",
+        "光の側で"
+      ],
+      "animeCandidates": [
+        "From Far Away",
+        "Kanata kara",
+        "From the Other Side",
+        "彼⽅から",
+        "彼方から"
+      ],
+      "artistCandidates": [
+        "16565",
+        "Nanashi no Taro",
+        "名無し之太郎",
+        "32xxJA5U8ot0QZPDllZ1po",
+        "1561101450",
+        "233584571",
+        "UCtYIwrBgW5h-nj6vytKbohQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "27823",
       "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
       "song": "Shinu ka Ikiru ka",
@@ -2685,6 +2316,401 @@
         "1727997785",
         "1337238",
         "UCnPf2oZPzg_pxf6RzjUoCgw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28084",
+      "anime": "The Ramparts of Ice Season 2",
+      "song": "Escort",
+      "artist": "THE BEAT GARDEN",
+      "artistDisplay": "THE BEAT GARDEN",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6SN1inZu149TLU3e8Xp2a0",
+      "apple": "https://geo.music.apple.com/album/6819121866?i=6819121868&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Escort",
+        "エスコート"
+      ],
+      "animeCandidates": [
+        "The Ramparts of Ice Season 2",
+        "Koori no Jouheki 2nd Season",
+        "氷の城壁 第2期"
+      ],
+      "artistCandidates": [
+        "435",
+        "THE BEAT GARDEN",
+        "7gcQfJbjZ2W440kQ2wmqzk",
+        "1081410768",
+        "12421168",
+        "UCx0PImuCTAcomS3v-cZOBDA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27990",
+      "anime": "The World's Strongest Witch",
+      "song": "Eikyouroku ∞ Idol",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "artistDisplay": "MARUMOCHI from HoneyWorks & HaKoniwalily",
+      "artistDisplayCount": 2,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1VvmVtY3brxOXTqgIOPjef",
+      "apple": "https://geo.music.apple.com/album/6815915313?i=6815915315&at=1001l384j&ct=website-the-worlds-strongest-witch-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4712f81b4fef2d9fb81ac022bae3515168c89f15@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-worlds-strongest-witch-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Eikyouroku ∞ Idol",
+        "影響力∞アイドル",
+        "Idol with Limitless Influence"
+      ],
+      "animeCandidates": [
+        "The World's Strongest Witch",
+        "Sekai Saikyou no Majo, Hajimemashita",
+        "世界最強の魔女、始めました",
+        "Sekamajo"
+      ],
+      "artistCandidates": [
+        "16629",
+        "MARUMOCHI from HoneyWorks",
+        "6SE42YkzK2iVXMph1a3Hbp",
+        "1767973545",
+        "281706071",
+        "UCJxr7YkgS2mEZBFyq39Wkhg",
+        "7226",
+        "HaKoniwalily",
+        "ハコニワリリィ",
+        "HaKoniwaLily",
+        "ハコニワリリ",
+        "2rsT3GtKdBr9qBYXEn8lEZ",
+        "417230252"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27821",
+      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "song": "SPIN",
+      "artist": "Kroi",
+      "artistDisplay": "Kroi",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
+      "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/62f935a021ce799e1890dd2bacab33a446e03999@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "products",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SPIN"
+      ],
+      "animeCandidates": [
+        "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
+        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
+        "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
+        "SBR",
+        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
+      ],
+      "artistCandidates": [
+        "14747",
+        "Kroi",
+        "4S8J8Nct8lHsbzAeNJXcJa",
+        "1439157589",
+        "52711252",
+        "UCssoAGLly9DaABecIZoht_g"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27992",
+      "anime": "Black Clover 2nd Season",
+      "song": "Yellow Brick Road",
+      "artist": "ONE OR EIGHT",
+      "artistDisplay": "ONE OR EIGHT",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
+      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/707fd0db5aeec803c5e71530f37d074ce87b58cb@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yellow Brick Road"
+      ],
+      "animeCandidates": [
+        "Black Clover 2nd Season",
+        "ブラッククローバー 2nd season",
+        "Black Clover Season 2"
+      ],
+      "artistCandidates": [
+        "19216",
+        "ONE OR EIGHT",
+        "5bIttAFRf7URUmuuI9w7XA",
+        "1758291632",
+        "275967661",
+        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27817",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "TRICKSTER",
+      "artist": "go!go!vanillas",
+      "artistDisplay": "go!go!vanillas",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX",
+      "apple": "https://geo.music.apple.com/album/6810161017?i=6810161018&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "TRICKSTER",
+        "トリックスター"
+      ],
+      "animeCandidates": [
+        "Tokyo Revengers: War of the Three Titan Arc",
+        "Tokyo Revengers: Santen Sensou-hen",
+        "東京リベンジャーズ 三天戦争編",
+        "Tokyo Revengers: War of the Three Titans Arc"
+      ],
+      "artistCandidates": [
+        "794",
+        "go!go!vanillas",
+        "0aqPTOZlKG6ltJHv7BNlsm",
+        "671623880",
+        "10963206",
+        "UCPs1IqAe9_1RU9Dq7_yy8Eg",
+        "25503",
+        "TV anime \"Tokyo Revengers\"",
+        "UCnrudQZNXphuOk0QB8Yz6oQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "artist": "aiko",
+      "artistDisplay": "aiko",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
+      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Anata no Hana no Iro",
+        "あなたの花の色",
+        "the color of your flower"
+      ],
+      "animeCandidates": [
+        "Blue Box Season 2",
+        "アオのハコ Season2",
+        "Ao no Hako Season 2"
+      ],
+      "artistCandidates": [
+        "3105",
+        "aiko",
+        "6TDMbiQCWeMClsMr9ORLRK",
+        "635154255",
+        "2643581"
       ],
       "animethemesVideo": null
     }
@@ -3257,11 +3283,11 @@
       "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-original-soundtrack"
     },
     {
-      "id": "27883",
-      "anime": "Rascal Does Not Dream of a Dear Friend",
-      "song": "Turn The World Upside Down",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-insert-song-turn-the-world-upside-down"
+      "id": "28221",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "ORIGINAL SOUNDTRACK",
+      "kind": "OST",
+      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack"
     },
     {
       "id": "28222",
@@ -3271,11 +3297,11 @@
       "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-theme-song"
     },
     {
-      "id": "28221",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "ORIGINAL SOUNDTRACK",
-      "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack"
+      "id": "27883",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Turn The World Upside Down",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-insert-song-turn-the-world-upside-down"
     },
     {
       "id": "28171",
@@ -3292,13 +3318,6 @@
       "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-opening"
     },
     {
-      "id": "28306",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Pitch Black",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black"
-    },
-    {
       "id": "28164",
       "anime": "Nia Liston: The Merciless Maiden",
       "song": "ORIGINAL SOUNDTRACK",
@@ -3313,13 +3332,6 @@
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-a-song-of-romance-pt-2"
     },
     {
-      "id": "28168",
-      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
-      "song": "BADDY BADDY",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy"
-    },
-    {
       "id": "28166",
       "anime": "BanG Dream! Ave Mujica: Prima Aurora",
       "song": "Kami no Na o",
@@ -3327,46 +3339,18 @@
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-kami-no-na-o"
     },
     {
-      "id": "28305",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Beyond the Night",
-      "kind": "TS",
-      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song"
+      "id": "28168",
+      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
+      "song": "BADDY BADDY",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy"
     },
     {
-      "id": "28160",
-      "anime": "Horror Collector",
-      "song": "Meiro",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-ending"
-    },
-    {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending"
-    },
-    {
-      "id": "28159",
+      "id": "28306",
       "anime": "DARK MACHINE: The Animation",
-      "song": "Galaxy Mode",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending"
-    },
-    {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
-    },
-    {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
+      "song": "Pitch Black",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black"
     },
     {
       "id": "28153",
@@ -3376,18 +3360,32 @@
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself"
     },
     {
+      "id": "28160",
+      "anime": "Horror Collector",
+      "song": "Meiro",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-ending"
+    },
+    {
+      "id": "28159",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Galaxy Mode",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending"
+    },
+    {
+      "id": "28305",
+      "anime": "Expelled from Paradise: Resonance",
+      "song": "Beyond the Night",
+      "kind": "TS",
+      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song"
+    },
+    {
       "id": "27900",
       "anime": "Black Clover 2nd Season",
       "song": "Kienai Riyuu",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-opening"
-    },
-    {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening"
     },
     {
       "id": "27895",
@@ -3418,18 +3416,18 @@
       "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending"
     },
     {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending"
+    },
+    {
       "id": "27823",
       "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
       "song": "Shinu ka Ikiru ka",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-ending"
-    },
-    {
-      "id": "28271",
-      "anime": "A Wild Last Boss Appeared! Season 2",
-      "song": "Yurete Skirt",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending"
     },
     {
       "id": "28084",
@@ -3439,11 +3437,39 @@
       "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-opening"
     },
     {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
+      "id": "27990",
+      "anime": "The World's Strongest Witch",
+      "song": "Eikyouroku ∞ Idol",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/the-worlds-strongest-witch-opening"
+    },
+    {
+      "id": "27821",
+      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "song": "SPIN",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening"
+    },
+    {
+      "id": "27992",
+      "anime": "Black Clover 2nd Season",
+      "song": "Yellow Brick Road",
       "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending"
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending"
+    },
+    {
+      "id": "27817",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "TRICKSTER",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-ending"
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening"
     }
   ],
   "usableSamples": [
@@ -3642,19 +3668,19 @@
       ]
     },
     {
-      "id": "27883",
-      "anime": "Rascal Does Not Dream of a Dear Friend",
-      "song": "Turn The World Upside Down",
-      "artist": "Touko Kirishima",
-      "artistDisplay": "Touko Kirishima",
+      "id": "28221",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "ORIGINAL SOUNDTRACK",
+      "artist": "Kevin Penkin",
+      "artistDisplay": "Kevin Penkin",
       "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert",
+      "kind": "OST",
+      "kindLabel": "OST",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/2rxXEhF8pvGKgq0ODWT608",
-      "apple": "https://geo.music.apple.com/album/6809422891?i=6809422894&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-insert-song-turn-the-world-upside-down",
+      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
+      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -3686,21 +3712,22 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Turn The World Upside Down"
+        "ORIGINAL SOUNDTRACK",
+        "MADE IN ABYSS ORIGINAL SOUNDTRACK (4)"
       ],
       "animeCandidates": [
-        "Rascal Does Not Dream of a Dear Friend",
-        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
-        "青春ブタ野郎はディアフレンドの夢を見ない"
+        "Made in Abyss: Mezameru Shinpi",
+        "Made in Abyss: Awakening Mystery",
+        "メイドインアビス 目覚める神秘"
       ],
       "artistCandidates": [
-        "17885",
-        "Touko Kirishima",
-        "霧島透子",
-        "7IrMYd2djETd56sjTPt3UP",
-        "1811798060",
-        "320905841",
-        "UC2ZVM7UDClF1fvew91aajbg"
+        "725",
+        "Kevin Penkin",
+        "ケビン・ペンキン",
+        "4S33gEeiCjwfD1FJKfMT3Y",
+        "1113369160",
+        "10563699",
+        "UCmUdoXixFr4EffDIQkarfLg"
       ]
     },
     {
@@ -3770,19 +3797,19 @@
       ]
     },
     {
-      "id": "28221",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "ORIGINAL SOUNDTRACK",
-      "artist": "Kevin Penkin",
-      "artistDisplay": "Kevin Penkin",
+      "id": "27883",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Turn The World Upside Down",
+      "artist": "Touko Kirishima",
+      "artistDisplay": "Touko Kirishima",
       "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
+      "kind": "IN",
+      "kindLabel": "Insert",
       "episodes": [],
-      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
-      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack",
+      "spotify": "https://open.spotify.com/track/2rxXEhF8pvGKgq0ODWT608",
+      "apple": "https://geo.music.apple.com/album/6809422891?i=6809422894&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b1deebdd9c3e22732cd7d78ad46ca4187aff03ac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-insert-song-turn-the-world-upside-down",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -3814,22 +3841,21 @@
         "objectID"
       ],
       "titleCandidates": [
-        "ORIGINAL SOUNDTRACK",
-        "MADE IN ABYSS ORIGINAL SOUNDTRACK (4)"
+        "Turn The World Upside Down"
       ],
       "animeCandidates": [
-        "Made in Abyss: Mezameru Shinpi",
-        "Made in Abyss: Awakening Mystery",
-        "メイドインアビス 目覚める神秘"
+        "Rascal Does Not Dream of a Dear Friend",
+        "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+        "青春ブタ野郎はディアフレンドの夢を見ない"
       ],
       "artistCandidates": [
-        "725",
-        "Kevin Penkin",
-        "ケビン・ペンキン",
-        "4S33gEeiCjwfD1FJKfMT3Y",
-        "1113369160",
-        "10563699",
-        "UCmUdoXixFr4EffDIQkarfLg"
+        "17885",
+        "Touko Kirishima",
+        "霧島透子",
+        "7IrMYd2djETd56sjTPt3UP",
+        "1811798060",
+        "320905841",
+        "UC2ZVM7UDClF1fvew91aajbg"
       ]
     },
     {
@@ -3972,83 +3998,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28306",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Pitch Black",
-      "artist": "STELLATUS",
-      "artistDisplay": "STELLATUS, Nao Toyama, Rei Nakashima & Nonoka Oobuchi",
-      "artistDisplayCount": 4,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 1, 3, 5)",
-      "episodes": [
-        "1",
-        "3",
-        "5"
-      ],
-      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
-      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Pitch Black"
-      ],
-      "animeCandidates": [
-        "DARK MACHINE: The Animation",
-        "DARK MACHINE -The Animation-",
-        "DARK MACHINE THE ANIMATION"
-      ],
-      "artistCandidates": [
-        "25813",
-        "STELLATUS",
-        "5Gc2maIYuCIBabPMzIy24T",
-        "6823022818",
-        "424920641",
-        "2231",
-        "Nao Toyama",
-        "東山奈央",
-        "Nao Touyama",
-        "Nao Tōyama",
-        "5FQ4vbNwpE1wFGoOPecJB9",
-        "UCiyiF5Kf2BAXmi8Ae-VOl3w",
-        "14465",
-        "Rei Nakashima",
-        "中島怜",
-        "7pQmC6NNs7KvWfrYKmqPbo"
-      ]
-    },
-    {
       "id": "28164",
       "anime": "Nia Liston: The Merciless Maiden",
       "song": "ORIGINAL SOUNDTRACK",
@@ -4176,67 +4125,6 @@
       ]
     },
     {
-      "id": "28168",
-      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
-      "song": "BADDY BADDY",
-      "artist": "Ave Mujica",
-      "artistDisplay": "Ave Mujica",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
-      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "BADDY BADDY"
-      ],
-      "animeCandidates": [
-        "BanG Dream! Ave Mujica: Prima Aurora",
-        "BanG Dream! Ave Mujica prima aurora"
-      ],
-      "artistCandidates": [
-        "14696",
-        "Ave Mujica",
-        "5BKIH2Kwc6LbetG04Boai7",
-        "1680440024",
-        "207829687",
-        "UCcUQTshxx-7gwzKa8fZjn6A"
-      ]
-    },
-    {
       "id": "28166",
       "anime": "BanG Dream! Ave Mujica: Prima Aurora",
       "song": "Kami no Na o",
@@ -4300,19 +4188,19 @@
       ]
     },
     {
-      "id": "28305",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Beyond the Night",
-      "artist": "TeddyLoid",
-      "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
-      "artistDisplayCount": 3,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
+      "id": "28168",
+      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
+      "song": "BADDY BADDY",
+      "artist": "Ave Mujica",
+      "artistDisplay": "Ave Mujica",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
-      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song",
+      "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
+      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4345,180 +4233,39 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Beyond the Night"
+        "BADDY BADDY"
       ],
       "animeCandidates": [
-        "Expelled from Paradise: Resonance",
-        "Rakuen Tsuihou: Kokoro no Resonance",
-        "Liberated from Paradise: Resonance of the Heart",
-        "楽園追放 心のレゾナンス"
+        "BanG Dream! Ave Mujica: Prima Aurora",
+        "BanG Dream! Ave Mujica prima aurora"
       ],
       "artistCandidates": [
-        "274",
-        "TeddyLoid",
-        "3GfNJrDTZY7voXPDx8gH9I",
-        "376334342",
-        "582291",
-        "UCSMEyA3pVYdTrO9HBXdfsfg",
-        "5261",
-        "Ayane Sakura",
-        "佐倉綾音",
-        "0EQhKMJfrQjmIJ6im9KyRB",
-        "1021925121",
-        "118071212",
-        "UCy5-YguW8GIvQYLyCa33oLQ",
-        "25810",
-        "Nagi Inoue",
-        "井上和"
+        "14696",
+        "Ave Mujica",
+        "5BKIH2Kwc6LbetG04Boai7",
+        "1680440024",
+        "207829687",
+        "UCcUQTshxx-7gwzKa8fZjn6A"
       ]
     },
     {
-      "id": "28160",
-      "anime": "Horror Collector",
-      "song": "Meiro",
-      "artist": "Shikao Suga",
-      "artistDisplay": "Shikao Suga",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6megJPIZVqe5E98dig1uR0",
-      "apple": "https://geo.music.apple.com/album/6819125191?i=6819125192&at=1001l384j&ct=website-horror-collector-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4fe04ec3354fbba3c6af646297ccb18cf5bccd72@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/horror-collector-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Meiro",
-        "迷路",
-        "Maze"
-      ],
-      "animeCandidates": [
-        "Horror Collector",
-        "Kyoufu Collector",
-        "恐怖コレクター"
-      ],
-      "artistCandidates": [
-        "72",
-        "Shikao Suga",
-        "スガシカオ",
-        "3sddhwNhGabYSvzYKhB7qj",
-        "202324935",
-        "4929503",
-        "UCaWq9OOi9wk961EOzugZuoA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "artist": "Nanashi no Taro",
-      "artistDisplay": "Nanashi no Taro",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
-      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Hikari no Soba de",
-        "光の側で"
-      ],
-      "animeCandidates": [
-        "From Far Away",
-        "Kanata kara",
-        "From the Other Side",
-        "彼⽅から",
-        "彼方から"
-      ],
-      "artistCandidates": [
-        "16565",
-        "Nanashi no Taro",
-        "名無し之太郎",
-        "32xxJA5U8ot0QZPDllZ1po",
-        "1561101450",
-        "233584571",
-        "UCtYIwrBgW5h-nj6vytKbohQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28159",
+      "id": "28306",
       "anime": "DARK MACHINE: The Animation",
-      "song": "Galaxy Mode",
-      "artist": "J SOUL BROTHERS III",
-      "artistDisplay": "J SOUL BROTHERS III",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
-      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music",
+      "song": "Pitch Black",
+      "artist": "STELLATUS",
+      "artistDisplay": "STELLATUS, Nao Toyama, Rei Nakashima & Nonoka Oobuchi",
+      "artistDisplayCount": 4,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 1, 3, 5)",
+      "episodes": [
+        "1",
+        "3",
+        "5"
+      ],
+      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
+      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music",
       "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4535,6 +4282,7 @@
         "platforms",
         "preview_url",
         "song_key",
+        "episodes",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -4551,7 +4299,7 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Galaxy Mode"
+        "Pitch Black"
       ],
       "animeCandidates": [
         "DARK MACHINE: The Animation",
@@ -4559,151 +4307,23 @@
         "DARK MACHINE THE ANIMATION"
       ],
       "artistCandidates": [
-        "23755",
-        "J SOUL BROTHERS III",
-        "Sandaime J SOUL BROTHERS",
-        "三代目 J SOUL BROTHERS",
-        "J SOUL BROTHERS III from EXILE TRIBE",
-        "三代目 J Soul Brothers from EXILE TRIBE",
-        "1g51NlHKUXlgfvGP22m0uD",
-        "633832735",
-        "36984512",
-        "UCARcTUfyPaacDYADTb_Qveg"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kumo o Nuke Kazashimo e Watashi dake",
-        "雲を抜け風下へ私だけ",
-        "Beyond the Clouds, Only Me Downwind"
-      ],
-      "animeCandidates": [
-        "The Apothecary Diaries Season 3",
-        "Kusuriya no Hitorigoto 3rd Season",
-        "The Pharmacist's Monologue",
-        "Drugstore Soliloquy",
-        "薬屋のひとりごと 第3期"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "artist": "Megatera Zero",
-      "artistDisplay": "Megatera Zero",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
-      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "products",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Onogami",
-        "オノガミ"
-      ],
-      "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ],
-      "artistCandidates": [
-        "14404",
-        "Megatera Zero",
-        "メガテラ・ゼロ",
-        "MEGATERA･ZERO",
-        "Mega Terra Zero",
-        "4I7F7bTQ9tBnRI2razDP9B",
-        "1466037690",
-        "147335922",
-        "UCe0GU9CHeC3hbvgYmzXc7OA"
-      ],
-      "animethemesVideo": null
+        "25813",
+        "STELLATUS",
+        "5Gc2maIYuCIBabPMzIy24T",
+        "6823022818",
+        "424920641",
+        "2231",
+        "Nao Toyama",
+        "東山奈央",
+        "Nao Touyama",
+        "Nao Tōyama",
+        "5FQ4vbNwpE1wFGoOPecJB9",
+        "UCiyiF5Kf2BAXmi8Ae-VOl3w",
+        "14465",
+        "Rei Nakashima",
+        "中島怜",
+        "7pQmC6NNs7KvWfrYKmqPbo"
+      ]
     },
     {
       "id": "28153",
@@ -4779,6 +4399,212 @@
       ]
     },
     {
+      "id": "28160",
+      "anime": "Horror Collector",
+      "song": "Meiro",
+      "artist": "Shikao Suga",
+      "artistDisplay": "Shikao Suga",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6megJPIZVqe5E98dig1uR0",
+      "apple": "https://geo.music.apple.com/album/6819125191?i=6819125192&at=1001l384j&ct=website-horror-collector-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4fe04ec3354fbba3c6af646297ccb18cf5bccd72@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Meiro",
+        "迷路",
+        "Maze"
+      ],
+      "animeCandidates": [
+        "Horror Collector",
+        "Kyoufu Collector",
+        "恐怖コレクター"
+      ],
+      "artistCandidates": [
+        "72",
+        "Shikao Suga",
+        "スガシカオ",
+        "3sddhwNhGabYSvzYKhB7qj",
+        "202324935",
+        "4929503",
+        "UCaWq9OOi9wk961EOzugZuoA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28159",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Galaxy Mode",
+      "artist": "J SOUL BROTHERS III",
+      "artistDisplay": "J SOUL BROTHERS III",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
+      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Galaxy Mode"
+      ],
+      "animeCandidates": [
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
+      ],
+      "artistCandidates": [
+        "23755",
+        "J SOUL BROTHERS III",
+        "Sandaime J SOUL BROTHERS",
+        "三代目 J SOUL BROTHERS",
+        "J SOUL BROTHERS III from EXILE TRIBE",
+        "三代目 J Soul Brothers from EXILE TRIBE",
+        "1g51NlHKUXlgfvGP22m0uD",
+        "633832735",
+        "36984512",
+        "UCARcTUfyPaacDYADTb_Qveg"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28305",
+      "anime": "Expelled from Paradise: Resonance",
+      "song": "Beyond the Night",
+      "artist": "TeddyLoid",
+      "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
+      "artistDisplayCount": 3,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
+      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Beyond the Night"
+      ],
+      "animeCandidates": [
+        "Expelled from Paradise: Resonance",
+        "Rakuen Tsuihou: Kokoro no Resonance",
+        "Liberated from Paradise: Resonance of the Heart",
+        "楽園追放 心のレゾナンス"
+      ],
+      "artistCandidates": [
+        "274",
+        "TeddyLoid",
+        "3GfNJrDTZY7voXPDx8gH9I",
+        "376334342",
+        "582291",
+        "UCSMEyA3pVYdTrO9HBXdfsfg",
+        "5261",
+        "Ayane Sakura",
+        "佐倉綾音",
+        "0EQhKMJfrQjmIJ6im9KyRB",
+        "1021925121",
+        "118071212",
+        "UCy5-YguW8GIvQYLyCa33oLQ",
+        "25810",
+        "Nagi Inoue",
+        "井上和"
+      ]
+    },
+    {
       "id": "27900",
       "anime": "Black Clover 2nd Season",
       "song": "Kienai Riyuu",
@@ -4842,70 +4668,6 @@
         "TV Tokyo Anime",
         "テレ東アニメ",
         "UC0OXPEQRKArB_EVyFMwDbAQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
-      "artist": "Ado",
-      "artistDisplay": "Ado",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
-      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/50a9378b2fbcc8008172ff59e916436627f89e46@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/devils-crest-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Shinka",
-        "シンカ"
-      ],
-      "animeCandidates": [
-        "Devil's Crest",
-        "Demons' Crest",
-        "デモンズ・クレスト",
-        "Devils' Crest"
-      ],
-      "artistCandidates": [
-        "7645",
-        "Ado",
-        "6mEQK9m2krja6X1cfsAjfl",
-        "1492604670",
-        "121146382",
-        "UC5DHwv9N4OQ9AWtKr8YSefw"
       ],
       "animethemesVideo": null
     },
@@ -5163,6 +4925,73 @@
       "animethemesVideo": null
     },
     {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "artist": "Nanashi no Taro",
+      "artistDisplay": "Nanashi no Taro",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
+      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Hikari no Soba de",
+        "光の側で"
+      ],
+      "animeCandidates": [
+        "From Far Away",
+        "Kanata kara",
+        "From the Other Side",
+        "彼⽅から",
+        "彼方から"
+      ],
+      "artistCandidates": [
+        "16565",
+        "Nanashi no Taro",
+        "名無し之太郎",
+        "32xxJA5U8ot0QZPDllZ1po",
+        "1561101450",
+        "233584571",
+        "UCtYIwrBgW5h-nj6vytKbohQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "27823",
       "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
       "song": "Shinu ka Ikiru ka",
@@ -5233,70 +5062,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28271",
-      "anime": "A Wild Last Boss Appeared! Season 2",
-      "song": "Yurete Skirt",
-      "artist": "Chakura",
-      "artistDisplay": "Chakura",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
-      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/60219ecdffcc07ed67b55a7397d1d7038c0a95c4@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/a-wild-last-boss-appeared-season-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yurete Skirt",
-        "揺れてスカート"
-      ],
-      "animeCandidates": [
-        "A Wild Last Boss Appeared! Season 2",
-        "野生のラスボスが現れた！ 第2期",
-        "Yasei no Last Boss ga Arawareta! 2nd Season"
-      ],
-      "artistCandidates": [
-        "24213",
-        "Chakura",
-        "ちゃくら",
-        "4y8KqtQgzRVDnQ072O7Vqr",
-        "1659156116",
-        "193022797",
-        "UCOK1WCN-6ucanL1nO0ZmimA"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
@@ -5360,19 +5125,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
-      "artist": "VK Blanka",
-      "artistDisplay": "VK Blanka",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "id": "27990",
+      "anime": "The World's Strongest Witch",
+      "song": "Eikyouroku ∞ Idol",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "artistDisplay": "MARUMOCHI from HoneyWorks & HaKoniwalily",
+      "artistDisplayCount": 2,
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
-      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
+      "spotify": "https://open.spotify.com/track/1VvmVtY3brxOXTqgIOPjef",
+      "apple": "https://geo.music.apple.com/album/6815915313?i=6815915315&at=1001l384j&ct=website-the-worlds-strongest-witch-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4712f81b4fef2d9fb81ac022bae3515168c89f15@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-worlds-strongest-witch-opening",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -5404,22 +5169,290 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Kanpeki no Peki",
-        "完璧のペキ",
-        "Kan Peki No Peki"
+        "Eikyouroku ∞ Idol",
+        "影響力∞アイドル",
+        "Idol with Limitless Influence"
       ],
       "animeCandidates": [
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
+        "The World's Strongest Witch",
+        "Sekai Saikyou no Majo, Hajimemashita",
+        "世界最強の魔女、始めました",
+        "Sekamajo"
       ],
       "artistCandidates": [
-        "498",
-        "VK Blanka",
-        "Vickeblanka",
-        "0PYPjvZaOa7bsCq26JOX8d",
-        "894895986",
-        "50322192",
-        "UCg2rvXE9x3zg01ZxyIt9DpA"
+        "16629",
+        "MARUMOCHI from HoneyWorks",
+        "6SE42YkzK2iVXMph1a3Hbp",
+        "1767973545",
+        "281706071",
+        "UCJxr7YkgS2mEZBFyq39Wkhg",
+        "7226",
+        "HaKoniwalily",
+        "ハコニワリリィ",
+        "HaKoniwaLily",
+        "ハコニワリリ",
+        "2rsT3GtKdBr9qBYXEn8lEZ",
+        "417230252"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27821",
+      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "song": "SPIN",
+      "artist": "Kroi",
+      "artistDisplay": "Kroi",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
+      "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/62f935a021ce799e1890dd2bacab33a446e03999@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "products",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SPIN"
+      ],
+      "animeCandidates": [
+        "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
+        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
+        "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
+        "SBR",
+        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
+      ],
+      "artistCandidates": [
+        "14747",
+        "Kroi",
+        "4S8J8Nct8lHsbzAeNJXcJa",
+        "1439157589",
+        "52711252",
+        "UCssoAGLly9DaABecIZoht_g"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27992",
+      "anime": "Black Clover 2nd Season",
+      "song": "Yellow Brick Road",
+      "artist": "ONE OR EIGHT",
+      "artistDisplay": "ONE OR EIGHT",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
+      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/707fd0db5aeec803c5e71530f37d074ce87b58cb@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yellow Brick Road"
+      ],
+      "animeCandidates": [
+        "Black Clover 2nd Season",
+        "ブラッククローバー 2nd season",
+        "Black Clover Season 2"
+      ],
+      "artistCandidates": [
+        "19216",
+        "ONE OR EIGHT",
+        "5bIttAFRf7URUmuuI9w7XA",
+        "1758291632",
+        "275967661",
+        "UCwwBJHxlinPZ6cHS6UzQ7Ig"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27817",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "TRICKSTER",
+      "artist": "go!go!vanillas",
+      "artistDisplay": "go!go!vanillas",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX",
+      "apple": "https://geo.music.apple.com/album/6810161017?i=6810161018&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "TRICKSTER",
+        "トリックスター"
+      ],
+      "animeCandidates": [
+        "Tokyo Revengers: War of the Three Titan Arc",
+        "Tokyo Revengers: Santen Sensou-hen",
+        "東京リベンジャーズ 三天戦争編",
+        "Tokyo Revengers: War of the Three Titans Arc"
+      ],
+      "artistCandidates": [
+        "794",
+        "go!go!vanillas",
+        "0aqPTOZlKG6ltJHv7BNlsm",
+        "671623880",
+        "10963206",
+        "UCPs1IqAe9_1RU9Dq7_yy8Eg",
+        "25503",
+        "TV anime \"Tokyo Revengers\"",
+        "UCnrudQZNXphuOk0QB8Yz6oQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "artist": "aiko",
+      "artistDisplay": "aiko",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
+      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Anata no Hana no Iro",
+        "あなたの花の色",
+        "the color of your flower"
+      ],
+      "animeCandidates": [
+        "Blue Box Season 2",
+        "アオのハコ Season2",
+        "Ao no Hako Season 2"
+      ],
+      "artistCandidates": [
+        "3105",
+        "aiko",
+        "6TDMbiQCWeMClsMr9ORLRK",
+        "635154255",
+        "2643581"
       ],
       "animethemesVideo": null
     }
@@ -5450,12 +5483,12 @@
       "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-expelled-from-paradise-reson-ost&app=music"
     },
     {
-      "id": "27883",
-      "anime": "Rascal Does Not Dream of a Dear Friend",
-      "song": "Turn The World Upside Down",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/2rxXEhF8pvGKgq0ODWT608",
-      "apple": "https://geo.music.apple.com/album/6809422891?i=6809422894&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-in&app=music"
+      "id": "28221",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "ORIGINAL SOUNDTRACK",
+      "kind": "OST",
+      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
+      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music"
     },
     {
       "id": "28222",
@@ -5466,12 +5499,12 @@
       "apple": "https://geo.music.apple.com/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music"
     },
     {
-      "id": "28221",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "ORIGINAL SOUNDTRACK",
-      "kind": "OST",
-      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
-      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music"
+      "id": "27883",
+      "anime": "Rascal Does Not Dream of a Dear Friend",
+      "song": "Turn The World Upside Down",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/2rxXEhF8pvGKgq0ODWT608",
+      "apple": "https://geo.music.apple.com/album/6809422891?i=6809422894&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-in&app=music"
     },
     {
       "id": "28171",
@@ -5490,14 +5523,6 @@
       "apple": "https://geo.music.apple.com/album/6815632526?i=6815632984&at=1001l384j&ct=website-my-happy-marriage-special-op&app=music"
     },
     {
-      "id": "28306",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Pitch Black",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
-      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music"
-    },
-    {
       "id": "28164",
       "anime": "Nia Liston: The Merciless Maiden",
       "song": "ORIGINAL SOUNDTRACK",
@@ -5514,14 +5539,6 @@
       "apple": "https://geo.music.apple.com/album/6816841824?i=6816842009&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music"
     },
     {
-      "id": "28168",
-      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
-      "song": "BADDY BADDY",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
-      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music"
-    },
-    {
       "id": "28166",
       "anime": "BanG Dream! Ave Mujica: Prima Aurora",
       "song": "Kami no Na o",
@@ -5530,52 +5547,20 @@
       "apple": "https://geo.music.apple.com/album/6816841824?i=6816842008&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music"
     },
     {
-      "id": "28305",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Beyond the Night",
-      "kind": "TS",
-      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
-      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music"
+      "id": "28168",
+      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
+      "song": "BADDY BADDY",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
+      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music"
     },
     {
-      "id": "28160",
-      "anime": "Horror Collector",
-      "song": "Meiro",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/6megJPIZVqe5E98dig1uR0",
-      "apple": "https://geo.music.apple.com/album/6819125191?i=6819125192&at=1001l384j&ct=website-horror-collector-ed&app=music"
-    },
-    {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
-      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music"
-    },
-    {
-      "id": "28159",
+      "id": "28306",
       "anime": "DARK MACHINE: The Animation",
-      "song": "Galaxy Mode",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
-      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music"
-    },
-    {
-      "id": "28085",
-      "anime": "The Apothecary Diaries Season 3",
-      "song": "Kumo o Nuke Kazashimo e Watashi dake",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
-    },
-    {
-      "id": "28074",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Onogami",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
-      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
+      "song": "Pitch Black",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
+      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music"
     },
     {
       "id": "28153",
@@ -5586,20 +5571,36 @@
       "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music"
     },
     {
+      "id": "28160",
+      "anime": "Horror Collector",
+      "song": "Meiro",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/6megJPIZVqe5E98dig1uR0",
+      "apple": "https://geo.music.apple.com/album/6819125191?i=6819125192&at=1001l384j&ct=website-horror-collector-ed&app=music"
+    },
+    {
+      "id": "28159",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Galaxy Mode",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
+      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music"
+    },
+    {
+      "id": "28305",
+      "anime": "Expelled from Paradise: Resonance",
+      "song": "Beyond the Night",
+      "kind": "TS",
+      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
+      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music"
+    },
+    {
       "id": "27900",
       "anime": "Black Clover 2nd Season",
       "song": "Kienai Riyuu",
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx",
       "apple": "https://geo.music.apple.com/album/6812683549?i=6812683552&at=1001l384j&ct=website-black-clover-2nd-season-op&app=music"
-    },
-    {
-      "id": "28287",
-      "anime": "Devil's Crest",
-      "song": "Shinka",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/1DylgKBuLrlohfQJcRl6eE",
-      "apple": "https://geo.music.apple.com/album/6828696885?i=6828697038&at=1001l384j&ct=website-devils-crest-op&app=music"
     },
     {
       "id": "27895",
@@ -5634,20 +5635,20 @@
       "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music"
     },
     {
+      "id": "28304",
+      "anime": "From Far Away",
+      "song": "Hikari no Soba de",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
+      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music"
+    },
+    {
       "id": "27823",
       "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
       "song": "Shinu ka Ikiru ka",
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/7vdZztyuzNX1joqkbhWBxX",
       "apple": "https://geo.music.apple.com/album/6809991313?i=6809991318&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-ed&app=music"
-    },
-    {
-      "id": "28271",
-      "anime": "A Wild Last Boss Appeared! Season 2",
-      "song": "Yurete Skirt",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq",
-      "apple": "https://geo.music.apple.com/album/6825694381?i=6825694614&at=1001l384j&ct=website-a-wild-last-boss-appeared-sea-ed&app=music"
     },
     {
       "id": "28084",
@@ -5658,12 +5659,44 @@
       "apple": "https://geo.music.apple.com/album/6819121866?i=6819121868&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-op&app=music"
     },
     {
-      "id": "28076",
-      "anime": "Dragon Ball Super: Beerus",
-      "song": "Kanpeki no Peki",
+      "id": "27990",
+      "anime": "The World's Strongest Witch",
+      "song": "Eikyouroku ∞ Idol",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/1VvmVtY3brxOXTqgIOPjef",
+      "apple": "https://geo.music.apple.com/album/6815915313?i=6815915315&at=1001l384j&ct=website-the-worlds-strongest-witch-op&app=music"
+    },
+    {
+      "id": "27821",
+      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "song": "SPIN",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
+      "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music"
+    },
+    {
+      "id": "27992",
+      "anime": "Black Clover 2nd Season",
+      "song": "Yellow Brick Road",
       "kind": "ED",
-      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
-      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music"
+      "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
+      "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music"
+    },
+    {
+      "id": "27817",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "TRICKSTER",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX",
+      "apple": "https://geo.music.apple.com/album/6810161017?i=6810161018&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-ed&app=music"
+    },
+    {
+      "id": "27905",
+      "anime": "Blue Box Season 2",
+      "song": "Anata no Hana no Iro",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
+      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music"
     }
   ]
 }
