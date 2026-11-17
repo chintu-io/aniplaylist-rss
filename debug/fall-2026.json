@@ -419,16 +419,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp"
     },
     {
-      "id": "28161",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/804e064d0ecf17f9d8ba8fc63e8e63856e1f7303.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LLM~-X8w-=Rk}^x]obIU.SM_D%%M",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/804e064d0ecf17f9d8ba8fc63e8e63856e1f7303@2xl.jpeg"
-    },
-    {
       "id": "28164",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/d441be9edb09846f87b53e2a7a38a83aba0a09e7.jpeg",
@@ -439,24 +429,24 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/d441be9edb09846f87b53e2a7a38a83aba0a09e7@2xl.jpeg"
     },
     {
-      "id": "28167",
+      "id": "28161",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a.jpg",
+      "thumbnail": "thumbnails/804e064d0ecf17f9d8ba8fc63e8e63856e1f7303.jpeg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LEJ*i60eE3-q2{~WIAIo00ba-:fA",
+      "thumbnail_hash": "LLM~-X8w-=Rk}^x]obIU.SM_D%%M",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/804e064d0ecf17f9d8ba8fc63e8e63856e1f7303@2xl.jpeg"
     },
     {
-      "id": "28166",
+      "id": "28085",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a.jpg",
+      "thumbnail": "thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LEJ*i60eE3-q2{~WIAIo00ba-:fA",
+      "thumbnail_hash": "LKJHI64U9+-:0I-+E%V=v|XA=BV_",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg"
     },
     {
       "id": "28168",
@@ -467,6 +457,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg"
+    },
+    {
+      "id": "28074",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L89i}Or_0L]}R3s:%4Io18s7};Em",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
     }
   ],
   "expectedHits": 249,
@@ -484,7 +484,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -500,7 +500,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -516,7 +516,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -532,7 +532,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -548,7 +548,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -564,7 +564,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -580,7 +580,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -596,7 +596,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -612,7 +612,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -628,7 +628,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -644,7 +644,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -660,7 +660,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -676,7 +676,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -692,7 +692,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -708,7 +708,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -724,7 +724,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28577,
+      "nbHits": 28590,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -1190,6 +1190,72 @@
       "animethemesVideo": null
     },
     {
+      "id": "28164",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "ORIGINAL SOUNDTRACK",
+      "artist": "Naoki Endou",
+      "artistDisplay": "Naoki Endou",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/19KZXuoGw9zB29vYmZwMiN",
+      "apple": "https://geo.music.apple.com/album/6818434842?at=1001l384j&ct=website-nia-liston-the-merciless-mai-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d441be9edb09846f87b53e2a7a38a83aba0a09e7@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "ORIGINAL SOUNDTRACK",
+        "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』オリジナル・サウンドトラック",
+        "\"Nia Liston: The Merciless Maiden\" ORIGINAL SOUNDTRACK"
+      ],
+      "animeCandidates": [
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+      ],
+      "artistCandidates": [
+        "3709",
+        "Naoki Endou",
+        "遠藤ナオキ",
+        "Naoki Endo",
+        "1S7SMjan8hRLYOwqu920r0",
+        "1140016301",
+        "5209770",
+        "UCtK6yy8VIgt9e0WrAbYRwHg"
+      ]
+    },
+    {
       "id": "28161",
       "anime": "My Happy Marriage Special",
       "song": "Shiawase de Namida ga Deru no wa.",
@@ -1256,19 +1322,86 @@
       "animethemesVideo": null
     },
     {
-      "id": "28164",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "ORIGINAL SOUNDTRACK",
-      "artist": "Naoki Endou",
-      "artistDisplay": "Naoki Endou",
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
       "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/album/19KZXuoGw9zB29vYmZwMiN",
-      "apple": "https://geo.music.apple.com/album/6818434842?at=1001l384j&ct=website-nia-liston-the-merciless-mai-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d441be9edb09846f87b53e2a7a38a83aba0a09e7@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-original-soundtrack",
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28168",
+      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
+      "song": "BADDY BADDY",
+      "artist": "Ave Mujica",
+      "artistDisplay": "Ave Mujica",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
+      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1301,25 +1434,86 @@
         "objectID"
       ],
       "titleCandidates": [
-        "ORIGINAL SOUNDTRACK",
-        "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』オリジナル・サウンドトラック",
-        "\"Nia Liston: The Merciless Maiden\" ORIGINAL SOUNDTRACK"
+        "BADDY BADDY"
       ],
       "animeCandidates": [
-        "Nia Liston: The Merciless Maiden",
-        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+        "BanG Dream! Ave Mujica: Prima Aurora",
+        "BanG Dream! Ave Mujica prima aurora"
       ],
       "artistCandidates": [
-        "3709",
-        "Naoki Endou",
-        "遠藤ナオキ",
-        "Naoki Endo",
-        "1S7SMjan8hRLYOwqu920r0",
-        "1140016301",
-        "5209770",
-        "UCtK6yy8VIgt9e0WrAbYRwHg"
+        "14696",
+        "Ave Mujica",
+        "5BKIH2Kwc6LbetG04Boai7",
+        "1680440024",
+        "207829687",
+        "UCcUQTshxx-7gwzKa8fZjn6A"
       ]
+    },
+    {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "artist": "Megatera Zero",
+      "artistDisplay": "Megatera Zero",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
+      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "products",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Onogami",
+        "オノガミ"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "14404",
+        "Megatera Zero",
+        "メガテラ・ゼロ",
+        "MEGATERA･ZERO",
+        "Mega Terra Zero",
+        "4I7F7bTQ9tBnRI2razDP9B",
+        "1466037690",
+        "147335922",
+        "UCe0GU9CHeC3hbvgYmzXc7OA"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28167",
@@ -1446,144 +1640,6 @@
       ]
     },
     {
-      "id": "28168",
-      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
-      "song": "BADDY BADDY",
-      "artist": "Ave Mujica",
-      "artistDisplay": "Ave Mujica",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
-      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "BADDY BADDY"
-      ],
-      "animeCandidates": [
-        "BanG Dream! Ave Mujica: Prima Aurora",
-        "BanG Dream! Ave Mujica prima aurora"
-      ],
-      "artistCandidates": [
-        "14696",
-        "Ave Mujica",
-        "5BKIH2Kwc6LbetG04Boai7",
-        "1680440024",
-        "207829687",
-        "UCcUQTshxx-7gwzKa8fZjn6A"
-      ]
-    },
-    {
-      "id": "28306",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Pitch Black",
-      "artist": "STELLATUS",
-      "artistDisplay": "STELLATUS, Nao Toyama, Rei Nakashima & Nonoka Oobuchi",
-      "artistDisplayCount": 4,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 1, 3, 5)",
-      "episodes": [
-        "1",
-        "3",
-        "5"
-      ],
-      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
-      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Pitch Black"
-      ],
-      "animeCandidates": [
-        "DARK MACHINE: The Animation",
-        "DARK MACHINE -The Animation-",
-        "DARK MACHINE THE ANIMATION"
-      ],
-      "artistCandidates": [
-        "25813",
-        "STELLATUS",
-        "5Gc2maIYuCIBabPMzIy24T",
-        "6823022818",
-        "424920641",
-        "2231",
-        "Nao Toyama",
-        "東山奈央",
-        "Nao Touyama",
-        "Nao Tōyama",
-        "5FQ4vbNwpE1wFGoOPecJB9",
-        "UCiyiF5Kf2BAXmi8Ae-VOl3w",
-        "14465",
-        "Rei Nakashima",
-        "中島怜",
-        "7pQmC6NNs7KvWfrYKmqPbo"
-      ]
-    },
-    {
       "id": "28153",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "In Love With Myself",
@@ -1657,6 +1713,74 @@
       ]
     },
     {
+      "id": "27821",
+      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "song": "SPIN",
+      "artist": "Kroi",
+      "artistDisplay": "Kroi",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
+      "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/62f935a021ce799e1890dd2bacab33a446e03999@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "products",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SPIN"
+      ],
+      "animeCandidates": [
+        "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
+        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
+        "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
+        "SBR",
+        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
+      ],
+      "artistCandidates": [
+        "14747",
+        "Kroi",
+        "4S8J8Nct8lHsbzAeNJXcJa",
+        "1439157589",
+        "52711252",
+        "UCssoAGLly9DaABecIZoht_g"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28160",
       "anime": "Horror Collector",
       "song": "Meiro",
@@ -1721,146 +1845,6 @@
         "UCaWq9OOi9wk961EOzugZuoA"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28159",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Galaxy Mode",
-      "artist": "J SOUL BROTHERS III",
-      "artistDisplay": "J SOUL BROTHERS III",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
-      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Galaxy Mode"
-      ],
-      "animeCandidates": [
-        "DARK MACHINE: The Animation",
-        "DARK MACHINE -The Animation-",
-        "DARK MACHINE THE ANIMATION"
-      ],
-      "artistCandidates": [
-        "23755",
-        "J SOUL BROTHERS III",
-        "Sandaime J SOUL BROTHERS",
-        "三代目 J SOUL BROTHERS",
-        "J SOUL BROTHERS III from EXILE TRIBE",
-        "三代目 J Soul Brothers from EXILE TRIBE",
-        "1g51NlHKUXlgfvGP22m0uD",
-        "633832735",
-        "36984512",
-        "UCARcTUfyPaacDYADTb_Qveg"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28305",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Beyond the Night",
-      "artist": "TeddyLoid",
-      "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
-      "artistDisplayCount": 3,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
-      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Beyond the Night"
-      ],
-      "animeCandidates": [
-        "Expelled from Paradise: Resonance",
-        "Rakuen Tsuihou: Kokoro no Resonance",
-        "Liberated from Paradise: Resonance of the Heart",
-        "楽園追放 心のレゾナンス"
-      ],
-      "artistCandidates": [
-        "274",
-        "TeddyLoid",
-        "3GfNJrDTZY7voXPDx8gH9I",
-        "376334342",
-        "582291",
-        "UCSMEyA3pVYdTrO9HBXdfsfg",
-        "5261",
-        "Ayane Sakura",
-        "佐倉綾音",
-        "0EQhKMJfrQjmIJ6im9KyRB",
-        "1021925121",
-        "118071212",
-        "UCy5-YguW8GIvQYLyCa33oLQ",
-        "25810",
-        "Nagi Inoue",
-        "井上和"
-      ]
     },
     {
       "id": "27900",
@@ -1993,6 +1977,73 @@
         "24642",
         "TOHO animation",
         "UC14Yc2Qv92DMuyNRlHvpo2Q"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28159",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Galaxy Mode",
+      "artist": "J SOUL BROTHERS III",
+      "artistDisplay": "J SOUL BROTHERS III",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
+      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Galaxy Mode"
+      ],
+      "animeCandidates": [
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
+      ],
+      "artistCandidates": [
+        "23755",
+        "J SOUL BROTHERS III",
+        "Sandaime J SOUL BROTHERS",
+        "三代目 J SOUL BROTHERS",
+        "J SOUL BROTHERS III from EXILE TRIBE",
+        "三代目 J Soul Brothers from EXILE TRIBE",
+        "1g51NlHKUXlgfvGP22m0uD",
+        "633832735",
+        "36984512",
+        "UCARcTUfyPaacDYADTb_Qveg"
       ],
       "animethemesVideo": null
     },
@@ -2183,19 +2234,23 @@
       "animethemesVideo": null
     },
     {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "artist": "Nanashi no Taro",
-      "artistDisplay": "Nanashi no Taro",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
-      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
+      "id": "28306",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Pitch Black",
+      "artist": "STELLATUS",
+      "artistDisplay": "STELLATUS, Nao Toyama, Rei Nakashima & Nonoka Oobuchi",
+      "artistDisplayCount": 4,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 1, 3, 5)",
+      "episodes": [
+        "1",
+        "3",
+        "5"
+      ],
+      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
+      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -2212,6 +2267,7 @@
         "platforms",
         "preview_url",
         "song_key",
+        "episodes",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -2228,26 +2284,31 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Hikari no Soba de",
-        "光の側で"
+        "Pitch Black"
       ],
       "animeCandidates": [
-        "From Far Away",
-        "Kanata kara",
-        "From the Other Side",
-        "彼⽅から",
-        "彼方から"
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
       ],
       "artistCandidates": [
-        "16565",
-        "Nanashi no Taro",
-        "名無し之太郎",
-        "32xxJA5U8ot0QZPDllZ1po",
-        "1561101450",
-        "233584571",
-        "UCtYIwrBgW5h-nj6vytKbohQ"
-      ],
-      "animethemesVideo": null
+        "25813",
+        "STELLATUS",
+        "5Gc2maIYuCIBabPMzIy24T",
+        "6823022818",
+        "424920641",
+        "2231",
+        "Nao Toyama",
+        "東山奈央",
+        "Nao Touyama",
+        "Nao Tōyama",
+        "5FQ4vbNwpE1wFGoOPecJB9",
+        "UCiyiF5Kf2BAXmi8Ae-VOl3w",
+        "14465",
+        "Rei Nakashima",
+        "中島怜",
+        "7pQmC6NNs7KvWfrYKmqPbo"
+      ]
     },
     {
       "id": "27823",
@@ -2383,6 +2444,70 @@
       "animethemesVideo": null
     },
     {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "artist": "VK Blanka",
+      "artistDisplay": "VK Blanka",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
+      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kanpeki no Peki",
+        "完璧のペキ",
+        "Kan Peki No Peki"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "498",
+        "VK Blanka",
+        "Vickeblanka",
+        "0PYPjvZaOa7bsCq26JOX8d",
+        "894895986",
+        "50322192",
+        "UCg2rvXE9x3zg01ZxyIt9DpA"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "27990",
       "anime": "The World's Strongest Witch",
       "song": "Eikyouroku ∞ Idol",
@@ -2451,74 +2576,6 @@
         "ハコニワリリ",
         "2rsT3GtKdBr9qBYXEn8lEZ",
         "417230252"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27821",
-      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-      "song": "SPIN",
-      "artist": "Kroi",
-      "artistDisplay": "Kroi",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
-      "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/62f935a021ce799e1890dd2bacab33a446e03999@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "products",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "SPIN"
-      ],
-      "animeCandidates": [
-        "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-        "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
-        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
-        "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
-        "SBR",
-        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
-        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
-      ],
-      "artistCandidates": [
-        "14747",
-        "Kroi",
-        "4S8J8Nct8lHsbzAeNJXcJa",
-        "1439157589",
-        "52711252",
-        "UCssoAGLly9DaABecIZoht_g"
       ],
       "animethemesVideo": null
     },
@@ -2648,69 +2705,6 @@
         "25503",
         "TV anime \"Tokyo Revengers\"",
         "UCnrudQZNXphuOk0QB8Yz6oQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "artist": "aiko",
-      "artistDisplay": "aiko",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
-      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Anata no Hana no Iro",
-        "あなたの花の色",
-        "the color of your flower"
-      ],
-      "animeCandidates": [
-        "Blue Box Season 2",
-        "アオのハコ Season2",
-        "Ao no Hako Season 2"
-      ],
-      "artistCandidates": [
-        "3105",
-        "aiko",
-        "6TDMbiQCWeMClsMr9ORLRK",
-        "635154255",
-        "2643581"
       ],
       "animethemesVideo": null
     }
@@ -3311,6 +3305,13 @@
       "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3"
     },
     {
+      "id": "28164",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "ORIGINAL SOUNDTRACK",
+      "kind": "OST",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-original-soundtrack"
+    },
+    {
       "id": "28161",
       "anime": "My Happy Marriage Special",
       "song": "Shiawase de Namida ga Deru no wa.",
@@ -3318,11 +3319,25 @@
       "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-opening"
     },
     {
-      "id": "28164",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "ORIGINAL SOUNDTRACK",
-      "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-original-soundtrack"
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
+    },
+    {
+      "id": "28168",
+      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
+      "song": "BADDY BADDY",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy"
+    },
+    {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
     },
     {
       "id": "28167",
@@ -3339,20 +3354,6 @@
       "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-kami-no-na-o"
     },
     {
-      "id": "28168",
-      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
-      "song": "BADDY BADDY",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy"
-    },
-    {
-      "id": "28306",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Pitch Black",
-      "kind": "IN",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black"
-    },
-    {
       "id": "28153",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "In Love With Myself",
@@ -3360,25 +3361,18 @@
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself"
     },
     {
+      "id": "27821",
+      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "song": "SPIN",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening"
+    },
+    {
       "id": "28160",
       "anime": "Horror Collector",
       "song": "Meiro",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/horror-collector-ending"
-    },
-    {
-      "id": "28159",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Galaxy Mode",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending"
-    },
-    {
-      "id": "28305",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Beyond the Night",
-      "kind": "TS",
-      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song"
     },
     {
       "id": "27900",
@@ -3393,6 +3387,13 @@
       "song": "AIYOU",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending"
+    },
+    {
+      "id": "28159",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Galaxy Mode",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending"
     },
     {
       "id": "28230",
@@ -3416,11 +3417,11 @@
       "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-ending"
     },
     {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending"
+      "id": "28306",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Pitch Black",
+      "kind": "IN",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black"
     },
     {
       "id": "27823",
@@ -3437,18 +3438,18 @@
       "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-opening"
     },
     {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending"
+    },
+    {
       "id": "27990",
       "anime": "The World's Strongest Witch",
       "song": "Eikyouroku ∞ Idol",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/the-worlds-strongest-witch-opening"
-    },
-    {
-      "id": "27821",
-      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-      "song": "SPIN",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening"
     },
     {
       "id": "27992",
@@ -3463,13 +3464,6 @@
       "song": "TRICKSTER",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-ending"
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening"
     }
   ],
   "usableSamples": [
@@ -3932,6 +3926,72 @@
       "animethemesVideo": null
     },
     {
+      "id": "28164",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "ORIGINAL SOUNDTRACK",
+      "artist": "Naoki Endou",
+      "artistDisplay": "Naoki Endou",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/19KZXuoGw9zB29vYmZwMiN",
+      "apple": "https://geo.music.apple.com/album/6818434842?at=1001l384j&ct=website-nia-liston-the-merciless-mai-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d441be9edb09846f87b53e2a7a38a83aba0a09e7@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "ORIGINAL SOUNDTRACK",
+        "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』オリジナル・サウンドトラック",
+        "\"Nia Liston: The Merciless Maiden\" ORIGINAL SOUNDTRACK"
+      ],
+      "animeCandidates": [
+        "Nia Liston: The Merciless Maiden",
+        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+      ],
+      "artistCandidates": [
+        "3709",
+        "Naoki Endou",
+        "遠藤ナオキ",
+        "Naoki Endo",
+        "1S7SMjan8hRLYOwqu920r0",
+        "1140016301",
+        "5209770",
+        "UCtK6yy8VIgt9e0WrAbYRwHg"
+      ]
+    },
+    {
       "id": "28161",
       "anime": "My Happy Marriage Special",
       "song": "Shiawase de Namida ga Deru no wa.",
@@ -3998,19 +4058,86 @@
       "animethemesVideo": null
     },
     {
-      "id": "28164",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "ORIGINAL SOUNDTRACK",
-      "artist": "Naoki Endou",
-      "artistDisplay": "Naoki Endou",
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "artist": "Yorushika",
+      "artistDisplay": "Yorushika",
       "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
+      "kind": "OP",
+      "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/album/19KZXuoGw9zB29vYmZwMiN",
-      "apple": "https://geo.music.apple.com/album/6818434842?at=1001l384j&ct=website-nia-liston-the-merciless-mai-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d441be9edb09846f87b53e2a7a38a83aba0a09e7@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-original-soundtrack",
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kumo o Nuke Kazashimo e Watashi dake",
+        "雲を抜け風下へ私だけ",
+        "Beyond the Clouds, Only Me Downwind"
+      ],
+      "animeCandidates": [
+        "The Apothecary Diaries Season 3",
+        "Kusuriya no Hitorigoto 3rd Season",
+        "The Pharmacist's Monologue",
+        "Drugstore Soliloquy",
+        "薬屋のひとりごと 第3期"
+      ],
+      "artistCandidates": [
+        "3396",
+        "Yorushika",
+        "ヨルシカ",
+        "4UK2Lzi6fBfUi9rpDt6cik",
+        "1250709916",
+        "67898492",
+        "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28168",
+      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
+      "song": "BADDY BADDY",
+      "artist": "Ave Mujica",
+      "artistDisplay": "Ave Mujica",
+      "artistDisplayCount": 1,
+      "kind": "IN",
+      "kindLabel": "Insert",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
+      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4043,25 +4170,86 @@
         "objectID"
       ],
       "titleCandidates": [
-        "ORIGINAL SOUNDTRACK",
-        "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』オリジナル・サウンドトラック",
-        "\"Nia Liston: The Merciless Maiden\" ORIGINAL SOUNDTRACK"
+        "BADDY BADDY"
       ],
       "animeCandidates": [
-        "Nia Liston: The Merciless Maiden",
-        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+        "BanG Dream! Ave Mujica: Prima Aurora",
+        "BanG Dream! Ave Mujica prima aurora"
       ],
       "artistCandidates": [
-        "3709",
-        "Naoki Endou",
-        "遠藤ナオキ",
-        "Naoki Endo",
-        "1S7SMjan8hRLYOwqu920r0",
-        "1140016301",
-        "5209770",
-        "UCtK6yy8VIgt9e0WrAbYRwHg"
+        "14696",
+        "Ave Mujica",
+        "5BKIH2Kwc6LbetG04Boai7",
+        "1680440024",
+        "207829687",
+        "UCcUQTshxx-7gwzKa8fZjn6A"
       ]
+    },
+    {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "artist": "Megatera Zero",
+      "artistDisplay": "Megatera Zero",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
+      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "products",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Onogami",
+        "オノガミ"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "14404",
+        "Megatera Zero",
+        "メガテラ・ゼロ",
+        "MEGATERA･ZERO",
+        "Mega Terra Zero",
+        "4I7F7bTQ9tBnRI2razDP9B",
+        "1466037690",
+        "147335922",
+        "UCe0GU9CHeC3hbvgYmzXc7OA"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28167",
@@ -4188,144 +4376,6 @@
       ]
     },
     {
-      "id": "28168",
-      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
-      "song": "BADDY BADDY",
-      "artist": "Ave Mujica",
-      "artistDisplay": "Ave Mujica",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
-      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3cd2fc7459485cc33da1040f27b9ea4ff9aff83a@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/bang-dream-ave-mujica-prima-aurora-insert-song-baddy-baddy",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "BADDY BADDY"
-      ],
-      "animeCandidates": [
-        "BanG Dream! Ave Mujica: Prima Aurora",
-        "BanG Dream! Ave Mujica prima aurora"
-      ],
-      "artistCandidates": [
-        "14696",
-        "Ave Mujica",
-        "5BKIH2Kwc6LbetG04Boai7",
-        "1680440024",
-        "207829687",
-        "UCcUQTshxx-7gwzKa8fZjn6A"
-      ]
-    },
-    {
-      "id": "28306",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Pitch Black",
-      "artist": "STELLATUS",
-      "artistDisplay": "STELLATUS, Nao Toyama, Rei Nakashima & Nonoka Oobuchi",
-      "artistDisplayCount": 4,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 1, 3, 5)",
-      "episodes": [
-        "1",
-        "3",
-        "5"
-      ],
-      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
-      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Pitch Black"
-      ],
-      "animeCandidates": [
-        "DARK MACHINE: The Animation",
-        "DARK MACHINE -The Animation-",
-        "DARK MACHINE THE ANIMATION"
-      ],
-      "artistCandidates": [
-        "25813",
-        "STELLATUS",
-        "5Gc2maIYuCIBabPMzIy24T",
-        "6823022818",
-        "424920641",
-        "2231",
-        "Nao Toyama",
-        "東山奈央",
-        "Nao Touyama",
-        "Nao Tōyama",
-        "5FQ4vbNwpE1wFGoOPecJB9",
-        "UCiyiF5Kf2BAXmi8Ae-VOl3w",
-        "14465",
-        "Rei Nakashima",
-        "中島怜",
-        "7pQmC6NNs7KvWfrYKmqPbo"
-      ]
-    },
-    {
       "id": "28153",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "In Love With Myself",
@@ -4399,6 +4449,74 @@
       ]
     },
     {
+      "id": "27821",
+      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "song": "SPIN",
+      "artist": "Kroi",
+      "artistDisplay": "Kroi",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
+      "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/62f935a021ce799e1890dd2bacab33a446e03999@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "products",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SPIN"
+      ],
+      "animeCandidates": [
+        "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
+        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
+        "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
+        "SBR",
+        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
+      ],
+      "artistCandidates": [
+        "14747",
+        "Kroi",
+        "4S8J8Nct8lHsbzAeNJXcJa",
+        "1439157589",
+        "52711252",
+        "UCssoAGLly9DaABecIZoht_g"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28160",
       "anime": "Horror Collector",
       "song": "Meiro",
@@ -4463,146 +4581,6 @@
         "UCaWq9OOi9wk961EOzugZuoA"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28159",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Galaxy Mode",
-      "artist": "J SOUL BROTHERS III",
-      "artistDisplay": "J SOUL BROTHERS III",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
-      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Galaxy Mode"
-      ],
-      "animeCandidates": [
-        "DARK MACHINE: The Animation",
-        "DARK MACHINE -The Animation-",
-        "DARK MACHINE THE ANIMATION"
-      ],
-      "artistCandidates": [
-        "23755",
-        "J SOUL BROTHERS III",
-        "Sandaime J SOUL BROTHERS",
-        "三代目 J SOUL BROTHERS",
-        "J SOUL BROTHERS III from EXILE TRIBE",
-        "三代目 J Soul Brothers from EXILE TRIBE",
-        "1g51NlHKUXlgfvGP22m0uD",
-        "633832735",
-        "36984512",
-        "UCARcTUfyPaacDYADTb_Qveg"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28305",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Beyond the Night",
-      "artist": "TeddyLoid",
-      "artistDisplay": "TeddyLoid, Ayane Sakura & Nagi Inoue",
-      "artistDisplayCount": 3,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
-      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/90d5c98f911a577b396c6d873f40c386f31fc94b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Beyond the Night"
-      ],
-      "animeCandidates": [
-        "Expelled from Paradise: Resonance",
-        "Rakuen Tsuihou: Kokoro no Resonance",
-        "Liberated from Paradise: Resonance of the Heart",
-        "楽園追放 心のレゾナンス"
-      ],
-      "artistCandidates": [
-        "274",
-        "TeddyLoid",
-        "3GfNJrDTZY7voXPDx8gH9I",
-        "376334342",
-        "582291",
-        "UCSMEyA3pVYdTrO9HBXdfsfg",
-        "5261",
-        "Ayane Sakura",
-        "佐倉綾音",
-        "0EQhKMJfrQjmIJ6im9KyRB",
-        "1021925121",
-        "118071212",
-        "UCy5-YguW8GIvQYLyCa33oLQ",
-        "25810",
-        "Nagi Inoue",
-        "井上和"
-      ]
     },
     {
       "id": "27900",
@@ -4735,6 +4713,73 @@
         "24642",
         "TOHO animation",
         "UC14Yc2Qv92DMuyNRlHvpo2Q"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28159",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Galaxy Mode",
+      "artist": "J SOUL BROTHERS III",
+      "artistDisplay": "J SOUL BROTHERS III",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
+      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Galaxy Mode"
+      ],
+      "animeCandidates": [
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
+      ],
+      "artistCandidates": [
+        "23755",
+        "J SOUL BROTHERS III",
+        "Sandaime J SOUL BROTHERS",
+        "三代目 J SOUL BROTHERS",
+        "J SOUL BROTHERS III from EXILE TRIBE",
+        "三代目 J Soul Brothers from EXILE TRIBE",
+        "1g51NlHKUXlgfvGP22m0uD",
+        "633832735",
+        "36984512",
+        "UCARcTUfyPaacDYADTb_Qveg"
       ],
       "animethemesVideo": null
     },
@@ -4925,19 +4970,23 @@
       "animethemesVideo": null
     },
     {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "artist": "Nanashi no Taro",
-      "artistDisplay": "Nanashi no Taro",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
-      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a9e2762471bd47fc3ff9580e4ac41e8f5a78230d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/from-far-away-ending",
+      "id": "28306",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Pitch Black",
+      "artist": "STELLATUS",
+      "artistDisplay": "STELLATUS, Nao Toyama, Rei Nakashima & Nonoka Oobuchi",
+      "artistDisplayCount": 4,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 1, 3, 5)",
+      "episodes": [
+        "1",
+        "3",
+        "5"
+      ],
+      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
+      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-insert-song-pitch-black",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4954,6 +5003,7 @@
         "platforms",
         "preview_url",
         "song_key",
+        "episodes",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -4970,26 +5020,31 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Hikari no Soba de",
-        "光の側で"
+        "Pitch Black"
       ],
       "animeCandidates": [
-        "From Far Away",
-        "Kanata kara",
-        "From the Other Side",
-        "彼⽅から",
-        "彼方から"
+        "DARK MACHINE: The Animation",
+        "DARK MACHINE -The Animation-",
+        "DARK MACHINE THE ANIMATION"
       ],
       "artistCandidates": [
-        "16565",
-        "Nanashi no Taro",
-        "名無し之太郎",
-        "32xxJA5U8ot0QZPDllZ1po",
-        "1561101450",
-        "233584571",
-        "UCtYIwrBgW5h-nj6vytKbohQ"
-      ],
-      "animethemesVideo": null
+        "25813",
+        "STELLATUS",
+        "5Gc2maIYuCIBabPMzIy24T",
+        "6823022818",
+        "424920641",
+        "2231",
+        "Nao Toyama",
+        "東山奈央",
+        "Nao Touyama",
+        "Nao Tōyama",
+        "5FQ4vbNwpE1wFGoOPecJB9",
+        "UCiyiF5Kf2BAXmi8Ae-VOl3w",
+        "14465",
+        "Rei Nakashima",
+        "中島怜",
+        "7pQmC6NNs7KvWfrYKmqPbo"
+      ]
     },
     {
       "id": "27823",
@@ -5125,6 +5180,70 @@
       "animethemesVideo": null
     },
     {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "artist": "VK Blanka",
+      "artistDisplay": "VK Blanka",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
+      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/ijT6Q0TmyJ0GtQYHJZec5H8Y6GgFj5o1SPxUIk5b@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kanpeki no Peki",
+        "完璧のペキ",
+        "Kan Peki No Peki"
+      ],
+      "animeCandidates": [
+        "Dragon Ball Super: Beerus",
+        "ドラゴンボール超 ビルス"
+      ],
+      "artistCandidates": [
+        "498",
+        "VK Blanka",
+        "Vickeblanka",
+        "0PYPjvZaOa7bsCq26JOX8d",
+        "894895986",
+        "50322192",
+        "UCg2rvXE9x3zg01ZxyIt9DpA"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "27990",
       "anime": "The World's Strongest Witch",
       "song": "Eikyouroku ∞ Idol",
@@ -5193,74 +5312,6 @@
         "ハコニワリリ",
         "2rsT3GtKdBr9qBYXEn8lEZ",
         "417230252"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27821",
-      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-      "song": "SPIN",
-      "artist": "Kroi",
-      "artistDisplay": "Kroi",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
-      "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/62f935a021ce799e1890dd2bacab33a446e03999@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "products",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "SPIN"
-      ],
-      "animeCandidates": [
-        "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-        "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
-        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
-        "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
-        "SBR",
-        "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
-        "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
-      ],
-      "artistCandidates": [
-        "14747",
-        "Kroi",
-        "4S8J8Nct8lHsbzAeNJXcJa",
-        "1439157589",
-        "52711252",
-        "UCssoAGLly9DaABecIZoht_g"
       ],
       "animethemesVideo": null
     },
@@ -5392,69 +5443,6 @@
         "UCnrudQZNXphuOk0QB8Yz6oQ"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "artist": "aiko",
-      "artistDisplay": "aiko",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
-      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b78bf209dca7474c0e429e19c89b314e025859fd@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/blue-box-season-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Anata no Hana no Iro",
-        "あなたの花の色",
-        "the color of your flower"
-      ],
-      "animeCandidates": [
-        "Blue Box Season 2",
-        "アオのハコ Season2",
-        "Ao no Hako Season 2"
-      ],
-      "artistCandidates": [
-        "3105",
-        "aiko",
-        "6TDMbiQCWeMClsMr9ORLRK",
-        "635154255",
-        "2643581"
-      ],
-      "animethemesVideo": null
     }
   ],
   "platformSamples": [
@@ -5515,6 +5503,14 @@
       "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music"
     },
     {
+      "id": "28164",
+      "anime": "Nia Liston: The Merciless Maiden",
+      "song": "ORIGINAL SOUNDTRACK",
+      "kind": "OST",
+      "spotify": "https://open.spotify.com/album/19KZXuoGw9zB29vYmZwMiN",
+      "apple": "https://geo.music.apple.com/album/6818434842?at=1001l384j&ct=website-nia-liston-the-merciless-mai-ost&app=music"
+    },
+    {
       "id": "28161",
       "anime": "My Happy Marriage Special",
       "song": "Shiawase de Namida ga Deru no wa.",
@@ -5523,12 +5519,28 @@
       "apple": "https://geo.music.apple.com/album/6815632526?i=6815632984&at=1001l384j&ct=website-my-happy-marriage-special-op&app=music"
     },
     {
-      "id": "28164",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "ORIGINAL SOUNDTRACK",
-      "kind": "OST",
-      "spotify": "https://open.spotify.com/album/19KZXuoGw9zB29vYmZwMiN",
-      "apple": "https://geo.music.apple.com/album/6818434842?at=1001l384j&ct=website-nia-liston-the-merciless-mai-ost&app=music"
+      "id": "28085",
+      "anime": "The Apothecary Diaries Season 3",
+      "song": "Kumo o Nuke Kazashimo e Watashi dake",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
+    },
+    {
+      "id": "28168",
+      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
+      "song": "BADDY BADDY",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
+      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music"
+    },
+    {
+      "id": "28074",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Onogami",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe",
+      "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
     },
     {
       "id": "28167",
@@ -5547,22 +5559,6 @@
       "apple": "https://geo.music.apple.com/album/6816841824?i=6816842008&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music"
     },
     {
-      "id": "28168",
-      "anime": "BanG Dream! Ave Mujica: Prima Aurora",
-      "song": "BADDY BADDY",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/0Ia1r2bRe8Uh9j8rhIfvEK",
-      "apple": "https://geo.music.apple.com/album/6816841824?i=6816842011&at=1001l384j&ct=website-bang-dream-ave-mujica-prima-a-in&app=music"
-    },
-    {
-      "id": "28306",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Pitch Black",
-      "kind": "IN",
-      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
-      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music"
-    },
-    {
       "id": "28153",
       "anime": "Cyberpunk: Edgerunners 2",
       "song": "In Love With Myself",
@@ -5571,28 +5567,20 @@
       "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music"
     },
     {
+      "id": "27821",
+      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+      "song": "SPIN",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
+      "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music"
+    },
+    {
       "id": "28160",
       "anime": "Horror Collector",
       "song": "Meiro",
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/6megJPIZVqe5E98dig1uR0",
       "apple": "https://geo.music.apple.com/album/6819125191?i=6819125192&at=1001l384j&ct=website-horror-collector-ed&app=music"
-    },
-    {
-      "id": "28159",
-      "anime": "DARK MACHINE: The Animation",
-      "song": "Galaxy Mode",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
-      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music"
-    },
-    {
-      "id": "28305",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Beyond the Night",
-      "kind": "TS",
-      "spotify": "https://open.spotify.com/track/4cysd8oBSKk88cLjmrKTij",
-      "apple": "https://geo.music.apple.com/album/6825156036?i=6825156040&at=1001l384j&ct=website-expelled-from-paradise-resona-ts&app=music"
     },
     {
       "id": "27900",
@@ -5609,6 +5597,14 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
       "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music"
+    },
+    {
+      "id": "28159",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Galaxy Mode",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI",
+      "apple": "https://geo.music.apple.com/album/6812958906?i=6812958982&at=1001l384j&ct=website-dark-machine-the-animation-ed&app=music"
     },
     {
       "id": "28230",
@@ -5635,12 +5631,12 @@
       "apple": "https://geo.music.apple.com/album/6813041853?i=6813042539&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-ed&app=music"
     },
     {
-      "id": "28304",
-      "anime": "From Far Away",
-      "song": "Hikari no Soba de",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL",
-      "apple": "https://geo.music.apple.com/album/6827902962?i=6827902963&at=1001l384j&ct=website-from-far-away-ed&app=music"
+      "id": "28306",
+      "anime": "DARK MACHINE: The Animation",
+      "song": "Pitch Black",
+      "kind": "IN",
+      "spotify": "https://open.spotify.com/track/6AnrEALoY9WbXVIgykDsvM",
+      "apple": "https://geo.music.apple.com/album/6826103456?i=6826103457&at=1001l384j&ct=website-dark-machine-the-ani-in-ep-1-3-5&app=music"
     },
     {
       "id": "27823",
@@ -5659,20 +5655,20 @@
       "apple": "https://geo.music.apple.com/album/6819121866?i=6819121868&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-op&app=music"
     },
     {
+      "id": "28076",
+      "anime": "Dragon Ball Super: Beerus",
+      "song": "Kanpeki no Peki",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/0rEmGrzWPhMd41cLn89sza",
+      "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music"
+    },
+    {
       "id": "27990",
       "anime": "The World's Strongest Witch",
       "song": "Eikyouroku ∞ Idol",
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/1VvmVtY3brxOXTqgIOPjef",
       "apple": "https://geo.music.apple.com/album/6815915313?i=6815915315&at=1001l384j&ct=website-the-worlds-strongest-witch-op&app=music"
-    },
-    {
-      "id": "27821",
-      "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-      "song": "SPIN",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
-      "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music"
     },
     {
       "id": "27992",
@@ -5689,14 +5685,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX",
       "apple": "https://geo.music.apple.com/album/6810161017?i=6810161018&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-ed&app=music"
-    },
-    {
-      "id": "27905",
-      "anime": "Blue Box Season 2",
-      "song": "Anata no Hana no Iro",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/5olE0a1gwfOdU8umbRgPSo",
-      "apple": "https://geo.music.apple.com/album/6813318544?i=6813320397&at=1001l384j&ct=website-blue-box-season-2-op&app=music"
     }
   ]
 }
