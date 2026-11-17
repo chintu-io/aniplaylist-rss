@@ -4,7 +4,7 @@
   "pageLoaded": true,
   "scrapeValidated": true,
   "resultCount": 249,
-  "animeThemesChecked": 154,
+  "animeThemesChecked": 155,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 74,
   "jsonResponses": 34,
@@ -13,10 +13,10 @@
   "rawHits": 249,
   "uniqueHits": 249,
   "normalized": 249,
-  "withSpotify": 212,
-  "withApple": 214,
-  "withDetailUrl": 215,
-  "resolvedSpotify": 212,
+  "withSpotify": 214,
+  "withApple": 216,
+  "withDetailUrl": 214,
+  "resolvedSpotify": 214,
   "recordThumbnails": 249,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
@@ -2739,8 +2739,7 @@
       "song_type_short": "ED",
       "label": "Universal Music LLC",
       "tags": [
-        "2_airing",
-        "1_new"
+        "2_airing"
       ],
       "episodeFields": {
         "type": "track",
@@ -2748,8 +2747,7 @@
         "song_type_short": "ED",
         "label": "Universal Music LLC",
         "tags": [
-          "2_airing",
-          "1_new"
+          "2_airing"
         ]
       }
     },

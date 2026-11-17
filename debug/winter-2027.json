@@ -7,7 +7,7 @@
   "animeThemesChecked": 2,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 5,
-  "jsonResponses": 6,
+  "jsonResponses": 17,
   "algoliaResponses": 2,
   "hitArrays": 4,
   "rawHits": 30,
@@ -90,7 +90,7 @@
     },
     {
       "id": "us_3406",
-      "anime": "Yuukyuu no Gusha Asley no, Kenja no Susume",
+      "anime": "The Eternal Fool's Words of Wisdom",
       "song": "Mirai no Vision",
       "artist": "ARCANA PROJECT",
       "artistDisplay": "ARCANA PROJECT",
@@ -100,7 +100,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5a856332940dae9d32da51b20e7fb2ed7616e9ea@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4dbad32b258f285bda70734884c79de630da5e0e@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -133,10 +133,10 @@
         "ミライノビジョン"
       ],
       "animeCandidates": [
+        "The Eternal Fool's Words of Wisdom",
         "Yuukyuu no Gusha Asley no, Kenja no Susume",
         "The Principle of a Philosopher by Eternal Fool \"Asley\"",
-        "悠久の愚者アズリーの、賢者のすゝめ",
-        "The Eternal Fool's Words of Wisdom"
+        "悠久の愚者アズリーの、賢者のすゝめ"
       ],
       "artistCandidates": [
         "4474",
@@ -150,7 +150,7 @@
     },
     {
       "id": "us_3405",
-      "anime": "Yuukyuu no Gusha Asley no, Kenja no Susume",
+      "anime": "The Eternal Fool's Words of Wisdom",
       "song": "321 Smiling",
       "artist": "Nako Misaki",
       "artistDisplay": "Nako Misaki & sajou no hana",
@@ -160,7 +160,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5a856332940dae9d32da51b20e7fb2ed7616e9ea@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4dbad32b258f285bda70734884c79de630da5e0e@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -192,10 +192,10 @@
         "321 Smiling"
       ],
       "animeCandidates": [
+        "The Eternal Fool's Words of Wisdom",
         "Yuukyuu no Gusha Asley no, Kenja no Susume",
         "The Principle of a Philosopher by Eternal Fool \"Asley\"",
-        "悠久の愚者アズリーの、賢者のすゝめ",
-        "The Eternal Fool's Words of Wisdom"
+        "悠久の愚者アズリーの、賢者のすゝめ"
       ],
       "artistCandidates": [
         "14764",
@@ -353,22 +353,22 @@
     {
       "id": "us_3406",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/5a856332940dae9d32da51b20e7fb2ed7616e9ea.jpg",
+      "thumbnail": "thumbnails/4dbad32b258f285bda70734884c79de630da5e0e.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LrMtN]t8_NofJ.ogx]a}RlfRMxax",
+      "thumbnail_hash": "L8INs@00_N-;1R00~XtSDOX;RhwG",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/5a856332940dae9d32da51b20e7fb2ed7616e9ea@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/4dbad32b258f285bda70734884c79de630da5e0e@2xl.jpg"
     },
     {
       "id": "us_3405",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/5a856332940dae9d32da51b20e7fb2ed7616e9ea.jpg",
+      "thumbnail": "thumbnails/4dbad32b258f285bda70734884c79de630da5e0e.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LrMtN]t8_NofJ.ogx]a}RlfRMxax",
+      "thumbnail_hash": "L8INs@00_N-;1R00~XtSDOX;RhwG",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/5a856332940dae9d32da51b20e7fb2ed7616e9ea@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/4dbad32b258f285bda70734884c79de630da5e0e@2xl.jpg"
     },
     {
       "id": "28302",
@@ -413,52 +413,52 @@
     {
       "id": "us_3390",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/7a9306709b30cbbd0a30d10fae7a33e3a3c4939b.jpg",
+      "thumbnail": "thumbnails/7d3f2405d8d942ce7278f9ea4dee1649aa889511.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "L9K]ip004TG^00?GE-vyA9RUOpVs",
+      "thumbnail_hash": "LFI#P^_N8w000LSi=ze-s$RNIp-=",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7a9306709b30cbbd0a30d10fae7a33e3a3c4939b@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/7d3f2405d8d942ce7278f9ea4dee1649aa889511@2xl.jpg"
     },
     {
       "id": "us_3389",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/7a9306709b30cbbd0a30d10fae7a33e3a3c4939b.jpg",
+      "thumbnail": "thumbnails/7d3f2405d8d942ce7278f9ea4dee1649aa889511.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "L9K]ip004TG^00?GE-vyA9RUOpVs",
+      "thumbnail_hash": "LFI#P^_N8w000LSi=ze-s$RNIp-=",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7a9306709b30cbbd0a30d10fae7a33e3a3c4939b@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/7d3f2405d8d942ce7278f9ea4dee1649aa889511@2xl.jpg"
     },
     {
       "id": "us_3377",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/79b6eb56309427c04a29905886cd370ab041ccde.jpg",
+      "thumbnail": "thumbnails/cc2877d9ca939f55e8b024837924ade622a9d778.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LUM?_N-po*Ip_4R~IUxb%LxtxZni",
+      "thumbnail_hash": "LRHe*15%~pX,akt,?G9sH=W9IV-W",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/79b6eb56309427c04a29905886cd370ab041ccde@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/cc2877d9ca939f55e8b024837924ade622a9d778@2xl.jpg"
     },
     {
       "id": "us_3381",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f.jpg",
+      "thumbnail": "thumbnails/a8eea370bd9fc7434b8a4feb7e0bc19692dc2992.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LAM[Qz$z?wB=01slE1EL+]tlD$Dh",
+      "thumbnail_hash": "LJMb9~.9bcIUL4ITMwt7Vswu~WRj",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/a8eea370bd9fc7434b8a4feb7e0bc19692dc2992@2xl.jpg"
     },
     {
       "id": "us_3379",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/5ea5c3b87ec1846f996879dd94af359c39d4cda9.jpg",
+      "thumbnail": "thumbnails/9ccaece579ac0b7b9a0d9bef38efcbfa9d3ce56c.webp",
       "thumbnailHashType": "string",
       "thumbnail_hash": "LBIrT%00y?000000~qpH4nwgR5_2",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/5ea5c3b87ec1846f996879dd94af359c39d4cda9@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/9ccaece579ac0b7b9a0d9bef38efcbfa9d3ce56c@2xl.webp"
     }
   ],
   "expectedHits": 30,
@@ -567,7 +567,7 @@
     },
     {
       "id": "us_3406",
-      "anime": "Yuukyuu no Gusha Asley no, Kenja no Susume",
+      "anime": "The Eternal Fool's Words of Wisdom",
       "song": "Mirai no Vision",
       "artist": "ARCANA PROJECT",
       "artistDisplay": "ARCANA PROJECT",
@@ -577,7 +577,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5a856332940dae9d32da51b20e7fb2ed7616e9ea@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4dbad32b258f285bda70734884c79de630da5e0e@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -610,10 +610,10 @@
         "ミライノビジョン"
       ],
       "animeCandidates": [
+        "The Eternal Fool's Words of Wisdom",
         "Yuukyuu no Gusha Asley no, Kenja no Susume",
         "The Principle of a Philosopher by Eternal Fool \"Asley\"",
-        "悠久の愚者アズリーの、賢者のすゝめ",
-        "The Eternal Fool's Words of Wisdom"
+        "悠久の愚者アズリーの、賢者のすゝめ"
       ],
       "artistCandidates": [
         "4474",
@@ -627,7 +627,7 @@
     },
     {
       "id": "us_3405",
-      "anime": "Yuukyuu no Gusha Asley no, Kenja no Susume",
+      "anime": "The Eternal Fool's Words of Wisdom",
       "song": "321 Smiling",
       "artist": "Nako Misaki",
       "artistDisplay": "Nako Misaki & sajou no hana",
@@ -637,7 +637,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5a856332940dae9d32da51b20e7fb2ed7616e9ea@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4dbad32b258f285bda70734884c79de630da5e0e@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -669,10 +669,10 @@
         "321 Smiling"
       ],
       "animeCandidates": [
+        "The Eternal Fool's Words of Wisdom",
         "Yuukyuu no Gusha Asley no, Kenja no Susume",
         "The Principle of a Philosopher by Eternal Fool \"Asley\"",
-        "悠久の愚者アズリーの、賢者のすゝめ",
-        "The Eternal Fool's Words of Wisdom"
+        "悠久の愚者アズリーの、賢者のすゝめ"
       ],
       "artistCandidates": [
         "14764",
@@ -961,7 +961,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7a9306709b30cbbd0a30d10fae7a33e3a3c4939b@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7d3f2405d8d942ce7278f9ea4dee1649aa889511@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -1020,7 +1020,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7a9306709b30cbbd0a30d10fae7a33e3a3c4939b@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7d3f2405d8d942ce7278f9ea4dee1649aa889511@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -1064,7 +1064,7 @@
     },
     {
       "id": "us_3377",
-      "anime": "Kizuguchi to Houtai",
+      "anime": "Wound & Bandage",
       "song": "Show Me All Your Pain",
       "artist": "MIYAVI",
       "artistDisplay": "MIYAVI",
@@ -1074,7 +1074,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/79b6eb56309427c04a29905886cd370ab041ccde@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/cc2877d9ca939f55e8b024837924ade622a9d778@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -1106,9 +1106,9 @@
         "Show Me All Your Pain"
       ],
       "animeCandidates": [
+        "Wound & Bandage",
         "Kizuguchi to Houtai",
-        "傷口と包帯",
-        "Wound & Bandage"
+        "傷口と包帯"
       ],
       "artistCandidates": [
         "484",
@@ -1131,7 +1131,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a8eea370bd9fc7434b8a4feb7e0bc19692dc2992@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -1188,7 +1188,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5ea5c3b87ec1846f996879dd94af359c39d4cda9@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/9ccaece579ac0b7b9a0d9bef38efcbfa9d3ce56c@2xl.webp",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -1412,7 +1412,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/718d23076801c7246544fc3e02caeee8e2b1657f@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a8eea370bd9fc7434b8a4feb7e0bc19692dc2992@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -1469,7 +1469,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7da073d0f6e61dc3063b3be59632c9e979e2303a@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5d107bfaf5d530ddc4c4db64ba42d1cd3bd7e095@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -1696,7 +1696,7 @@
     },
     {
       "id": "us_3305",
-      "anime": "Shishite Ikiru SSS-kyuu Hunter",
+      "anime": "SSS-Class Revival Hunter",
       "song": "Fading",
       "artist": "THE SPELLBOUND",
       "artistDisplay": "THE SPELLBOUND & BOOM BOOM SATELLITES",
@@ -1738,9 +1738,9 @@
         "Fading"
       ],
       "animeCandidates": [
+        "SSS-Class Revival Hunter",
         "Shishite Ikiru SSS-kyuu Hunter",
         "死して生きるSSS級ハンター",
-        "SSS-Class Revival Hunter",
         "SSS급 죽어야 사는 헌터",
         "SSS-geup Jugeoya Saneun Hunter"
       ],
@@ -1771,7 +1771,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8e7432d5facf939ff335fba004c7315c52fb8b0@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/aa1e0422a167307d4b83183fe368bede3799838f@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -1837,7 +1837,7 @@
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d8e7432d5facf939ff335fba004c7315c52fb8b0@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/aa1e0422a167307d4b83183fe368bede3799838f@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
