@@ -21828,5 +21828,68 @@
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-11-17T19:46:53.000Z"
+  },
+  "706bbd8d231535c3": {
+    "id": "28321",
+    "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+    "song": "Soundtrack",
+    "artist": "onoken",
+    "artistDisplay": "onoken",
+    "artistDisplayCount": 1,
+    "kind": "OST",
+    "kindLabel": "OST",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/album/6aItWkzMnXNc63i1F8wQbl",
+    "apple": "https://music.apple.com/nz/album/6834771893?at=1001l384j&ct=website-with-vengeance-sincerely-you-ost&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f9b518b465f54218947c79697cb42d216a398085@2xl.jpeg",
+    "detailUrl": "",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "tags",
+      "web",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Soundtrack",
+      "Listen to 傷だらけ聖女より報復をこめてSeason2 - サウンドトラック",
+      "With Vengeance, Sincerely, Your Broken Saintess Season 2 - Animation Soundtrack -"
+    ],
+    "animeCandidates": [
+      "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+      "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
+      "傷だらけ聖女より報復をこめて Season2"
+    ],
+    "artistCandidates": [
+      "15428",
+      "onoken",
+      "4bQFn6WUUBu0cgLu9Q9EEv",
+      "210602927"
+    ],
+    "firstSeen": "2026-11-18T19:22:28.000Z"
   }
 }
