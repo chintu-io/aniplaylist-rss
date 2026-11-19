@@ -21959,5 +21959,70 @@
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-11-19T01:27:25.000Z"
+  },
+  "88fd59c54c11c6ca": {
+    "id": "28327",
+    "anime": "Armored Trooper Votoms: Die Graue Hexe",
+    "song": "Na mo Naki Shijin no you ni",
+    "artist": "Mika Nakashima",
+    "artistDisplay": "Mika Nakashima",
+    "artistDisplayCount": 1,
+    "kind": "TS",
+    "kindLabel": "Theme Song",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/track/4HDVkSfLcX9HZUO7wTP5YA",
+    "apple": "https://music.apple.com/nz/album/6831438538?i=6831438539&at=1001l384j&ct=website-armored-trooper-votoms-die-gr-ts&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7aa28c460da3572a3804e64882d1216240be97b0@2xl.jpeg",
+    "detailUrl": "",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "tags",
+      "other_link_ids",
+      "web",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Na mo Naki Shijin no you ni",
+      "名も無き詩人のように"
+    ],
+    "animeCandidates": [
+      "Armored Trooper Votoms: Die Graue Hexe",
+      "Soukou Kihei Votoms: Haiiro no Hexe",
+      "Soukou Kihei Votoms: Haiiro no Majo",
+      "装甲騎兵ボトムズ 灰色の魔女"
+    ],
+    "artistCandidates": [
+      "42",
+      "Mika Nakashima",
+      "中島美嘉",
+      "3D73KNJRMbV45N59E8IN0F",
+      "292677928",
+      "4018276"
+    ],
+    "firstSeen": "2026-11-19T18:38:29.000Z"
   }
 }
