@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 34,
+  "resultCount": 35,
   "animeThemesChecked": 3,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 5,
   "jsonResponses": 8,
   "algoliaResponses": 3,
   "hitArrays": 6,
-  "rawHits": 34,
-  "uniqueHits": 34,
-  "normalized": 34,
+  "rawHits": 35,
+  "uniqueHits": 35,
+  "normalized": 35,
   "withSpotify": 6,
   "withApple": 6,
   "withDetailUrl": 6,
   "resolvedSpotify": 6,
-  "recordThumbnails": 34,
+  "recordThumbnails": 35,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -154,6 +154,62 @@
       ]
     },
     {
+      "id": "us_3411",
+      "anime": "Boukensha License wo Hakudatsu sareta Ossan dakedo, Manamusume ga Dekita node Nonbiri Jinsei wo Ouka suru",
+      "song": "Dekiai",
+      "artist": "Satoko Shibata",
+      "artistDisplay": "Satoko Shibata",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e8ba264b46f109b9e961aa94f407e4857de39955@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Dekiai",
+        "溺愛"
+      ],
+      "animeCandidates": [
+        "Boukensha License wo Hakudatsu sareta Ossan dakedo, Manamusume ga Dekita node Nonbiri Jinsei wo Ouka suru",
+        "冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する",
+        "Enjoy New Life with My Daughter",
+        "I Lost My Adventurer's License, but It's Fine Because I Have an Adorable Daughter Now"
+      ],
+      "artistCandidates": [
+        "25827",
+        "Satoko Shibata",
+        "柴田聡子"
+      ]
+    },
+    {
       "id": "us_3409",
       "anime": "Shin Samurai-den Yaiba: Kaguya-hen",
       "song": "CHASE!",
@@ -273,66 +329,6 @@
         "190491857",
         "UCu-J4luK77NNEJo9wobez_g"
       ]
-    },
-    {
-      "id": "us_3406",
-      "anime": "The Eternal Fool's Words of Wisdom",
-      "song": "Mirai no Vision",
-      "artist": "ARCANA PROJECT",
-      "artistDisplay": "ARCANA PROJECT",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4dbad32b258f285bda70734884c79de630da5e0e@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Mirai no Vision",
-        "ミライノビジョン"
-      ],
-      "animeCandidates": [
-        "The Eternal Fool's Words of Wisdom",
-        "Yuukyuu no Gusha Asley no, Kenja no Susume",
-        "The Principle of a Philosopher by Eternal Fool \"Asley\"",
-        "悠久の愚者アズリーの、賢者のすゝめ"
-      ],
-      "artistCandidates": [
-        "4474",
-        "ARCANA PROJECT",
-        "33nBmWfW7J3vL487uRL8Cz",
-        "1502740852",
-        "1581807",
-        "181077157",
-        "UC_usC3uBIwcAdp8ciFBxWvg"
-      ]
     }
   ],
   "errors": [],
@@ -356,6 +352,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/eff3c11c29034611350289f7982b84784c96c1c6@2xl.jpeg"
+    },
+    {
+      "id": "us_3411",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/e8ba264b46f109b9e961aa94f407e4857de39955.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LSKxbsNGpe={GwxZMxnhELs9xDEk",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/e8ba264b46f109b9e961aa94f407e4857de39955@2xl.jpg"
     },
     {
       "id": "us_3409",
@@ -446,26 +452,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg"
-    },
-    {
-      "id": "us_3390",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/7d3f2405d8d942ce7278f9ea4dee1649aa889511.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LFI#P^_N8w000LSi=ze-s$RNIp-=",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7d3f2405d8d942ce7278f9ea4dee1649aa889511@2xl.jpg"
     }
   ],
-  "expectedHits": 34,
+  "expectedHits": 35,
   "expectedPages": 3,
   "receivedPages": 3,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 34,
+      "nbHits": 35,
       "hitsPerPage": 16,
       "nbPages": 3,
       "count": 16
@@ -473,7 +469,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28595,
+      "nbHits": 28599,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -481,7 +477,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 34,
+      "nbHits": 35,
       "hitsPerPage": 16,
       "nbPages": 3,
       "count": 16
@@ -489,7 +485,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28595,
+      "nbHits": 28599,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -497,15 +493,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 34,
+      "nbHits": 35,
       "hitsPerPage": 16,
       "nbPages": 3,
-      "count": 2
+      "count": 3
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28595,
+      "nbHits": 28599,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -642,6 +638,62 @@
         "219771500",
         "4897530",
         "UCE7UTii69j5WCDZSWgkIjiw"
+      ]
+    },
+    {
+      "id": "us_3411",
+      "anime": "Boukensha License wo Hakudatsu sareta Ossan dakedo, Manamusume ga Dekita node Nonbiri Jinsei wo Ouka suru",
+      "song": "Dekiai",
+      "artist": "Satoko Shibata",
+      "artistDisplay": "Satoko Shibata",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e8ba264b46f109b9e961aa94f407e4857de39955@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Dekiai",
+        "溺愛"
+      ],
+      "animeCandidates": [
+        "Boukensha License wo Hakudatsu sareta Ossan dakedo, Manamusume ga Dekita node Nonbiri Jinsei wo Ouka suru",
+        "冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する",
+        "Enjoy New Life with My Daughter",
+        "I Lost My Adventurer's License, but It's Fine Because I Have an Adorable Daughter Now"
+      ],
+      "artistCandidates": [
+        "25827",
+        "Satoko Shibata",
+        "柴田聡子"
       ]
     },
     {
@@ -2247,65 +2299,6 @@
         "573943518",
         "11446160",
         "UCt4rbOMLsVxeMsoaRdTfr5A"
-      ]
-    },
-    {
-      "id": "us_3267",
-      "anime": "The Kept Man of the Princess Knight",
-      "song": "Gika",
-      "artist": "sajou no hana",
-      "artistDisplay": "sajou no hana",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5282e7bf3206848f6009da09ac7d7e2c72a923d9@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Gika",
-        "偽花"
-      ],
-      "animeCandidates": [
-        "The Kept Man of the Princess Knight",
-        "Himekishi-sama no Himo",
-        "He Is a Kept Man for Princess Knight.",
-        "姫騎士様のヒモ"
-      ],
-      "artistCandidates": [
-        "572",
-        "sajou no hana",
-        "014bW80BPmy5WVcFBoHwNq",
-        "1407211456",
-        "55268262",
-        "UCWNPJK9pQWSRiyr-b6nmQ4Q"
       ]
     }
   ],

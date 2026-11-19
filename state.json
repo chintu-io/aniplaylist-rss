@@ -14587,7 +14587,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -21337,7 +21336,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -21840,9 +21838,9 @@
     "kindLabel": "OST",
     "episodes": [],
     "spotify": "https://open.spotify.com/album/6aItWkzMnXNc63i1F8wQbl",
-    "apple": "https://music.apple.com/nz/album/6834771893?at=1001l384j&ct=website-with-vengeance-sincerely-you-ost&app=music",
+    "apple": "https://geo.music.apple.com/album/6834771893?at=1001l384j&ct=website-with-vengeance-sincerely-you-ost&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f9b518b465f54218947c79697cb42d216a398085@2xl.jpeg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-original-soundtrack",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -21868,8 +21866,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
-      "web",
+      "other_link_ids",
       "unreleased",
       "objectID"
     ],
@@ -21888,7 +21887,9 @@
       "15428",
       "onoken",
       "4bQFn6WUUBu0cgLu9Q9EEv",
-      "210602927"
+      "210602927",
+      "8931822",
+      "UCwK0FPYqFlnM6sABcqqVA7Q"
     ],
     "firstSeen": "2026-11-18T19:22:28.000Z"
   },
