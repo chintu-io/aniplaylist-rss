@@ -21891,5 +21891,72 @@
       "210602927"
     ],
     "firstSeen": "2026-11-18T19:22:28.000Z"
+  },
+  "ba7b951f5502e353": {
+    "id": "28320",
+    "anime": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+    "song": "Sai",
+    "artist": "LIL LEAGUE from EXILE TRIBE",
+    "artistDisplay": "LIL LEAGUE from EXILE TRIBE",
+    "artistDisplayCount": 1,
+    "kind": "OP",
+    "kindLabel": "Opening",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/track/2ZzN1oocqTeqzwIdio9N3Z",
+    "apple": "https://geo.music.apple.com/album/6824361324?i=6824361327&at=1001l384j&ct=website-otherworldly-munchkin-lets-sp-op&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a407e77b0063d7b4034042b7f57314bfb22a7c05@2xl.jpg",
+    "detailUrl": "https://aniplaylist.com/play/otherworldly-munchkin-lets-speedrun-the-dungeon-with-only-1-hp-opening",
+    "season": "Winter 2027",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "status",
+      "tags",
+      "other_link_ids",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Sai",
+      "賽"
+    ],
+    "animeCandidates": [
+      "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+      "Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku",
+      "Another World Munchkin: Conquering the Dungeon as the Strongest and the Fastest with Only 1 HP",
+      "異世界マンチキン ーHP1のままで最強最速ダンジョン攻略ー",
+      "Otherworldly Munchkin"
+    ],
+    "artistCandidates": [
+      "15798",
+      "LIL LEAGUE from EXILE TRIBE",
+      "6B51WqiWwRf7LytXwWhmHJ",
+      "1659320546",
+      "221568625",
+      "UCBX8q1IAtEBE5-ZGVdS1HbA"
+    ],
+    "animethemesVideo": null,
+    "firstSeen": "2026-11-19T01:27:25.000Z"
   }
 }

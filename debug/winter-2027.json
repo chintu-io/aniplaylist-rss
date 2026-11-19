@@ -3,25 +3,90 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 33,
-  "animeThemesChecked": 2,
+  "resultCount": 34,
+  "animeThemesChecked": 3,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 5,
-  "jsonResponses": 15,
+  "jsonResponses": 8,
   "algoliaResponses": 3,
   "hitArrays": 6,
-  "rawHits": 33,
-  "uniqueHits": 33,
-  "normalized": 33,
-  "withSpotify": 5,
-  "withApple": 5,
-  "withDetailUrl": 5,
-  "resolvedSpotify": 5,
-  "recordThumbnails": 33,
+  "rawHits": 34,
+  "uniqueHits": 34,
+  "normalized": 34,
+  "withSpotify": 6,
+  "withApple": 6,
+  "withDetailUrl": 6,
+  "resolvedSpotify": 6,
+  "recordThumbnails": 34,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28320",
+      "anime": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+      "song": "Sai",
+      "artist": "LIL LEAGUE from EXILE TRIBE",
+      "artistDisplay": "LIL LEAGUE from EXILE TRIBE",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2ZzN1oocqTeqzwIdio9N3Z",
+      "apple": "https://geo.music.apple.com/album/6824361324?i=6824361327&at=1001l384j&ct=website-otherworldly-munchkin-lets-sp-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a407e77b0063d7b4034042b7f57314bfb22a7c05@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/otherworldly-munchkin-lets-speedrun-the-dungeon-with-only-1-hp-opening",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sai",
+        "賽"
+      ],
+      "animeCandidates": [
+        "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+        "Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku",
+        "Another World Munchkin: Conquering the Dungeon as the Strongest and the Fastest with Only 1 HP",
+        "異世界マンチキン ーHP1のままで最強最速ダンジョン攻略ー",
+        "Otherworldly Munchkin"
+      ],
+      "artistCandidates": [
+        "15798",
+        "LIL LEAGUE from EXILE TRIBE",
+        "6B51WqiWwRf7LytXwWhmHJ",
+        "1659320546",
+        "221568625",
+        "UCBX8q1IAtEBE5-ZGVdS1HbA"
+      ]
+    },
     {
       "id": "28315",
       "anime": "Inherit the Winds",
@@ -268,75 +333,20 @@
         "181077157",
         "UC_usC3uBIwcAdp8ciFBxWvg"
       ]
-    },
-    {
-      "id": "us_3405",
-      "anime": "The Eternal Fool's Words of Wisdom",
-      "song": "321 Smiling",
-      "artist": "Nako Misaki",
-      "artistDisplay": "Nako Misaki & sajou no hana",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4dbad32b258f285bda70734884c79de630da5e0e@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "321 Smiling"
-      ],
-      "animeCandidates": [
-        "The Eternal Fool's Words of Wisdom",
-        "Yuukyuu no Gusha Asley no, Kenja no Susume",
-        "The Principle of a Philosopher by Eternal Fool \"Asley\"",
-        "悠久の愚者アズリーの、賢者のすゝめ"
-      ],
-      "artistCandidates": [
-        "14764",
-        "Nako Misaki",
-        "岬なこ",
-        "1681551193",
-        "3b4KP5O2za8H98IxieMJfh",
-        "209083957",
-        "UCcUdv2_KdRK5kFZafKNz9QQ",
-        "572",
-        "sajou no hana",
-        "014bW80BPmy5WVcFBoHwNq",
-        "1407211456",
-        "55268262",
-        "UCWNPJK9pQWSRiyr-b6nmQ4Q"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28320",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/a407e77b0063d7b4034042b7f57314bfb22a7c05.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LMHd{p~EkX9Z9tS~xuM{9YIoxaxu",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/a407e77b0063d7b4034042b7f57314bfb22a7c05@2xl.jpg"
+    },
     {
       "id": "28315",
       "thumbnailType": "string",
@@ -446,26 +456,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/7d3f2405d8d942ce7278f9ea4dee1649aa889511@2xl.jpg"
-    },
-    {
-      "id": "us_3389",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/7d3f2405d8d942ce7278f9ea4dee1649aa889511.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LFI#P^_N8w000LSi=ze-s$RNIp-=",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7d3f2405d8d942ce7278f9ea4dee1649aa889511@2xl.jpg"
     }
   ],
-  "expectedHits": 33,
+  "expectedHits": 34,
   "expectedPages": 3,
   "receivedPages": 3,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 33,
+      "nbHits": 34,
       "hitsPerPage": 16,
       "nbPages": 3,
       "count": 16
@@ -481,7 +481,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 33,
+      "nbHits": 34,
       "hitsPerPage": 16,
       "nbPages": 3,
       "count": 16
@@ -497,10 +497,10 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 33,
+      "nbHits": 34,
       "hitsPerPage": 16,
       "nbPages": 3,
-      "count": 1
+      "count": 2
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
@@ -512,6 +512,72 @@
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28320",
+      "anime": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+      "song": "Sai",
+      "artist": "LIL LEAGUE from EXILE TRIBE",
+      "artistDisplay": "LIL LEAGUE from EXILE TRIBE",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2ZzN1oocqTeqzwIdio9N3Z",
+      "apple": "https://geo.music.apple.com/album/6824361324?i=6824361327&at=1001l384j&ct=website-otherworldly-munchkin-lets-sp-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a407e77b0063d7b4034042b7f57314bfb22a7c05@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/otherworldly-munchkin-lets-speedrun-the-dungeon-with-only-1-hp-opening",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sai",
+        "賽"
+      ],
+      "animeCandidates": [
+        "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+        "Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku",
+        "Another World Munchkin: Conquering the Dungeon as the Strongest and the Fastest with Only 1 HP",
+        "異世界マンチキン ーHP1のままで最強最速ダンジョン攻略ー",
+        "Otherworldly Munchkin"
+      ],
+      "artistCandidates": [
+        "15798",
+        "LIL LEAGUE from EXILE TRIBE",
+        "6B51WqiWwRf7LytXwWhmHJ",
+        "1659320546",
+        "221568625",
+        "UCBX8q1IAtEBE5-ZGVdS1HbA"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28315",
       "anime": "Inherit the Winds",
@@ -2241,68 +2307,17 @@
         "55268262",
         "UCWNPJK9pQWSRiyr-b6nmQ4Q"
       ]
-    },
-    {
-      "id": "us_3266",
-      "anime": "The Kept Man of the Princess Knight",
-      "song": "TRUE-TABOO",
-      "artist": "MYTH & ROID",
-      "artistDisplay": "MYTH & ROID",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5282e7bf3206848f6009da09ac7d7e2c72a923d9@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "TRUE-TABOO"
-      ],
-      "animeCandidates": [
-        "The Kept Man of the Princess Knight",
-        "Himekishi-sama no Himo",
-        "He Is a Kept Man for Princess Knight.",
-        "姫騎士様のヒモ"
-      ],
-      "artistCandidates": [
-        "329",
-        "MYTH & ROID",
-        "1NRrtMvT3o1TI6I8XCuweq",
-        "1041273775",
-        "14434339",
-        "UCy-KRbBQm9bV0Kl0mSyVhAw"
-      ]
     }
   ],
   "sourceMetadataSamples": [],
   "detailUrlSamples": [
+    {
+      "id": "28320",
+      "anime": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+      "song": "Sai",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/otherworldly-munchkin-lets-speedrun-the-dungeon-with-only-1-hp-opening"
+    },
     {
       "id": "28315",
       "anime": "Inherit the Winds",
@@ -2340,6 +2355,72 @@
     }
   ],
   "usableSamples": [
+    {
+      "id": "28320",
+      "anime": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+      "song": "Sai",
+      "artist": "LIL LEAGUE from EXILE TRIBE",
+      "artistDisplay": "LIL LEAGUE from EXILE TRIBE",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2ZzN1oocqTeqzwIdio9N3Z",
+      "apple": "https://geo.music.apple.com/album/6824361324?i=6824361327&at=1001l384j&ct=website-otherworldly-munchkin-lets-sp-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a407e77b0063d7b4034042b7f57314bfb22a7c05@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/otherworldly-munchkin-lets-speedrun-the-dungeon-with-only-1-hp-opening",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Sai",
+        "賽"
+      ],
+      "animeCandidates": [
+        "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+        "Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku",
+        "Another World Munchkin: Conquering the Dungeon as the Strongest and the Fastest with Only 1 HP",
+        "異世界マンチキン ーHP1のままで最強最速ダンジョン攻略ー",
+        "Otherworldly Munchkin"
+      ],
+      "artistCandidates": [
+        "15798",
+        "LIL LEAGUE from EXILE TRIBE",
+        "6B51WqiWwRf7LytXwWhmHJ",
+        "1659320546",
+        "221568625",
+        "UCBX8q1IAtEBE5-ZGVdS1HbA"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28315",
       "anime": "Inherit the Winds",
@@ -2667,6 +2748,14 @@
     }
   ],
   "platformSamples": [
+    {
+      "id": "28320",
+      "anime": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+      "song": "Sai",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/2ZzN1oocqTeqzwIdio9N3Z",
+      "apple": "https://geo.music.apple.com/album/6824361324?i=6824361327&at=1001l384j&ct=website-otherworldly-munchkin-lets-sp-op&app=music"
+    },
     {
       "id": "28315",
       "anime": "Inherit the Winds",
