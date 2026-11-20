@@ -15,13 +15,78 @@
   "normalized": 250,
   "withSpotify": 216,
   "withApple": 218,
-  "withDetailUrl": 218,
+  "withDetailUrl": 219,
   "resolvedSpotify": 216,
   "recordThumbnails": 250,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28327",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Na mo Naki Shijin no you ni",
+      "artist": "Mika Nakashima",
+      "artistDisplay": "Mika Nakashima",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4HDVkSfLcX9HZUO7wTP5YA",
+      "apple": "https://geo.music.apple.com/album/6831438538?i=6831438539&at=1001l384j&ct=website-armored-trooper-votoms-die-gr-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7aa28c460da3572a3804e64882d1216240be97b0@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Na mo Naki Shijin no you ni",
+        "名も無き詩人のように"
+      ],
+      "animeCandidates": [
+        "Armored Trooper Votoms: Die Graue Hexe",
+        "Soukou Kihei Votoms: Haiiro no Hexe",
+        "Soukou Kihei Votoms: Haiiro no Majo",
+        "装甲騎兵ボトムズ 灰色の魔女"
+      ],
+      "artistCandidates": [
+        "42",
+        "Mika Nakashima",
+        "中島美嘉",
+        "3D73KNJRMbV45N59E8IN0F",
+        "292677928",
+        "4018276",
+        "UClqGyJux0gipUeFnBh-onCQ"
+      ]
+    },
     {
       "id": "28321",
       "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
@@ -275,76 +340,20 @@
         "131142342",
         "UCrkcNhwGAvFoFrmwgq3MWlA"
       ]
-    },
-    {
-      "id": "28229",
-      "anime": "My Happy Marriage Special",
-      "song": "Prelude no Temae ni ~for me&you~",
-      "artist": "Kashitaro Ito",
-      "artistDisplay": "Kashitaro Ito",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2wCob1Fah2VVX2CAtLxm2A",
-      "apple": "https://geo.music.apple.com/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6ce5e7a260488767a0adc7eed15b59070f33ee39@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Prelude no Temae ni ~for me&you~",
-        "プレリュードの手前に 〜for me&you〜",
-        "Just before the Prelude 〜for me&you〜"
-      ],
-      "animeCandidates": [
-        "My Happy Marriage Special",
-        "Watashi no Shiawase na Kekkon Special",
-        "わたしの幸せな結婚 特別篇",
-        "My Happy Marriage",
-        "My Blissful Marriage"
-      ],
-      "artistCandidates": [
-        "3944",
-        "Kashitaro Ito",
-        "伊東歌詞太郎",
-        "3i7tuzRfutJGAUowspOM1f",
-        "647767887",
-        "12940643",
-        "UC5_fOcOtisCekgSlPR-zPvA"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28327",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/7aa28c460da3572a3804e64882d1216240be97b0.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LDATvBRi4nWB00ay-=V[~pt79Ft7",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/7aa28c460da3572a3804e64882d1216240be97b0@2xl.jpeg"
+    },
     {
       "id": "28321",
       "thumbnailType": "string",
@@ -426,36 +435,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/87d1da6c3e33f75ee83b673a5681f65ffebf0662@2xl.jpeg"
     },
     {
-      "id": "28314",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/426841c044353c8ac90af4ffca408f3ffbd0b01b.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L94oi}IAW=Rj8wyDogt7?^MxW=Rj",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/426841c044353c8ac90af4ffca408f3ffbd0b01b@2xl.jpeg"
-    },
-    {
-      "id": "28221",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LAF5]eED$_~V02NGITIS?I^*b19I",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg"
-    },
-    {
-      "id": "28222",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/4cdb631214611d9ac6ca892eccb34d45259706b9.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LAF5]eED$_~V02NGITIS?I^*b19I",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/4cdb631214611d9ac6ca892eccb34d45259706b9@2xl.jpg"
-    },
-    {
       "id": "28085",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82.jpg",
@@ -464,6 +443,26 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg"
+    },
+    {
+      "id": "28074",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L89i}Or_0L]}R3s:%4Io18s7};Em",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
+    },
+    {
+      "id": "28153",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/611deec5a26819ffd4f563a6f112f6689439e064.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LUKI}2y?[urr~Cpw%2NF$+tRNZrX",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg"
     }
   ],
   "expectedHits": 250,
@@ -728,6 +727,71 @@
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28327",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Na mo Naki Shijin no you ni",
+      "artist": "Mika Nakashima",
+      "artistDisplay": "Mika Nakashima",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4HDVkSfLcX9HZUO7wTP5YA",
+      "apple": "https://geo.music.apple.com/album/6831438538?i=6831438539&at=1001l384j&ct=website-armored-trooper-votoms-die-gr-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7aa28c460da3572a3804e64882d1216240be97b0@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Na mo Naki Shijin no you ni",
+        "名も無き詩人のように"
+      ],
+      "animeCandidates": [
+        "Armored Trooper Votoms: Die Graue Hexe",
+        "Soukou Kihei Votoms: Haiiro no Hexe",
+        "Soukou Kihei Votoms: Haiiro no Majo",
+        "装甲騎兵ボトムズ 灰色の魔女"
+      ],
+      "artistCandidates": [
+        "42",
+        "Mika Nakashima",
+        "中島美嘉",
+        "3D73KNJRMbV45N59E8IN0F",
+        "292677928",
+        "4018276",
+        "UClqGyJux0gipUeFnBh-onCQ"
+      ]
+    },
     {
       "id": "28321",
       "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
@@ -1242,199 +1306,6 @@
       ]
     },
     {
-      "id": "28314",
-      "anime": "Vertex Force",
-      "song": "Original Soundtrack Vol. 2",
-      "artist": "Nobuaki Nobusawa",
-      "artistDisplay": "Nobuaki Nobusawa",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/3ONh9xDaFFAgOLM2Vgkfh6",
-      "apple": "https://geo.music.apple.com/album/6828270847?at=1001l384j&ct=website-vertex-force-ost2&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/426841c044353c8ac90af4ffca408f3ffbd0b01b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/vertex-force-original-soundtrack-2",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Original Soundtrack Vol. 2",
-        "バーテックスフォース オリジナルサウンドトラック Vol. 2"
-      ],
-      "animeCandidates": [
-        "Vertex Force",
-        "バーテックスフォース"
-      ],
-      "artistCandidates": [
-        "1003",
-        "Nobuaki Nobusawa",
-        "信澤宣明",
-        "4q4tYjUtx81Sfmm17JkH5I",
-        "877551022",
-        "10572287",
-        "UCL2YV8cKYu7F3Qr2WkQ7sPQ"
-      ]
-    },
-    {
-      "id": "28221",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "ORIGINAL SOUNDTRACK",
-      "artist": "Kevin Penkin",
-      "artistDisplay": "Kevin Penkin",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
-      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "ORIGINAL SOUNDTRACK",
-        "MADE IN ABYSS ORIGINAL SOUNDTRACK (4)"
-      ],
-      "animeCandidates": [
-        "Made in Abyss: Mezameru Shinpi",
-        "Made in Abyss: Awakening Mystery",
-        "メイドインアビス 目覚める神秘"
-      ],
-      "artistCandidates": [
-        "725",
-        "Kevin Penkin",
-        "ケビン・ペンキン",
-        "4S33gEeiCjwfD1FJKfMT3Y",
-        "1113369160",
-        "10563699",
-        "UCmUdoXixFr4EffDIQkarfLg"
-      ]
-    },
-    {
-      "id": "28222",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "Chain of the Abyss",
-      "artist": "Kevin Penkin",
-      "artistDisplay": "Kevin Penkin & Mori Calliope",
-      "artistDisplayCount": 2,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7KPJaB1GIlaATN9U5yA606",
-      "apple": "https://geo.music.apple.com/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4cdb631214611d9ac6ca892eccb34d45259706b9@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Chain of the Abyss"
-      ],
-      "animeCandidates": [
-        "Made in Abyss: Mezameru Shinpi",
-        "Made in Abyss: Awakening Mystery",
-        "メイドインアビス 目覚める神秘"
-      ],
-      "artistCandidates": [
-        "725",
-        "Kevin Penkin",
-        "ケビン・ペンキン",
-        "4S33gEeiCjwfD1FJKfMT3Y",
-        "1113369160",
-        "10563699",
-        "12480",
-        "Mori Calliope",
-        "森 カリオペ",
-        "1PhE6rv0146ZTQosoPDjk8",
-        "119362592"
-      ]
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -1641,19 +1512,19 @@
       ]
     },
     {
-      "id": "28311",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Original Soundtrack",
-      "artist": "NARASAKI",
-      "artistDisplay": "NARASAKI",
+      "id": "28314",
+      "anime": "Vertex Force",
+      "song": "Original Soundtrack Vol. 2",
+      "artist": "Nobuaki Nobusawa",
+      "artistDisplay": "Nobuaki Nobusawa",
       "artistDisplayCount": 1,
       "kind": "OST",
       "kindLabel": "OST",
       "episodes": [],
-      "spotify": "https://open.spotify.com/album/2lhhBq4sm0uXhZ7fumSBpz",
-      "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-expelled-from-paradise-reson-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f22d1d306b0b0b46c997ffca164b85466d6448b5@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-original-soundtrack",
+      "spotify": "https://open.spotify.com/album/3ONh9xDaFFAgOLM2Vgkfh6",
+      "apple": "https://geo.music.apple.com/album/6828270847?at=1001l384j&ct=website-vertex-force-ost2&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/426841c044353c8ac90af4ffca408f3ffbd0b01b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/vertex-force-original-soundtrack-2",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1670,6 +1541,7 @@
         "platforms",
         "preview_url",
         "song_key",
+        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -1686,22 +1558,21 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Original Soundtrack",
-        "「楽園追放 心のレゾナンス」オリジナルサウンドトラック"
+        "Original Soundtrack Vol. 2",
+        "バーテックスフォース オリジナルサウンドトラック Vol. 2"
       ],
       "animeCandidates": [
-        "Expelled from Paradise: Resonance",
-        "Rakuen Tsuihou: Kokoro no Resonance",
-        "Liberated from Paradise: Resonance of the Heart",
-        "楽園追放 心のレゾナンス"
+        "Vertex Force",
+        "バーテックスフォース"
       ],
       "artistCandidates": [
-        "8166",
-        "NARASAKI",
-        "5tw2V8hAsGajfjOIckO1S0",
-        "292629398",
-        "5318569",
-        "UC-peGh6hOhrOrji2w61yRGA"
+        "1003",
+        "Nobuaki Nobusawa",
+        "信澤宣明",
+        "4q4tYjUtx81Sfmm17JkH5I",
+        "877551022",
+        "10572287",
+        "UCL2YV8cKYu7F3Qr2WkQ7sPQ"
       ]
     },
     {
@@ -1771,6 +1642,135 @@
         "UCssoAGLly9DaABecIZoht_g"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "28221",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "ORIGINAL SOUNDTRACK",
+      "artist": "Kevin Penkin",
+      "artistDisplay": "Kevin Penkin",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
+      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "ORIGINAL SOUNDTRACK",
+        "MADE IN ABYSS ORIGINAL SOUNDTRACK (4)"
+      ],
+      "animeCandidates": [
+        "Made in Abyss: Mezameru Shinpi",
+        "Made in Abyss: Awakening Mystery",
+        "メイドインアビス 目覚める神秘"
+      ],
+      "artistCandidates": [
+        "725",
+        "Kevin Penkin",
+        "ケビン・ペンキン",
+        "4S33gEeiCjwfD1FJKfMT3Y",
+        "1113369160",
+        "10563699",
+        "UCmUdoXixFr4EffDIQkarfLg"
+      ]
+    },
+    {
+      "id": "28222",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "Chain of the Abyss",
+      "artist": "Kevin Penkin",
+      "artistDisplay": "Kevin Penkin & Mori Calliope",
+      "artistDisplayCount": 2,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7KPJaB1GIlaATN9U5yA606",
+      "apple": "https://geo.music.apple.com/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4cdb631214611d9ac6ca892eccb34d45259706b9@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Chain of the Abyss"
+      ],
+      "animeCandidates": [
+        "Made in Abyss: Mezameru Shinpi",
+        "Made in Abyss: Awakening Mystery",
+        "メイドインアビス 目覚める神秘"
+      ],
+      "artistCandidates": [
+        "725",
+        "Kevin Penkin",
+        "ケビン・ペンキン",
+        "4S33gEeiCjwfD1FJKfMT3Y",
+        "1113369160",
+        "10563699",
+        "12480",
+        "Mori Calliope",
+        "森 カリオペ",
+        "1PhE6rv0146ZTQosoPDjk8",
+        "119362592"
+      ]
     },
     {
       "id": "27900",
@@ -1903,79 +1903,6 @@
         "24642",
         "TOHO animation",
         "UC14Yc2Qv92DMuyNRlHvpo2Q"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28171",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Deux Livres",
-      "artist": "Nia Liston (CV: Honoka Inoue)",
-      "artistDisplay": "Nia Liston (CV: Honoka Inoue) & Sharro White (CV: Maaya Uchida)",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [
-        "3"
-      ],
-      "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
-      "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Deux Livres"
-      ],
-      "animeCandidates": [
-        "Nia Liston: The Merciless Maiden",
-        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
-      ],
-      "artistCandidates": [
-        "25678",
-        "Nia Liston (CV: Honoka Inoue)",
-        "ニア・リストン (CV: 井上ほの花)",
-        "1YOSNboXUUV8fcZJw4Zjob",
-        "6816815405",
-        "420276352",
-        "25679",
-        "Sharro White (CV: Maaya Uchida)",
-        "シャロ・ホワイト (CV: 内田真礼)",
-        "0u5zYLqFPffIeW9CfueFiG",
-        "6818432377",
-        "420276362"
       ],
       "animethemesVideo": null
     },
@@ -2176,72 +2103,6 @@
         "UCnPf2oZPzg_pxf6RzjUoCgw"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28164",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "ORIGINAL SOUNDTRACK",
-      "artist": "Naoki Endou",
-      "artistDisplay": "Naoki Endou",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/19KZXuoGw9zB29vYmZwMiN",
-      "apple": "https://geo.music.apple.com/album/6818434842?at=1001l384j&ct=website-nia-liston-the-merciless-mai-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d441be9edb09846f87b53e2a7a38a83aba0a09e7@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "ORIGINAL SOUNDTRACK",
-        "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』オリジナル・サウンドトラック",
-        "\"Nia Liston: The Merciless Maiden\" ORIGINAL SOUNDTRACK"
-      ],
-      "animeCandidates": [
-        "Nia Liston: The Merciless Maiden",
-        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
-      ],
-      "artistCandidates": [
-        "3709",
-        "Naoki Endou",
-        "遠藤ナオキ",
-        "Naoki Endo",
-        "1S7SMjan8hRLYOwqu920r0",
-        "1140016301",
-        "5209770",
-        "UCtK6yy8VIgt9e0WrAbYRwHg"
-      ]
     },
     {
       "id": "28084",
@@ -2686,6 +2547,136 @@
         "586120102",
         "5200027",
         "UCz_qp5woGr9GjmSzGbCCslA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27958",
+      "anime": "Romelia War Chronicle",
+      "song": "Akatsuki ni Naru",
+      "artist": "Chogakusei",
+      "artistDisplay": "Chogakusei",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6jKijZ4xxsQLVKhSMXsxoG",
+      "apple": "https://geo.music.apple.com/album/6810987431?i=6810987618&at=1001l384j&ct=website-romelia-war-chronicle-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/dd72e51232db05d7b9f7c30bdf0f98aa5f425406@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/romelia-war-chronicle-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Akatsuki ni Naru",
+        "暁に鳴る"
+      ],
+      "animeCandidates": [
+        "Romelia War Chronicle",
+        "Romelia Senki",
+        "ロメリア戦記",
+        "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki shita",
+        "Romelia Senki: Forming a Military Organization Because Humanity Still Looks Screwed After Defeating the Demon King",
+        "A History of the Romelia"
+      ],
+      "artistCandidates": [
+        "14069",
+        "Chogakusei",
+        "超学生",
+        "1o3K28VZiWLErDUMWD6xuo",
+        "1543171756",
+        "200498657",
+        "UCNqzk1hGE1UbZRTCMYsdrHg"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27761",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "IGNITE",
+      "artist": "JO1",
+      "artistDisplay": "JO1",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4AAiz8MarztbqTCTMfwXYr",
+      "apple": "https://geo.music.apple.com/album/6797375185?i=6797375186&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "IGNITE"
+      ],
+      "animeCandidates": [
+        "Tokyo Revengers: War of the Three Titan Arc",
+        "Tokyo Revengers: Santen Sensou-hen",
+        "東京リベンジャーズ 三天戦争編",
+        "Tokyo Revengers: War of the Three Titans Arc"
+      ],
+      "artistCandidates": [
+        "7989",
+        "JO1",
+        "2koP6FEfIEVk4l2Fe6jFhu",
+        "1500272115",
+        "10885914",
+        "UCWyo-2Efw9aSmemM3LluERg"
       ],
       "animethemesVideo": null
     }
@@ -3235,6 +3226,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28327",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Na mo Naki Shijin no you ni",
+      "kind": "TS",
+      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-theme-song"
+    },
+    {
       "id": "28321",
       "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
       "song": "Soundtrack",
@@ -3291,27 +3289,6 @@
       "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-original-soundtrack"
     },
     {
-      "id": "28314",
-      "anime": "Vertex Force",
-      "song": "Original Soundtrack Vol. 2",
-      "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/vertex-force-original-soundtrack-2"
-    },
-    {
-      "id": "28221",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "ORIGINAL SOUNDTRACK",
-      "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack"
-    },
-    {
-      "id": "28222",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "Chain of the Abyss",
-      "kind": "TS",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-theme-song"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -3333,11 +3310,11 @@
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself"
     },
     {
-      "id": "28311",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Original Soundtrack",
+      "id": "28314",
+      "anime": "Vertex Force",
+      "song": "Original Soundtrack Vol. 2",
       "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-original-soundtrack"
+      "detailUrl": "https://aniplaylist.com/play/vertex-force-original-soundtrack-2"
     },
     {
       "id": "27821",
@@ -3345,6 +3322,20 @@
       "song": "SPIN",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening"
+    },
+    {
+      "id": "28221",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "ORIGINAL SOUNDTRACK",
+      "kind": "OST",
+      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack"
+    },
+    {
+      "id": "28222",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "Chain of the Abyss",
+      "kind": "TS",
+      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-theme-song"
     },
     {
       "id": "27900",
@@ -3359,13 +3350,6 @@
       "song": "AIYOU",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-ending"
-    },
-    {
-      "id": "28171",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Deux Livres",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3"
     },
     {
       "id": "27953",
@@ -3387,13 +3371,6 @@
       "song": "Shinu ka Ikiru ka",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-ending"
-    },
-    {
-      "id": "28164",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "ORIGINAL SOUNDTRACK",
-      "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-original-soundtrack"
     },
     {
       "id": "28084",
@@ -3443,9 +3420,88 @@
       "song": "Ember Torch",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-opening"
+    },
+    {
+      "id": "27958",
+      "anime": "Romelia War Chronicle",
+      "song": "Akatsuki ni Naru",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/romelia-war-chronicle-opening"
+    },
+    {
+      "id": "27761",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "IGNITE",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-opening"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28327",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Na mo Naki Shijin no you ni",
+      "artist": "Mika Nakashima",
+      "artistDisplay": "Mika Nakashima",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4HDVkSfLcX9HZUO7wTP5YA",
+      "apple": "https://geo.music.apple.com/album/6831438538?i=6831438539&at=1001l384j&ct=website-armored-trooper-votoms-die-gr-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7aa28c460da3572a3804e64882d1216240be97b0@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Na mo Naki Shijin no you ni",
+        "名も無き詩人のように"
+      ],
+      "animeCandidates": [
+        "Armored Trooper Votoms: Die Graue Hexe",
+        "Soukou Kihei Votoms: Haiiro no Hexe",
+        "Soukou Kihei Votoms: Haiiro no Majo",
+        "装甲騎兵ボトムズ 灰色の魔女"
+      ],
+      "artistCandidates": [
+        "42",
+        "Mika Nakashima",
+        "中島美嘉",
+        "3D73KNJRMbV45N59E8IN0F",
+        "292677928",
+        "4018276",
+        "UClqGyJux0gipUeFnBh-onCQ"
+      ]
+    },
     {
       "id": "28321",
       "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
@@ -3960,199 +4016,6 @@
       ]
     },
     {
-      "id": "28314",
-      "anime": "Vertex Force",
-      "song": "Original Soundtrack Vol. 2",
-      "artist": "Nobuaki Nobusawa",
-      "artistDisplay": "Nobuaki Nobusawa",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/3ONh9xDaFFAgOLM2Vgkfh6",
-      "apple": "https://geo.music.apple.com/album/6828270847?at=1001l384j&ct=website-vertex-force-ost2&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/426841c044353c8ac90af4ffca408f3ffbd0b01b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/vertex-force-original-soundtrack-2",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Original Soundtrack Vol. 2",
-        "バーテックスフォース オリジナルサウンドトラック Vol. 2"
-      ],
-      "animeCandidates": [
-        "Vertex Force",
-        "バーテックスフォース"
-      ],
-      "artistCandidates": [
-        "1003",
-        "Nobuaki Nobusawa",
-        "信澤宣明",
-        "4q4tYjUtx81Sfmm17JkH5I",
-        "877551022",
-        "10572287",
-        "UCL2YV8cKYu7F3Qr2WkQ7sPQ"
-      ]
-    },
-    {
-      "id": "28221",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "ORIGINAL SOUNDTRACK",
-      "artist": "Kevin Penkin",
-      "artistDisplay": "Kevin Penkin",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
-      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "ORIGINAL SOUNDTRACK",
-        "MADE IN ABYSS ORIGINAL SOUNDTRACK (4)"
-      ],
-      "animeCandidates": [
-        "Made in Abyss: Mezameru Shinpi",
-        "Made in Abyss: Awakening Mystery",
-        "メイドインアビス 目覚める神秘"
-      ],
-      "artistCandidates": [
-        "725",
-        "Kevin Penkin",
-        "ケビン・ペンキン",
-        "4S33gEeiCjwfD1FJKfMT3Y",
-        "1113369160",
-        "10563699",
-        "UCmUdoXixFr4EffDIQkarfLg"
-      ]
-    },
-    {
-      "id": "28222",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "Chain of the Abyss",
-      "artist": "Kevin Penkin",
-      "artistDisplay": "Kevin Penkin & Mori Calliope",
-      "artistDisplayCount": 2,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7KPJaB1GIlaATN9U5yA606",
-      "apple": "https://geo.music.apple.com/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4cdb631214611d9ac6ca892eccb34d45259706b9@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Chain of the Abyss"
-      ],
-      "animeCandidates": [
-        "Made in Abyss: Mezameru Shinpi",
-        "Made in Abyss: Awakening Mystery",
-        "メイドインアビス 目覚める神秘"
-      ],
-      "artistCandidates": [
-        "725",
-        "Kevin Penkin",
-        "ケビン・ペンキン",
-        "4S33gEeiCjwfD1FJKfMT3Y",
-        "1113369160",
-        "10563699",
-        "12480",
-        "Mori Calliope",
-        "森 カリオペ",
-        "1PhE6rv0146ZTQosoPDjk8",
-        "119362592"
-      ]
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -4359,19 +4222,19 @@
       ]
     },
     {
-      "id": "28311",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Original Soundtrack",
-      "artist": "NARASAKI",
-      "artistDisplay": "NARASAKI",
+      "id": "28314",
+      "anime": "Vertex Force",
+      "song": "Original Soundtrack Vol. 2",
+      "artist": "Nobuaki Nobusawa",
+      "artistDisplay": "Nobuaki Nobusawa",
       "artistDisplayCount": 1,
       "kind": "OST",
       "kindLabel": "OST",
       "episodes": [],
-      "spotify": "https://open.spotify.com/album/2lhhBq4sm0uXhZ7fumSBpz",
-      "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-expelled-from-paradise-reson-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f22d1d306b0b0b46c997ffca164b85466d6448b5@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/expelled-from-paradise-resonance-original-soundtrack",
+      "spotify": "https://open.spotify.com/album/3ONh9xDaFFAgOLM2Vgkfh6",
+      "apple": "https://geo.music.apple.com/album/6828270847?at=1001l384j&ct=website-vertex-force-ost2&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/426841c044353c8ac90af4ffca408f3ffbd0b01b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/vertex-force-original-soundtrack-2",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4388,6 +4251,7 @@
         "platforms",
         "preview_url",
         "song_key",
+        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -4404,22 +4268,21 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Original Soundtrack",
-        "「楽園追放 心のレゾナンス」オリジナルサウンドトラック"
+        "Original Soundtrack Vol. 2",
+        "バーテックスフォース オリジナルサウンドトラック Vol. 2"
       ],
       "animeCandidates": [
-        "Expelled from Paradise: Resonance",
-        "Rakuen Tsuihou: Kokoro no Resonance",
-        "Liberated from Paradise: Resonance of the Heart",
-        "楽園追放 心のレゾナンス"
+        "Vertex Force",
+        "バーテックスフォース"
       ],
       "artistCandidates": [
-        "8166",
-        "NARASAKI",
-        "5tw2V8hAsGajfjOIckO1S0",
-        "292629398",
-        "5318569",
-        "UC-peGh6hOhrOrji2w61yRGA"
+        "1003",
+        "Nobuaki Nobusawa",
+        "信澤宣明",
+        "4q4tYjUtx81Sfmm17JkH5I",
+        "877551022",
+        "10572287",
+        "UCL2YV8cKYu7F3Qr2WkQ7sPQ"
       ]
     },
     {
@@ -4489,6 +4352,135 @@
         "UCssoAGLly9DaABecIZoht_g"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "28221",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "ORIGINAL SOUNDTRACK",
+      "artist": "Kevin Penkin",
+      "artistDisplay": "Kevin Penkin",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
+      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "ORIGINAL SOUNDTRACK",
+        "MADE IN ABYSS ORIGINAL SOUNDTRACK (4)"
+      ],
+      "animeCandidates": [
+        "Made in Abyss: Mezameru Shinpi",
+        "Made in Abyss: Awakening Mystery",
+        "メイドインアビス 目覚める神秘"
+      ],
+      "artistCandidates": [
+        "725",
+        "Kevin Penkin",
+        "ケビン・ペンキン",
+        "4S33gEeiCjwfD1FJKfMT3Y",
+        "1113369160",
+        "10563699",
+        "UCmUdoXixFr4EffDIQkarfLg"
+      ]
+    },
+    {
+      "id": "28222",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "Chain of the Abyss",
+      "artist": "Kevin Penkin",
+      "artistDisplay": "Kevin Penkin & Mori Calliope",
+      "artistDisplayCount": 2,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7KPJaB1GIlaATN9U5yA606",
+      "apple": "https://geo.music.apple.com/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4cdb631214611d9ac6ca892eccb34d45259706b9@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Chain of the Abyss"
+      ],
+      "animeCandidates": [
+        "Made in Abyss: Mezameru Shinpi",
+        "Made in Abyss: Awakening Mystery",
+        "メイドインアビス 目覚める神秘"
+      ],
+      "artistCandidates": [
+        "725",
+        "Kevin Penkin",
+        "ケビン・ペンキン",
+        "4S33gEeiCjwfD1FJKfMT3Y",
+        "1113369160",
+        "10563699",
+        "12480",
+        "Mori Calliope",
+        "森 カリオペ",
+        "1PhE6rv0146ZTQosoPDjk8",
+        "119362592"
+      ]
     },
     {
       "id": "27900",
@@ -4621,79 +4613,6 @@
         "24642",
         "TOHO animation",
         "UC14Yc2Qv92DMuyNRlHvpo2Q"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28171",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Deux Livres",
-      "artist": "Nia Liston (CV: Honoka Inoue)",
-      "artistDisplay": "Nia Liston (CV: Honoka Inoue) & Sharro White (CV: Maaya Uchida)",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [
-        "3"
-      ],
-      "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
-      "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/633a1a213dda0b55d6e3bda2518ac52e88700a52@2xl.webp",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-opening-ep-3",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "substitute",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Deux Livres"
-      ],
-      "animeCandidates": [
-        "Nia Liston: The Merciless Maiden",
-        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
-      ],
-      "artistCandidates": [
-        "25678",
-        "Nia Liston (CV: Honoka Inoue)",
-        "ニア・リストン (CV: 井上ほの花)",
-        "1YOSNboXUUV8fcZJw4Zjob",
-        "6816815405",
-        "420276352",
-        "25679",
-        "Sharro White (CV: Maaya Uchida)",
-        "シャロ・ホワイト (CV: 内田真礼)",
-        "0u5zYLqFPffIeW9CfueFiG",
-        "6818432377",
-        "420276362"
       ],
       "animethemesVideo": null
     },
@@ -4894,72 +4813,6 @@
         "UCnPf2oZPzg_pxf6RzjUoCgw"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28164",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "ORIGINAL SOUNDTRACK",
-      "artist": "Naoki Endou",
-      "artistDisplay": "Naoki Endou",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/19KZXuoGw9zB29vYmZwMiN",
-      "apple": "https://geo.music.apple.com/album/6818434842?at=1001l384j&ct=website-nia-liston-the-merciless-mai-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d441be9edb09846f87b53e2a7a38a83aba0a09e7@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/nia-liston-the-merciless-maiden-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "ORIGINAL SOUNDTRACK",
-        "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』オリジナル・サウンドトラック",
-        "\"Nia Liston: The Merciless Maiden\" ORIGINAL SOUNDTRACK"
-      ],
-      "animeCandidates": [
-        "Nia Liston: The Merciless Maiden",
-        "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-        "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
-      ],
-      "artistCandidates": [
-        "3709",
-        "Naoki Endou",
-        "遠藤ナオキ",
-        "Naoki Endo",
-        "1S7SMjan8hRLYOwqu920r0",
-        "1140016301",
-        "5209770",
-        "UCtK6yy8VIgt9e0WrAbYRwHg"
-      ]
     },
     {
       "id": "28084",
@@ -5406,9 +5259,147 @@
         "UCz_qp5woGr9GjmSzGbCCslA"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "27958",
+      "anime": "Romelia War Chronicle",
+      "song": "Akatsuki ni Naru",
+      "artist": "Chogakusei",
+      "artistDisplay": "Chogakusei",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6jKijZ4xxsQLVKhSMXsxoG",
+      "apple": "https://geo.music.apple.com/album/6810987431?i=6810987618&at=1001l384j&ct=website-romelia-war-chronicle-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/dd72e51232db05d7b9f7c30bdf0f98aa5f425406@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/romelia-war-chronicle-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Akatsuki ni Naru",
+        "暁に鳴る"
+      ],
+      "animeCandidates": [
+        "Romelia War Chronicle",
+        "Romelia Senki",
+        "ロメリア戦記",
+        "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki shita",
+        "Romelia Senki: Forming a Military Organization Because Humanity Still Looks Screwed After Defeating the Demon King",
+        "A History of the Romelia"
+      ],
+      "artistCandidates": [
+        "14069",
+        "Chogakusei",
+        "超学生",
+        "1o3K28VZiWLErDUMWD6xuo",
+        "1543171756",
+        "200498657",
+        "UCNqzk1hGE1UbZRTCMYsdrHg"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27761",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "IGNITE",
+      "artist": "JO1",
+      "artistDisplay": "JO1",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4AAiz8MarztbqTCTMfwXYr",
+      "apple": "https://geo.music.apple.com/album/6797375185?i=6797375186&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "IGNITE"
+      ],
+      "animeCandidates": [
+        "Tokyo Revengers: War of the Three Titan Arc",
+        "Tokyo Revengers: Santen Sensou-hen",
+        "東京リベンジャーズ 三天戦争編",
+        "Tokyo Revengers: War of the Three Titans Arc"
+      ],
+      "artistCandidates": [
+        "7989",
+        "JO1",
+        "2koP6FEfIEVk4l2Fe6jFhu",
+        "1500272115",
+        "10885914",
+        "UCWyo-2Efw9aSmemM3LluERg"
+      ],
+      "animethemesVideo": null
     }
   ],
   "platformSamples": [
+    {
+      "id": "28327",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Na mo Naki Shijin no you ni",
+      "kind": "TS",
+      "spotify": "https://open.spotify.com/track/4HDVkSfLcX9HZUO7wTP5YA",
+      "apple": "https://geo.music.apple.com/album/6831438538?i=6831438539&at=1001l384j&ct=website-armored-trooper-votoms-die-gr-ts&app=music"
+    },
     {
       "id": "28321",
       "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
@@ -5474,30 +5465,6 @@
       "apple": "https://geo.music.apple.com/album/6827479496?at=1001l384j&ct=website-tokyo-revengers-war-of-the-t-ost&app=music"
     },
     {
-      "id": "28314",
-      "anime": "Vertex Force",
-      "song": "Original Soundtrack Vol. 2",
-      "kind": "OST",
-      "spotify": "https://open.spotify.com/album/3ONh9xDaFFAgOLM2Vgkfh6",
-      "apple": "https://geo.music.apple.com/album/6828270847?at=1001l384j&ct=website-vertex-force-ost2&app=music"
-    },
-    {
-      "id": "28221",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "ORIGINAL SOUNDTRACK",
-      "kind": "OST",
-      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
-      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music"
-    },
-    {
-      "id": "28222",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "Chain of the Abyss",
-      "kind": "TS",
-      "spotify": "https://open.spotify.com/track/7KPJaB1GIlaATN9U5yA606",
-      "apple": "https://geo.music.apple.com/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -5522,12 +5489,12 @@
       "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music"
     },
     {
-      "id": "28311",
-      "anime": "Expelled from Paradise: Resonance",
-      "song": "Original Soundtrack",
+      "id": "28314",
+      "anime": "Vertex Force",
+      "song": "Original Soundtrack Vol. 2",
       "kind": "OST",
-      "spotify": "https://open.spotify.com/album/2lhhBq4sm0uXhZ7fumSBpz",
-      "apple": "https://geo.music.apple.com/album/6829693029?at=1001l384j&ct=website-expelled-from-paradise-reson-ost&app=music"
+      "spotify": "https://open.spotify.com/album/3ONh9xDaFFAgOLM2Vgkfh6",
+      "apple": "https://geo.music.apple.com/album/6828270847?at=1001l384j&ct=website-vertex-force-ost2&app=music"
     },
     {
       "id": "27821",
@@ -5536,6 +5503,22 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
       "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music"
+    },
+    {
+      "id": "28221",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "ORIGINAL SOUNDTRACK",
+      "kind": "OST",
+      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
+      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music"
+    },
+    {
+      "id": "28222",
+      "anime": "Made in Abyss: Mezameru Shinpi",
+      "song": "Chain of the Abyss",
+      "kind": "TS",
+      "spotify": "https://open.spotify.com/track/7KPJaB1GIlaATN9U5yA606",
+      "apple": "https://geo.music.apple.com/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music"
     },
     {
       "id": "27900",
@@ -5552,14 +5535,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U",
       "apple": "https://geo.music.apple.com/album/6811917350?i=6811917449&at=1001l384j&ct=website-the-apothecary-diaries-season-ed&app=music"
-    },
-    {
-      "id": "28171",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "Deux Livres",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/0LmHnqrVxdA4AmP7QkdzwZ",
-      "apple": "https://geo.music.apple.com/album/6818434842?i=6818435141&at=1001l384j&ct=website-nia-liston-the-merciless-op-ep-3&app=music"
     },
     {
       "id": "27953",
@@ -5584,14 +5559,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/7vdZztyuzNX1joqkbhWBxX",
       "apple": "https://geo.music.apple.com/album/6809991313?i=6809991318&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-ed&app=music"
-    },
-    {
-      "id": "28164",
-      "anime": "Nia Liston: The Merciless Maiden",
-      "song": "ORIGINAL SOUNDTRACK",
-      "kind": "OST",
-      "spotify": "https://open.spotify.com/album/19KZXuoGw9zB29vYmZwMiN",
-      "apple": "https://geo.music.apple.com/album/6818434842?at=1001l384j&ct=website-nia-liston-the-merciless-mai-ost&app=music"
     },
     {
       "id": "28084",
@@ -5648,6 +5615,22 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/2e5c6M6EEBXb7usGUC81g3",
       "apple": "https://geo.music.apple.com/album/6815636614?i=6815636619&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-op&app=music"
+    },
+    {
+      "id": "27958",
+      "anime": "Romelia War Chronicle",
+      "song": "Akatsuki ni Naru",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/6jKijZ4xxsQLVKhSMXsxoG",
+      "apple": "https://geo.music.apple.com/album/6810987431?i=6810987618&at=1001l384j&ct=website-romelia-war-chronicle-op&app=music"
+    },
+    {
+      "id": "27761",
+      "anime": "Tokyo Revengers: War of the Three Titan Arc",
+      "song": "IGNITE",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/4AAiz8MarztbqTCTMfwXYr",
+      "apple": "https://geo.music.apple.com/album/6797375185?i=6797375186&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-op&app=music"
     }
   ]
 }
