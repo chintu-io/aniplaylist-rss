@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 35,
+  "resultCount": 39,
   "animeThemesChecked": 3,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 5,
   "jsonResponses": 8,
   "algoliaResponses": 3,
   "hitArrays": 6,
-  "rawHits": 35,
-  "uniqueHits": 35,
-  "normalized": 35,
+  "rawHits": 39,
+  "uniqueHits": 39,
+  "normalized": 39,
   "withSpotify": 6,
   "withApple": 6,
   "withDetailUrl": 6,
   "resolvedSpotify": 6,
-  "recordThumbnails": 35,
+  "recordThumbnails": 39,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -210,18 +210,18 @@
       ]
     },
     {
-      "id": "us_3409",
-      "anime": "Shin Samurai-den Yaiba: Kaguya-hen",
-      "song": "CHASE!",
-      "artist": "CHiCO with HoneyWorks",
-      "artistDisplay": "CHiCO with HoneyWorks",
+      "id": "us_3414",
+      "anime": "Pen to Wappa to Jijitsukon",
+      "song": "Mikaiketsu de, Romance de.",
+      "artist": "Inori Minase",
+      "artistDisplay": "Inori Minase",
       "artistDisplayCount": 1,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7d02c8cb292e7e1eb9c5b5399f2216993bef71cc@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -250,36 +250,42 @@
         "objectID"
       ],
       "titleCandidates": [
-        "CHASE!"
+        "Mikaiketsu de, Romance de.",
+        "未解決で、ロマンスで。"
       ],
       "animeCandidates": [
-        "Shin Samurai-den Yaiba: Kaguya-hen",
-        "真・侍伝 YAIBA かぐや編",
-        "Yaiba: Samurai Legend Season 2",
-        "Shin Samurai-den Yaiba 2nd Season"
+        "Pen to Wappa to Jijitsukon",
+        "ペンと手錠と事実婚",
+        "A Pen, Handcuffs, and a Common-Law Marriage",
+        "Pen to Tejou to Jijitsukon"
       ],
       "artistCandidates": [
-        "307",
-        "CHiCO with HoneyWorks",
-        "7qpGWSiolU9E5WbkvTaMDd",
-        "894513894",
-        "9314268",
-        "UCLt9CNSNa5IXGHL234HGPTw"
+        "389",
+        "Inori Minase",
+        "水瀬いのり",
+        "11kv0foW5tEHGNpIh1oeIE",
+        "6Aal2uLlwnLAQwSI7apV11",
+        "1057869661",
+        "7EMFN79sSEswyNXRZPgsEN",
+        "9472784",
+        "175807327",
+        "UCEOHeW4BRFemY6iW_0ioQow",
+        "UCwadJA3HkGkMTAt1XvuNwmg"
       ]
     },
     {
-      "id": "us_3408",
-      "anime": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
-      "song": "Nokoribi",
-      "artist": "ZAQ",
-      "artistDisplay": "ZAQ",
+      "id": "us_3415",
+      "anime": "Pen to Wappa to Jijitsukon",
+      "song": "Message",
+      "artist": "saeco",
+      "artistDisplay": "saeco",
       "artistDisplayCount": 1,
       "kind": "ED",
       "kindLabel": "Ending",
       "episodes": [],
       "spotify": "",
       "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/a407e77b0063d7b4034042b7f57314bfb22a7c05@2xl.jpg",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80@2xl.jpg",
       "detailUrl": "",
       "season": "Winter 2027",
       "rawKeys": [
@@ -308,26 +314,18 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Nokoribi",
-        "残火"
+        "Message",
+        "メッセージ"
       ],
       "animeCandidates": [
-        "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
-        "Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku",
-        "Another World Munchkin: Conquering the Dungeon as the Strongest and the Fastest with Only 1 HP",
-        "異世界マンチキン ーHP1のままで最強最速ダンジョン攻略ー",
-        "Otherworldly Munchkin"
+        "Pen to Wappa to Jijitsukon",
+        "ペンと手錠と事実婚",
+        "A Pen, Handcuffs, and a Common-Law Marriage",
+        "Pen to Tejou to Jijitsukon"
       ],
       "artistCandidates": [
-        "268",
-        "ZAQ",
-        "7ntwmwm4YjHpMO1wwfoQ3T",
-        "56TyClNQ0oVZLhK2V9KhA6",
-        "937664434",
-        "94276579",
-        "3584751",
-        "190491857",
-        "UCu-J4luK77NNEJo9wobez_g"
+        "25830",
+        "saeco"
       ]
     }
   ],
@@ -362,6 +360,26 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/e8ba264b46f109b9e961aa94f407e4857de39955@2xl.jpg"
+    },
+    {
+      "id": "us_3414",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LoM4|AbH#Zt7}uXRNdbaIpofofR%",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80@2xl.jpg"
+    },
+    {
+      "id": "us_3415",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LoM4|AbH#Zt7}uXRNdbaIpofofR%",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80@2xl.jpg"
     },
     {
       "id": "us_3409",
@@ -414,54 +432,34 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/711ccd10b142d09552c40be0cfd55f3bc8c5bc40@2xl.jpg"
     },
     {
-      "id": "28302",
+      "id": "us_3412",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8.jpg",
+      "thumbnail": "thumbnails/cc6945be56b4a4773aa766ff95cc127cd20efb50.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LBP?O88wUxE1_M4Tmlv#00Mc8^M{",
+      "thumbnail_hash": "L7MIWo008^000000rC4rtlS7xf?K",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/cc6945be56b4a4773aa766ff95cc127cd20efb50@2xl.jpg"
     },
     {
-      "id": "27297",
+      "id": "us_3413",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088.jpg",
+      "thumbnail": "thumbnails/cc6945be56b4a4773aa766ff95cc127cd20efb50.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LNI63wb;lu$~-#IUI[xp%InoIWrw",
+      "thumbnail_hash": "L7MIWo008^000000rC4rtlS7xf?K",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088@2xl.jpg"
-    },
-    {
-      "id": "27894",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/b0f07443b406e866c8135ad5a60694a7fedd62cf.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L6P%O%~qIT%M_3afRjRje.ofayWB",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/b0f07443b406e866c8135ad5a60694a7fedd62cf@2xl.jpeg"
-    },
-    {
-      "id": "28075",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/9002c8857d927eda5b925958cfd75d5176e38685.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LCH{.?oy01-o00Rk~BIVD*kC~VxZ",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/9002c8857d927eda5b925958cfd75d5176e38685@2xl.jpeg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/cc6945be56b4a4773aa766ff95cc127cd20efb50@2xl.jpg"
     }
   ],
-  "expectedHits": 35,
+  "expectedHits": 39,
   "expectedPages": 3,
   "receivedPages": 3,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 35,
+      "nbHits": 39,
       "hitsPerPage": 16,
       "nbPages": 3,
       "count": 16
@@ -469,7 +467,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28602,
+      "nbHits": 28607,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -477,7 +475,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 35,
+      "nbHits": 39,
       "hitsPerPage": 16,
       "nbPages": 3,
       "count": 16
@@ -485,7 +483,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28602,
+      "nbHits": 28607,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -493,15 +491,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 35,
+      "nbHits": 39,
       "hitsPerPage": 16,
       "nbPages": 3,
-      "count": 3
+      "count": 7
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28602,
+      "nbHits": 28607,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -694,6 +692,125 @@
         "25827",
         "Satoko Shibata",
         "柴田聡子"
+      ]
+    },
+    {
+      "id": "us_3414",
+      "anime": "Pen to Wappa to Jijitsukon",
+      "song": "Mikaiketsu de, Romance de.",
+      "artist": "Inori Minase",
+      "artistDisplay": "Inori Minase",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Mikaiketsu de, Romance de.",
+        "未解決で、ロマンスで。"
+      ],
+      "animeCandidates": [
+        "Pen to Wappa to Jijitsukon",
+        "ペンと手錠と事実婚",
+        "A Pen, Handcuffs, and a Common-Law Marriage",
+        "Pen to Tejou to Jijitsukon"
+      ],
+      "artistCandidates": [
+        "389",
+        "Inori Minase",
+        "水瀬いのり",
+        "11kv0foW5tEHGNpIh1oeIE",
+        "6Aal2uLlwnLAQwSI7apV11",
+        "1057869661",
+        "7EMFN79sSEswyNXRZPgsEN",
+        "9472784",
+        "175807327",
+        "UCEOHeW4BRFemY6iW_0ioQow",
+        "UCwadJA3HkGkMTAt1XvuNwmg"
+      ]
+    },
+    {
+      "id": "us_3415",
+      "anime": "Pen to Wappa to Jijitsukon",
+      "song": "Message",
+      "artist": "saeco",
+      "artistDisplay": "saeco",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Message",
+        "メッセージ"
+      ],
+      "animeCandidates": [
+        "Pen to Wappa to Jijitsukon",
+        "ペンと手錠と事実婚",
+        "A Pen, Handcuffs, and a Common-Law Marriage",
+        "Pen to Tejou to Jijitsukon"
+      ],
+      "artistCandidates": [
+        "25830",
+        "saeco"
       ]
     },
     {
@@ -998,6 +1115,120 @@
         "678140651",
         "13046819",
         "UC7z9phtXAFRixEvdlRhv-hg"
+      ]
+    },
+    {
+      "id": "us_3412",
+      "anime": "Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru",
+      "song": "Breath",
+      "artist": "ao",
+      "artistDisplay": "ao",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/cc6945be56b4a4773aa766ff95cc127cd20efb50@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Breath",
+        "ブレス"
+      ],
+      "animeCandidates": [
+        "Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru",
+        "魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる",
+        "Tensei Elf ni Yoru 900-nen no Yuukyuu Musouki",
+        "Reincarnated Elf"
+      ],
+      "artistCandidates": [
+        "14919",
+        "ao",
+        "5NUhVvh0ERaLUcVqbUfDhK",
+        "659752776",
+        "104208",
+        "UCcf7bBkTI0gj7ceagcK457Q"
+      ]
+    },
+    {
+      "id": "us_3413",
+      "anime": "Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru",
+      "song": "Jaa Mata, Raise demo",
+      "artist": "moon drop",
+      "artistDisplay": "moon drop",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/cc6945be56b4a4773aa766ff95cc127cd20efb50@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Jaa Mata, Raise demo",
+        "じゃあまた、来世でも"
+      ],
+      "animeCandidates": [
+        "Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru",
+        "魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる",
+        "Tensei Elf ni Yoru 900-nen no Yuukyuu Musouki",
+        "Reincarnated Elf"
+      ],
+      "artistCandidates": [
+        "25829",
+        "moon drop"
       ]
     },
     {
@@ -2067,238 +2298,6 @@
         "105461375",
         "2895",
         "UCisM9mNxVXtgrgn3zSjvmag"
-      ]
-    },
-    {
-      "id": "us_3302",
-      "anime": "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
-      "song": "Tsukikage",
-      "artist": "itsuka▶︎",
-      "artistDisplay": "itsuka▶︎",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/aa1e0422a167307d4b83183fe368bede3799838f@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Tsukikage",
-        "ツキカゲ"
-      ],
-      "animeCandidates": [
-        "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
-        "In a World Filled with Zombies",
-        "I'm the Only One They Won't Attack",
-        "ゾンビのあふれた世界で俺だけが襲われない",
-        "In a World Filled with Zombies, I'm the Only One They Won't Attack"
-      ],
-      "artistCandidates": [
-        "19324",
-        "itsuka▶︎",
-        "イツカ▶︎",
-        "itsuka-saisei",
-        "イツカ▶",
-        "ITSUKA▶",
-        "ITSUKA SAISEI",
-        "イツカサイセイ",
-        "0oqB1GXFWPOTNhQHGsUIO4",
-        "1720894866",
-        "275587421",
-        "UCcDXo4bbb9SR-n5-G9oEWPQ"
-      ]
-    },
-    {
-      "id": "us_3301",
-      "anime": "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
-      "song": "No Reaction",
-      "artist": "RetBear",
-      "artistDisplay": "RetBear",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/aa1e0422a167307d4b83183fe368bede3799838f@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "No Reaction",
-        "ノーリアクション"
-      ],
-      "animeCandidates": [
-        "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
-        "In a World Filled with Zombies",
-        "I'm the Only One They Won't Attack",
-        "ゾンビのあふれた世界で俺だけが襲われない",
-        "In a World Filled with Zombies, I'm the Only One They Won't Attack"
-      ],
-      "artistCandidates": [
-        "12578",
-        "RetBear",
-        "レトベア",
-        "3vmNuDgOAHVSVhI3aWmcR8",
-        "1628797487",
-        "3rtNjlT8krol2X6iAuelYA"
-      ]
-    },
-    {
-      "id": "us_3297",
-      "anime": "Kidou Senshi Gundam SEED Freedom Zero",
-      "song": "Original Soundtrack",
-      "artist": "",
-      "artistDisplay": "",
-      "artistDisplayCount": 0,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/b563f7d81b57eddceec15435c23f346cb272d30e@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Original Soundtrack"
-      ],
-      "animeCandidates": [
-        "Kidou Senshi Gundam SEED Freedom Zero",
-        "機動戦士ガンダムSEED FREEDOM ZERO",
-        "Mobile Suit Gundam SEED Freedom Zero"
-      ],
-      "artistCandidates": []
-    },
-    {
-      "id": "us_3294",
-      "anime": "Magical Buffs: The Support Caster Is Stronger Than He Realized!",
-      "song": "Ecstatic Buffer",
-      "artist": "LiSA",
-      "artistDisplay": "LiSA",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/28d5f3f00ab8d9fe557195fee08a11d31fc5ae9a@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Ecstatic Buffer"
-      ],
-      "animeCandidates": [
-        "Magical Buffs: The Support Caster Is Stronger Than He Realized!",
-        "Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made",
-        "Until the Chore Granting Sorcerer Realized His Strongest",
-        "雑用付与術師が自分の最強に気付くまで"
-      ],
-      "artistCandidates": [
-        "167",
-        "LiSA",
-        "0blbVefuxOGltDBa00dspv",
-        "573943518",
-        "11446160",
-        "UCt4rbOMLsVxeMsoaRdTfr5A"
       ]
     }
   ],

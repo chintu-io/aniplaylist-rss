@@ -22014,5 +22014,69 @@
       "UClqGyJux0gipUeFnBh-onCQ"
     ],
     "firstSeen": "2026-11-19T18:38:29.000Z"
+  },
+  "e9f267d137aa333f": {
+    "id": "28328",
+    "anime": "Armored Trooper Votoms: Die Graue Hexe",
+    "song": "Original Soundtrack",
+    "artist": "Kenji Kawai",
+    "artistDisplay": "Kenji Kawai",
+    "artistDisplayCount": 1,
+    "kind": "OST",
+    "kindLabel": "OST",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/album/6gE09HHi1JQbUOUXqesXhz",
+    "apple": "https://music.apple.com/nz/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f@2xl.jpeg",
+    "detailUrl": "",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "tags",
+      "web",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Original Soundtrack",
+      "『装甲騎兵ボトムズ 灰色の魔女』オリジナルサウンドトラック",
+      "\"ARMORED TROOPER VOTOMS Die Graue Hexe\" Original Motion Picture Soundtrack"
+    ],
+    "animeCandidates": [
+      "Armored Trooper Votoms: Die Graue Hexe",
+      "Soukou Kihei Votoms: Haiiro no Hexe",
+      "Soukou Kihei Votoms: Haiiro no Majo",
+      "装甲騎兵ボトムズ 灰色の魔女"
+    ],
+    "artistCandidates": [
+      "989",
+      "Kenji Kawai",
+      "川井憲次",
+      "4ObvA097FfnbrTm3Uepano",
+      "76058734"
+    ],
+    "firstSeen": "2026-11-20T17:59:29.000Z"
   }
 }
