@@ -15,13 +15,79 @@
   "normalized": 251,
   "withSpotify": 217,
   "withApple": 219,
-  "withDetailUrl": 219,
+  "withDetailUrl": 220,
   "resolvedSpotify": 217,
   "recordThumbnails": 251,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28328",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Original Soundtrack",
+      "artist": "Kenji Kawai",
+      "artistDisplay": "Kenji Kawai",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/6gE09HHi1JQbUOUXqesXhz",
+      "apple": "https://geo.music.apple.com/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack",
+        "『装甲騎兵ボトムズ 灰色の魔女』オリジナルサウンドトラック",
+        "\"ARMORED TROOPER VOTOMS Die Graue Hexe\" Original Motion Picture Soundtrack"
+      ],
+      "animeCandidates": [
+        "Armored Trooper Votoms: Die Graue Hexe",
+        "Soukou Kihei Votoms: Haiiro no Hexe",
+        "Soukou Kihei Votoms: Haiiro no Majo",
+        "装甲騎兵ボトムズ 灰色の魔女"
+      ],
+      "artistCandidates": [
+        "989",
+        "Kenji Kawai",
+        "川井憲次",
+        "4ObvA097FfnbrTm3Uepano",
+        "76058734",
+        "288704",
+        "UCaI5ly_PCCPU9TswcUgcpuA"
+      ]
+    },
     {
       "id": "28327",
       "anime": "Armored Trooper Votoms: Die Graue Hexe",
@@ -275,75 +341,20 @@
         "13887037",
         "UCMRcsWDXgBZxkGV0E5ZGA2Q"
       ]
-    },
-    {
-      "id": "28317",
-      "anime": "Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!",
-      "song": "Risk Rate",
-      "artist": "BUDDiiS",
-      "artistDisplay": "BUDDiiS",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6TCVwnHS2Zqghb1Om6s9vi",
-      "apple": "https://geo.music.apple.com/album/6820380163?i=6820380352&at=1001l384j&ct=website-magic-repo-man-dumped-by-my-p-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1156a8c81454055c8be120e8f3d6bfe942e90373@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Risk Rate",
-        "リスクレート"
-      ],
-      "animeCandidates": [
-        "Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!",
-        "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
-        "Lent Magic Point Is Forcibly Collected by Revolving Payment",
-        "Unlimited Vault: The Magic They Borrowed Will Be Their Downfall",
-        "貸した魔力は【リボ払い】で強制徴収"
-      ],
-      "artistCandidates": [
-        "23628",
-        "BUDDiiS",
-        "68hd7ONzgN98uAZDWMlmAQ",
-        "1564679733",
-        "131142342",
-        "UCrkcNhwGAvFoFrmwgq3MWlA"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28328",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L35}$~00%3Ri4.-qM_%L~p4ot8WA",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f@2xl.jpeg"
+    },
     {
       "id": "28327",
       "thumbnailType": "string",
@@ -423,16 +434,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg"
-    },
-    {
-      "id": "28312",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/87d1da6c3e33f75ee83b673a5681f65ffebf0662.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L4S6Y-004T$*3KYP?wxv0000MdjF",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/87d1da6c3e33f75ee83b673a5681f65ffebf0662@2xl.jpeg"
     },
     {
       "id": "28085",
@@ -727,6 +728,72 @@
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28328",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Original Soundtrack",
+      "artist": "Kenji Kawai",
+      "artistDisplay": "Kenji Kawai",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/6gE09HHi1JQbUOUXqesXhz",
+      "apple": "https://geo.music.apple.com/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack",
+        "『装甲騎兵ボトムズ 灰色の魔女』オリジナルサウンドトラック",
+        "\"ARMORED TROOPER VOTOMS Die Graue Hexe\" Original Motion Picture Soundtrack"
+      ],
+      "animeCandidates": [
+        "Armored Trooper Votoms: Die Graue Hexe",
+        "Soukou Kihei Votoms: Haiiro no Hexe",
+        "Soukou Kihei Votoms: Haiiro no Majo",
+        "装甲騎兵ボトムズ 灰色の魔女"
+      ],
+      "artistCandidates": [
+        "989",
+        "Kenji Kawai",
+        "川井憲次",
+        "4ObvA097FfnbrTm3Uepano",
+        "76058734",
+        "288704",
+        "UCaI5ly_PCCPU9TswcUgcpuA"
+      ]
+    },
     {
       "id": "28327",
       "anime": "Armored Trooper Votoms: Die Graue Hexe",
@@ -1240,72 +1307,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28312",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "Original Soundtrack",
-      "artist": "Hiroaki Tsutsumi",
-      "artistDisplay": "Hiroaki Tsutsumi",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/4Hi5b3quDrK9wjT6SKOSUZ",
-      "apple": "https://geo.music.apple.com/album/6827479496?at=1001l384j&ct=website-tokyo-revengers-war-of-the-t-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/87d1da6c3e33f75ee83b673a5681f65ffebf0662@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Original Soundtrack",
-        "TVアニメ『東京リベンジャーズ』三天戦争編 オリジナル・サウンドトラック"
-      ],
-      "animeCandidates": [
-        "Tokyo Revengers: War of the Three Titan Arc",
-        "Tokyo Revengers: Santen Sensou-hen",
-        "東京リベンジャーズ 三天戦争編",
-        "Tokyo Revengers: War of the Three Titans Arc"
-      ],
-      "artistCandidates": [
-        "1024",
-        "Hiroaki Tsutsumi",
-        "堤博明",
-        "堤 博明",
-        "4uXJgaCc1GtHWtFq8CmPmQ",
-        "977896275",
-        "118070312",
-        "UCryC22FtgLGUvq5kk2ckvlA"
-      ]
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -1512,70 +1513,6 @@
       ]
     },
     {
-      "id": "28314",
-      "anime": "Vertex Force",
-      "song": "Original Soundtrack Vol. 2",
-      "artist": "Nobuaki Nobusawa",
-      "artistDisplay": "Nobuaki Nobusawa",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/3ONh9xDaFFAgOLM2Vgkfh6",
-      "apple": "https://geo.music.apple.com/album/6828270847?at=1001l384j&ct=website-vertex-force-ost2&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/426841c044353c8ac90af4ffca408f3ffbd0b01b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/vertex-force-original-soundtrack-2",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Original Soundtrack Vol. 2",
-        "バーテックスフォース オリジナルサウンドトラック Vol. 2"
-      ],
-      "animeCandidates": [
-        "Vertex Force",
-        "バーテックスフォース"
-      ],
-      "artistCandidates": [
-        "1003",
-        "Nobuaki Nobusawa",
-        "信澤宣明",
-        "4q4tYjUtx81Sfmm17JkH5I",
-        "877551022",
-        "10572287",
-        "UCL2YV8cKYu7F3Qr2WkQ7sPQ"
-      ]
-    },
-    {
       "id": "27821",
       "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
       "song": "SPIN",
@@ -1642,135 +1579,6 @@
         "UCssoAGLly9DaABecIZoht_g"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28221",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "ORIGINAL SOUNDTRACK",
-      "artist": "Kevin Penkin",
-      "artistDisplay": "Kevin Penkin",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
-      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "ORIGINAL SOUNDTRACK",
-        "MADE IN ABYSS ORIGINAL SOUNDTRACK (4)"
-      ],
-      "animeCandidates": [
-        "Made in Abyss: Mezameru Shinpi",
-        "Made in Abyss: Awakening Mystery",
-        "メイドインアビス 目覚める神秘"
-      ],
-      "artistCandidates": [
-        "725",
-        "Kevin Penkin",
-        "ケビン・ペンキン",
-        "4S33gEeiCjwfD1FJKfMT3Y",
-        "1113369160",
-        "10563699",
-        "UCmUdoXixFr4EffDIQkarfLg"
-      ]
-    },
-    {
-      "id": "28222",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "Chain of the Abyss",
-      "artist": "Kevin Penkin",
-      "artistDisplay": "Kevin Penkin & Mori Calliope",
-      "artistDisplayCount": 2,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7KPJaB1GIlaATN9U5yA606",
-      "apple": "https://geo.music.apple.com/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4cdb631214611d9ac6ca892eccb34d45259706b9@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Chain of the Abyss"
-      ],
-      "animeCandidates": [
-        "Made in Abyss: Mezameru Shinpi",
-        "Made in Abyss: Awakening Mystery",
-        "メイドインアビス 目覚める神秘"
-      ],
-      "artistCandidates": [
-        "725",
-        "Kevin Penkin",
-        "ケビン・ペンキン",
-        "4S33gEeiCjwfD1FJKfMT3Y",
-        "1113369160",
-        "10563699",
-        "12480",
-        "Mori Calliope",
-        "森 カリオペ",
-        "1PhE6rv0146ZTQosoPDjk8",
-        "119362592"
-      ]
     },
     {
       "id": "27900",
@@ -2618,19 +2426,91 @@
       "animethemesVideo": null
     },
     {
-      "id": "27761",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "IGNITE",
-      "artist": "JO1",
-      "artistDisplay": "JO1",
-      "artistDisplayCount": 1,
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
+      "artist": "Ayumi Miyazaki",
+      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
+      "artistDisplayCount": 2,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/4AAiz8MarztbqTCTMfwXYr",
-      "apple": "https://geo.music.apple.com/album/6797375185?i=6797375186&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-opening",
+      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SHAKARIKI!!"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "12570",
+        "Ayumi Miyazaki",
+        "宮崎歩",
+        "宮﨑歩",
+        "4Hjely5D21wDWfluTrZRhT",
+        "218732056",
+        "74835282",
+        "UCk0cOzmc7azCdYwVlp9hMKw",
+        "3297",
+        "Takayoshi Tanimoto",
+        "谷本貴義",
+        "5nCVXtvsB2KsngsMbk8Hat",
+        "74954644",
+        "208716347",
+        "UCIdyBeiGorESL-FlrE_88Lw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28157",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Role-Playing Life",
+      "artist": "Luov",
+      "artistDisplay": "Luov",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
+      "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6b6893ebedf1618ee8ae63d8bc0a851e77084ed9@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -2662,21 +2542,155 @@
         "objectID"
       ],
       "titleCandidates": [
-        "IGNITE"
+        "Role-Playing Life",
+        "ロールプレイングライフ"
       ],
       "animeCandidates": [
-        "Tokyo Revengers: War of the Three Titan Arc",
-        "Tokyo Revengers: Santen Sensou-hen",
-        "東京リベンジャーズ 三天戦争編",
-        "Tokyo Revengers: War of the Three Titans Arc"
+        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+        "Chii Fuyo",
+        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
+        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
       ],
       "artistCandidates": [
-        "7989",
-        "JO1",
-        "2koP6FEfIEVk4l2Fe6jFhu",
-        "1500272115",
-        "10885914",
-        "UCWyo-2Efw9aSmemM3LluERg"
+        "25585",
+        "Luov",
+        "65qX1IKOU3lXJsZ327lCww",
+        "1800415034",
+        "306876311",
+        "UCYuWBWwRueIsp5zQqnU7YZQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28045",
+      "anime": "Firefly Wedding",
+      "song": "Period",
+      "artist": "iri",
+      "artistDisplay": "iri",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
+      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e81c08137c426d629cfb6f95cf4ddffef13a1eea@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Period"
+      ],
+      "animeCandidates": [
+        "Firefly Wedding",
+        "Hotaru no Yomeiri",
+        "ホタルの嫁入り",
+        "Les Noces des Lucioles"
+      ],
+      "artistCandidates": [
+        "24229",
+        "iri",
+        "1mN9lPKzTRTOop4u7S1Uy9",
+        "388343274",
+        "1043542",
+        "UCtlXP5iI7TgKj_BI636L8Qw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27959",
+      "anime": "Romelia War Chronicle",
+      "song": "Nightfall",
+      "artist": "KOHTA YAMAMOTO",
+      "artistDisplay": "KOHTA YAMAMOTO & Maika Loubté",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5ob1kLnwVBeRjc23V0Oins",
+      "apple": "https://geo.music.apple.com/album/6815536906?i=6815537162&at=1001l384j&ct=website-romelia-war-chronicle-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/efc39123cf4bd629ff64aab49d05b1587b5067a1@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/romelia-war-chronicle-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Nightfall"
+      ],
+      "animeCandidates": [
+        "Romelia War Chronicle",
+        "Romelia Senki",
+        "ロメリア戦記",
+        "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki shita",
+        "Romelia Senki: Forming a Military Organization Because Humanity Still Looks Screwed After Defeating the Demon King",
+        "A History of the Romelia"
+      ],
+      "artistCandidates": [
+        "1969",
+        "KOHTA YAMAMOTO",
+        "2hE2ofc7IKD1iQ39HYU5N4",
+        "1208888794",
+        "57231332",
+        "UChsIakKCl4x73kV9lcS6H7g",
+        "24214",
+        "Maika Loubté",
+        "0wMkBz97F3SE4yNz0y2OOz",
+        "9847056"
       ],
       "animethemesVideo": null
     }
@@ -2891,9 +2905,6 @@
       "song_type": "Insert",
       "song_type_short": "IN",
       "label": "Sony Music Labels Inc.",
-      "tags": [
-        "3_upcoming"
-      ],
       "episodeFields": {
         "type": "track",
         "episodes": [
@@ -2901,10 +2912,7 @@
         ],
         "song_type": "Insert",
         "song_type_short": "IN",
-        "label": "Sony Music Labels Inc.",
-        "tags": [
-          "3_upcoming"
-        ]
+        "label": "Sony Music Labels Inc."
       }
     },
     {
@@ -3226,6 +3234,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28328",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Original Soundtrack",
+      "kind": "OST",
+      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-original-soundtrack"
+    },
+    {
       "id": "28327",
       "anime": "Armored Trooper Votoms: Die Graue Hexe",
       "song": "Na mo Naki Shijin no you ni",
@@ -3282,13 +3297,6 @@
       "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening"
     },
     {
-      "id": "28312",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "Original Soundtrack",
-      "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-original-soundtrack"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -3310,32 +3318,11 @@
       "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-in-love-with-myself"
     },
     {
-      "id": "28314",
-      "anime": "Vertex Force",
-      "song": "Original Soundtrack Vol. 2",
-      "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/vertex-force-original-soundtrack-2"
-    },
-    {
       "id": "27821",
       "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
       "song": "SPIN",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening"
-    },
-    {
-      "id": "28221",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "ORIGINAL SOUNDTRACK",
-      "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack"
-    },
-    {
-      "id": "28222",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "Chain of the Abyss",
-      "kind": "TS",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-theme-song"
     },
     {
       "id": "27900",
@@ -3429,14 +3416,101 @@
       "detailUrl": "https://aniplaylist.com/play/romelia-war-chronicle-opening"
     },
     {
-      "id": "27761",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "IGNITE",
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
       "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-opening"
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size"
+    },
+    {
+      "id": "28157",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Role-Playing Life",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending"
+    },
+    {
+      "id": "28045",
+      "anime": "Firefly Wedding",
+      "song": "Period",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening"
+    },
+    {
+      "id": "27959",
+      "anime": "Romelia War Chronicle",
+      "song": "Nightfall",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/romelia-war-chronicle-ending"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28328",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Original Soundtrack",
+      "artist": "Kenji Kawai",
+      "artistDisplay": "Kenji Kawai",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/6gE09HHi1JQbUOUXqesXhz",
+      "apple": "https://geo.music.apple.com/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack",
+        "『装甲騎兵ボトムズ 灰色の魔女』オリジナルサウンドトラック",
+        "\"ARMORED TROOPER VOTOMS Die Graue Hexe\" Original Motion Picture Soundtrack"
+      ],
+      "animeCandidates": [
+        "Armored Trooper Votoms: Die Graue Hexe",
+        "Soukou Kihei Votoms: Haiiro no Hexe",
+        "Soukou Kihei Votoms: Haiiro no Majo",
+        "装甲騎兵ボトムズ 灰色の魔女"
+      ],
+      "artistCandidates": [
+        "989",
+        "Kenji Kawai",
+        "川井憲次",
+        "4ObvA097FfnbrTm3Uepano",
+        "76058734",
+        "288704",
+        "UCaI5ly_PCCPU9TswcUgcpuA"
+      ]
+    },
     {
       "id": "28327",
       "anime": "Armored Trooper Votoms: Die Graue Hexe",
@@ -3950,72 +4024,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28312",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "Original Soundtrack",
-      "artist": "Hiroaki Tsutsumi",
-      "artistDisplay": "Hiroaki Tsutsumi",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/4Hi5b3quDrK9wjT6SKOSUZ",
-      "apple": "https://geo.music.apple.com/album/6827479496?at=1001l384j&ct=website-tokyo-revengers-war-of-the-t-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/87d1da6c3e33f75ee83b673a5681f65ffebf0662@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Original Soundtrack",
-        "TVアニメ『東京リベンジャーズ』三天戦争編 オリジナル・サウンドトラック"
-      ],
-      "animeCandidates": [
-        "Tokyo Revengers: War of the Three Titan Arc",
-        "Tokyo Revengers: Santen Sensou-hen",
-        "東京リベンジャーズ 三天戦争編",
-        "Tokyo Revengers: War of the Three Titans Arc"
-      ],
-      "artistCandidates": [
-        "1024",
-        "Hiroaki Tsutsumi",
-        "堤博明",
-        "堤 博明",
-        "4uXJgaCc1GtHWtFq8CmPmQ",
-        "977896275",
-        "118070312",
-        "UCryC22FtgLGUvq5kk2ckvlA"
-      ]
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -4222,70 +4230,6 @@
       ]
     },
     {
-      "id": "28314",
-      "anime": "Vertex Force",
-      "song": "Original Soundtrack Vol. 2",
-      "artist": "Nobuaki Nobusawa",
-      "artistDisplay": "Nobuaki Nobusawa",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/3ONh9xDaFFAgOLM2Vgkfh6",
-      "apple": "https://geo.music.apple.com/album/6828270847?at=1001l384j&ct=website-vertex-force-ost2&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/426841c044353c8ac90af4ffca408f3ffbd0b01b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/vertex-force-original-soundtrack-2",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Original Soundtrack Vol. 2",
-        "バーテックスフォース オリジナルサウンドトラック Vol. 2"
-      ],
-      "animeCandidates": [
-        "Vertex Force",
-        "バーテックスフォース"
-      ],
-      "artistCandidates": [
-        "1003",
-        "Nobuaki Nobusawa",
-        "信澤宣明",
-        "4q4tYjUtx81Sfmm17JkH5I",
-        "877551022",
-        "10572287",
-        "UCL2YV8cKYu7F3Qr2WkQ7sPQ"
-      ]
-    },
-    {
       "id": "27821",
       "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
       "song": "SPIN",
@@ -4352,135 +4296,6 @@
         "UCssoAGLly9DaABecIZoht_g"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28221",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "ORIGINAL SOUNDTRACK",
-      "artist": "Kevin Penkin",
-      "artistDisplay": "Kevin Penkin",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
-      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/0addbc878806bf9f210c8d621514ea648eaa1282@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "ORIGINAL SOUNDTRACK",
-        "MADE IN ABYSS ORIGINAL SOUNDTRACK (4)"
-      ],
-      "animeCandidates": [
-        "Made in Abyss: Mezameru Shinpi",
-        "Made in Abyss: Awakening Mystery",
-        "メイドインアビス 目覚める神秘"
-      ],
-      "artistCandidates": [
-        "725",
-        "Kevin Penkin",
-        "ケビン・ペンキン",
-        "4S33gEeiCjwfD1FJKfMT3Y",
-        "1113369160",
-        "10563699",
-        "UCmUdoXixFr4EffDIQkarfLg"
-      ]
-    },
-    {
-      "id": "28222",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "Chain of the Abyss",
-      "artist": "Kevin Penkin",
-      "artistDisplay": "Kevin Penkin & Mori Calliope",
-      "artistDisplayCount": 2,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7KPJaB1GIlaATN9U5yA606",
-      "apple": "https://geo.music.apple.com/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4cdb631214611d9ac6ca892eccb34d45259706b9@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/made-in-abyss-mezameru-shinpi-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Chain of the Abyss"
-      ],
-      "animeCandidates": [
-        "Made in Abyss: Mezameru Shinpi",
-        "Made in Abyss: Awakening Mystery",
-        "メイドインアビス 目覚める神秘"
-      ],
-      "artistCandidates": [
-        "725",
-        "Kevin Penkin",
-        "ケビン・ペンキン",
-        "4S33gEeiCjwfD1FJKfMT3Y",
-        "1113369160",
-        "10563699",
-        "12480",
-        "Mori Calliope",
-        "森 カリオペ",
-        "1PhE6rv0146ZTQosoPDjk8",
-        "119362592"
-      ]
     },
     {
       "id": "27900",
@@ -5328,19 +5143,91 @@
       "animethemesVideo": null
     },
     {
-      "id": "27761",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "IGNITE",
-      "artist": "JO1",
-      "artistDisplay": "JO1",
-      "artistDisplayCount": 1,
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
+      "artist": "Ayumi Miyazaki",
+      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
+      "artistDisplayCount": 2,
       "kind": "OP",
       "kindLabel": "Opening",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/4AAiz8MarztbqTCTMfwXYr",
-      "apple": "https://geo.music.apple.com/album/6797375185?i=6797375186&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-opening",
+      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "SHAKARIKI!!"
+      ],
+      "animeCandidates": [
+        "Digimon: World's Best Picks",
+        "The Best Adventure We Chose",
+        "僕らが選んだベストアドベンチャー",
+        "Bokura ga Eranda Best Adventure"
+      ],
+      "artistCandidates": [
+        "12570",
+        "Ayumi Miyazaki",
+        "宮崎歩",
+        "宮﨑歩",
+        "4Hjely5D21wDWfluTrZRhT",
+        "218732056",
+        "74835282",
+        "UCk0cOzmc7azCdYwVlp9hMKw",
+        "3297",
+        "Takayoshi Tanimoto",
+        "谷本貴義",
+        "5nCVXtvsB2KsngsMbk8Hat",
+        "74954644",
+        "208716347",
+        "UCIdyBeiGorESL-FlrE_88Lw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28157",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Role-Playing Life",
+      "artist": "Luov",
+      "artistDisplay": "Luov",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
+      "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6b6893ebedf1618ee8ae63d8bc0a851e77084ed9@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -5372,26 +5259,168 @@
         "objectID"
       ],
       "titleCandidates": [
-        "IGNITE"
+        "Role-Playing Life",
+        "ロールプレイングライフ"
       ],
       "animeCandidates": [
-        "Tokyo Revengers: War of the Three Titan Arc",
-        "Tokyo Revengers: Santen Sensou-hen",
-        "東京リベンジャーズ 三天戦争編",
-        "Tokyo Revengers: War of the Three Titans Arc"
+        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+        "Chii Fuyo",
+        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
+        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
       ],
       "artistCandidates": [
-        "7989",
-        "JO1",
-        "2koP6FEfIEVk4l2Fe6jFhu",
-        "1500272115",
-        "10885914",
-        "UCWyo-2Efw9aSmemM3LluERg"
+        "25585",
+        "Luov",
+        "65qX1IKOU3lXJsZ327lCww",
+        "1800415034",
+        "306876311",
+        "UCYuWBWwRueIsp5zQqnU7YZQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28045",
+      "anime": "Firefly Wedding",
+      "song": "Period",
+      "artist": "iri",
+      "artistDisplay": "iri",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
+      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e81c08137c426d629cfb6f95cf4ddffef13a1eea@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Period"
+      ],
+      "animeCandidates": [
+        "Firefly Wedding",
+        "Hotaru no Yomeiri",
+        "ホタルの嫁入り",
+        "Les Noces des Lucioles"
+      ],
+      "artistCandidates": [
+        "24229",
+        "iri",
+        "1mN9lPKzTRTOop4u7S1Uy9",
+        "388343274",
+        "1043542",
+        "UCtlXP5iI7TgKj_BI636L8Qw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27959",
+      "anime": "Romelia War Chronicle",
+      "song": "Nightfall",
+      "artist": "KOHTA YAMAMOTO",
+      "artistDisplay": "KOHTA YAMAMOTO & Maika Loubté",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5ob1kLnwVBeRjc23V0Oins",
+      "apple": "https://geo.music.apple.com/album/6815536906?i=6815537162&at=1001l384j&ct=website-romelia-war-chronicle-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/efc39123cf4bd629ff64aab49d05b1587b5067a1@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/romelia-war-chronicle-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Nightfall"
+      ],
+      "animeCandidates": [
+        "Romelia War Chronicle",
+        "Romelia Senki",
+        "ロメリア戦記",
+        "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki shita",
+        "Romelia Senki: Forming a Military Organization Because Humanity Still Looks Screwed After Defeating the Demon King",
+        "A History of the Romelia"
+      ],
+      "artistCandidates": [
+        "1969",
+        "KOHTA YAMAMOTO",
+        "2hE2ofc7IKD1iQ39HYU5N4",
+        "1208888794",
+        "57231332",
+        "UChsIakKCl4x73kV9lcS6H7g",
+        "24214",
+        "Maika Loubté",
+        "0wMkBz97F3SE4yNz0y2OOz",
+        "9847056"
       ],
       "animethemesVideo": null
     }
   ],
   "platformSamples": [
+    {
+      "id": "28328",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Original Soundtrack",
+      "kind": "OST",
+      "spotify": "https://open.spotify.com/album/6gE09HHi1JQbUOUXqesXhz",
+      "apple": "https://geo.music.apple.com/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music"
+    },
     {
       "id": "28327",
       "anime": "Armored Trooper Votoms: Die Graue Hexe",
@@ -5457,14 +5486,6 @@
       "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music"
     },
     {
-      "id": "28312",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "Original Soundtrack",
-      "kind": "OST",
-      "spotify": "https://open.spotify.com/album/4Hi5b3quDrK9wjT6SKOSUZ",
-      "apple": "https://geo.music.apple.com/album/6827479496?at=1001l384j&ct=website-tokyo-revengers-war-of-the-t-ost&app=music"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -5489,36 +5510,12 @@
       "apple": "https://geo.music.apple.com/album/6823237344?i=6823237567&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music"
     },
     {
-      "id": "28314",
-      "anime": "Vertex Force",
-      "song": "Original Soundtrack Vol. 2",
-      "kind": "OST",
-      "spotify": "https://open.spotify.com/album/3ONh9xDaFFAgOLM2Vgkfh6",
-      "apple": "https://geo.music.apple.com/album/6828270847?at=1001l384j&ct=website-vertex-force-ost2&app=music"
-    },
-    {
       "id": "27821",
       "anime": "Steel Ball Run: JoJo's Bizarre Adventure 2nd - 3rd STAGE",
       "song": "SPIN",
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
       "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music"
-    },
-    {
-      "id": "28221",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "ORIGINAL SOUNDTRACK",
-      "kind": "OST",
-      "spotify": "https://open.spotify.com/album/0wXOClGXifI5tihHGFSAXU",
-      "apple": "https://geo.music.apple.com/album/6824386219?at=1001l384j&ct=website-made-in-abyss-mezameru-shinp-ost&app=music"
-    },
-    {
-      "id": "28222",
-      "anime": "Made in Abyss: Mezameru Shinpi",
-      "song": "Chain of the Abyss",
-      "kind": "TS",
-      "spotify": "https://open.spotify.com/track/7KPJaB1GIlaATN9U5yA606",
-      "apple": "https://geo.music.apple.com/album/6824386219?i=6824386680&at=1001l384j&ct=website-made-in-abyss-mezameru-shinpi-ts&app=music"
     },
     {
       "id": "27900",
@@ -5625,12 +5622,36 @@
       "apple": "https://geo.music.apple.com/album/6810987431?i=6810987618&at=1001l384j&ct=website-romelia-war-chronicle-op&app=music"
     },
     {
-      "id": "27761",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "IGNITE",
+      "id": "28262",
+      "anime": "Digimon: World's Best Picks",
+      "song": "SHAKARIKI!!",
       "kind": "OP",
-      "spotify": "https://open.spotify.com/track/4AAiz8MarztbqTCTMfwXYr",
-      "apple": "https://geo.music.apple.com/album/6797375185?i=6797375186&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-op&app=music"
+      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
+      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music"
+    },
+    {
+      "id": "28157",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Role-Playing Life",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
+      "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music"
+    },
+    {
+      "id": "28045",
+      "anime": "Firefly Wedding",
+      "song": "Period",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
+      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music"
+    },
+    {
+      "id": "27959",
+      "anime": "Romelia War Chronicle",
+      "song": "Nightfall",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/5ob1kLnwVBeRjc23V0Oins",
+      "apple": "https://geo.music.apple.com/album/6815536906?i=6815537162&at=1001l384j&ct=website-romelia-war-chronicle-ed&app=music"
     }
   ]
 }

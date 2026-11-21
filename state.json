@@ -7432,7 +7432,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -7866,7 +7865,6 @@
       "display_artists",
       "label",
       "short_link",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -19539,7 +19537,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "substitute",
       "other_link_ids",
@@ -22026,9 +22023,9 @@
     "kindLabel": "OST",
     "episodes": [],
     "spotify": "https://open.spotify.com/album/6gE09HHi1JQbUOUXqesXhz",
-    "apple": "https://music.apple.com/nz/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music",
+    "apple": "https://geo.music.apple.com/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f@2xl.jpeg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-original-soundtrack",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -22054,8 +22051,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
-      "web",
+      "other_link_ids",
       "unreleased",
       "objectID"
     ],
@@ -22075,7 +22073,9 @@
       "Kenji Kawai",
       "川井憲次",
       "4ObvA097FfnbrTm3Uepano",
-      "76058734"
+      "76058734",
+      "288704",
+      "UCaI5ly_PCCPU9TswcUgcpuA"
     ],
     "firstSeen": "2026-11-20T17:59:29.000Z"
   }
