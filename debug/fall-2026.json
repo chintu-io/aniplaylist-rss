@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 251,
+  "resultCount": 252,
   "animeThemesChecked": 155,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 74,
   "jsonResponses": 34,
   "algoliaResponses": 16,
   "hitArrays": 32,
-  "rawHits": 251,
-  "uniqueHits": 251,
-  "normalized": 251,
+  "rawHits": 252,
+  "uniqueHits": 252,
+  "normalized": 252,
   "withSpotify": 217,
   "withApple": 219,
   "withDetailUrl": 220,
   "resolvedSpotify": 217,
-  "recordThumbnails": 251,
+  "recordThumbnails": 252,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -466,14 +466,14 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg"
     }
   ],
-  "expectedHits": 251,
+  "expectedHits": 252,
   "expectedPages": 16,
   "receivedPages": 16,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -481,7 +481,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -489,7 +489,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -497,7 +497,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -505,7 +505,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -513,7 +513,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -521,7 +521,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -529,7 +529,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -537,7 +537,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -545,7 +545,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -553,7 +553,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -561,7 +561,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -569,7 +569,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -577,7 +577,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -585,7 +585,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -593,7 +593,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -601,7 +601,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -609,7 +609,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -617,7 +617,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -625,7 +625,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -633,7 +633,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -641,7 +641,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -649,7 +649,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -657,7 +657,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -665,7 +665,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -673,7 +673,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -681,7 +681,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -689,7 +689,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -697,7 +697,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -705,7 +705,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -713,15 +713,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 15,
-      "nbHits": 251,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
-      "count": 11
+      "count": 12
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28607,
+      "nbHits": 28608,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -1579,6 +1579,130 @@
         "UCssoAGLly9DaABecIZoht_g"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "us_3417",
+      "anime": "Orochi: Seventh Echoes Pilot Film",
+      "song": "Zankyo",
+      "artist": "neNna",
+      "artistDisplay": "neNna",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/39ab70dae208e730a55d95a728458f77de9a004f@2xl.jpg",
+      "detailUrl": "",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Zankyo"
+      ],
+      "animeCandidates": [
+        "Orochi: Seventh Echoes Pilot Film",
+        "『オロチ -Seventh Echoes-』パイロット映像"
+      ],
+      "artistCandidates": [
+        "23735",
+        "neNna",
+        "0dSMRfACly6RZhMEmMxFez",
+        "6815589612",
+        "5242246"
+      ]
+    },
+    {
+      "id": "us_3416",
+      "anime": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "song": "Original Soundtrack",
+      "artist": "Moe Hyuuga",
+      "artistDisplay": "Moe Hyuuga & Natsuki Hamada",
+      "artistDisplayCount": 2,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e312ddf0e0785c632f82d78dd71d7b95e132baac@2xl.jpg",
+      "detailUrl": "",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack"
+      ],
+      "animeCandidates": [
+        "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+        "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+        "Even Though I'm a Super Timid Noble Girl",
+        "I Accepted the Bet From My Cunning Fiancé",
+        "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
+      ],
+      "artistCandidates": [
+        "1004",
+        "Moe Hyuuga",
+        "日向萌",
+        "Moe Hyuga",
+        "04QvpXYgIK8cK18pYatnpU",
+        "2y2HnfVA1EUcA6y2jCXp1b",
+        "1263805285",
+        "5YNgZ22767QKTVhBf57uCl",
+        "89818302",
+        "52889092",
+        "4TTTGHP00DMecwqVB0ezZ4",
+        "1477454474",
+        "268913122",
+        "UC_oltwSyM3J0Ho5nuaV7mPA",
+        "UCjR0LloMUJggoFvFvllxadA",
+        "16798"
+      ]
     },
     {
       "id": "27900",
@@ -2559,138 +2683,6 @@
         "1800415034",
         "306876311",
         "UCYuWBWwRueIsp5zQqnU7YZQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "artist": "iri",
-      "artistDisplay": "iri",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
-      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e81c08137c426d629cfb6f95cf4ddffef13a1eea@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Period"
-      ],
-      "animeCandidates": [
-        "Firefly Wedding",
-        "Hotaru no Yomeiri",
-        "ホタルの嫁入り",
-        "Les Noces des Lucioles"
-      ],
-      "artistCandidates": [
-        "24229",
-        "iri",
-        "1mN9lPKzTRTOop4u7S1Uy9",
-        "388343274",
-        "1043542",
-        "UCtlXP5iI7TgKj_BI636L8Qw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27959",
-      "anime": "Romelia War Chronicle",
-      "song": "Nightfall",
-      "artist": "KOHTA YAMAMOTO",
-      "artistDisplay": "KOHTA YAMAMOTO & Maika Loubté",
-      "artistDisplayCount": 2,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5ob1kLnwVBeRjc23V0Oins",
-      "apple": "https://geo.music.apple.com/album/6815536906?i=6815537162&at=1001l384j&ct=website-romelia-war-chronicle-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/efc39123cf4bd629ff64aab49d05b1587b5067a1@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/romelia-war-chronicle-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Nightfall"
-      ],
-      "animeCandidates": [
-        "Romelia War Chronicle",
-        "Romelia Senki",
-        "ロメリア戦記",
-        "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki shita",
-        "Romelia Senki: Forming a Military Organization Because Humanity Still Looks Screwed After Defeating the Demon King",
-        "A History of the Romelia"
-      ],
-      "artistCandidates": [
-        "1969",
-        "KOHTA YAMAMOTO",
-        "2hE2ofc7IKD1iQ39HYU5N4",
-        "1208888794",
-        "57231332",
-        "UChsIakKCl4x73kV9lcS6H7g",
-        "24214",
-        "Maika Loubté",
-        "0wMkBz97F3SE4yNz0y2OOz",
-        "9847056"
       ],
       "animethemesVideo": null
     }
