@@ -4,7 +4,7 @@
   "pageLoaded": true,
   "scrapeValidated": true,
   "resultCount": 252,
-  "animeThemesChecked": 155,
+  "animeThemesChecked": 156,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 74,
   "jsonResponses": 34,
@@ -13,15 +13,81 @@
   "rawHits": 252,
   "uniqueHits": 252,
   "normalized": 252,
-  "withSpotify": 217,
-  "withApple": 219,
-  "withDetailUrl": 220,
-  "resolvedSpotify": 217,
+  "withSpotify": 218,
+  "withApple": 220,
+  "withDetailUrl": 221,
+  "resolvedSpotify": 218,
   "recordThumbnails": 252,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28330",
+      "anime": "Onegai AiPri",
+      "song": "Onegai Telepathy",
+      "artist": "THE MADE IN TOHOKU",
+      "artistDisplay": "THE MADE IN TOHOKU",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1Fy6rKHflo53bzo3DUetpJ",
+      "apple": "https://geo.music.apple.com/album/6809699254?i=6809699255&at=1001l384j&ct=website-onegai-aipri-ed2&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/09c3208a48b175f5686e7e276dc061af0e8055b3@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/onegai-aipri-ending-2",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Onegai Telepathy",
+        "おねがいテレパシー"
+      ],
+      "animeCandidates": [
+        "Onegai AiPri",
+        "+Himitsu no AiPri 3rd Season",
+        "おねがいアイプリ"
+      ],
+      "artistCandidates": [
+        "19686",
+        "THE MADE IN TOHOKU",
+        "いぎなり東北産",
+        "Iginari Tohoku San",
+        "3oCvBi7xfOIEo0ZC494uV6",
+        "1586407152",
+        "345384721",
+        "UChJQ1mpVt0dV1bg4hykwk3A"
+      ]
+    },
     {
       "id": "28328",
       "anime": "Armored Trooper Votoms: Die Graue Hexe",
@@ -278,73 +344,20 @@
         "3TN34So0ys58liaK3AQtxu",
         "334197953"
       ]
-    },
-    {
-      "id": "28318",
-      "anime": "Tetsuryou! Meet with Tetsudou Musume",
-      "song": "GO! GO! RAILWAY!!",
-      "artist": "Asaka",
-      "artistDisplay": "Asaka",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2DXIQrUGyXEV4bUWHO0DH0",
-      "apple": "https://geo.music.apple.com/album/6824777853?i=6824777858&at=1001l384j&ct=website-tetsuryou-meet-with-tetsudou-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/51207a0fa72b116dfac7f23d03e4b4c8bf3efcfb@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/tetsuryou-meet-with-tetsudou-musume-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "GO! GO! RAILWAY!!"
-      ],
-      "animeCandidates": [
-        "Tetsuryou! Meet with Tetsudou Musume",
-        "Tetsuryo! Meet with Railroad Girls",
-        "てつりょー！meet with 鉄道むすめ"
-      ],
-      "artistCandidates": [
-        "397",
-        "Asaka",
-        "亜咲花",
-        "0QwTvn35AQMMELpKDU176h",
-        "1154905403",
-        "13887037",
-        "UCMRcsWDXgBZxkGV0E5ZGA2Q"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28330",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/09c3208a48b175f5686e7e276dc061af0e8055b3.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LQMtn2{wM,Tb0FJCr@Vz0EX9nhxA",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/09c3208a48b175f5686e7e276dc061af0e8055b3@2xl.jpg"
+    },
     {
       "id": "28328",
       "thumbnailType": "string",
@@ -454,16 +467,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
-    },
-    {
-      "id": "28153",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/611deec5a26819ffd4f563a6f112f6689439e064.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LUKI}2y?[urr~Cpw%2NF$+tRNZrX",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg"
     }
   ],
   "expectedHits": 252,
@@ -728,6 +731,73 @@
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28330",
+      "anime": "Onegai AiPri",
+      "song": "Onegai Telepathy",
+      "artist": "THE MADE IN TOHOKU",
+      "artistDisplay": "THE MADE IN TOHOKU",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1Fy6rKHflo53bzo3DUetpJ",
+      "apple": "https://geo.music.apple.com/album/6809699254?i=6809699255&at=1001l384j&ct=website-onegai-aipri-ed2&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/09c3208a48b175f5686e7e276dc061af0e8055b3@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/onegai-aipri-ending-2",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Onegai Telepathy",
+        "おねがいテレパシー"
+      ],
+      "animeCandidates": [
+        "Onegai AiPri",
+        "+Himitsu no AiPri 3rd Season",
+        "おねがいアイプリ"
+      ],
+      "artistCandidates": [
+        "19686",
+        "THE MADE IN TOHOKU",
+        "いぎなり東北産",
+        "Iginari Tohoku San",
+        "3oCvBi7xfOIEo0ZC494uV6",
+        "1586407152",
+        "345384721",
+        "UChJQ1mpVt0dV1bg4hykwk3A"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28328",
       "anime": "Armored Trooper Votoms: Die Graue Hexe",
@@ -2620,71 +2690,6 @@
         "UCIdyBeiGorESL-FlrE_88Lw"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28157",
-      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "song": "Role-Playing Life",
-      "artist": "Luov",
-      "artistDisplay": "Luov",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
-      "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6b6893ebedf1618ee8ae63d8bc0a851e77084ed9@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Role-Playing Life",
-        "ロールプレイングライフ"
-      ],
-      "animeCandidates": [
-        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
-        "Chii Fuyo",
-        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
-        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
-      ],
-      "artistCandidates": [
-        "25585",
-        "Luov",
-        "65qX1IKOU3lXJsZ327lCww",
-        "1800415034",
-        "306876311",
-        "UCYuWBWwRueIsp5zQqnU7YZQ"
-      ],
-      "animethemesVideo": null
     }
   ],
   "sourceMetadataSamples": [
@@ -3226,6 +3231,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28330",
+      "anime": "Onegai AiPri",
+      "song": "Onegai Telepathy",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/onegai-aipri-ending-2"
+    },
+    {
       "id": "28328",
       "anime": "Armored Trooper Votoms: Die Graue Hexe",
       "song": "Original Soundtrack",
@@ -3427,16 +3439,76 @@
       "song": "Period",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening"
-    },
-    {
-      "id": "27959",
-      "anime": "Romelia War Chronicle",
-      "song": "Nightfall",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/romelia-war-chronicle-ending"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28330",
+      "anime": "Onegai AiPri",
+      "song": "Onegai Telepathy",
+      "artist": "THE MADE IN TOHOKU",
+      "artistDisplay": "THE MADE IN TOHOKU",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/1Fy6rKHflo53bzo3DUetpJ",
+      "apple": "https://geo.music.apple.com/album/6809699254?i=6809699255&at=1001l384j&ct=website-onegai-aipri-ed2&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/09c3208a48b175f5686e7e276dc061af0e8055b3@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/onegai-aipri-ending-2",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Onegai Telepathy",
+        "おねがいテレパシー"
+      ],
+      "animeCandidates": [
+        "Onegai AiPri",
+        "+Himitsu no AiPri 3rd Season",
+        "おねがいアイプリ"
+      ],
+      "artistCandidates": [
+        "19686",
+        "THE MADE IN TOHOKU",
+        "いぎなり東北産",
+        "Iginari Tohoku San",
+        "3oCvBi7xfOIEo0ZC494uV6",
+        "1586407152",
+        "345384721",
+        "UChJQ1mpVt0dV1bg4hykwk3A"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28328",
       "anime": "Armored Trooper Votoms: Die Graue Hexe",
@@ -5333,78 +5405,17 @@
         "UCtlXP5iI7TgKj_BI636L8Qw"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "27959",
-      "anime": "Romelia War Chronicle",
-      "song": "Nightfall",
-      "artist": "KOHTA YAMAMOTO",
-      "artistDisplay": "KOHTA YAMAMOTO & Maika Loubté",
-      "artistDisplayCount": 2,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/5ob1kLnwVBeRjc23V0Oins",
-      "apple": "https://geo.music.apple.com/album/6815536906?i=6815537162&at=1001l384j&ct=website-romelia-war-chronicle-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/efc39123cf4bd629ff64aab49d05b1587b5067a1@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/romelia-war-chronicle-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Nightfall"
-      ],
-      "animeCandidates": [
-        "Romelia War Chronicle",
-        "Romelia Senki",
-        "ロメリア戦記",
-        "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki shita",
-        "Romelia Senki: Forming a Military Organization Because Humanity Still Looks Screwed After Defeating the Demon King",
-        "A History of the Romelia"
-      ],
-      "artistCandidates": [
-        "1969",
-        "KOHTA YAMAMOTO",
-        "2hE2ofc7IKD1iQ39HYU5N4",
-        "1208888794",
-        "57231332",
-        "UChsIakKCl4x73kV9lcS6H7g",
-        "24214",
-        "Maika Loubté",
-        "0wMkBz97F3SE4yNz0y2OOz",
-        "9847056"
-      ],
-      "animethemesVideo": null
     }
   ],
   "platformSamples": [
+    {
+      "id": "28330",
+      "anime": "Onegai AiPri",
+      "song": "Onegai Telepathy",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/1Fy6rKHflo53bzo3DUetpJ",
+      "apple": "https://geo.music.apple.com/album/6809699254?i=6809699255&at=1001l384j&ct=website-onegai-aipri-ed2&app=music"
+    },
     {
       "id": "28328",
       "anime": "Armored Trooper Votoms: Die Graue Hexe",
@@ -5636,14 +5647,6 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
       "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music"
-    },
-    {
-      "id": "27959",
-      "anime": "Romelia War Chronicle",
-      "song": "Nightfall",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/5ob1kLnwVBeRjc23V0Oins",
-      "apple": "https://geo.music.apple.com/album/6815536906?i=6815537162&at=1001l384j&ct=website-romelia-war-chronicle-ed&app=music"
     }
   ]
 }
