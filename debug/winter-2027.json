@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 39,
+  "resultCount": 40,
   "animeThemesChecked": 3,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 5,
   "jsonResponses": 8,
   "algoliaResponses": 3,
   "hitArrays": 6,
-  "rawHits": 39,
-  "uniqueHits": 39,
-  "normalized": 39,
+  "rawHits": 40,
+  "uniqueHits": 40,
+  "normalized": 40,
   "withSpotify": 6,
   "withApple": 6,
   "withDetailUrl": 6,
   "resolvedSpotify": 6,
-  "recordThumbnails": 39,
+  "recordThumbnails": 40,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -144,70 +144,6 @@
       ]
     },
     {
-      "id": "us_3414",
-      "anime": "Pen to Wappa to Jijitsukon",
-      "song": "Mikaiketsu de, Romance de.",
-      "artist": "Inori Minase",
-      "artistDisplay": "Inori Minase",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Mikaiketsu de, Romance de.",
-        "未解決で、ロマンスで。"
-      ],
-      "animeCandidates": [
-        "Pen to Wappa to Jijitsukon",
-        "ペンと手錠と事実婚",
-        "A Pen, Handcuffs, and a Common-Law Marriage",
-        "Pen to Tejou to Jijitsukon"
-      ],
-      "artistCandidates": [
-        "389",
-        "Inori Minase",
-        "水瀬いのり",
-        "11kv0foW5tEHGNpIh1oeIE",
-        "6Aal2uLlwnLAQwSI7apV11",
-        "1057869661",
-        "7EMFN79sSEswyNXRZPgsEN",
-        "9472784",
-        "175807327",
-        "UCEOHeW4BRFemY6iW_0ioQow",
-        "UCwadJA3HkGkMTAt1XvuNwmg"
-      ]
-    },
-    {
       "id": "us_3415",
       "anime": "Pen to Wappa to Jijitsukon",
       "song": "Message",
@@ -319,6 +255,65 @@
         "9314268",
         "UCLt9CNSNa5IXGHL234HGPTw"
       ]
+    },
+    {
+      "id": "us_3418",
+      "anime": "Bride of the Barrier Master",
+      "song": "Ichirinka",
+      "artist": "Naniwa Danshi",
+      "artistDisplay": "Naniwa Danshi",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/70fc3e32e6a249e48a0b2adfbc8d0e4c07b90feb@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Ichirinka",
+        "一輪華"
+      ],
+      "animeCandidates": [
+        "Bride of the Barrier Master",
+        "Kekkaishi no Ichirinka",
+        "結界師の一輪華"
+      ],
+      "artistCandidates": [
+        "16613",
+        "Naniwa Danshi",
+        "なにわ男子",
+        "5V0oa9WaeYkBszHV6ItVD6",
+        "1758080234",
+        "274115861",
+        "UC2czdqI9sjz5kz73sU3EGbQ"
+      ]
     }
   ],
   "errors": [],
@@ -344,16 +339,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/e8ba264b46f109b9e961aa94f407e4857de39955@2xl.jpg"
     },
     {
-      "id": "us_3414",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LoM4|AbH#Zt7}uXRNdbaIpofofR%",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80@2xl.jpg"
-    },
-    {
       "id": "us_3415",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80.jpg",
@@ -372,6 +357,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/7d02c8cb292e7e1eb9c5b5399f2216993bef71cc@2xl.jpg"
+    },
+    {
+      "id": "us_3418",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/70fc3e32e6a249e48a0b2adfbc8d0e4c07b90feb.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LWOyq^9F^+o#?wMytQ-o%Mt89ZIU",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/70fc3e32e6a249e48a0b2adfbc8d0e4c07b90feb@2xl.jpg"
     },
     {
       "id": "us_3408",
@@ -444,14 +439,14 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg"
     }
   ],
-  "expectedHits": 39,
+  "expectedHits": 40,
   "expectedPages": 3,
   "receivedPages": 3,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 39,
+      "nbHits": 40,
       "hitsPerPage": 16,
       "nbPages": 3,
       "count": 16
@@ -459,7 +454,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28609,
+      "nbHits": 28612,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -467,7 +462,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 39,
+      "nbHits": 40,
       "hitsPerPage": 16,
       "nbPages": 3,
       "count": 16
@@ -475,7 +470,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28609,
+      "nbHits": 28612,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -483,15 +478,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 39,
+      "nbHits": 40,
       "hitsPerPage": 16,
       "nbPages": 3,
-      "count": 7
+      "count": 8
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28609,
+      "nbHits": 28612,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -621,70 +616,6 @@
       ]
     },
     {
-      "id": "us_3414",
-      "anime": "Pen to Wappa to Jijitsukon",
-      "song": "Mikaiketsu de, Romance de.",
-      "artist": "Inori Minase",
-      "artistDisplay": "Inori Minase",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Mikaiketsu de, Romance de.",
-        "未解決で、ロマンスで。"
-      ],
-      "animeCandidates": [
-        "Pen to Wappa to Jijitsukon",
-        "ペンと手錠と事実婚",
-        "A Pen, Handcuffs, and a Common-Law Marriage",
-        "Pen to Tejou to Jijitsukon"
-      ],
-      "artistCandidates": [
-        "389",
-        "Inori Minase",
-        "水瀬いのり",
-        "11kv0foW5tEHGNpIh1oeIE",
-        "6Aal2uLlwnLAQwSI7apV11",
-        "1057869661",
-        "7EMFN79sSEswyNXRZPgsEN",
-        "9472784",
-        "175807327",
-        "UCEOHeW4BRFemY6iW_0ioQow",
-        "UCwadJA3HkGkMTAt1XvuNwmg"
-      ]
-    },
-    {
       "id": "us_3415",
       "anime": "Pen to Wappa to Jijitsukon",
       "song": "Message",
@@ -795,6 +726,65 @@
         "894513894",
         "9314268",
         "UCLt9CNSNa5IXGHL234HGPTw"
+      ]
+    },
+    {
+      "id": "us_3418",
+      "anime": "Bride of the Barrier Master",
+      "song": "Ichirinka",
+      "artist": "Naniwa Danshi",
+      "artistDisplay": "Naniwa Danshi",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/70fc3e32e6a249e48a0b2adfbc8d0e4c07b90feb@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Ichirinka",
+        "一輪華"
+      ],
+      "animeCandidates": [
+        "Bride of the Barrier Master",
+        "Kekkaishi no Ichirinka",
+        "結界師の一輪華"
+      ],
+      "artistCandidates": [
+        "16613",
+        "Naniwa Danshi",
+        "なにわ男子",
+        "5V0oa9WaeYkBszHV6ItVD6",
+        "1758080234",
+        "274115861",
+        "UC2czdqI9sjz5kz73sU3EGbQ"
       ]
     },
     {
@@ -1283,6 +1273,70 @@
         "219771500",
         "4897530",
         "UCE7UTii69j5WCDZSWgkIjiw"
+      ]
+    },
+    {
+      "id": "us_3414",
+      "anime": "Pen to Wappa to Jijitsukon",
+      "song": "Mikaiketsu de, Romance de.",
+      "artist": "Inori Minase",
+      "artistDisplay": "Inori Minase",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/db9649fa04cd17cc3e58f9e4e06cc5e09f347f80@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Mikaiketsu de, Romance de.",
+        "未解決で、ロマンスで。"
+      ],
+      "animeCandidates": [
+        "Pen to Wappa to Jijitsukon",
+        "ペンと手錠と事実婚",
+        "A Pen, Handcuffs, and a Common-Law Marriage",
+        "Pen to Tejou to Jijitsukon"
+      ],
+      "artistCandidates": [
+        "389",
+        "Inori Minase",
+        "水瀬いのり",
+        "11kv0foW5tEHGNpIh1oeIE",
+        "6Aal2uLlwnLAQwSI7apV11",
+        "1057869661",
+        "7EMFN79sSEswyNXRZPgsEN",
+        "9472784",
+        "175807327",
+        "UCEOHeW4BRFemY6iW_0ioQow",
+        "UCwadJA3HkGkMTAt1XvuNwmg"
       ]
     },
     {
@@ -2225,71 +2279,6 @@
         "266646521",
         "6372",
         "UCqlKb9p1A0D_SHEBAA5zKLQ"
-      ]
-    },
-    {
-      "id": "us_3305",
-      "anime": "SSS-Class Revival Hunter",
-      "song": "Fading",
-      "artist": "THE SPELLBOUND",
-      "artistDisplay": "THE SPELLBOUND & BOOM BOOM SATELLITES",
-      "artistDisplayCount": 2,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1c9820ae08464cef979c8f73c0a7c09dc6acf9cc@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Fading"
-      ],
-      "animeCandidates": [
-        "SSS-Class Revival Hunter",
-        "Shishite Ikiru SSS-kyuu Hunter",
-        "死して生きるSSS級ハンター",
-        "SSS급 죽어야 사는 헌터",
-        "SSS-geup Jugeoya Saneun Hunter"
-      ],
-      "artistCandidates": [
-        "13077",
-        "THE SPELLBOUND",
-        "1urc1bS4D4upX4Mb9kLnMb",
-        "1543157209",
-        "115486122",
-        "UCBm7ayfMxiR_AxfZLY0O1bg",
-        "109",
-        "BOOM BOOM SATELLITES",
-        "0vCGPbugjEi38T41ZHny1o",
-        "105461375",
-        "2895",
-        "UCisM9mNxVXtgrgn3zSjvmag"
       ]
     }
   ],
