@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 252,
+  "resultCount": 253,
   "animeThemesChecked": 156,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 74,
   "jsonResponses": 34,
   "algoliaResponses": 16,
   "hitArrays": 32,
-  "rawHits": 252,
-  "uniqueHits": 252,
-  "normalized": 252,
-  "withSpotify": 218,
-  "withApple": 220,
-  "withDetailUrl": 221,
-  "resolvedSpotify": 218,
-  "recordThumbnails": 252,
+  "rawHits": 253,
+  "uniqueHits": 253,
+  "normalized": 253,
+  "withSpotify": 219,
+  "withApple": 221,
+  "withDetailUrl": 222,
+  "resolvedSpotify": 219,
+  "recordThumbnails": 253,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -86,6 +86,71 @@
         "1586407152",
         "345384721",
         "UChJQ1mpVt0dV1bg4hykwk3A"
+      ]
+    },
+    {
+      "id": "28329",
+      "anime": "Witch on the Holy Night",
+      "song": "Yoru to Ao",
+      "artist": "supercell",
+      "artistDisplay": "supercell",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/23ZnolOxBUzzyHBv9dANIA",
+      "apple": "https://geo.music.apple.com/album/6836142603?i=6836142604&at=1001l384j&ct=website-witch-on-the-holy-night-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5da9b745f35f276d0465cf2b9075f29820034e8d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/witch-on-the-holy-night-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yoru to Ao",
+        "夜と青"
+      ],
+      "animeCandidates": [
+        "Witch on the Holy Night",
+        "Mahoutsukai no Yoru",
+        "A Magician's Night",
+        "MahoYo",
+        "魔法使いの夜"
+      ],
+      "artistCandidates": [
+        "610",
+        "supercell",
+        "4Mc3zbnQx4wRb0tYg7A8sG",
+        "631665100",
+        "184460",
+        "UCjlifcVO6r-V5RSh3eB1lLg"
       ]
     },
     {
@@ -220,19 +285,19 @@
       ]
     },
     {
-      "id": "28321",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Soundtrack",
-      "artist": "onoken",
-      "artistDisplay": "onoken",
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "artist": "Junko Yagami",
+      "artistDisplay": "Junko Yagami",
       "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
+      "kind": "ED",
+      "kindLabel": "Ending",
       "episodes": [],
-      "spotify": "https://open.spotify.com/album/6aItWkzMnXNc63i1F8wQbl",
-      "apple": "https://geo.music.apple.com/album/6834771893?at=1001l384j&ct=website-with-vengeance-sincerely-you-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f9b518b465f54218947c79697cb42d216a398085@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-original-soundtrack",
+      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
+      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -249,6 +314,7 @@
         "platforms",
         "preview_url",
         "song_key",
+        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -265,84 +331,23 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Soundtrack",
-        "Listen to 傷だらけ聖女より報復をこめてSeason2 - サウンドトラック",
-        "With Vengeance, Sincerely, Your Broken Saintess Season 2 - Animation Soundtrack -"
+        "Haruka e, Eien e",
+        "遥かへ、永遠へ"
       ],
       "animeCandidates": [
-        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
-        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
-        "傷だらけ聖女より報復をこめて Season2"
+        "Star Blazers: Space Battleship Yamato 3199",
+        "Yamato yo, Towa ni: Rebel 3199",
+        "Be Forever Yamato: Rebel 3199",
+        "Star Blazers",
+        "ヤマトよ永遠に REBEL3199"
       ],
       "artistCandidates": [
-        "15428",
-        "onoken",
-        "4bQFn6WUUBu0cgLu9Q9EEv",
-        "210602927",
-        "8931822",
-        "UCwK0FPYqFlnM6sABcqqVA7Q"
-      ]
-    },
-    {
-      "id": "28319",
-      "anime": "Duel Masters LOST: Danzai no Shounen",
-      "song": "Original Soundtrack Vol. 2",
-      "artist": "Go Sakabe",
-      "artistDisplay": "Go Sakabe",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/7taF4BtW9SSBSBidBxl9A3",
-      "apple": "https://geo.music.apple.com/album/6831091526?at=1001l384j&ct=website-duel-masters-lost-danzai-no-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/709c1ab6b2421ba425e23abbd5922c9918d6aa6a@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/duel-masters-lost-danzai-no-shounen-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Original Soundtrack Vol. 2",
-        "Duel Masters LOST オリジナルサウンドトラック Vol. 2"
-      ],
-      "animeCandidates": [
-        "Duel Masters LOST: Danzai no Shounen",
-        "Duel Masters LOST ～断罪の少年～"
-      ],
-      "artistCandidates": [
-        "1111",
-        "Go Sakabe",
-        "坂部剛",
-        "Tsuyoshi Sakabe",
-        "3TN34So0ys58liaK3AQtxu",
-        "334197953"
+        "11929",
+        "Junko Yagami",
+        "八神純子",
+        "6ooFYQBSq3sFEipwHfw5gr",
+        "74877262",
+        "4867003"
       ]
     }
   ],
@@ -357,6 +362,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/09c3208a48b175f5686e7e276dc061af0e8055b3@2xl.jpg"
+    },
+    {
+      "id": "28329",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/5da9b745f35f276d0465cf2b9075f29820034e8d.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LJCjV4I900.9~qo$9Fac^+axD+oI",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/5da9b745f35f276d0465cf2b9075f29820034e8d@2xl.jpeg"
     },
     {
       "id": "28328",
@@ -377,6 +392,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/7aa28c460da3572a3804e64882d1216240be97b0@2xl.jpeg"
+    },
+    {
+      "id": "28250",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LDEL,7}%pcNMQ.oHIo%i599axV-6",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg"
     },
     {
       "id": "28321",
@@ -439,16 +464,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/fb0f74339f134e9a446ec328fda51b2b71c68f1d@2xl.jpeg"
     },
     {
-      "id": "28231",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LKLqnb~V9ZsC~qRjjZoe?vadoebc",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg"
-    },
-    {
       "id": "28085",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82.jpg",
@@ -457,26 +472,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg"
-    },
-    {
-      "id": "28074",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L89i}Or_0L]}R3s:%4Io18s7};Em",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
     }
   ],
-  "expectedHits": 252,
+  "expectedHits": 253,
   "expectedPages": 16,
   "receivedPages": 16,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -484,7 +489,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -492,7 +497,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -500,7 +505,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -508,7 +513,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -516,7 +521,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -524,7 +529,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -532,7 +537,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -540,7 +545,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -548,7 +553,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -556,7 +561,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -564,7 +569,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -572,7 +577,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -580,7 +585,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -588,7 +593,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -596,7 +601,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -604,7 +609,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -612,7 +617,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -620,7 +625,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -628,7 +633,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -636,7 +641,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -644,7 +649,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -652,7 +657,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -660,7 +665,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -668,7 +673,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -676,7 +681,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -684,7 +689,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -692,7 +697,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -700,7 +705,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -708,7 +713,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -716,15 +721,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 15,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
-      "count": 12
+      "count": 13
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28608,
+      "nbHits": 28609,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -799,6 +804,71 @@
       "animethemesVideo": null
     },
     {
+      "id": "28329",
+      "anime": "Witch on the Holy Night",
+      "song": "Yoru to Ao",
+      "artist": "supercell",
+      "artistDisplay": "supercell",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/23ZnolOxBUzzyHBv9dANIA",
+      "apple": "https://geo.music.apple.com/album/6836142603?i=6836142604&at=1001l384j&ct=website-witch-on-the-holy-night-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5da9b745f35f276d0465cf2b9075f29820034e8d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/witch-on-the-holy-night-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yoru to Ao",
+        "夜と青"
+      ],
+      "animeCandidates": [
+        "Witch on the Holy Night",
+        "Mahoutsukai no Yoru",
+        "A Magician's Night",
+        "MahoYo",
+        "魔法使いの夜"
+      ],
+      "artistCandidates": [
+        "610",
+        "supercell",
+        "4Mc3zbnQx4wRb0tYg7A8sG",
+        "631665100",
+        "184460",
+        "UCjlifcVO6r-V5RSh3eB1lLg"
+      ]
+    },
+    {
       "id": "28328",
       "anime": "Armored Trooper Votoms: Die Graue Hexe",
       "song": "Original Soundtrack",
@@ -928,6 +998,73 @@
         "4018276",
         "UClqGyJux0gipUeFnBh-onCQ"
       ]
+    },
+    {
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "artist": "Junko Yagami",
+      "artistDisplay": "Junko Yagami",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
+      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Haruka e, Eien e",
+        "遥かへ、永遠へ"
+      ],
+      "animeCandidates": [
+        "Star Blazers: Space Battleship Yamato 3199",
+        "Yamato yo, Towa ni: Rebel 3199",
+        "Be Forever Yamato: Rebel 3199",
+        "Star Blazers",
+        "ヤマトよ永遠に REBEL3199"
+      ],
+      "artistCandidates": [
+        "11929",
+        "Junko Yagami",
+        "八神純子",
+        "6ooFYQBSq3sFEipwHfw5gr",
+        "74877262",
+        "4867003"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28321",
@@ -1312,71 +1449,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28231",
-      "anime": "Super Psychic Policeman Chojo",
-      "song": "That's! Choujou",
-      "artist": "M!LK",
-      "artistDisplay": "M!LK",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
-      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "That's! Choujou",
-        "ザッツ！超常"
-      ],
-      "animeCandidates": [
-        "Super Psychic Policeman Chojo",
-        "Choujun! Choujou-senpai",
-        "超巡!超条先輩"
-      ],
-      "artistCandidates": [
-        "3564",
-        "M!LK",
-        "MILK",
-        "4jhJ8cnJ9vYKyCh289nuwQ",
-        "1356706755",
-        "14307405",
-        "UChbU0n7P86fWdZtlzCNCeGg"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -1440,6 +1512,71 @@
         "1250709916",
         "67898492",
         "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28231",
+      "anime": "Super Psychic Policeman Chojo",
+      "song": "That's! Choujou",
+      "artist": "M!LK",
+      "artistDisplay": "M!LK",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
+      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "That's! Choujou",
+        "ザッツ！超常"
+      ],
+      "animeCandidates": [
+        "Super Psychic Policeman Chojo",
+        "Choujun! Choujou-senpai",
+        "超巡!超条先輩"
+      ],
+      "artistCandidates": [
+        "3564",
+        "M!LK",
+        "MILK",
+        "4jhJ8cnJ9vYKyCh289nuwQ",
+        "1356706755",
+        "14307405",
+        "UChbU0n7P86fWdZtlzCNCeGg"
       ],
       "animethemesVideo": null
     },
@@ -2357,73 +2494,6 @@
       ]
     },
     {
-      "id": "27817",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "TRICKSTER",
-      "artist": "go!go!vanillas",
-      "artistDisplay": "go!go!vanillas",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX",
-      "apple": "https://geo.music.apple.com/album/6810161017?i=6810161018&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "TRICKSTER",
-        "トリックスター"
-      ],
-      "animeCandidates": [
-        "Tokyo Revengers: War of the Three Titan Arc",
-        "Tokyo Revengers: Santen Sensou-hen",
-        "東京リベンジャーズ 三天戦争編",
-        "Tokyo Revengers: War of the Three Titans Arc"
-      ],
-      "artistCandidates": [
-        "794",
-        "go!go!vanillas",
-        "0aqPTOZlKG6ltJHv7BNlsm",
-        "671623880",
-        "10963206",
-        "UCPs1IqAe9_1RU9Dq7_yy8Eg",
-        "25503",
-        "TV anime \"Tokyo Revengers\"",
-        "UCnrudQZNXphuOk0QB8Yz6oQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "27905",
       "anime": "Blue Box Season 2",
       "song": "Anata no Hana no Iro",
@@ -2616,78 +2686,6 @@
         "1543171756",
         "200498657",
         "UCNqzk1hGE1UbZRTCMYsdrHg"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
-      "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
-      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "SHAKARIKI!!"
-      ],
-      "animeCandidates": [
-        "Digimon: World's Best Picks",
-        "The Best Adventure We Chose",
-        "僕らが選んだベストアドベンチャー",
-        "Bokura ga Eranda Best Adventure"
-      ],
-      "artistCandidates": [
-        "12570",
-        "Ayumi Miyazaki",
-        "宮崎歩",
-        "宮﨑歩",
-        "4Hjely5D21wDWfluTrZRhT",
-        "218732056",
-        "74835282",
-        "UCk0cOzmc7azCdYwVlp9hMKw",
-        "3297",
-        "Takayoshi Tanimoto",
-        "谷本貴義",
-        "5nCVXtvsB2KsngsMbk8Hat",
-        "74954644",
-        "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw"
       ],
       "animethemesVideo": null
     }
@@ -3238,6 +3236,13 @@
       "detailUrl": "https://aniplaylist.com/play/onegai-aipri-ending-2"
     },
     {
+      "id": "28329",
+      "anime": "Witch on the Holy Night",
+      "song": "Yoru to Ao",
+      "kind": "TS",
+      "detailUrl": "https://aniplaylist.com/play/witch-on-the-holy-night-theme-song"
+    },
+    {
       "id": "28328",
       "anime": "Armored Trooper Votoms: Die Graue Hexe",
       "song": "Original Soundtrack",
@@ -3250,6 +3255,13 @@
       "song": "Na mo Naki Shijin no you ni",
       "kind": "TS",
       "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-theme-song"
+    },
+    {
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7"
     },
     {
       "id": "28321",
@@ -3294,18 +3306,18 @@
       "detailUrl": "https://aniplaylist.com/play/umayuru-full-gate-ending-2"
     },
     {
-      "id": "28231",
-      "anime": "Super Psychic Policeman Chojo",
-      "song": "That's! Choujou",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/the-apothecary-diaries-season-3-opening"
+    },
+    {
+      "id": "28231",
+      "anime": "Super Psychic Policeman Chojo",
+      "song": "That's! Choujou",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening"
     },
     {
       "id": "28074",
@@ -3392,13 +3404,6 @@
       "detailUrl": "https://aniplaylist.com/play/rascal-does-not-dream-of-a-dear-friend-insert-song-turn-the-world-upside-down"
     },
     {
-      "id": "27817",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "TRICKSTER",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-ending"
-    },
-    {
       "id": "27905",
       "anime": "Blue Box Season 2",
       "song": "Anata no Hana no Iro",
@@ -3432,13 +3437,6 @@
       "song": "Role-Playing Life",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending"
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening"
     }
   ],
   "usableSamples": [
@@ -3508,6 +3506,71 @@
         "UChJQ1mpVt0dV1bg4hykwk3A"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "28329",
+      "anime": "Witch on the Holy Night",
+      "song": "Yoru to Ao",
+      "artist": "supercell",
+      "artistDisplay": "supercell",
+      "artistDisplayCount": 1,
+      "kind": "TS",
+      "kindLabel": "Theme Song",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/23ZnolOxBUzzyHBv9dANIA",
+      "apple": "https://geo.music.apple.com/album/6836142603?i=6836142604&at=1001l384j&ct=website-witch-on-the-holy-night-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5da9b745f35f276d0465cf2b9075f29820034e8d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/witch-on-the-holy-night-theme-song",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yoru to Ao",
+        "夜と青"
+      ],
+      "animeCandidates": [
+        "Witch on the Holy Night",
+        "Mahoutsukai no Yoru",
+        "A Magician's Night",
+        "MahoYo",
+        "魔法使いの夜"
+      ],
+      "artistCandidates": [
+        "610",
+        "supercell",
+        "4Mc3zbnQx4wRb0tYg7A8sG",
+        "631665100",
+        "184460",
+        "UCjlifcVO6r-V5RSh3eB1lLg"
+      ]
     },
     {
       "id": "28328",
@@ -3639,6 +3702,73 @@
         "4018276",
         "UClqGyJux0gipUeFnBh-onCQ"
       ]
+    },
+    {
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "artist": "Junko Yagami",
+      "artistDisplay": "Junko Yagami",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
+      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Haruka e, Eien e",
+        "遥かへ、永遠へ"
+      ],
+      "animeCandidates": [
+        "Star Blazers: Space Battleship Yamato 3199",
+        "Yamato yo, Towa ni: Rebel 3199",
+        "Be Forever Yamato: Rebel 3199",
+        "Star Blazers",
+        "ヤマトよ永遠に REBEL3199"
+      ],
+      "artistCandidates": [
+        "11929",
+        "Junko Yagami",
+        "八神純子",
+        "6ooFYQBSq3sFEipwHfw5gr",
+        "74877262",
+        "4867003"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28321",
@@ -4023,71 +4153,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28231",
-      "anime": "Super Psychic Policeman Chojo",
-      "song": "That's! Choujou",
-      "artist": "M!LK",
-      "artistDisplay": "M!LK",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
-      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "That's! Choujou",
-        "ザッツ！超常"
-      ],
-      "animeCandidates": [
-        "Super Psychic Policeman Chojo",
-        "Choujun! Choujou-senpai",
-        "超巡!超条先輩"
-      ],
-      "artistCandidates": [
-        "3564",
-        "M!LK",
-        "MILK",
-        "4jhJ8cnJ9vYKyCh289nuwQ",
-        "1356706755",
-        "14307405",
-        "UChbU0n7P86fWdZtlzCNCeGg"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -4151,6 +4216,71 @@
         "1250709916",
         "67898492",
         "UCabLXblrQG4cO8F9qdd4Xsw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28231",
+      "anime": "Super Psychic Policeman Chojo",
+      "song": "That's! Choujou",
+      "artist": "M!LK",
+      "artistDisplay": "M!LK",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
+      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "That's! Choujou",
+        "ザッツ！超常"
+      ],
+      "animeCandidates": [
+        "Super Psychic Policeman Chojo",
+        "Choujun! Choujou-senpai",
+        "超巡!超条先輩"
+      ],
+      "artistCandidates": [
+        "3564",
+        "M!LK",
+        "MILK",
+        "4jhJ8cnJ9vYKyCh289nuwQ",
+        "1356706755",
+        "14307405",
+        "UChbU0n7P86fWdZtlzCNCeGg"
       ],
       "animethemesVideo": null
     },
@@ -4944,73 +5074,6 @@
       ]
     },
     {
-      "id": "27817",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "TRICKSTER",
-      "artist": "go!go!vanillas",
-      "artistDisplay": "go!go!vanillas",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX",
-      "apple": "https://geo.music.apple.com/album/6810161017?i=6810161018&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d795b5a8db9a72d3d58f310e3ab237c62d161aac@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/tokyo-revengers-war-of-the-three-titan-arc-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "TRICKSTER",
-        "トリックスター"
-      ],
-      "animeCandidates": [
-        "Tokyo Revengers: War of the Three Titan Arc",
-        "Tokyo Revengers: Santen Sensou-hen",
-        "東京リベンジャーズ 三天戦争編",
-        "Tokyo Revengers: War of the Three Titans Arc"
-      ],
-      "artistCandidates": [
-        "794",
-        "go!go!vanillas",
-        "0aqPTOZlKG6ltJHv7BNlsm",
-        "671623880",
-        "10963206",
-        "UCPs1IqAe9_1RU9Dq7_yy8Eg",
-        "25503",
-        "TV anime \"Tokyo Revengers\"",
-        "UCnrudQZNXphuOk0QB8Yz6oQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "27905",
       "anime": "Blue Box Season 2",
       "song": "Anata no Hana no Iro",
@@ -5342,69 +5405,6 @@
         "UCYuWBWwRueIsp5zQqnU7YZQ"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "artist": "iri",
-      "artistDisplay": "iri",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
-      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e81c08137c426d629cfb6f95cf4ddffef13a1eea@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/firefly-wedding-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Period"
-      ],
-      "animeCandidates": [
-        "Firefly Wedding",
-        "Hotaru no Yomeiri",
-        "ホタルの嫁入り",
-        "Les Noces des Lucioles"
-      ],
-      "artistCandidates": [
-        "24229",
-        "iri",
-        "1mN9lPKzTRTOop4u7S1Uy9",
-        "388343274",
-        "1043542",
-        "UCtlXP5iI7TgKj_BI636L8Qw"
-      ],
-      "animethemesVideo": null
     }
   ],
   "platformSamples": [
@@ -5415,6 +5415,14 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/1Fy6rKHflo53bzo3DUetpJ",
       "apple": "https://geo.music.apple.com/album/6809699254?i=6809699255&at=1001l384j&ct=website-onegai-aipri-ed2&app=music"
+    },
+    {
+      "id": "28329",
+      "anime": "Witch on the Holy Night",
+      "song": "Yoru to Ao",
+      "kind": "TS",
+      "spotify": "https://open.spotify.com/track/23ZnolOxBUzzyHBv9dANIA",
+      "apple": "https://geo.music.apple.com/album/6836142603?i=6836142604&at=1001l384j&ct=website-witch-on-the-holy-night-ts&app=music"
     },
     {
       "id": "28328",
@@ -5431,6 +5439,14 @@
       "kind": "TS",
       "spotify": "https://open.spotify.com/track/4HDVkSfLcX9HZUO7wTP5YA",
       "apple": "https://geo.music.apple.com/album/6831438538?i=6831438539&at=1001l384j&ct=website-armored-trooper-votoms-die-gr-ts&app=music"
+    },
+    {
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
+      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music"
     },
     {
       "id": "28321",
@@ -5481,20 +5497,20 @@
       "apple": "https://geo.music.apple.com/album/6815901557?i=6815901737&at=1001l384j&ct=website-umayuru-full-gate-ed2&app=music"
     },
     {
-      "id": "28231",
-      "anime": "Super Psychic Policeman Chojo",
-      "song": "That's! Choujou",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
-      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
       "apple": "https://geo.music.apple.com/album/6817316270?i=6817316271&at=1001l384j&ct=website-the-apothecary-diaries-season-op&app=music"
+    },
+    {
+      "id": "28231",
+      "anime": "Super Psychic Policeman Chojo",
+      "song": "That's! Choujou",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
+      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music"
     },
     {
       "id": "28074",
@@ -5593,14 +5609,6 @@
       "apple": "https://geo.music.apple.com/album/6809422891?i=6809422894&at=1001l384j&ct=website-rascal-does-not-dream-of-a-de-in&app=music"
     },
     {
-      "id": "27817",
-      "anime": "Tokyo Revengers: War of the Three Titan Arc",
-      "song": "TRICKSTER",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX",
-      "apple": "https://geo.music.apple.com/album/6810161017?i=6810161018&at=1001l384j&ct=website-tokyo-revengers-war-of-the-th-ed&app=music"
-    },
-    {
       "id": "27905",
       "anime": "Blue Box Season 2",
       "song": "Anata no Hana no Iro",
@@ -5639,14 +5647,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
       "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music"
-    },
-    {
-      "id": "28045",
-      "anime": "Firefly Wedding",
-      "song": "Period",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0",
-      "apple": "https://geo.music.apple.com/album/6818025909?i=6818025910&at=1001l384j&ct=website-firefly-wedding-op&app=music"
     }
   ]
 }

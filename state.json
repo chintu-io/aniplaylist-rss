@@ -19670,7 +19670,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -19740,7 +19739,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -19807,7 +19805,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -21462,7 +21459,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -22149,5 +22145,71 @@
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-11-22T01:13:47.000Z"
+  },
+  "e24ff0988c1ba3b1": {
+    "id": "28329",
+    "anime": "Witch on the Holy Night",
+    "song": "Yoru to Ao",
+    "artist": "supercell",
+    "artistDisplay": "supercell",
+    "artistDisplayCount": 1,
+    "kind": "TS",
+    "kindLabel": "Theme Song",
+    "episodes": [],
+    "spotify": "https://open.spotify.com/track/23ZnolOxBUzzyHBv9dANIA",
+    "apple": "https://geo.music.apple.com/album/6836142603?i=6836142604&at=1001l384j&ct=website-witch-on-the-holy-night-ts&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5da9b745f35f276d0465cf2b9075f29820034e8d@2xl.jpeg",
+    "detailUrl": "https://aniplaylist.com/play/witch-on-the-holy-night-theme-song",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "status",
+      "tags",
+      "other_link_ids",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Yoru to Ao",
+      "夜と青"
+    ],
+    "animeCandidates": [
+      "Witch on the Holy Night",
+      "Mahoutsukai no Yoru",
+      "A Magician's Night",
+      "MahoYo",
+      "魔法使いの夜"
+    ],
+    "artistCandidates": [
+      "610",
+      "supercell",
+      "4Mc3zbnQx4wRb0tYg7A8sG",
+      "631665100",
+      "184460",
+      "UCjlifcVO6r-V5RSh3eB1lLg"
+    ],
+    "firstSeen": "2026-11-22T08:46:33.000Z"
   }
 }
