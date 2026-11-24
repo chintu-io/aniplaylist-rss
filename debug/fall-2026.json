@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 253,
+  "resultCount": 255,
   "animeThemesChecked": 156,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 74,
   "jsonResponses": 34,
   "algoliaResponses": 16,
   "hitArrays": 32,
-  "rawHits": 253,
-  "uniqueHits": 253,
-  "normalized": 253,
+  "rawHits": 255,
+  "uniqueHits": 255,
+  "normalized": 255,
   "withSpotify": 219,
   "withApple": 221,
   "withDetailUrl": 222,
   "resolvedSpotify": 219,
-  "recordThumbnails": 253,
+  "recordThumbnails": 255,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -404,16 +404,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg"
     },
     {
-      "id": "28321",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/f9b518b465f54218947c79697cb42d216a398085.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LWM6lB#Q-;xuyCo~oJi_~XE1S$XS",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/f9b518b465f54218947c79697cb42d216a398085@2xl.jpeg"
-    },
-    {
       "id": "28085",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82.jpg",
@@ -434,14 +424,14 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
     },
     {
-      "id": "28319",
+      "id": "28321",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/709c1ab6b2421ba425e23abbd5922c9918d6aa6a.jpeg",
+      "thumbnail": "thumbnails/f9b518b465f54218947c79697cb42d216a398085.jpeg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "L54_tiRjRjj[00t7t7WB~qWBRjj[",
+      "thumbnail_hash": "LWM6lB#Q-;xuyCo~oJi_~XE1S$XS",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/709c1ab6b2421ba425e23abbd5922c9918d6aa6a@2xl.jpeg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/f9b518b465f54218947c79697cb42d216a398085@2xl.jpeg"
     },
     {
       "id": "27821",
@@ -454,34 +444,44 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/62f935a021ce799e1890dd2bacab33a446e03999@2xl.jpeg"
     },
     {
-      "id": "28229",
+      "id": "us_3420",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/6ce5e7a260488767a0adc7eed15b59070f33ee39.jpg",
+      "thumbnail": "thumbnails/6fe0e31a8c6ec2c9a8dafdd80d5d80c1c9d3806b.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LLM~-X8w-=Rk}^x]obIU.SM_D%%M",
+      "thumbnail_hash": "L8BNG*0J00^-y8R*Rnt600~X_K9E",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/6ce5e7a260488767a0adc7eed15b59070f33ee39@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/6fe0e31a8c6ec2c9a8dafdd80d5d80c1c9d3806b@2xl.jpg"
     },
     {
-      "id": "28318",
+      "id": "us_3419",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/51207a0fa72b116dfac7f23d03e4b4c8bf3efcfb.jpg",
+      "thumbnail": "thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LBMj?u.S00kDcu~X-plB00n2u5tl",
+      "thumbnail_hash": "LBP?O88wUxE1_M4Tmlv#00Mc8^M{",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/51207a0fa72b116dfac7f23d03e4b4c8bf3efcfb@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg"
+    },
+    {
+      "id": "28084",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LoM7[Yo~%fMy?wNGM{oJxuWBV@of",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg"
     }
   ],
-  "expectedHits": 253,
+  "expectedHits": 255,
   "expectedPages": 16,
   "receivedPages": 16,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -489,7 +489,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -497,7 +497,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -505,7 +505,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -513,7 +513,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -521,7 +521,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -529,7 +529,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -537,7 +537,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -545,7 +545,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -553,7 +553,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -561,7 +561,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -569,7 +569,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -577,7 +577,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -585,7 +585,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -593,7 +593,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -601,7 +601,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -609,7 +609,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -617,7 +617,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -625,7 +625,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -633,7 +633,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -641,7 +641,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -649,7 +649,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -657,7 +657,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -665,7 +665,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -673,7 +673,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -681,7 +681,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -689,7 +689,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -697,7 +697,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -705,7 +705,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -713,7 +713,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -721,15 +721,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 15,
-      "nbHits": 253,
+      "nbHits": 255,
       "hitsPerPage": 16,
       "nbPages": 16,
-      "count": 13
+      "count": 15
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28612,
+      "nbHits": 28614,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -1067,71 +1067,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28321",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Soundtrack",
-      "artist": "onoken",
-      "artistDisplay": "onoken",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/6aItWkzMnXNc63i1F8wQbl",
-      "apple": "https://geo.music.apple.com/album/6834771893?at=1001l384j&ct=website-with-vengeance-sincerely-you-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f9b518b465f54218947c79697cb42d216a398085@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Soundtrack",
-        "Listen to 傷だらけ聖女より報復をこめてSeason2 - サウンドトラック",
-        "With Vengeance, Sincerely, Your Broken Saintess Season 2 - Animation Soundtrack -"
-      ],
-      "animeCandidates": [
-        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
-        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
-        "傷だらけ聖女より報復をこめて Season2"
-      ],
-      "artistCandidates": [
-        "15428",
-        "onoken",
-        "4bQFn6WUUBu0cgLu9Q9EEv",
-        "210602927",
-        "8931822",
-        "UCwK0FPYqFlnM6sABcqqVA7Q"
-      ]
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -1265,19 +1200,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28319",
-      "anime": "Duel Masters LOST: Danzai no Shounen",
-      "song": "Original Soundtrack Vol. 2",
-      "artist": "Go Sakabe",
-      "artistDisplay": "Go Sakabe",
+      "id": "28321",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Soundtrack",
+      "artist": "onoken",
+      "artistDisplay": "onoken",
       "artistDisplayCount": 1,
       "kind": "OST",
       "kindLabel": "OST",
       "episodes": [],
-      "spotify": "https://open.spotify.com/album/7taF4BtW9SSBSBidBxl9A3",
-      "apple": "https://geo.music.apple.com/album/6831091526?at=1001l384j&ct=website-duel-masters-lost-danzai-no-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/709c1ab6b2421ba425e23abbd5922c9918d6aa6a@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/duel-masters-lost-danzai-no-shounen-original-soundtrack",
+      "spotify": "https://open.spotify.com/album/6aItWkzMnXNc63i1F8wQbl",
+      "apple": "https://geo.music.apple.com/album/6834771893?at=1001l384j&ct=website-with-vengeance-sincerely-you-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f9b518b465f54218947c79697cb42d216a398085@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-original-soundtrack",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1305,24 +1240,28 @@
         "short_link",
         "status",
         "tags",
+        "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Original Soundtrack Vol. 2",
-        "Duel Masters LOST オリジナルサウンドトラック Vol. 2"
+        "Soundtrack",
+        "Listen to 傷だらけ聖女より報復をこめてSeason2 - サウンドトラック",
+        "With Vengeance, Sincerely, Your Broken Saintess Season 2 - Animation Soundtrack -"
       ],
       "animeCandidates": [
-        "Duel Masters LOST: Danzai no Shounen",
-        "Duel Masters LOST ～断罪の少年～"
+        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
+        "傷だらけ聖女より報復をこめて Season2"
       ],
       "artistCandidates": [
-        "1111",
-        "Go Sakabe",
-        "坂部剛",
-        "Tsuyoshi Sakabe",
-        "3TN34So0ys58liaK3AQtxu",
-        "334197953"
+        "15428",
+        "onoken",
+        "4bQFn6WUUBu0cgLu9Q9EEv",
+        "210602927",
+        "8931822",
+        "UCwK0FPYqFlnM6sABcqqVA7Q"
       ]
     },
     {
@@ -1394,19 +1333,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28229",
-      "anime": "My Happy Marriage Special",
-      "song": "Prelude no Temae ni ~for me&you~",
-      "artist": "Kashitaro Ito",
-      "artistDisplay": "Kashitaro Ito",
+      "id": "us_3420",
+      "anime": "Evergreen",
+      "song": "Evergreen",
+      "artist": "Official HIGE DANdism",
+      "artistDisplay": "Official HIGE DANdism",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "MV",
+      "kindLabel": "Music Video",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/2wCob1Fah2VVX2CAtLxm2A",
-      "apple": "https://geo.music.apple.com/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6ce5e7a260488767a0adc7eed15b59070f33ee39@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-ending",
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6fe0e31a8c6ec2c9a8dafdd80d5d80c1c9d3806b@2xl.jpg",
+      "detailUrl": "",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1419,9 +1358,6 @@
         "updated_at",
         "season",
         "artists",
-        "links",
-        "platforms",
-        "preview_url",
         "song_key",
         "song_type",
         "song_type_short",
@@ -1430,50 +1366,44 @@
         "thumbnail_hash",
         "blur_image",
         "display_artists",
-        "label",
         "short_link",
-        "status",
-        "other_link_ids",
+        "tags",
+        "web",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Prelude no Temae ni ~for me&you~",
-        "プレリュードの手前に 〜for me&you〜",
-        "Just before the Prelude 〜for me&you〜"
+        "Evergreen",
+        "エバーグリーン"
       ],
       "animeCandidates": [
-        "My Happy Marriage Special",
-        "Watashi no Shiawase na Kekkon Special",
-        "わたしの幸せな結婚 特別篇",
-        "My Happy Marriage",
-        "My Blissful Marriage"
+        "Evergreen",
+        "エバーグリーン"
       ],
       "artistCandidates": [
-        "3944",
-        "Kashitaro Ito",
-        "伊東歌詞太郎",
-        "3i7tuzRfutJGAUowspOM1f",
-        "647767887",
-        "12940643",
-        "UC5_fOcOtisCekgSlPR-zPvA"
-      ],
-      "animethemesVideo": null
+        "583",
+        "Official HIGE DANdism",
+        "Official髭男dism",
+        "5Vo1hnCRmCM6M4thZCInCj",
+        "960568308",
+        "7579730",
+        "UC84Rm0a3gimYXPtqp5O_JRw"
+      ]
     },
     {
-      "id": "28318",
-      "anime": "Tetsuryou! Meet with Tetsudou Musume",
-      "song": "GO! GO! RAILWAY!!",
-      "artist": "Asaka",
-      "artistDisplay": "Asaka",
+      "id": "us_3419",
+      "anime": "ghost / Yoru no Hate",
+      "song": "Original Soundtrack",
+      "artist": "Ohzora Kimishima",
+      "artistDisplay": "Ohzora Kimishima",
       "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
+      "kind": "OST",
+      "kindLabel": "OST",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/2DXIQrUGyXEV4bUWHO0DH0",
-      "apple": "https://geo.music.apple.com/album/6824777853?i=6824777858&at=1001l384j&ct=website-tetsuryou-meet-with-tetsudou-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/51207a0fa72b116dfac7f23d03e4b4c8bf3efcfb@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/tetsuryou-meet-with-tetsudou-musume-opening",
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg",
+      "detailUrl": "",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1486,9 +1416,6 @@
         "updated_at",
         "season",
         "artists",
-        "links",
-        "platforms",
-        "preview_url",
         "song_key",
         "song_type",
         "song_type_short",
@@ -1497,32 +1424,25 @@
         "thumbnail_hash",
         "blur_image",
         "display_artists",
-        "label",
         "short_link",
-        "status",
         "tags",
-        "other_link_ids",
+        "web",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "GO! GO! RAILWAY!!"
+        "Original Soundtrack"
       ],
       "animeCandidates": [
-        "Tetsuryou! Meet with Tetsudou Musume",
-        "Tetsuryo! Meet with Railroad Girls",
-        "てつりょー！meet with 鉄道むすめ"
+        "ghost / Yoru no Hate",
+        "ghost／夜の果て",
+        "Ghost: Yoru no Hate"
       ],
       "artistCandidates": [
-        "397",
-        "Asaka",
-        "亜咲花",
-        "0QwTvn35AQMMELpKDU176h",
-        "1154905403",
-        "13887037",
-        "UCMRcsWDXgBZxkGV0E5ZGA2Q"
-      ],
-      "animethemesVideo": null
+        "25842",
+        "Ohzora Kimishima",
+        "君島大空"
+      ]
     },
     {
       "id": "28084",
@@ -1584,65 +1504,6 @@
         "1081410768",
         "12421168",
         "UCx0PImuCTAcomS3v-cZOBDA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28230",
-      "anime": "Umayuru: Full Gate!",
-      "song": "Yuruyuru SAMBA",
-      "artist": "Various artists",
-      "artistDisplay": "Silence Suzuka (CV: Marika Kouno), Inari One (CV: Haruno Inoue), Shinko Windy (CV: Yuuki Takada), Bamboo Memory (CV: Kotomi Aihara), Biko Pegasus (CV: Aimi Tanaka), Mejiro Dober (CV: Hikari Kubota), Mejiro Bright (CV: Ayaka Ohnishi), Stay Gold (CV: Satsumi Matsuda) & Uma Musume Pretty Derby",
-      "artistDisplayCount": 9,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3UzhSsRoUMrGAoU7KVIFHD",
-      "apple": "https://geo.music.apple.com/album/6815901557?i=6815901737&at=1001l384j&ct=website-umayuru-full-gate-ed2&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fb0f74339f134e9a446ec328fda51b2b71c68f1d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/umayuru-full-gate-ending-2",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yuruyuru SAMBA",
-        "ゆるゆるSAMBA"
-      ],
-      "animeCandidates": [
-        "Umayuru: Full Gate!",
-        "うまゆるふるげ〜と!"
-      ],
-      "artistCandidates": [
-        "Various artists"
       ],
       "animethemesVideo": null
     },
@@ -1711,72 +1572,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28317",
-      "anime": "Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!",
-      "song": "Risk Rate",
-      "artist": "BUDDiiS",
-      "artistDisplay": "BUDDiiS",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6TCVwnHS2Zqghb1Om6s9vi",
-      "apple": "https://geo.music.apple.com/album/6820380163?i=6820380352&at=1001l384j&ct=website-magic-repo-man-dumped-by-my-p-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1156a8c81454055c8be120e8f3d6bfe942e90373@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Risk Rate",
-        "リスクレート"
-      ],
-      "animeCandidates": [
-        "Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!",
-        "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
-        "Lent Magic Point Is Forcibly Collected by Revolving Payment",
-        "Unlimited Vault: The Magic They Borrowed Will Be Their Downfall",
-        "貸した魔力は【リボ払い】で強制徴収"
-      ],
-      "artistCandidates": [
-        "23628",
-        "BUDDiiS",
-        "68hd7ONzgN98uAZDWMlmAQ",
-        "1564679733",
-        "131142342",
-        "UCrkcNhwGAvFoFrmwgq3MWlA"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "27992",
       "anime": "Black Clover 2nd Season",
       "song": "Yellow Brick Road",
@@ -1835,71 +1630,6 @@
         "1758291632",
         "275967661",
         "UCwwBJHxlinPZ6cHS6UzQ7Ig"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28231",
-      "anime": "Super Psychic Policeman Chojo",
-      "song": "That's! Choujou",
-      "artist": "M!LK",
-      "artistDisplay": "M!LK",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
-      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "That's! Choujou",
-        "ザッツ！超常"
-      ],
-      "animeCandidates": [
-        "Super Psychic Policeman Chojo",
-        "Choujun! Choujou-senpai",
-        "超巡!超条先輩"
-      ],
-      "artistCandidates": [
-        "3564",
-        "M!LK",
-        "MILK",
-        "4jhJ8cnJ9vYKyCh289nuwQ",
-        "1356706755",
-        "14307405",
-        "UChbU0n7P86fWdZtlzCNCeGg"
       ],
       "animethemesVideo": null
     },
@@ -2168,6 +1898,73 @@
         "74954644",
         "208716347",
         "UCIdyBeiGorESL-FlrE_88Lw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28229",
+      "anime": "My Happy Marriage Special",
+      "song": "Prelude no Temae ni ~for me&you~",
+      "artist": "Kashitaro Ito",
+      "artistDisplay": "Kashitaro Ito",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2wCob1Fah2VVX2CAtLxm2A",
+      "apple": "https://geo.music.apple.com/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6ce5e7a260488767a0adc7eed15b59070f33ee39@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Prelude no Temae ni ~for me&you~",
+        "プレリュードの手前に 〜for me&you〜",
+        "Just before the Prelude 〜for me&you〜"
+      ],
+      "animeCandidates": [
+        "My Happy Marriage Special",
+        "Watashi no Shiawase na Kekkon Special",
+        "わたしの幸せな結婚 特別篇",
+        "My Happy Marriage",
+        "My Blissful Marriage"
+      ],
+      "artistCandidates": [
+        "3944",
+        "Kashitaro Ito",
+        "伊東歌詞太郎",
+        "3i7tuzRfutJGAUowspOM1f",
+        "647767887",
+        "12940643",
+        "UC5_fOcOtisCekgSlPR-zPvA"
       ],
       "animethemesVideo": null
     },
@@ -2705,6 +2502,207 @@
         "UC2PTQOPrZautcQGly-U6Uqw"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "27976",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Pi",
+      "artist": "NANAOAKARI",
+      "artistDisplay": "NANAOAKARI",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH",
+      "apple": "https://geo.music.apple.com/album/6815570138?i=6815570499&at=1001l384j&ct=website-even-the-student-council-has-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3c211ec26daf10bfeb915d011906f1279c285720@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Pi",
+        "ぴ"
+      ],
+      "animeCandidates": [
+        "Even the Student Council Has Its Holes!",
+        "Seitokai ni mo Ana wa Aru!",
+        "生徒会にも穴はある！",
+        "There Is Also a Hole in the Student Organization!"
+      ],
+      "artistCandidates": [
+        "569",
+        "NANAOAKARI",
+        "Nanawoakari",
+        "ナナヲアカリ",
+        "Akari Nanawo",
+        "06jSjpC81wzjoUoE61Fhdn",
+        "1326067929",
+        "128010782",
+        "UC160OjZevHTl0K8vk_g1vZQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27816",
+      "anime": "Chitose Is in the Ramune Bottle Part 2",
+      "song": "Saku",
+      "artist": "Cidergirl",
+      "artistDisplay": "Cidergirl",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0BEdZNUmMEG21Wt0dGgUfc",
+      "apple": "https://geo.music.apple.com/album/6806963625?i=6806963628&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c6fe18d65c58205f8fc6f2090dccee9f1fb5a800@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/chitose-is-in-the-ramune-bottle-part-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Saku",
+        "咲く"
+      ],
+      "animeCandidates": [
+        "Chitose Is in the Ramune Bottle Part 2",
+        "Chitose-kun wa Ramune Bin no Naka Part 2",
+        "Chiramune",
+        "Chitose-kun is Inside a Ramune Bottle",
+        "Ramune no Bin ni Shizunda Biidama no Tsuki",
+        "千歳くんはラムネ瓶のなか 第2クール"
+      ],
+      "artistCandidates": [
+        "2731",
+        "Cidergirl",
+        "CIDER GIRL",
+        "サイダーガール",
+        "CIDERGIRL",
+        "3hprFQEXS7glX1Jxxwv9Dn",
+        "1159148258",
+        "13082439",
+        "UCPsZegYUPKEsylhuz4Qs1Aw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28157",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Role-Playing Life",
+      "artist": "Luov",
+      "artistDisplay": "Luov",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
+      "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6b6893ebedf1618ee8ae63d8bc0a851e77084ed9@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Role-Playing Life",
+        "ロールプレイングライフ"
+      ],
+      "animeCandidates": [
+        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+        "Chii Fuyo",
+        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
+        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
+      ],
+      "artistCandidates": [
+        "25585",
+        "Luov",
+        "65qX1IKOU3lXJsZ327lCww",
+        "1800415034",
+        "306876311",
+        "UCYuWBWwRueIsp5zQqnU7YZQ"
+      ],
+      "animethemesVideo": null
     }
   ],
   "sourceMetadataSamples": [
@@ -2833,6 +2831,47 @@
         "tags": [
           "2_airing",
           "4_missing"
+        ]
+      }
+    },
+    {
+      "id": "28304",
+      "titles": [
+        "Hikari no Soba de",
+        "光の側で"
+      ],
+      "rawArtists": [
+        {
+          "id": 16565,
+          "names": [
+            "Nanashi no Taro",
+            "名無し之太郎"
+          ],
+          "links": [
+            "32xxJA5U8ot0QZPDllZ1po",
+            "1561101450",
+            "233584571",
+            "UCtYIwrBgW5h-nj6vytKbohQ"
+          ]
+        }
+      ],
+      "rawDisplayArtists": [
+        "Nanashi no Taro"
+      ],
+      "type": "track",
+      "song_type": "Ending",
+      "song_type_short": "ED",
+      "label": "Universal Music LLC",
+      "tags": [
+        "2_airing"
+      ],
+      "episodeFields": {
+        "type": "track",
+        "song_type": "Ending",
+        "song_type_short": "ED",
+        "label": "Universal Music LLC",
+        "tags": [
+          "2_airing"
         ]
       }
     },
@@ -3201,47 +3240,6 @@
         "song_type_short": "IN",
         "label": "Sony Music Labels Inc."
       }
-    },
-    {
-      "id": "28304",
-      "titles": [
-        "Hikari no Soba de",
-        "光の側で"
-      ],
-      "rawArtists": [
-        {
-          "id": 16565,
-          "names": [
-            "Nanashi no Taro",
-            "名無し之太郎"
-          ],
-          "links": [
-            "32xxJA5U8ot0QZPDllZ1po",
-            "1561101450",
-            "233584571",
-            "UCtYIwrBgW5h-nj6vytKbohQ"
-          ]
-        }
-      ],
-      "rawDisplayArtists": [
-        "Nanashi no Taro"
-      ],
-      "type": "track",
-      "song_type": "Ending",
-      "song_type_short": "ED",
-      "label": "Universal Music LLC",
-      "tags": [
-        "2_airing"
-      ],
-      "episodeFields": {
-        "type": "track",
-        "song_type": "Ending",
-        "song_type_short": "ED",
-        "label": "Universal Music LLC",
-        "tags": [
-          "2_airing"
-        ]
-      }
     }
   ],
   "detailUrlSamples": [
@@ -3281,13 +3279,6 @@
       "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7"
     },
     {
-      "id": "28321",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Soundtrack",
-      "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-original-soundtrack"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -3302,11 +3293,11 @@
       "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
     },
     {
-      "id": "28319",
-      "anime": "Duel Masters LOST: Danzai no Shounen",
-      "song": "Original Soundtrack Vol. 2",
+      "id": "28321",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Soundtrack",
       "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/duel-masters-lost-danzai-no-shounen-original-soundtrack"
+      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-original-soundtrack"
     },
     {
       "id": "27821",
@@ -3316,32 +3307,11 @@
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening"
     },
     {
-      "id": "28229",
-      "anime": "My Happy Marriage Special",
-      "song": "Prelude no Temae ni ~for me&you~",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-ending"
-    },
-    {
-      "id": "28318",
-      "anime": "Tetsuryou! Meet with Tetsudou Musume",
-      "song": "GO! GO! RAILWAY!!",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/tetsuryou-meet-with-tetsudou-musume-opening"
-    },
-    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/the-ramparts-of-ice-season-2-opening"
-    },
-    {
-      "id": "28230",
-      "anime": "Umayuru: Full Gate!",
-      "song": "Yuruyuru SAMBA",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/umayuru-full-gate-ending-2"
     },
     {
       "id": "28076",
@@ -3351,25 +3321,11 @@
       "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-ending"
     },
     {
-      "id": "28317",
-      "anime": "Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!",
-      "song": "Risk Rate",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-opening"
-    },
-    {
       "id": "27992",
       "anime": "Black Clover 2nd Season",
       "song": "Yellow Brick Road",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/black-clover-2nd-season-ending"
-    },
-    {
-      "id": "28231",
-      "anime": "Super Psychic Policeman Chojo",
-      "song": "That's! Choujou",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening"
     },
     {
       "id": "27905",
@@ -3398,6 +3354,13 @@
       "song": "SHAKARIKI!!",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size"
+    },
+    {
+      "id": "28229",
+      "anime": "My Happy Marriage Special",
+      "song": "Prelude no Temae ni ~for me&you~",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-ending"
     },
     {
       "id": "28045",
@@ -3454,6 +3417,41 @@
       "song": "Mada Uso ni Naranai",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-ending"
+    },
+    {
+      "id": "27976",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Pi",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-ending"
+    },
+    {
+      "id": "27816",
+      "anime": "Chitose Is in the Ramune Bottle Part 2",
+      "song": "Saku",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/chitose-is-in-the-ramune-bottle-part-2-opening"
+    },
+    {
+      "id": "28157",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Role-Playing Life",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending"
+    },
+    {
+      "id": "28082",
+      "anime": "Magic Knight Rayearth (2026)",
+      "song": "Otome no Tsurugi",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-opening-1"
+    },
+    {
+      "id": "28119",
+      "anime": "A Certain Dark Side's Item",
+      "song": "Ghost Sequence",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-opening"
     }
   ],
   "usableSamples": [
@@ -3788,71 +3786,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28321",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Soundtrack",
-      "artist": "onoken",
-      "artistDisplay": "onoken",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/6aItWkzMnXNc63i1F8wQbl",
-      "apple": "https://geo.music.apple.com/album/6834771893?at=1001l384j&ct=website-with-vengeance-sincerely-you-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f9b518b465f54218947c79697cb42d216a398085@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Soundtrack",
-        "Listen to 傷だらけ聖女より報復をこめてSeason2 - サウンドトラック",
-        "With Vengeance, Sincerely, Your Broken Saintess Season 2 - Animation Soundtrack -"
-      ],
-      "animeCandidates": [
-        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
-        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
-        "傷だらけ聖女より報復をこめて Season2"
-      ],
-      "artistCandidates": [
-        "15428",
-        "onoken",
-        "4bQFn6WUUBu0cgLu9Q9EEv",
-        "210602927",
-        "8931822",
-        "UCwK0FPYqFlnM6sABcqqVA7Q"
-      ]
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -3986,19 +3919,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28319",
-      "anime": "Duel Masters LOST: Danzai no Shounen",
-      "song": "Original Soundtrack Vol. 2",
-      "artist": "Go Sakabe",
-      "artistDisplay": "Go Sakabe",
+      "id": "28321",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Soundtrack",
+      "artist": "onoken",
+      "artistDisplay": "onoken",
       "artistDisplayCount": 1,
       "kind": "OST",
       "kindLabel": "OST",
       "episodes": [],
-      "spotify": "https://open.spotify.com/album/7taF4BtW9SSBSBidBxl9A3",
-      "apple": "https://geo.music.apple.com/album/6831091526?at=1001l384j&ct=website-duel-masters-lost-danzai-no-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/709c1ab6b2421ba425e23abbd5922c9918d6aa6a@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/duel-masters-lost-danzai-no-shounen-original-soundtrack",
+      "spotify": "https://open.spotify.com/album/6aItWkzMnXNc63i1F8wQbl",
+      "apple": "https://geo.music.apple.com/album/6834771893?at=1001l384j&ct=website-with-vengeance-sincerely-you-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/f9b518b465f54218947c79697cb42d216a398085@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/with-vengeance-sincerely-your-broken-saintess-season-2-original-soundtrack",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4026,24 +3959,28 @@
         "short_link",
         "status",
         "tags",
+        "other_link_ids",
         "unreleased",
         "objectID"
       ],
       "titleCandidates": [
-        "Original Soundtrack Vol. 2",
-        "Duel Masters LOST オリジナルサウンドトラック Vol. 2"
+        "Soundtrack",
+        "Listen to 傷だらけ聖女より報復をこめてSeason2 - サウンドトラック",
+        "With Vengeance, Sincerely, Your Broken Saintess Season 2 - Animation Soundtrack -"
       ],
       "animeCandidates": [
-        "Duel Masters LOST: Danzai no Shounen",
-        "Duel Masters LOST ～断罪の少年～"
+        "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+        "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+        "The Holy Wound Became a Villain Vengeance from a Saint Full of Wounds Season 2",
+        "傷だらけ聖女より報復をこめて Season2"
       ],
       "artistCandidates": [
-        "1111",
-        "Go Sakabe",
-        "坂部剛",
-        "Tsuyoshi Sakabe",
-        "3TN34So0ys58liaK3AQtxu",
-        "334197953"
+        "15428",
+        "onoken",
+        "4bQFn6WUUBu0cgLu9Q9EEv",
+        "210602927",
+        "8931822",
+        "UCwK0FPYqFlnM6sABcqqVA7Q"
       ]
     },
     {
@@ -4115,137 +4052,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28229",
-      "anime": "My Happy Marriage Special",
-      "song": "Prelude no Temae ni ~for me&you~",
-      "artist": "Kashitaro Ito",
-      "artistDisplay": "Kashitaro Ito",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2wCob1Fah2VVX2CAtLxm2A",
-      "apple": "https://geo.music.apple.com/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6ce5e7a260488767a0adc7eed15b59070f33ee39@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Prelude no Temae ni ~for me&you~",
-        "プレリュードの手前に 〜for me&you〜",
-        "Just before the Prelude 〜for me&you〜"
-      ],
-      "animeCandidates": [
-        "My Happy Marriage Special",
-        "Watashi no Shiawase na Kekkon Special",
-        "わたしの幸せな結婚 特別篇",
-        "My Happy Marriage",
-        "My Blissful Marriage"
-      ],
-      "artistCandidates": [
-        "3944",
-        "Kashitaro Ito",
-        "伊東歌詞太郎",
-        "3i7tuzRfutJGAUowspOM1f",
-        "647767887",
-        "12940643",
-        "UC5_fOcOtisCekgSlPR-zPvA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28318",
-      "anime": "Tetsuryou! Meet with Tetsudou Musume",
-      "song": "GO! GO! RAILWAY!!",
-      "artist": "Asaka",
-      "artistDisplay": "Asaka",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2DXIQrUGyXEV4bUWHO0DH0",
-      "apple": "https://geo.music.apple.com/album/6824777853?i=6824777858&at=1001l384j&ct=website-tetsuryou-meet-with-tetsudou-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/51207a0fa72b116dfac7f23d03e4b4c8bf3efcfb@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/tetsuryou-meet-with-tetsudou-musume-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "GO! GO! RAILWAY!!"
-      ],
-      "animeCandidates": [
-        "Tetsuryou! Meet with Tetsudou Musume",
-        "Tetsuryo! Meet with Railroad Girls",
-        "てつりょー！meet with 鉄道むすめ"
-      ],
-      "artistCandidates": [
-        "397",
-        "Asaka",
-        "亜咲花",
-        "0QwTvn35AQMMELpKDU176h",
-        "1154905403",
-        "13887037",
-        "UCMRcsWDXgBZxkGV0E5ZGA2Q"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
@@ -4305,65 +4111,6 @@
         "1081410768",
         "12421168",
         "UCx0PImuCTAcomS3v-cZOBDA"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28230",
-      "anime": "Umayuru: Full Gate!",
-      "song": "Yuruyuru SAMBA",
-      "artist": "Various artists",
-      "artistDisplay": "Silence Suzuka (CV: Marika Kouno), Inari One (CV: Haruno Inoue), Shinko Windy (CV: Yuuki Takada), Bamboo Memory (CV: Kotomi Aihara), Biko Pegasus (CV: Aimi Tanaka), Mejiro Dober (CV: Hikari Kubota), Mejiro Bright (CV: Ayaka Ohnishi), Stay Gold (CV: Satsumi Matsuda) & Uma Musume Pretty Derby",
-      "artistDisplayCount": 9,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3UzhSsRoUMrGAoU7KVIFHD",
-      "apple": "https://geo.music.apple.com/album/6815901557?i=6815901737&at=1001l384j&ct=website-umayuru-full-gate-ed2&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fb0f74339f134e9a446ec328fda51b2b71c68f1d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/umayuru-full-gate-ending-2",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yuruyuru SAMBA",
-        "ゆるゆるSAMBA"
-      ],
-      "animeCandidates": [
-        "Umayuru: Full Gate!",
-        "うまゆるふるげ〜と!"
-      ],
-      "artistCandidates": [
-        "Various artists"
       ],
       "animethemesVideo": null
     },
@@ -4432,72 +4179,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28317",
-      "anime": "Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!",
-      "song": "Risk Rate",
-      "artist": "BUDDiiS",
-      "artistDisplay": "BUDDiiS",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6TCVwnHS2Zqghb1Om6s9vi",
-      "apple": "https://geo.music.apple.com/album/6820380163?i=6820380352&at=1001l384j&ct=website-magic-repo-man-dumped-by-my-p-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/1156a8c81454055c8be120e8f3d6bfe942e90373@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Risk Rate",
-        "リスクレート"
-      ],
-      "animeCandidates": [
-        "Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!",
-        "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
-        "Lent Magic Point Is Forcibly Collected by Revolving Payment",
-        "Unlimited Vault: The Magic They Borrowed Will Be Their Downfall",
-        "貸した魔力は【リボ払い】で強制徴収"
-      ],
-      "artistCandidates": [
-        "23628",
-        "BUDDiiS",
-        "68hd7ONzgN98uAZDWMlmAQ",
-        "1564679733",
-        "131142342",
-        "UCrkcNhwGAvFoFrmwgq3MWlA"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "27992",
       "anime": "Black Clover 2nd Season",
       "song": "Yellow Brick Road",
@@ -4556,71 +4237,6 @@
         "1758291632",
         "275967661",
         "UCwwBJHxlinPZ6cHS6UzQ7Ig"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28231",
-      "anime": "Super Psychic Policeman Chojo",
-      "song": "That's! Choujou",
-      "artist": "M!LK",
-      "artistDisplay": "M!LK",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
-      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/692b4d3cc49df638a87a3f3f8704286d2dada375@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/super-psychic-policeman-chojo-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "That's! Choujou",
-        "ザッツ！超常"
-      ],
-      "animeCandidates": [
-        "Super Psychic Policeman Chojo",
-        "Choujun! Choujou-senpai",
-        "超巡!超条先輩"
-      ],
-      "artistCandidates": [
-        "3564",
-        "M!LK",
-        "MILK",
-        "4jhJ8cnJ9vYKyCh289nuwQ",
-        "1356706755",
-        "14307405",
-        "UChbU0n7P86fWdZtlzCNCeGg"
       ],
       "animethemesVideo": null
     },
@@ -4889,6 +4505,73 @@
         "74954644",
         "208716347",
         "UCIdyBeiGorESL-FlrE_88Lw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28229",
+      "anime": "My Happy Marriage Special",
+      "song": "Prelude no Temae ni ~for me&you~",
+      "artist": "Kashitaro Ito",
+      "artistDisplay": "Kashitaro Ito",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2wCob1Fah2VVX2CAtLxm2A",
+      "apple": "https://geo.music.apple.com/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6ce5e7a260488767a0adc7eed15b59070f33ee39@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/my-happy-marriage-special-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Prelude no Temae ni ~for me&you~",
+        "プレリュードの手前に 〜for me&you〜",
+        "Just before the Prelude 〜for me&you〜"
+      ],
+      "animeCandidates": [
+        "My Happy Marriage Special",
+        "Watashi no Shiawase na Kekkon Special",
+        "わたしの幸せな結婚 特別篇",
+        "My Happy Marriage",
+        "My Blissful Marriage"
+      ],
+      "artistCandidates": [
+        "3944",
+        "Kashitaro Ito",
+        "伊東歌詞太郎",
+        "3i7tuzRfutJGAUowspOM1f",
+        "647767887",
+        "12940643",
+        "UC5_fOcOtisCekgSlPR-zPvA"
       ],
       "animethemesVideo": null
     },
@@ -5426,6 +5109,337 @@
         "UC2PTQOPrZautcQGly-U6Uqw"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "27976",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Pi",
+      "artist": "NANAOAKARI",
+      "artistDisplay": "NANAOAKARI",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH",
+      "apple": "https://geo.music.apple.com/album/6815570138?i=6815570499&at=1001l384j&ct=website-even-the-student-council-has-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3c211ec26daf10bfeb915d011906f1279c285720@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Pi",
+        "ぴ"
+      ],
+      "animeCandidates": [
+        "Even the Student Council Has Its Holes!",
+        "Seitokai ni mo Ana wa Aru!",
+        "生徒会にも穴はある！",
+        "There Is Also a Hole in the Student Organization!"
+      ],
+      "artistCandidates": [
+        "569",
+        "NANAOAKARI",
+        "Nanawoakari",
+        "ナナヲアカリ",
+        "Akari Nanawo",
+        "06jSjpC81wzjoUoE61Fhdn",
+        "1326067929",
+        "128010782",
+        "UC160OjZevHTl0K8vk_g1vZQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "27816",
+      "anime": "Chitose Is in the Ramune Bottle Part 2",
+      "song": "Saku",
+      "artist": "Cidergirl",
+      "artistDisplay": "Cidergirl",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0BEdZNUmMEG21Wt0dGgUfc",
+      "apple": "https://geo.music.apple.com/album/6806963625?i=6806963628&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c6fe18d65c58205f8fc6f2090dccee9f1fb5a800@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/chitose-is-in-the-ramune-bottle-part-2-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Saku",
+        "咲く"
+      ],
+      "animeCandidates": [
+        "Chitose Is in the Ramune Bottle Part 2",
+        "Chitose-kun wa Ramune Bin no Naka Part 2",
+        "Chiramune",
+        "Chitose-kun is Inside a Ramune Bottle",
+        "Ramune no Bin ni Shizunda Biidama no Tsuki",
+        "千歳くんはラムネ瓶のなか 第2クール"
+      ],
+      "artistCandidates": [
+        "2731",
+        "Cidergirl",
+        "CIDER GIRL",
+        "サイダーガール",
+        "CIDERGIRL",
+        "3hprFQEXS7glX1Jxxwv9Dn",
+        "1159148258",
+        "13082439",
+        "UCPsZegYUPKEsylhuz4Qs1Aw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28157",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Role-Playing Life",
+      "artist": "Luov",
+      "artistDisplay": "Luov",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
+      "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6b6893ebedf1618ee8ae63d8bc0a851e77084ed9@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Role-Playing Life",
+        "ロールプレイングライフ"
+      ],
+      "animeCandidates": [
+        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+        "Chii Fuyo",
+        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
+        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
+      ],
+      "artistCandidates": [
+        "25585",
+        "Luov",
+        "65qX1IKOU3lXJsZ327lCww",
+        "1800415034",
+        "306876311",
+        "UCYuWBWwRueIsp5zQqnU7YZQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28082",
+      "anime": "Magic Knight Rayearth (2026)",
+      "song": "Otome no Tsurugi",
+      "artist": "Toaka",
+      "artistDisplay": "Toaka",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh",
+      "apple": "https://geo.music.apple.com/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/28037ad8aacf689e5ac44b58de79f3e95d713f04@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-opening-1",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Otome no Tsurugi",
+        "乙女の剣"
+      ],
+      "animeCandidates": [
+        "Magic Knight Rayearth (2026)",
+        "Mahou Kishi Rayearth",
+        "魔法騎士レイアース"
+      ],
+      "artistCandidates": [
+        "13040",
+        "Toaka",
+        "十明",
+        "0xFsJRSOYJmmuozISzreTR",
+        "1574639083",
+        "137872082",
+        "UCaBbPiMpdL5z86bWCFgCItA"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28119",
+      "anime": "A Certain Dark Side's Item",
+      "song": "Ghost Sequence",
+      "artist": "East of Eden",
+      "artistDisplay": "East of Eden",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6RbfCXkDGeOaU3a1C0PuQQ",
+      "apple": "https://geo.music.apple.com/album/6819949615?i=6819949616&at=1001l384j&ct=website-a-certain-dark-sides-item-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/149bcc1a48bb3887e934cf4c4599834c97140043@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Ghost Sequence"
+      ],
+      "animeCandidates": [
+        "A Certain Dark Side's Item",
+        "Toaru Anbu no Item",
+        "Toaru Anbu no Shoujo Kyousei",
+        "とある暗部の少女共棲",
+        "A Certain Dark Item"
+      ],
+      "artistCandidates": [
+        "23856",
+        "East of Eden",
+        "East Of Eden",
+        "3lvaevDiFzsr9cUrMV8HYn",
+        "1696602595",
+        "107676",
+        "UCrGFuEGlsGSGtVmqlYlyDQg"
+      ],
+      "animethemesVideo": null
     }
   ],
   "platformSamples": [
@@ -5470,14 +5484,6 @@
       "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music"
     },
     {
-      "id": "28321",
-      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-      "song": "Soundtrack",
-      "kind": "OST",
-      "spotify": "https://open.spotify.com/album/6aItWkzMnXNc63i1F8wQbl",
-      "apple": "https://geo.music.apple.com/album/6834771893?at=1001l384j&ct=website-with-vengeance-sincerely-you-ost&app=music"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -5494,12 +5500,12 @@
       "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
     },
     {
-      "id": "28319",
-      "anime": "Duel Masters LOST: Danzai no Shounen",
-      "song": "Original Soundtrack Vol. 2",
+      "id": "28321",
+      "anime": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "song": "Soundtrack",
       "kind": "OST",
-      "spotify": "https://open.spotify.com/album/7taF4BtW9SSBSBidBxl9A3",
-      "apple": "https://geo.music.apple.com/album/6831091526?at=1001l384j&ct=website-duel-masters-lost-danzai-no-ost&app=music"
+      "spotify": "https://open.spotify.com/album/6aItWkzMnXNc63i1F8wQbl",
+      "apple": "https://geo.music.apple.com/album/6834771893?at=1001l384j&ct=website-with-vengeance-sincerely-you-ost&app=music"
     },
     {
       "id": "27821",
@@ -5510,36 +5516,12 @@
       "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music"
     },
     {
-      "id": "28229",
-      "anime": "My Happy Marriage Special",
-      "song": "Prelude no Temae ni ~for me&you~",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/2wCob1Fah2VVX2CAtLxm2A",
-      "apple": "https://geo.music.apple.com/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music"
-    },
-    {
-      "id": "28318",
-      "anime": "Tetsuryou! Meet with Tetsudou Musume",
-      "song": "GO! GO! RAILWAY!!",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/2DXIQrUGyXEV4bUWHO0DH0",
-      "apple": "https://geo.music.apple.com/album/6824777853?i=6824777858&at=1001l384j&ct=website-tetsuryou-meet-with-tetsudou-op&app=music"
-    },
-    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/6SN1inZu149TLU3e8Xp2a0",
       "apple": "https://geo.music.apple.com/album/6819121866?i=6819121868&at=1001l384j&ct=website-the-ramparts-of-ice-season-2-op&app=music"
-    },
-    {
-      "id": "28230",
-      "anime": "Umayuru: Full Gate!",
-      "song": "Yuruyuru SAMBA",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/3UzhSsRoUMrGAoU7KVIFHD",
-      "apple": "https://geo.music.apple.com/album/6815901557?i=6815901737&at=1001l384j&ct=website-umayuru-full-gate-ed2&app=music"
     },
     {
       "id": "28076",
@@ -5550,28 +5532,12 @@
       "apple": "https://geo.music.apple.com/album/6817167001?i=6817167002&at=1001l384j&ct=website-dragon-ball-super-beerus-ed&app=music"
     },
     {
-      "id": "28317",
-      "anime": "Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!",
-      "song": "Risk Rate",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/6TCVwnHS2Zqghb1Om6s9vi",
-      "apple": "https://geo.music.apple.com/album/6820380163?i=6820380352&at=1001l384j&ct=website-magic-repo-man-dumped-by-my-p-op&app=music"
-    },
-    {
       "id": "27992",
       "anime": "Black Clover 2nd Season",
       "song": "Yellow Brick Road",
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5",
       "apple": "https://geo.music.apple.com/album/6815891682?i=6815891957&at=1001l384j&ct=website-black-clover-2nd-season-ed&app=music"
-    },
-    {
-      "id": "28231",
-      "anime": "Super Psychic Policeman Chojo",
-      "song": "That's! Choujou",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/14hfMbjvmRgDLFylGdNcGp",
-      "apple": "https://geo.music.apple.com/album/6824399887?i=6824399888&at=1001l384j&ct=website-super-psychic-policeman-chojo-op&app=music"
     },
     {
       "id": "27905",
@@ -5604,6 +5570,14 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
       "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music"
+    },
+    {
+      "id": "28229",
+      "anime": "My Happy Marriage Special",
+      "song": "Prelude no Temae ni ~for me&you~",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/2wCob1Fah2VVX2CAtLxm2A",
+      "apple": "https://geo.music.apple.com/album/6812593839?i=6812593844&at=1001l384j&ct=website-my-happy-marriage-special-ed&app=music"
     },
     {
       "id": "28045",
@@ -5668,6 +5642,46 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/11VIYlDzRZVBv0Ehu04YYz",
       "apple": "https://geo.music.apple.com/album/6812632348?i=6812632350&at=1001l384j&ct=website-hello-i-am-a-witch-and-my-cru-ed&app=music"
+    },
+    {
+      "id": "27976",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Pi",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH",
+      "apple": "https://geo.music.apple.com/album/6815570138?i=6815570499&at=1001l384j&ct=website-even-the-student-council-has-ed&app=music"
+    },
+    {
+      "id": "27816",
+      "anime": "Chitose Is in the Ramune Bottle Part 2",
+      "song": "Saku",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/0BEdZNUmMEG21Wt0dGgUfc",
+      "apple": "https://geo.music.apple.com/album/6806963625?i=6806963628&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-op&app=music"
+    },
+    {
+      "id": "28157",
+      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "song": "Role-Playing Life",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
+      "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music"
+    },
+    {
+      "id": "28082",
+      "anime": "Magic Knight Rayearth (2026)",
+      "song": "Otome no Tsurugi",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh",
+      "apple": "https://geo.music.apple.com/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music"
+    },
+    {
+      "id": "28119",
+      "anime": "A Certain Dark Side's Item",
+      "song": "Ghost Sequence",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/6RbfCXkDGeOaU3a1C0PuQQ",
+      "apple": "https://geo.music.apple.com/album/6819949615?i=6819949616&at=1001l384j&ct=website-a-certain-dark-sides-item-op&app=music"
     }
   ]
 }
