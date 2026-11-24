@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 255,
+  "resultCount": 252,
   "animeThemesChecked": 156,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 74,
   "jsonResponses": 34,
   "algoliaResponses": 16,
   "hitArrays": 32,
-  "rawHits": 255,
-  "uniqueHits": 255,
-  "normalized": 255,
-  "withSpotify": 219,
-  "withApple": 221,
-  "withDetailUrl": 222,
-  "resolvedSpotify": 219,
-  "recordThumbnails": 255,
+  "rawHits": 252,
+  "uniqueHits": 252,
+  "normalized": 252,
+  "withSpotify": 222,
+  "withApple": 224,
+  "withDetailUrl": 218,
+  "resolvedSpotify": 222,
+  "recordThumbnails": 252,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -464,24 +464,24 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg"
     },
     {
-      "id": "28084",
+      "id": "us_3421",
       "thumbnailType": "string",
-      "thumbnail": "thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873.jpg",
+      "thumbnail": "thumbnails/000116db63e05a272ec34431915ff3978576c8dd.jpg",
       "thumbnailHashType": "string",
-      "thumbnail_hash": "LoM7[Yo~%fMy?wNGM{oJxuWBV@of",
+      "thumbnail_hash": "L4B|AlM|%;?G00-nMUV{~R9c%ptL",
       "blurImageType": "number",
       "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/4986198d09ffd9e1b8718e7273c89f0fbfce8873@2xl.jpg"
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/000116db63e05a272ec34431915ff3978576c8dd@2xl.jpg"
     }
   ],
-  "expectedHits": 255,
+  "expectedHits": 252,
   "expectedPages": 16,
   "receivedPages": 16,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -489,7 +489,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -497,7 +497,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -505,7 +505,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -513,7 +513,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -521,7 +521,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -529,7 +529,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -537,7 +537,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -545,7 +545,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -553,7 +553,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -561,7 +561,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -569,7 +569,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -577,7 +577,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -585,7 +585,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -593,7 +593,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -601,7 +601,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -609,7 +609,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -617,7 +617,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -625,7 +625,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -633,7 +633,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -641,7 +641,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -649,7 +649,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -657,7 +657,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -665,7 +665,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -673,7 +673,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -681,7 +681,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -689,7 +689,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -697,7 +697,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -705,7 +705,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -713,7 +713,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -721,15 +721,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 15,
-      "nbHits": 255,
+      "nbHits": 252,
       "hitsPerPage": 16,
       "nbPages": 16,
-      "count": 15
+      "count": 12
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28614,
+      "nbHits": 28610,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -1445,6 +1445,59 @@
       ]
     },
     {
+      "id": "us_3421",
+      "anime": "Disney Twisted-Wonderland The Animation: Episode of Savanaclaw",
+      "song": "DIADEM",
+      "artist": "Savanaclaw Dorm",
+      "artistDisplay": "Savanaclaw Dorm",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/000116db63e05a272ec34431915ff3978576c8dd@2xl.jpg",
+      "detailUrl": "",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "DIADEM"
+      ],
+      "animeCandidates": [
+        "Disney Twisted-Wonderland The Animation: Episode of Savanaclaw",
+        "ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ サバナクロー"
+      ],
+      "artistCandidates": [
+        "25843",
+        "Savanaclaw Dorm",
+        "サバナクロー寮"
+      ]
+    },
+    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
@@ -1826,78 +1879,6 @@
         "1543171756",
         "200498657",
         "UCNqzk1hGE1UbZRTCMYsdrHg"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
-      "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
-      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "SHAKARIKI!!"
-      ],
-      "animeCandidates": [
-        "Digimon: World's Best Picks",
-        "The Best Adventure We Chose",
-        "僕らが選んだベストアドベンチャー",
-        "Bokura ga Eranda Best Adventure"
-      ],
-      "artistCandidates": [
-        "12570",
-        "Ayumi Miyazaki",
-        "宮崎歩",
-        "宮﨑歩",
-        "4Hjely5D21wDWfluTrZRhT",
-        "218732056",
-        "74835282",
-        "UCk0cOzmc7azCdYwVlp9hMKw",
-        "3297",
-        "Takayoshi Tanimoto",
-        "谷本貴義",
-        "5nCVXtvsB2KsngsMbk8Hat",
-        "74954644",
-        "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw"
       ],
       "animethemesVideo": null
     },
@@ -3349,13 +3330,6 @@
       "detailUrl": "https://aniplaylist.com/play/romelia-war-chronicle-opening"
     },
     {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size"
-    },
-    {
       "id": "28229",
       "anime": "My Happy Marriage Special",
       "song": "Prelude no Temae ni ~for me&you~",
@@ -3452,6 +3426,13 @@
       "song": "Ghost Sequence",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/a-certain-dark-sides-item-opening"
+    },
+    {
+      "id": "28230",
+      "anime": "Umayuru: Full Gate!",
+      "song": "Yuruyuru SAMBA",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/umayuru-full-gate-ending-2"
     }
   ],
   "usableSamples": [
@@ -4437,78 +4418,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
-      "artist": "Ayumi Miyazaki",
-      "artistDisplay": "Ayumi Miyazaki & Takayoshi Tanimoto",
-      "artistDisplayCount": 2,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
-      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/287ddc5bd9bf73424c92abe4fee7722b0ed4412b@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/digimon-worlds-best-picks-opening-tv-size",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "SHAKARIKI!!"
-      ],
-      "animeCandidates": [
-        "Digimon: World's Best Picks",
-        "The Best Adventure We Chose",
-        "僕らが選んだベストアドベンチャー",
-        "Bokura ga Eranda Best Adventure"
-      ],
-      "artistCandidates": [
-        "12570",
-        "Ayumi Miyazaki",
-        "宮崎歩",
-        "宮﨑歩",
-        "4Hjely5D21wDWfluTrZRhT",
-        "218732056",
-        "74835282",
-        "UCk0cOzmc7azCdYwVlp9hMKw",
-        "3297",
-        "Takayoshi Tanimoto",
-        "谷本貴義",
-        "5nCVXtvsB2KsngsMbk8Hat",
-        "74954644",
-        "208716347",
-        "UCIdyBeiGorESL-FlrE_88Lw"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28229",
       "anime": "My Happy Marriage Special",
       "song": "Prelude no Temae ni ~for me&you~",
@@ -5440,6 +5349,65 @@
         "UCrGFuEGlsGSGtVmqlYlyDQg"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "28230",
+      "anime": "Umayuru: Full Gate!",
+      "song": "Yuruyuru SAMBA",
+      "artist": "Various artists",
+      "artistDisplay": "Silence Suzuka (CV: Marika Kouno), Inari One (CV: Haruno Inoue), Shinko Windy (CV: Yuuki Takada), Bamboo Memory (CV: Kotomi Aihara), Biko Pegasus (CV: Aimi Tanaka), Mejiro Dober (CV: Hikari Kubota), Mejiro Bright (CV: Ayaka Ohnishi), Stay Gold (CV: Satsumi Matsuda) & Uma Musume Pretty Derby",
+      "artistDisplayCount": 9,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3UzhSsRoUMrGAoU7KVIFHD",
+      "apple": "https://geo.music.apple.com/album/6815901557?i=6815901737&at=1001l384j&ct=website-umayuru-full-gate-ed2&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fb0f74339f134e9a446ec328fda51b2b71c68f1d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/umayuru-full-gate-ending-2",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yuruyuru SAMBA",
+        "ゆるゆるSAMBA"
+      ],
+      "animeCandidates": [
+        "Umayuru: Full Gate!",
+        "うまゆるふるげ〜と!"
+      ],
+      "artistCandidates": [
+        "Various artists"
+      ],
+      "animethemesVideo": null
     }
   ],
   "platformSamples": [
@@ -5564,14 +5532,6 @@
       "apple": "https://geo.music.apple.com/album/6810987431?i=6810987618&at=1001l384j&ct=website-romelia-war-chronicle-op&app=music"
     },
     {
-      "id": "28262",
-      "anime": "Digimon: World's Best Picks",
-      "song": "SHAKARIKI!!",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/7v7MnBsC4lTiOzCWl04pwK",
-      "apple": "https://geo.music.apple.com/album/6820887967?i=6820887968&at=1001l384j&ct=website-digimon-worlds-best-pi-optv-size&app=music"
-    },
-    {
       "id": "28229",
       "anime": "My Happy Marriage Special",
       "song": "Prelude no Temae ni ~for me&you~",
@@ -5682,6 +5642,14 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/6RbfCXkDGeOaU3a1C0PuQQ",
       "apple": "https://geo.music.apple.com/album/6819949615?i=6819949616&at=1001l384j&ct=website-a-certain-dark-sides-item-op&app=music"
+    },
+    {
+      "id": "28230",
+      "anime": "Umayuru: Full Gate!",
+      "song": "Yuruyuru SAMBA",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/3UzhSsRoUMrGAoU7KVIFHD",
+      "apple": "https://geo.music.apple.com/album/6815901557?i=6815901737&at=1001l384j&ct=website-umayuru-full-gate-ed2&app=music"
     }
   ]
 }
