@@ -3,25 +3,83 @@
   "url": "https://aniplaylist.com/?seasons=Spring%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 4,
+  "resultCount": 5,
   "animeThemesChecked": 0,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 0,
   "jsonResponses": 4,
   "algoliaResponses": 1,
   "hitArrays": 2,
-  "rawHits": 4,
-  "uniqueHits": 4,
-  "normalized": 4,
+  "rawHits": 5,
+  "uniqueHits": 5,
+  "normalized": 5,
   "withSpotify": 0,
   "withApple": 0,
   "withDetailUrl": 0,
   "resolvedSpotify": 0,
-  "recordThumbnails": 4,
+  "recordThumbnails": 5,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "us_3424",
+      "anime": "Kindergarten Wars",
+      "song": "Viva Yatara Metta",
+      "artist": "Ado",
+      "artistDisplay": "Ado",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d91853cf76c77fb563d604086d10268e28a5b731@2xl.jpg",
+      "detailUrl": "",
+      "season": "Spring 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Viva Yatara Metta",
+        "ビバヤタラメッタ"
+      ],
+      "animeCandidates": [
+        "Kindergarten Wars",
+        "Youchien Wars",
+        "幼稚園WARS"
+      ],
+      "artistCandidates": [
+        "7645",
+        "Ado",
+        "6mEQK9m2krja6X1cfsAjfl",
+        "1492604670",
+        "121146382",
+        "UC5DHwv9N4OQ9AWtKr8YSefw"
+      ]
+    },
     {
       "id": "us_3380",
       "anime": "Houkago no Idol ni wa Himitsu ga Aru",
@@ -275,6 +333,16 @@
   "errors": [],
   "thumbnailFieldSamples": [
     {
+      "id": "us_3424",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/d91853cf76c77fb563d604086d10268e28a5b731.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LkL52Xogxss,T}RjM|oeT2t6aKV@",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/d91853cf76c77fb563d604086d10268e28a5b731@2xl.jpg"
+    },
+    {
       "id": "us_3380",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/596a4c4fd9611ae3babf2d928b0be393e80e569f.jpg",
@@ -315,28 +383,86 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/7994525680836b20d11086f8afbdd438e6afcd95@2xl.jpg"
     }
   ],
-  "expectedHits": 4,
+  "expectedHits": 5,
   "expectedPages": 1,
   "receivedPages": 1,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 4,
+      "nbHits": 5,
       "hitsPerPage": 16,
       "nbPages": 1,
-      "count": 4
+      "count": 5
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28610,
+      "nbHits": 28626,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "us_3424",
+      "anime": "Kindergarten Wars",
+      "song": "Viva Yatara Metta",
+      "artist": "Ado",
+      "artistDisplay": "Ado",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/d91853cf76c77fb563d604086d10268e28a5b731@2xl.jpg",
+      "detailUrl": "",
+      "season": "Spring 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Viva Yatara Metta",
+        "ビバヤタラメッタ"
+      ],
+      "animeCandidates": [
+        "Kindergarten Wars",
+        "Youchien Wars",
+        "幼稚園WARS"
+      ],
+      "artistCandidates": [
+        "7645",
+        "Ado",
+        "6mEQK9m2krja6X1cfsAjfl",
+        "1492604670",
+        "121146382",
+        "UC5DHwv9N4OQ9AWtKr8YSefw"
+      ]
+    },
     {
       "id": "us_3380",
       "anime": "Houkago no Idol ni wa Himitsu ga Aru",
