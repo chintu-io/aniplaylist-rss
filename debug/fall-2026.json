@@ -465,16 +465,6 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f@2xl.jpeg"
     },
     {
-      "id": "28250",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LDEL,7}%pcNMQ.oHIo%i599axV-6",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg"
-    },
-    {
       "id": "28085",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82.jpg",
@@ -483,6 +473,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg"
+    },
+    {
+      "id": "28074",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L89i}Or_0L]}R3s:%4Io18s7};Em",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
     }
   ],
   "expectedHits": 252,
@@ -1428,73 +1428,6 @@
       ]
     },
     {
-      "id": "28250",
-      "anime": "Star Blazers: Space Battleship Yamato 3199",
-      "song": "Haruka e, Eien e",
-      "artist": "Junko Yagami",
-      "artistDisplay": "Junko Yagami",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
-      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Haruka e, Eien e",
-        "遥かへ、永遠へ"
-      ],
-      "animeCandidates": [
-        "Star Blazers: Space Battleship Yamato 3199",
-        "Yamato yo, Towa ni: Rebel 3199",
-        "Be Forever Yamato: Rebel 3199",
-        "Star Blazers",
-        "ヤマトよ永遠に REBEL3199"
-      ],
-      "artistCandidates": [
-        "11929",
-        "Junko Yagami",
-        "八神純子",
-        "6ooFYQBSq3sFEipwHfw5gr",
-        "74877262",
-        "4867003"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -1628,19 +1561,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28327",
-      "anime": "Armored Trooper Votoms: Die Graue Hexe",
-      "song": "Na mo Naki Shijin no you ni",
-      "artist": "Mika Nakashima",
-      "artistDisplay": "Mika Nakashima",
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "artist": "Junko Yagami",
+      "artistDisplay": "Junko Yagami",
       "artistDisplayCount": 1,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
+      "kind": "ED",
+      "kindLabel": "Ending",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/4HDVkSfLcX9HZUO7wTP5YA",
-      "apple": "https://geo.music.apple.com/album/6831438538?i=6831438539&at=1001l384j&ct=website-armored-trooper-votoms-die-gr-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7aa28c460da3572a3804e64882d1216240be97b0@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-theme-song",
+      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
+      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1657,6 +1590,7 @@
         "platforms",
         "preview_url",
         "song_key",
+        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -1673,24 +1607,25 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Na mo Naki Shijin no you ni",
-        "名も無き詩人のように"
+        "Haruka e, Eien e",
+        "遥かへ、永遠へ"
       ],
       "animeCandidates": [
-        "Armored Trooper Votoms: Die Graue Hexe",
-        "Soukou Kihei Votoms: Haiiro no Hexe",
-        "Soukou Kihei Votoms: Haiiro no Majo",
-        "装甲騎兵ボトムズ 灰色の魔女"
+        "Star Blazers: Space Battleship Yamato 3199",
+        "Yamato yo, Towa ni: Rebel 3199",
+        "Be Forever Yamato: Rebel 3199",
+        "Star Blazers",
+        "ヤマトよ永遠に REBEL3199"
       ],
       "artistCandidates": [
-        "42",
-        "Mika Nakashima",
-        "中島美嘉",
-        "3D73KNJRMbV45N59E8IN0F",
-        "292677928",
-        "4018276",
-        "UClqGyJux0gipUeFnBh-onCQ"
-      ]
+        "11929",
+        "Junko Yagami",
+        "八神純子",
+        "6ooFYQBSq3sFEipwHfw5gr",
+        "74877262",
+        "4867003"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "27821",
@@ -2710,6 +2645,73 @@
         "24927"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "27976",
+      "anime": "Even the Student Council Has Its Holes!",
+      "song": "Pi",
+      "artist": "NANAOAKARI",
+      "artistDisplay": "NANAOAKARI",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/6gPzc7BEL31CMiR8xognZ6",
+      "apple": "https://geo.music.apple.com/album/6833369313?i=6833369314&at=1001l384j&ct=website-even-the-student-council-has-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3c211ec26daf10bfeb915d011906f1279c285720@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Pi",
+        "ぴ"
+      ],
+      "animeCandidates": [
+        "Even the Student Council Has Its Holes!",
+        "Seitokai ni mo Ana wa Aru!",
+        "生徒会にも穴はある！",
+        "There Is Also a Hole in the Student Organization!"
+      ],
+      "artistCandidates": [
+        "569",
+        "NANAOAKARI",
+        "Nanawoakari",
+        "ナナヲアカリ",
+        "Akari Nanawo",
+        "06jSjpC81wzjoUoE61Fhdn",
+        "1326067929",
+        "128010782",
+        "UC160OjZevHTl0K8vk_g1vZQ"
+      ],
+      "animethemesVideo": null
     }
   ],
   "sourceMetadataSamples": [
@@ -3321,13 +3323,6 @@
       "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-original-soundtrack"
     },
     {
-      "id": "28250",
-      "anime": "Star Blazers: Space Battleship Yamato 3199",
-      "song": "Haruka e, Eien e",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -3342,11 +3337,11 @@
       "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
     },
     {
-      "id": "28327",
-      "anime": "Armored Trooper Votoms: Die Graue Hexe",
-      "song": "Na mo Naki Shijin no you ni",
-      "kind": "TS",
-      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-theme-song"
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7"
     },
     {
       "id": "27821",
@@ -3459,6 +3454,13 @@
       "song": "Role-Playing Life",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending"
+    },
+    {
+      "id": "28082",
+      "anime": "Magic Knight Rayearth (2026)",
+      "song": "Otome no Tsurugi",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-opening-1"
     }
   ],
   "usableSamples": [
@@ -4143,73 +4145,6 @@
       ]
     },
     {
-      "id": "28250",
-      "anime": "Star Blazers: Space Battleship Yamato 3199",
-      "song": "Haruka e, Eien e",
-      "artist": "Junko Yagami",
-      "artistDisplay": "Junko Yagami",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
-      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Haruka e, Eien e",
-        "遥かへ、永遠へ"
-      ],
-      "animeCandidates": [
-        "Star Blazers: Space Battleship Yamato 3199",
-        "Yamato yo, Towa ni: Rebel 3199",
-        "Be Forever Yamato: Rebel 3199",
-        "Star Blazers",
-        "ヤマトよ永遠に REBEL3199"
-      ],
-      "artistCandidates": [
-        "11929",
-        "Junko Yagami",
-        "八神純子",
-        "6ooFYQBSq3sFEipwHfw5gr",
-        "74877262",
-        "4867003"
-      ],
-      "animethemesVideo": null
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -4343,19 +4278,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28327",
-      "anime": "Armored Trooper Votoms: Die Graue Hexe",
-      "song": "Na mo Naki Shijin no you ni",
-      "artist": "Mika Nakashima",
-      "artistDisplay": "Mika Nakashima",
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "artist": "Junko Yagami",
+      "artistDisplay": "Junko Yagami",
       "artistDisplayCount": 1,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
+      "kind": "ED",
+      "kindLabel": "Ending",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/4HDVkSfLcX9HZUO7wTP5YA",
-      "apple": "https://geo.music.apple.com/album/6831438538?i=6831438539&at=1001l384j&ct=website-armored-trooper-votoms-die-gr-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7aa28c460da3572a3804e64882d1216240be97b0@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-theme-song",
+      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
+      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4372,6 +4307,7 @@
         "platforms",
         "preview_url",
         "song_key",
+        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -4388,24 +4324,25 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Na mo Naki Shijin no you ni",
-        "名も無き詩人のように"
+        "Haruka e, Eien e",
+        "遥かへ、永遠へ"
       ],
       "animeCandidates": [
-        "Armored Trooper Votoms: Die Graue Hexe",
-        "Soukou Kihei Votoms: Haiiro no Hexe",
-        "Soukou Kihei Votoms: Haiiro no Majo",
-        "装甲騎兵ボトムズ 灰色の魔女"
+        "Star Blazers: Space Battleship Yamato 3199",
+        "Yamato yo, Towa ni: Rebel 3199",
+        "Be Forever Yamato: Rebel 3199",
+        "Star Blazers",
+        "ヤマトよ永遠に REBEL3199"
       ],
       "artistCandidates": [
-        "42",
-        "Mika Nakashima",
-        "中島美嘉",
-        "3D73KNJRMbV45N59E8IN0F",
-        "292677928",
-        "4018276",
-        "UClqGyJux0gipUeFnBh-onCQ"
-      ]
+        "11929",
+        "Junko Yagami",
+        "八神純子",
+        "6ooFYQBSq3sFEipwHfw5gr",
+        "74877262",
+        "4867003"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "27821",
@@ -5461,6 +5398,71 @@
         "UCYuWBWwRueIsp5zQqnU7YZQ"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "28082",
+      "anime": "Magic Knight Rayearth (2026)",
+      "song": "Otome no Tsurugi",
+      "artist": "Toaka",
+      "artistDisplay": "Toaka",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh",
+      "apple": "https://geo.music.apple.com/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/28037ad8aacf689e5ac44b58de79f3e95d713f04@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-opening-1",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Otome no Tsurugi",
+        "乙女の剣"
+      ],
+      "animeCandidates": [
+        "Magic Knight Rayearth (2026)",
+        "Mahou Kishi Rayearth",
+        "魔法騎士レイアース"
+      ],
+      "artistCandidates": [
+        "13040",
+        "Toaka",
+        "十明",
+        "0xFsJRSOYJmmuozISzreTR",
+        "1574639083",
+        "137872082",
+        "UCaBbPiMpdL5z86bWCFgCItA"
+      ],
+      "animethemesVideo": null
     }
   ],
   "platformSamples": [
@@ -5545,14 +5547,6 @@
       "apple": "https://geo.music.apple.com/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music"
     },
     {
-      "id": "28250",
-      "anime": "Star Blazers: Space Battleship Yamato 3199",
-      "song": "Haruka e, Eien e",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
-      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music"
-    },
-    {
       "id": "28085",
       "anime": "The Apothecary Diaries Season 3",
       "song": "Kumo o Nuke Kazashimo e Watashi dake",
@@ -5569,12 +5563,12 @@
       "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
     },
     {
-      "id": "28327",
-      "anime": "Armored Trooper Votoms: Die Graue Hexe",
-      "song": "Na mo Naki Shijin no you ni",
-      "kind": "TS",
-      "spotify": "https://open.spotify.com/track/4HDVkSfLcX9HZUO7wTP5YA",
-      "apple": "https://geo.music.apple.com/album/6831438538?i=6831438539&at=1001l384j&ct=website-armored-trooper-votoms-die-gr-ts&app=music"
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
+      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music"
     },
     {
       "id": "27821",
@@ -5703,6 +5697,14 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
       "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music"
+    },
+    {
+      "id": "28082",
+      "anime": "Magic Knight Rayearth (2026)",
+      "song": "Otome no Tsurugi",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh",
+      "apple": "https://geo.music.apple.com/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music"
     }
   ]
 }
