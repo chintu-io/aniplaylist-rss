@@ -3,25 +3,90 @@
   "url": "https://aniplaylist.com/?seasons=Fall%202026",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 252,
-  "animeThemesChecked": 156,
+  "resultCount": 253,
+  "animeThemesChecked": 159,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 74,
   "jsonResponses": 34,
   "algoliaResponses": 16,
   "hitArrays": 32,
-  "rawHits": 252,
-  "uniqueHits": 252,
-  "normalized": 252,
-  "withSpotify": 222,
-  "withApple": 224,
-  "withDetailUrl": 225,
-  "resolvedSpotify": 222,
-  "recordThumbnails": 252,
+  "rawHits": 253,
+  "uniqueHits": 253,
+  "normalized": 253,
+  "withSpotify": 225,
+  "withApple": 227,
+  "withDetailUrl": 226,
+  "resolvedSpotify": 225,
+  "recordThumbnails": 253,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
   "sample": [
+    {
+      "id": "28356",
+      "anime": "Odekake Kozame 2nd Season",
+      "song": "Kozame Koushinkyoku",
+      "artist": "Kozame-chan (CV: Kana Hanazawa)",
+      "artistDisplay": "Kozame-chan (CV: Kana Hanazawa)",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2jv4aGsys894f7hPD5orMA",
+      "apple": "https://geo.music.apple.com/album/6838688648?i=6838688654&at=1001l384j&ct=website-odekake-kozame-2nd-season-ed2&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/dbd2cd6c7037a7de5337682b5dd61ea55ce86a35@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/odekake-kozame-2nd-season-ending-2",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kozame Koushinkyoku",
+        "子ザメ行進曲",
+        "Kozame March"
+      ],
+      "animeCandidates": [
+        "Odekake Kozame 2nd Season",
+        "おでかけ子ザメ シーズン2"
+      ],
+      "artistCandidates": [
+        "14566",
+        "Kozame-chan (CV: Kana Hanazawa)",
+        "子ザメちゃん (CV: 花澤香菜)",
+        "65kpR5v6znR7x3vyHkcz11",
+        "1700601832",
+        "223683845",
+        "UCtpXo2d8bHBzzU-j6rZ4YIw"
+      ]
+    },
     {
       "id": "28335",
       "anime": "Digimon: World's Best Picks",
@@ -296,74 +361,20 @@
         "13993381",
         "UCufzYjQw4RQLJK2d7p2U_LA"
       ]
-    },
-    {
-      "id": "28338",
-      "anime": "Onegai AiPri",
-      "song": "Kanaete Kiseki no Yell!",
-      "artist": "Onegai Kanae-tai",
-      "artistDisplay": "Onegai Kanae-tai",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0KVQhOV48fmK7K1bNVjcfO",
-      "apple": "https://geo.music.apple.com/album/6827469778?i=6827469779&at=1001l384j&ct=website-onegai-aipri-op2&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/09c3208a48b175f5686e7e276dc061af0e8055b3@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/onegai-aipri-opening-2",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Kanaete Kiseki no Yell!",
-        "かなえてキセキのエール！"
-      ],
-      "animeCandidates": [
-        "Onegai AiPri",
-        "+Himitsu no AiPri 3rd Season",
-        "おねがいアイプリ"
-      ],
-      "artistCandidates": [
-        "19685",
-        "Onegai Kanae-tai",
-        "おねがいかなえ隊",
-        "0KDvjjHDsPzDwWRqssth1r",
-        "6804625080",
-        "412270352"
-      ]
     }
   ],
   "errors": [],
   "thumbnailFieldSamples": [
+    {
+      "id": "28356",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/dbd2cd6c7037a7de5337682b5dd61ea55ce86a35.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LkF73TE2-kR%y?s=Rhoetmogoyn$",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/dbd2cd6c7037a7de5337682b5dd61ea55ce86a35@2xl.jpeg"
+    },
     {
       "id": "28335",
       "thumbnailType": "string",
@@ -473,26 +484,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg"
-    },
-    {
-      "id": "28074",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L89i}Or_0L]}R3s:%4Io18s7};Em",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/8b6045b09d2727e85efea9b4b613527e82f295e0@2xl.jpeg"
     }
   ],
-  "expectedHits": 252,
+  "expectedHits": 253,
   "expectedPages": 16,
   "receivedPages": 16,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -500,7 +501,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -508,7 +509,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -516,7 +517,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -524,7 +525,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -532,7 +533,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -540,7 +541,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 3,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -548,7 +549,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -556,7 +557,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 4,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -564,7 +565,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -572,7 +573,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 5,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -580,7 +581,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -588,7 +589,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 6,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -596,7 +597,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -604,7 +605,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 7,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -612,7 +613,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -620,7 +621,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 8,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -628,7 +629,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -636,7 +637,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 9,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -644,7 +645,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -652,7 +653,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 10,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -660,7 +661,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -668,7 +669,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 11,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -676,7 +677,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -684,7 +685,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 12,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -692,7 +693,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -700,7 +701,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 13,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -708,7 +709,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -716,7 +717,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 14,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
       "count": 16
@@ -724,7 +725,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -732,21 +733,87 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 15,
-      "nbHits": 252,
+      "nbHits": 253,
       "hitsPerPage": 16,
       "nbPages": 16,
-      "count": 12
+      "count": 13
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
     }
   ],
   "normalizedSamples": [
+    {
+      "id": "28356",
+      "anime": "Odekake Kozame 2nd Season",
+      "song": "Kozame Koushinkyoku",
+      "artist": "Kozame-chan (CV: Kana Hanazawa)",
+      "artistDisplay": "Kozame-chan (CV: Kana Hanazawa)",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2jv4aGsys894f7hPD5orMA",
+      "apple": "https://geo.music.apple.com/album/6838688648?i=6838688654&at=1001l384j&ct=website-odekake-kozame-2nd-season-ed2&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/dbd2cd6c7037a7de5337682b5dd61ea55ce86a35@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/odekake-kozame-2nd-season-ending-2",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kozame Koushinkyoku",
+        "子ザメ行進曲",
+        "Kozame March"
+      ],
+      "animeCandidates": [
+        "Odekake Kozame 2nd Season",
+        "おでかけ子ザメ シーズン2"
+      ],
+      "artistCandidates": [
+        "14566",
+        "Kozame-chan (CV: Kana Hanazawa)",
+        "子ザメちゃん (CV: 花澤香菜)",
+        "65kpR5v6znR7x3vyHkcz11",
+        "1700601832",
+        "223683845",
+        "UCtpXo2d8bHBzzU-j6rZ4YIw"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28335",
       "anime": "Digimon: World's Best Picks",
@@ -1861,6 +1928,56 @@
       ]
     },
     {
+      "id": "us_3439",
+      "anime": "Fool Night",
+      "song": "[TBD]",
+      "artist": "",
+      "artistDisplay": "",
+      "artistDisplayCount": 0,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 1)",
+      "episodes": [
+        "1"
+      ],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
+      "detailUrl": "",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "[TBD]"
+      ],
+      "animeCandidates": [
+        "Fool Night",
+        "フールナイト"
+      ],
+      "artistCandidates": []
+    },
+    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
@@ -2571,147 +2688,6 @@
         "UC-cXutYzvqARF5wNKx1KCNA"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "27993",
-      "anime": "A Tale of the Secret Saint",
-      "song": "STELLAR",
-      "artist": "UTAHIME DREAM",
-      "artistDisplay": "UTAHIME DREAM & UTAHIME DREAM ALLSTARS",
-      "artistDisplayCount": 2,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/4saoafzCTr5otd6o3GWS8x",
-      "apple": "https://geo.music.apple.com/album/6806172661?i=6806172662&at=1001l384j&ct=website-a-tale-of-the-secret-saint-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/2afa92f0e75be1a945178c2c6f4fd4b22fd69301@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/a-tale-of-the-secret-saint-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "STELLAR"
-      ],
-      "animeCandidates": [
-        "A Tale of the Secret Saint",
-        "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
-        "A Tale of the Great Saint",
-        "The Reincarnated Great Saint Hides That She's a Saint",
-        "転生した大聖女は、聖女であることをひた隠す"
-      ],
-      "artistCandidates": [
-        "23815",
-        "UTAHIME DREAM",
-        "ウタヒメドリーム",
-        "6MQOCOPNbVeEZvGIt1FKuY",
-        "UCx2MQBktBMjtoqFqJ39Os1g",
-        "16173",
-        "UTAHIME DREAM ALLSTARS",
-        "ウタヒメドリーム オールスターズ",
-        "UTAHIME DREAM ALLSTARS【Ibuki Yumesaki (CV: Rena Yamasaki), Maika Sakuragi (CV: Anna Suzuki), Kiyomi Mashiro (CV: Arisa Sonohara), HiREN (CV: Kaya), Hikari Mizutsuki (CV: Karin Isobe), Rin Takagi (CV: Tomomi Jenna Sumi), Himawari Hagiwara (CV: Reo Kurachi)】",
-        "ウタヒメドリーム オールスターズ 【夢咲いぶき (CV: 山﨑玲奈), 桜木舞華 (CV: 鈴木杏奈), 真白清美 (CV: 其原有沙), HiREN (CV: 花耶), 水月ひかり (CV: 礒部花凜), 高木凛 (CV: 鷲見友美ジェナ), 萩原ひまわり (CV: 倉知玲鳳)】",
-        "UTAHIME DREAM ALLSTARS【Ibuki Yumesaki (CV: Rena Yamasaki), Maika Sakuragi (CV: Anna Suzuki), Kiyomi Mashiro (CV: Arisa Sonohara), HiREN (CV: Kaya), Hikari Mizutsuki (CV: Karin Isobe), Rin Takagi (CV: Tomomi Jenna Sumi), Himawari Hagiwara (CV: Reo Kurachi), SAKURAKO (CV: Yume Takeuchi)】",
-        "ウタヒメドリーム オールスターズ【夢咲いぶき（CV: 山﨑玲奈）, 桜木舞華（CV: 鈴木杏奈）, 真白清美（CV: 其原有沙）, HiREN（CV: 花耶）, 水月ひかり（CV: 礒部花凜）, 高木凛（CV: 鷲見友美ジェナ), 萩原ひまわり（CV: 倉知玲鳳）, SAKURAKO（CV: 竹内夢）】",
-        "30QUAly0HJwNZ0tQd5SpY8",
-        "1711511094",
-        "346769621",
-        "24927"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27976",
-      "anime": "Even the Student Council Has Its Holes!",
-      "song": "Pi",
-      "artist": "NANAOAKARI",
-      "artistDisplay": "NANAOAKARI",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6gPzc7BEL31CMiR8xognZ6",
-      "apple": "https://geo.music.apple.com/album/6833369313?i=6833369314&at=1001l384j&ct=website-even-the-student-council-has-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3c211ec26daf10bfeb915d011906f1279c285720@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Pi",
-        "ぴ"
-      ],
-      "animeCandidates": [
-        "Even the Student Council Has Its Holes!",
-        "Seitokai ni mo Ana wa Aru!",
-        "生徒会にも穴はある！",
-        "There Is Also a Hole in the Student Organization!"
-      ],
-      "artistCandidates": [
-        "569",
-        "NANAOAKARI",
-        "Nanawoakari",
-        "ナナヲアカリ",
-        "Akari Nanawo",
-        "06jSjpC81wzjoUoE61Fhdn",
-        "1326067929",
-        "128010782",
-        "UC160OjZevHTl0K8vk_g1vZQ"
-      ],
-      "animethemesVideo": null
     }
   ],
   "sourceMetadataSamples": [
@@ -3253,6 +3229,13 @@
   ],
   "detailUrlSamples": [
     {
+      "id": "28356",
+      "anime": "Odekake Kozame 2nd Season",
+      "song": "Kozame Koushinkyoku",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/odekake-kozame-2nd-season-ending-2"
+    },
+    {
       "id": "28335",
       "anime": "Digimon: World's Best Picks",
       "song": "Limitless Dreams",
@@ -3454,16 +3437,75 @@
       "song": "Role-Playing Life",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending"
-    },
-    {
-      "id": "28082",
-      "anime": "Magic Knight Rayearth (2026)",
-      "song": "Otome no Tsurugi",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-opening-1"
     }
   ],
   "usableSamples": [
+    {
+      "id": "28356",
+      "anime": "Odekake Kozame 2nd Season",
+      "song": "Kozame Koushinkyoku",
+      "artist": "Kozame-chan (CV: Kana Hanazawa)",
+      "artistDisplay": "Kozame-chan (CV: Kana Hanazawa)",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2jv4aGsys894f7hPD5orMA",
+      "apple": "https://geo.music.apple.com/album/6838688648?i=6838688654&at=1001l384j&ct=website-odekake-kozame-2nd-season-ed2&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/dbd2cd6c7037a7de5337682b5dd61ea55ce86a35@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/odekake-kozame-2nd-season-ending-2",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kozame Koushinkyoku",
+        "子ザメ行進曲",
+        "Kozame March"
+      ],
+      "animeCandidates": [
+        "Odekake Kozame 2nd Season",
+        "おでかけ子ザメ シーズン2"
+      ],
+      "artistCandidates": [
+        "14566",
+        "Kozame-chan (CV: Kana Hanazawa)",
+        "子ザメちゃん (CV: 花澤香菜)",
+        "65kpR5v6znR7x3vyHkcz11",
+        "1700601832",
+        "223683845",
+        "UCtpXo2d8bHBzzU-j6rZ4YIw"
+      ],
+      "animethemesVideo": null
+    },
     {
       "id": "28335",
       "anime": "Digimon: World's Best Picks",
@@ -5398,74 +5440,17 @@
         "UCYuWBWwRueIsp5zQqnU7YZQ"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28082",
-      "anime": "Magic Knight Rayearth (2026)",
-      "song": "Otome no Tsurugi",
-      "artist": "Toaka",
-      "artistDisplay": "Toaka",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh",
-      "apple": "https://geo.music.apple.com/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/28037ad8aacf689e5ac44b58de79f3e95d713f04@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/magic-knight-rayearth-2026-opening-1",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Otome no Tsurugi",
-        "乙女の剣"
-      ],
-      "animeCandidates": [
-        "Magic Knight Rayearth (2026)",
-        "Mahou Kishi Rayearth",
-        "魔法騎士レイアース"
-      ],
-      "artistCandidates": [
-        "13040",
-        "Toaka",
-        "十明",
-        "0xFsJRSOYJmmuozISzreTR",
-        "1574639083",
-        "137872082",
-        "UCaBbPiMpdL5z86bWCFgCItA"
-      ],
-      "animethemesVideo": null
     }
   ],
   "platformSamples": [
+    {
+      "id": "28356",
+      "anime": "Odekake Kozame 2nd Season",
+      "song": "Kozame Koushinkyoku",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/2jv4aGsys894f7hPD5orMA",
+      "apple": "https://geo.music.apple.com/album/6838688648?i=6838688654&at=1001l384j&ct=website-odekake-kozame-2nd-season-ed2&app=music"
+    },
     {
       "id": "28335",
       "anime": "Digimon: World's Best Picks",
@@ -5697,14 +5682,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
       "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music"
-    },
-    {
-      "id": "28082",
-      "anime": "Magic Knight Rayearth (2026)",
-      "song": "Otome no Tsurugi",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh",
-      "apple": "https://geo.music.apple.com/album/6819144157?i=6819144158&at=1001l384j&ct=website-magic-knight-rayearth-2026-op1&app=music"
     }
   ]
 }

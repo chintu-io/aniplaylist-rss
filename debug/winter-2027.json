@@ -3,21 +3,21 @@
   "url": "https://aniplaylist.com/?seasons=Winter%202027",
   "pageLoaded": true,
   "scrapeValidated": true,
-  "resultCount": 45,
+  "resultCount": 47,
   "animeThemesChecked": 3,
   "animeThemesMatched": 0,
   "animeThemesSeasonLinks": 5,
   "jsonResponses": 8,
   "algoliaResponses": 3,
   "hitArrays": 6,
-  "rawHits": 45,
-  "uniqueHits": 45,
-  "normalized": 45,
+  "rawHits": 47,
+  "uniqueHits": 47,
+  "normalized": 47,
   "withSpotify": 6,
   "withApple": 6,
   "withDetailUrl": 6,
   "resolvedSpotify": 6,
-  "recordThumbnails": 45,
+  "recordThumbnails": 47,
   "detailImagesResolved": 0,
   "unavailableDetailPages": 0,
   "mismatchedDetailPages": 0,
@@ -140,6 +140,125 @@
       ]
     },
     {
+      "id": "us_3438",
+      "anime": "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me",
+      "song": "Silhouette Letter",
+      "artist": "SERRA",
+      "artistDisplay": "SERRA",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/41a08694fd7f76f5ed1a6d91fd9f512fc4703f8e@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Silhouette Letter",
+        "シルエットレター"
+      ],
+      "animeCandidates": [
+        "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me",
+        "Odebu Akujo ni Tensei shitara, Nazeka Last Boss Oujisama ni Shuuchaku sareteimasu",
+        "おデブ悪女に転生したら、なぜかラスボス王子様に執着されています",
+        "When I Reincarnated as a Chubby Villainess, For Some Reason, I'm Being Relentlessly Pursued by the Final Boss Prince!"
+      ],
+      "artistCandidates": [
+        "13710",
+        "SERRA",
+        "1636432062",
+        "2I3vpxuhRNZU69R2kGbBOk",
+        "1654700092",
+        "1588228",
+        "UCScqqj97r99OVS3XzzMhyxw"
+      ]
+    },
+    {
+      "id": "us_3437",
+      "anime": "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me",
+      "song": "Yororeyoen",
+      "artist": "REIRIE",
+      "artistDisplay": "REIRIE",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/41a08694fd7f76f5ed1a6d91fd9f512fc4703f8e@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yororeyoen",
+        "ヨーロレヨーエン"
+      ],
+      "animeCandidates": [
+        "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me",
+        "Odebu Akujo ni Tensei shitara, Nazeka Last Boss Oujisama ni Shuuchaku sareteimasu",
+        "おデブ悪女に転生したら、なぜかラスボス王子様に執着されています",
+        "When I Reincarnated as a Chubby Villainess, For Some Reason, I'm Being Relentlessly Pursued by the Final Boss Prince!"
+      ],
+      "artistCandidates": [
+        "23505",
+        "REIRIE",
+        "20StpY1Vxpsdi7BApvOFVR",
+        "1677707625",
+        "205895127",
+        "UCkODILA8mPH7Zc-n1i7kSUg"
+      ]
+    },
+    {
       "id": "us_3427",
       "anime": "Haru to Gen: 70-sai, Hajimete Kosodate",
       "song": "Chokinbako Mitai na ♡ Song",
@@ -205,127 +324,6 @@
         "6eKxIqJFpHhwwrxNp8whZN",
         "UCI9EaE7RNDo8xhE_wyyuvOg"
       ]
-    },
-    {
-      "id": "us_3426",
-      "anime": "Historie",
-      "song": "Amphilia",
-      "artist": "RETRORIRON",
-      "artistDisplay": "RETRORIRON",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4d03ba4595b367e8eeaa94690df4360e6b21eb60@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Amphilia",
-        "アンフィリア",
-        "Anfiria"
-      ],
-      "animeCandidates": [
-        "Historie",
-        "Historié",
-        "Historie The Animation",
-        "ヒストリエ"
-      ],
-      "artistCandidates": [
-        "19677",
-        "RETRORIRON",
-        "レトロリロン",
-        "47MRpWYlFaneZAlaXrt9bu",
-        "1517023528",
-        "96937822",
-        "UCMa_wzbNPDBOc4D31vH8iKw"
-      ]
-    },
-    {
-      "id": "us_3425",
-      "anime": "Historie",
-      "song": "Masshiro",
-      "artist": "Yorushika",
-      "artistDisplay": "Yorushika",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/4d03ba4595b367e8eeaa94690df4360e6b21eb60@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Masshiro",
-        "真っ白"
-      ],
-      "animeCandidates": [
-        "Historie",
-        "Historié",
-        "Historie The Animation",
-        "ヒストリエ"
-      ],
-      "artistCandidates": [
-        "3396",
-        "Yorushika",
-        "ヨルシカ",
-        "4UK2Lzi6fBfUi9rpDt6cik",
-        "1250709916",
-        "67898492",
-        "UCabLXblrQG4cO8F9qdd4Xsw"
-      ]
     }
   ],
   "errors": [],
@@ -349,6 +347,26 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/197b064550da7f3bc680fdff2748311acf80dc02@2xl.jpg"
+    },
+    {
+      "id": "us_3438",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/41a08694fd7f76f5ed1a6d91fd9f512fc4703f8e.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LHH3sr-=Q54n3SSv$l$QTwE2#S-p",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/41a08694fd7f76f5ed1a6d91fd9f512fc4703f8e@2xl.jpg"
+    },
+    {
+      "id": "us_3437",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/41a08694fd7f76f5ed1a6d91fd9f512fc4703f8e.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LHH3sr-=Q54n3SSv$l$QTwE2#S-p",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/41a08694fd7f76f5ed1a6d91fd9f512fc4703f8e@2xl.jpg"
     },
     {
       "id": "us_3427",
@@ -429,36 +447,16 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/19c1d310b3d949c8178808b3e9cdc02462a5c1c8@2xl.jpg"
-    },
-    {
-      "id": "27297",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LNI63wb;lu$~-#IUI[xp%InoIWrw",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/829dbb34b66a8943b4f34b42d81dfe2afc164088@2xl.jpg"
-    },
-    {
-      "id": "us_3415",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/524bcd8daf908a625e617565a8ecfaf57770b40b.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LALW|uD4A|9}*000rU-;-}x7Mw4=",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/524bcd8daf908a625e617565a8ecfaf57770b40b@2xl.jpg"
     }
   ],
-  "expectedHits": 45,
+  "expectedHits": 47,
   "expectedPages": 3,
   "receivedPages": 3,
   "hitMeta": [
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 45,
+      "nbHits": 47,
       "hitsPerPage": 16,
       "nbPages": 3,
       "count": 16
@@ -466,7 +464,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -474,7 +472,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 1,
-      "nbHits": 45,
+      "nbHits": 47,
       "hitsPerPage": 16,
       "nbPages": 3,
       "count": 16
@@ -482,7 +480,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -490,15 +488,15 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 2,
-      "nbHits": 45,
+      "nbHits": 47,
       "hitsPerPage": 16,
       "nbPages": 3,
-      "count": 13
+      "count": 15
     },
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28627,
+      "nbHits": 28640,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -620,6 +618,125 @@
         "7p59bvZexyLPxLprpZRV6L",
         "202690217",
         "UCpF1L89gFxnb8muIrmloaYA"
+      ]
+    },
+    {
+      "id": "us_3438",
+      "anime": "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me",
+      "song": "Silhouette Letter",
+      "artist": "SERRA",
+      "artistDisplay": "SERRA",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/41a08694fd7f76f5ed1a6d91fd9f512fc4703f8e@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Silhouette Letter",
+        "シルエットレター"
+      ],
+      "animeCandidates": [
+        "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me",
+        "Odebu Akujo ni Tensei shitara, Nazeka Last Boss Oujisama ni Shuuchaku sareteimasu",
+        "おデブ悪女に転生したら、なぜかラスボス王子様に執着されています",
+        "When I Reincarnated as a Chubby Villainess, For Some Reason, I'm Being Relentlessly Pursued by the Final Boss Prince!"
+      ],
+      "artistCandidates": [
+        "13710",
+        "SERRA",
+        "1636432062",
+        "2I3vpxuhRNZU69R2kGbBOk",
+        "1654700092",
+        "1588228",
+        "UCScqqj97r99OVS3XzzMhyxw"
+      ]
+    },
+    {
+      "id": "us_3437",
+      "anime": "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me",
+      "song": "Yororeyoen",
+      "artist": "REIRIE",
+      "artistDisplay": "REIRIE",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/41a08694fd7f76f5ed1a6d91fd9f512fc4703f8e@2xl.jpg",
+      "detailUrl": "",
+      "season": "Winter 2027",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Yororeyoen",
+        "ヨーロレヨーエン"
+      ],
+      "animeCandidates": [
+        "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me",
+        "Odebu Akujo ni Tensei shitara, Nazeka Last Boss Oujisama ni Shuuchaku sareteimasu",
+        "おデブ悪女に転生したら、なぜかラスボス王子様に執着されています",
+        "When I Reincarnated as a Chubby Villainess, For Some Reason, I'm Being Relentlessly Pursued by the Final Boss Prince!"
+      ],
+      "artistCandidates": [
+        "23505",
+        "REIRIE",
+        "20StpY1Vxpsdi7BApvOFVR",
+        "1677707625",
+        "205895127",
+        "UCkODILA8mPH7Zc-n1i7kSUg"
       ]
     },
     {
@@ -2191,117 +2308,6 @@
         "867993110",
         "12971383",
         "UC7dhQ2ElJ-KyXbZfDmT0kMQ"
-      ]
-    },
-    {
-      "id": "us_3377",
-      "anime": "Wound & Bandage",
-      "song": "Show Me All Your Pain",
-      "artist": "MIYAVI",
-      "artistDisplay": "MIYAVI",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/cc2877d9ca939f55e8b024837924ade622a9d778@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Show Me All Your Pain"
-      ],
-      "animeCandidates": [
-        "Wound & Bandage",
-        "Kizuguchi to Houtai",
-        "傷口と包帯"
-      ],
-      "artistCandidates": [
-        "484",
-        "MIYAVI",
-        "7sBtBCNVRujQhaHDODkfTN",
-        "76063095",
-        "360687",
-        "UCnG4qAnVAVzN9CTGJdcE50g"
-      ]
-    },
-    {
-      "id": "us_3367",
-      "anime": "Spirit Circle",
-      "song": "Koko ga Donna Sekai demo",
-      "artist": "Anna Nagase",
-      "artistDisplay": "Anna Nagase",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fca5234a102fbcd96489b441c4ce2aeb2a419240@2xl.jpg",
-      "detailUrl": "",
-      "season": "Winter 2027",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Koko ga Donna Sekai demo",
-        "此処がどんな世界でも"
-      ],
-      "animeCandidates": [
-        "Spirit Circle",
-        "スピリットサークル"
-      ],
-      "artistCandidates": [
-        "25788",
-        "Anna Nagase",
-        "永瀬アンナ"
       ]
     }
   ],
