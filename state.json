@@ -14520,7 +14520,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -20335,7 +20334,6 @@
       "label",
       "short_link",
       "status",
-      "tags",
       "other_link_ids",
       "unreleased",
       "objectID"
@@ -20688,6 +20686,7 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -21973,7 +21972,6 @@
       "display_artists",
       "label",
       "short_link",
-      "status",
       "tags",
       "other_link_ids",
       "unreleased",
@@ -22768,9 +22766,9 @@
     "kindLabel": "Ending",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/3AHQN2eBn1AxdSomzem9CT",
-    "apple": "https://music.apple.com/nz/album/6832973007?i=6832973015&at=1001l384j&ct=website-fool-night-ed&app=music",
+    "apple": "https://geo.music.apple.com/album/6832973007?i=6832973015&at=1001l384j&ct=website-fool-night-ed&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/fool-night-ending",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -22796,9 +22794,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -22815,7 +22813,8 @@
       "Nowlu",
       "0TAhk9VlgZqLcM4wn5nUpO",
       "1616530162",
-      "164981917"
+      "164981917",
+      "UCXletLKBp8lJsi7KpItRMNQ"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-11-26T15:43:46.000Z"
@@ -22831,9 +22830,9 @@
     "kindLabel": "Opening",
     "episodes": [],
     "spotify": "https://open.spotify.com/track/7JwSY9czYqzYpLiz3oQtep",
-    "apple": "https://music.apple.com/nz/album/6832440634?i=6832440635&at=1001l384j&ct=website-fool-night-op&app=music",
+    "apple": "https://geo.music.apple.com/album/6832440634?i=6832440635&at=1001l384j&ct=website-fool-night-op&app=music",
     "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
-    "detailUrl": "",
+    "detailUrl": "https://aniplaylist.com/play/fool-night-opening",
     "season": "Fall 2026",
     "rawKeys": [
       "id",
@@ -22859,9 +22858,9 @@
       "display_artists",
       "label",
       "short_link",
+      "status",
       "tags",
       "other_link_ids",
-      "web",
       "unreleased",
       "objectID"
     ],
@@ -22877,7 +22876,8 @@
       "Tempalay",
       "5IlQkA8Lq4X0dOWHBumeJP",
       "1041632537",
-      "9488316"
+      "9488316",
+      "UCfbzpFkr-Idf7e4TdLudMEQ"
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-11-26T15:43:46.000Z"

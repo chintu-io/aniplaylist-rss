@@ -6,7 +6,7 @@
   "resultCount": 253,
   "animeThemesChecked": 159,
   "animeThemesMatched": 0,
-  "animeThemesSeasonLinks": 74,
+  "animeThemesSeasonLinks": 75,
   "jsonResponses": 34,
   "algoliaResponses": 16,
   "hitArrays": 32,
@@ -15,7 +15,7 @@
   "normalized": 253,
   "withSpotify": 225,
   "withApple": 227,
-  "withDetailUrl": 226,
+  "withDetailUrl": 228,
   "resolvedSpotify": 225,
   "recordThumbnails": 253,
   "detailImagesResolved": 0,
@@ -85,6 +85,129 @@
         "1700601832",
         "223683845",
         "UCtpXo2d8bHBzzU-j6rZ4YIw"
+      ]
+    },
+    {
+      "id": "28357",
+      "anime": "Fool Night",
+      "song": "Shake! spit out",
+      "artist": "Tempalay",
+      "artistDisplay": "Tempalay",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7JwSY9czYqzYpLiz3oQtep",
+      "apple": "https://geo.music.apple.com/album/6832440634?i=6832440635&at=1001l384j&ct=website-fool-night-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/fool-night-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shake! spit out"
+      ],
+      "animeCandidates": [
+        "Fool Night",
+        "フールナイト"
+      ],
+      "artistCandidates": [
+        "13788",
+        "Tempalay",
+        "5IlQkA8Lq4X0dOWHBumeJP",
+        "1041632537",
+        "9488316",
+        "UCfbzpFkr-Idf7e4TdLudMEQ"
+      ]
+    },
+    {
+      "id": "28358",
+      "anime": "Fool Night",
+      "song": "Iki",
+      "artist": "Nowlu",
+      "artistDisplay": "Nowlu",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3AHQN2eBn1AxdSomzem9CT",
+      "apple": "https://geo.music.apple.com/album/6832973007?i=6832973015&at=1001l384j&ct=website-fool-night-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/fool-night-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Iki",
+        "息"
+      ],
+      "animeCandidates": [
+        "Fool Night",
+        "フールナイト"
+      ],
+      "artistCandidates": [
+        "12154",
+        "Nowlu",
+        "0TAhk9VlgZqLcM4wn5nUpO",
+        "1616530162",
+        "164981917",
+        "UCXletLKBp8lJsi7KpItRMNQ"
       ]
     },
     {
@@ -229,138 +352,6 @@
         "208716347",
         "UCIdyBeiGorESL-FlrE_88Lw"
       ]
-    },
-    {
-      "id": "28342",
-      "anime": "Takopii no Genzai: Arigatou, Mata Ashita",
-      "song": "Love You",
-      "artist": "Tele",
-      "artistDisplay": "Tele",
-      "artistDisplayCount": 1,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/3Qb2QAsOn0GQEa3PF1YKRh",
-      "apple": "https://geo.music.apple.com/album/6828712712?i=6828712713&at=1001l384j&ct=website-takopii-no-genzai-arigatou-ma-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/00c5f6ee9cf2265fec3be74f92e04951bbe07da1@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/takopii-no-genzai-arigatou-mata-ashita-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Love You",
-        "らびゅー"
-      ],
-      "animeCandidates": [
-        "Takopii no Genzai: Arigatou, Mata Ashita",
-        "タコピーの原罪 -ありがとう、また明日-",
-        "Takopi's Original Sin",
-        "Takopii no Genzai Movie: Arigatou, Mata Ashita",
-        "劇場総集編 タコピーの原罪 -ありがとう、また明日-"
-      ],
-      "artistCandidates": [
-        "18062",
-        "Tele",
-        "2DesRdo7rppo0VC8cR3vsf",
-        "1605513087",
-        "80539",
-        "UCmwHShLM72vkB1K77F5Rwkg"
-      ]
-    },
-    {
-      "id": "28336",
-      "anime": "Magical★Explorer",
-      "song": "Original Soundtrack",
-      "artist": "Kenichiro Suehiro",
-      "artistDisplay": "Kenichiro Suehiro",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/3YmtjJau01dxzXiw68mFQx",
-      "apple": "https://geo.music.apple.com/album/6833370333?at=1001l384j&ct=website-magicalexplorer-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/449b3885e414a8820085cf80db8e9e808772e685@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/magicalexplorer-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Original Soundtrack",
-        "マジカル★エクスプローラー オリジナルサウンドトラック"
-      ],
-      "animeCandidates": [
-        "Magical★Explorer",
-        "Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim",
-        "Magical Explorer: Reincarnated as an Eroge Hero's Friend",
-        "I'll Live Freely With My Eroge Knowledge.",
-        "マジカル★エクスプロ",
-        "マジカル★エクスプローラー"
-      ],
-      "artistCandidates": [
-        "1023",
-        "Kenichiro Suehiro",
-        "末廣健一郎",
-        "2OyKkjeWOmxlp8LwpQqRP1",
-        "317424960",
-        "13993381",
-        "UCufzYjQw4RQLJK2d7p2U_LA"
-      ]
     }
   ],
   "errors": [],
@@ -374,6 +365,26 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/dbd2cd6c7037a7de5337682b5dd61ea55ce86a35@2xl.jpeg"
+    },
+    {
+      "id": "28357",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L7BM=4-;004:01IU_2?a~qjbIBR+",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg"
+    },
+    {
+      "id": "28358",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c.jpg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "L7BM=4-;004:01IU_2?a~qjbIBR+",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg"
     },
     {
       "id": "28335",
@@ -446,6 +457,16 @@
       "resolved": "https://cdn.aniplaylist.com/thumbnails/e23d8150e002e9e017e5bc8222bbf31e2390fe54@2xl.jpg"
     },
     {
+      "id": "28272",
+      "thumbnailType": "string",
+      "thumbnail": "thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2.jpeg",
+      "thumbnailHashType": "string",
+      "thumbnail_hash": "LHFeEFJkFc=1|en%S2#-2V$P$jw{",
+      "blurImageType": "number",
+      "blur_image": 0,
+      "resolved": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg"
+    },
+    {
       "id": "28330",
       "thumbnailType": "string",
       "thumbnail": "thumbnails/09c3208a48b175f5686e7e276dc061af0e8055b3.jpg",
@@ -454,36 +475,6 @@
       "blurImageType": "number",
       "blur_image": 0,
       "resolved": "https://cdn.aniplaylist.com/thumbnails/09c3208a48b175f5686e7e276dc061af0e8055b3@2xl.jpg"
-    },
-    {
-      "id": "28329",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/5da9b745f35f276d0465cf2b9075f29820034e8d.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LJCjV4I900.9~qo$9Fac^+axD+oI",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/5da9b745f35f276d0465cf2b9075f29820034e8d@2xl.jpeg"
-    },
-    {
-      "id": "28328",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f.jpeg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "L35}$~00%3Ri4.-qM_%L~p4ot8WA",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f@2xl.jpeg"
-    },
-    {
-      "id": "28085",
-      "thumbnailType": "string",
-      "thumbnail": "thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82.jpg",
-      "thumbnailHashType": "string",
-      "thumbnail_hash": "LKJHI64U9+-:0I-+E%V=v|XA=BV_",
-      "blurImageType": "number",
-      "blur_image": 0,
-      "resolved": "https://cdn.aniplaylist.com/thumbnails/5c4587ba14a65988c15aca7d5493cebd00dc3a82@2xl.jpg"
     }
   ],
   "expectedHits": 253,
@@ -501,7 +492,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -517,7 +508,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -533,7 +524,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -549,7 +540,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -565,7 +556,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -581,7 +572,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -597,7 +588,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -613,7 +604,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -629,7 +620,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -645,7 +636,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -661,7 +652,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -677,7 +668,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -693,7 +684,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -709,7 +700,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -725,7 +716,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -741,7 +732,7 @@
     {
       "url": "https://p4b7ht5p18-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser%20(lite)&x-algolia-api-key=cd90c9c918df8b42327310ade1f599bd&x-algolia-application-id=P4B7HT5P18",
       "page": 0,
-      "nbHits": 28640,
+      "nbHits": 28647,
       "hitsPerPage": 0,
       "nbPages": 0,
       "count": 0
@@ -811,6 +802,131 @@
         "1700601832",
         "223683845",
         "UCtpXo2d8bHBzzU-j6rZ4YIw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28357",
+      "anime": "Fool Night",
+      "song": "Shake! spit out",
+      "artist": "Tempalay",
+      "artistDisplay": "Tempalay",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7JwSY9czYqzYpLiz3oQtep",
+      "apple": "https://geo.music.apple.com/album/6832440634?i=6832440635&at=1001l384j&ct=website-fool-night-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/fool-night-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shake! spit out"
+      ],
+      "animeCandidates": [
+        "Fool Night",
+        "フールナイト"
+      ],
+      "artistCandidates": [
+        "13788",
+        "Tempalay",
+        "5IlQkA8Lq4X0dOWHBumeJP",
+        "1041632537",
+        "9488316",
+        "UCfbzpFkr-Idf7e4TdLudMEQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28358",
+      "anime": "Fool Night",
+      "song": "Iki",
+      "artist": "Nowlu",
+      "artistDisplay": "Nowlu",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3AHQN2eBn1AxdSomzem9CT",
+      "apple": "https://geo.music.apple.com/album/6832973007?i=6832973015&at=1001l384j&ct=website-fool-night-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/fool-night-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Iki",
+        "息"
+      ],
+      "animeCandidates": [
+        "Fool Night",
+        "フールナイト"
+      ],
+      "artistCandidates": [
+        "12154",
+        "Nowlu",
+        "0TAhk9VlgZqLcM4wn5nUpO",
+        "1616530162",
+        "164981917",
+        "UCXletLKBp8lJsi7KpItRMNQ"
       ],
       "animethemesVideo": null
     },
@@ -1297,6 +1413,71 @@
       "animethemesVideo": null
     },
     {
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "artist": "Shikao Suga",
+      "artistDisplay": "Shikao Suga",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
+      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kageboushi",
+        "カゲボウシ"
+      ],
+      "animeCandidates": [
+        "Horror Collector",
+        "Kyoufu Collector",
+        "恐怖コレクター"
+      ],
+      "artistCandidates": [
+        "72",
+        "Shikao Suga",
+        "スガシカオ",
+        "3sddhwNhGabYSvzYKhB7qj",
+        "202324935",
+        "4929503",
+        "UCaWq9OOi9wk961EOzugZuoA"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28330",
       "anime": "Onegai AiPri",
       "song": "Onegai Telepathy",
@@ -1362,137 +1543,6 @@
         "UChJQ1mpVt0dV1bg4hykwk3A"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28329",
-      "anime": "Witch on the Holy Night",
-      "song": "Yoru to Ao",
-      "artist": "supercell",
-      "artistDisplay": "supercell",
-      "artistDisplayCount": 1,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/23ZnolOxBUzzyHBv9dANIA",
-      "apple": "https://geo.music.apple.com/album/6836142603?i=6836142604&at=1001l384j&ct=website-witch-on-the-holy-night-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5da9b745f35f276d0465cf2b9075f29820034e8d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/witch-on-the-holy-night-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yoru to Ao",
-        "夜と青"
-      ],
-      "animeCandidates": [
-        "Witch on the Holy Night",
-        "Mahoutsukai no Yoru",
-        "A Magician's Night",
-        "MahoYo",
-        "魔法使いの夜"
-      ],
-      "artistCandidates": [
-        "610",
-        "supercell",
-        "4Mc3zbnQx4wRb0tYg7A8sG",
-        "631665100",
-        "184460",
-        "UCjlifcVO6r-V5RSh3eB1lLg"
-      ]
-    },
-    {
-      "id": "28328",
-      "anime": "Armored Trooper Votoms: Die Graue Hexe",
-      "song": "Original Soundtrack",
-      "artist": "Kenji Kawai",
-      "artistDisplay": "Kenji Kawai",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/6gE09HHi1JQbUOUXqesXhz",
-      "apple": "https://geo.music.apple.com/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Original Soundtrack",
-        "『装甲騎兵ボトムズ 灰色の魔女』オリジナルサウンドトラック",
-        "\"ARMORED TROOPER VOTOMS Die Graue Hexe\" Original Motion Picture Soundtrack"
-      ],
-      "animeCandidates": [
-        "Armored Trooper Votoms: Die Graue Hexe",
-        "Soukou Kihei Votoms: Haiiro no Hexe",
-        "Soukou Kihei Votoms: Haiiro no Majo",
-        "装甲騎兵ボトムズ 灰色の魔女"
-      ],
-      "artistCandidates": [
-        "989",
-        "Kenji Kawai",
-        "川井憲次",
-        "4ObvA097FfnbrTm3Uepano",
-        "76058734",
-        "288704",
-        "UCaI5ly_PCCPU9TswcUgcpuA"
-      ]
     },
     {
       "id": "28085",
@@ -1628,19 +1678,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28250",
-      "anime": "Star Blazers: Space Battleship Yamato 3199",
-      "song": "Haruka e, Eien e",
-      "artist": "Junko Yagami",
-      "artistDisplay": "Junko Yagami",
+      "id": "28329",
+      "anime": "Witch on the Holy Night",
+      "song": "Yoru to Ao",
+      "artist": "supercell",
+      "artistDisplay": "supercell",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "TS",
+      "kindLabel": "Theme Song",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
-      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7",
+      "spotify": "https://open.spotify.com/track/23ZnolOxBUzzyHBv9dANIA",
+      "apple": "https://geo.music.apple.com/album/6836142603?i=6836142604&at=1001l384j&ct=website-witch-on-the-holy-night-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5da9b745f35f276d0465cf2b9075f29820034e8d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/witch-on-the-holy-night-theme-song",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -1657,7 +1707,6 @@
         "platforms",
         "preview_url",
         "song_key",
-        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -1674,25 +1723,24 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Haruka e, Eien e",
-        "遥かへ、永遠へ"
+        "Yoru to Ao",
+        "夜と青"
       ],
       "animeCandidates": [
-        "Star Blazers: Space Battleship Yamato 3199",
-        "Yamato yo, Towa ni: Rebel 3199",
-        "Be Forever Yamato: Rebel 3199",
-        "Star Blazers",
-        "ヤマトよ永遠に REBEL3199"
+        "Witch on the Holy Night",
+        "Mahoutsukai no Yoru",
+        "A Magician's Night",
+        "MahoYo",
+        "魔法使いの夜"
       ],
       "artistCandidates": [
-        "11929",
-        "Junko Yagami",
-        "八神純子",
-        "6ooFYQBSq3sFEipwHfw5gr",
-        "74877262",
-        "4867003"
-      ],
-      "animethemesVideo": null
+        "610",
+        "supercell",
+        "4Mc3zbnQx4wRb0tYg7A8sG",
+        "631665100",
+        "184460",
+        "UCjlifcVO6r-V5RSh3eB1lLg"
+      ]
     },
     {
       "id": "27821",
@@ -1926,6 +1974,72 @@
         "Savanaclaw Dorm",
         "サバナクロー寮"
       ]
+    },
+    {
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "artist": "Junko Yagami",
+      "artistDisplay": "Junko Yagami",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
+      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Haruka e, Eien e",
+        "遥かへ、永遠へ"
+      ],
+      "animeCandidates": [
+        "Star Blazers: Space Battleship Yamato 3199",
+        "Yamato yo, Towa ni: Rebel 3199",
+        "Be Forever Yamato: Rebel 3199",
+        "Star Blazers",
+        "ヤマトよ永遠に REBEL3199"
+      ],
+      "artistCandidates": [
+        "11929",
+        "Junko Yagami",
+        "八神純子",
+        "6ooFYQBSq3sFEipwHfw5gr",
+        "74877262",
+        "4867003"
+      ],
+      "animethemesVideo": null
     },
     {
       "id": "28084",
@@ -2363,6 +2477,72 @@
       "animethemesVideo": null
     },
     {
+      "id": "28328",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Original Soundtrack",
+      "artist": "Kenji Kawai",
+      "artistDisplay": "Kenji Kawai",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/6gE09HHi1JQbUOUXqesXhz",
+      "apple": "https://geo.music.apple.com/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack",
+        "『装甲騎兵ボトムズ 灰色の魔女』オリジナルサウンドトラック",
+        "\"ARMORED TROOPER VOTOMS Die Graue Hexe\" Original Motion Picture Soundtrack"
+      ],
+      "animeCandidates": [
+        "Armored Trooper Votoms: Die Graue Hexe",
+        "Soukou Kihei Votoms: Haiiro no Hexe",
+        "Soukou Kihei Votoms: Haiiro no Majo",
+        "装甲騎兵ボトムズ 灰色の魔女"
+      ],
+      "artistCandidates": [
+        "989",
+        "Kenji Kawai",
+        "川井憲次",
+        "4ObvA097FfnbrTm3Uepano",
+        "76058734",
+        "288704",
+        "UCaI5ly_PCCPU9TswcUgcpuA"
+      ]
+    },
+    {
       "id": "28045",
       "anime": "Firefly Wedding",
       "song": "Period",
@@ -2491,201 +2671,6 @@
         "Maika Loubté",
         "0wMkBz97F3SE4yNz0y2OOz",
         "9847056"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28130",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Watson",
-      "artist": "Petite Meller",
-      "artistDisplay": "Petite Meller & Oslo Green",
-      "artistDisplayCount": 2,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/2x6cIXV8np81mpKhHXNbDS",
-      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237558&at=1001l384j&ct=website-cyberpunk-edgerunners-2-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Watson"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2",
-        "Cyberpunk Edgerunners 2"
-      ],
-      "artistCandidates": [
-        "23935",
-        "Petite Meller",
-        "2gUVyV9z7T6cielHCMSpvb",
-        "718238708",
-        "5299859",
-        "UCzhnTfx-ynhNr2irlAGAmRA",
-        "25653",
-        "Oslo Green",
-        "2A6l7lq3xqq2zLTOV3paBY",
-        "151888892"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28152",
-      "anime": "Cyberpunk: Edgerunners 2",
-      "song": "Worth It",
-      "artist": "Corbin",
-      "artistDisplay": "Corbin",
-      "artistDisplayCount": 1,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 10)",
-      "episodes": [
-        "10"
-      ],
-      "spotify": "https://open.spotify.com/track/3wWEo3XUr7mlzjVdUndGjY",
-      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237570&at=1001l384j&ct=website-cyberpunk-edgerunners-2-in-ep-10&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-insert-song-ep-10-worth-it",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Worth It"
-      ],
-      "animeCandidates": [
-        "Cyberpunk: Edgerunners 2",
-        "サイバーパンク エッジランナーズ2",
-        "Cyberpunk Edgerunners 2"
-      ],
-      "artistCandidates": [
-        "25673",
-        "Corbin",
-        "0O2NVj8roSaQIvKj6NDR1a",
-        "1785902976",
-        "4618603"
-      ]
-    },
-    {
-      "id": "27937",
-      "anime": "Ao Ashi Season 2",
-      "song": "Fortress Defense",
-      "artist": "10-FEET",
-      "artistDisplay": "10-FEET",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0MVKlIHanWrSMgwtsI7WMS",
-      "apple": "https://geo.music.apple.com/album/6811735538?i=6811735539&at=1001l384j&ct=website-ao-ashi-season-2-op1&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/e3f333b6a543fc5234d1113bdffe4a3f6b67cebe@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/ao-ashi-season-2-opening-1",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_number",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Fortress Defense"
-      ],
-      "animeCandidates": [
-        "Ao Ashi Season 2",
-        "アオアシ Season2",
-        "Aoashi Season 2"
-      ],
-      "artistCandidates": [
-        "6543",
-        "10-FEET",
-        "0QZqdhoRQkn1VphAa5eX8h",
-        "76125500",
-        "3695",
-        "UC133vm68gS3LxTjT9mECW1Q",
-        "25509",
-        "ShoPro Anime Channel",
-        "ShoProアニメチャンネル",
-        "UC-cXutYzvqARF5wNKx1KCNA"
       ],
       "animethemesVideo": null
     }
@@ -3236,6 +3221,20 @@
       "detailUrl": "https://aniplaylist.com/play/odekake-kozame-2nd-season-ending-2"
     },
     {
+      "id": "28357",
+      "anime": "Fool Night",
+      "song": "Shake! spit out",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/fool-night-opening"
+    },
+    {
+      "id": "28358",
+      "anime": "Fool Night",
+      "song": "Iki",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/fool-night-ending"
+    },
+    {
       "id": "28335",
       "anime": "Digimon: World's Best Picks",
       "song": "Limitless Dreams",
@@ -3285,25 +3284,18 @@
       "detailUrl": "https://aniplaylist.com/play/dark-machine-the-animation-opening"
     },
     {
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "kind": "OP",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening"
+    },
+    {
       "id": "28330",
       "anime": "Onegai AiPri",
       "song": "Onegai Telepathy",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/onegai-aipri-ending-2"
-    },
-    {
-      "id": "28329",
-      "anime": "Witch on the Holy Night",
-      "song": "Yoru to Ao",
-      "kind": "TS",
-      "detailUrl": "https://aniplaylist.com/play/witch-on-the-holy-night-theme-song"
-    },
-    {
-      "id": "28328",
-      "anime": "Armored Trooper Votoms: Die Graue Hexe",
-      "song": "Original Soundtrack",
-      "kind": "OST",
-      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-original-soundtrack"
     },
     {
       "id": "28085",
@@ -3320,11 +3312,11 @@
       "detailUrl": "https://aniplaylist.com/play/dragon-ball-super-beerus-opening"
     },
     {
-      "id": "28250",
-      "anime": "Star Blazers: Space Battleship Yamato 3199",
-      "song": "Haruka e, Eien e",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7"
+      "id": "28329",
+      "anime": "Witch on the Holy Night",
+      "song": "Yoru to Ao",
+      "kind": "TS",
+      "detailUrl": "https://aniplaylist.com/play/witch-on-the-holy-night-theme-song"
     },
     {
       "id": "27821",
@@ -3332,6 +3324,13 @@
       "song": "SPIN",
       "kind": "OP",
       "detailUrl": "https://aniplaylist.com/play/steel-ball-run-jojos-bizarre-adventure-2nd-3rd-stage-opening"
+    },
+    {
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "kind": "ED",
+      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7"
     },
     {
       "id": "28084",
@@ -3376,6 +3375,13 @@
       "detailUrl": "https://aniplaylist.com/play/romelia-war-chronicle-opening"
     },
     {
+      "id": "28328",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Original Soundtrack",
+      "kind": "OST",
+      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-original-soundtrack"
+    },
+    {
       "id": "28045",
       "anime": "Firefly Wedding",
       "song": "Period",
@@ -3416,27 +3422,6 @@
       "song": "STELLAR",
       "kind": "ED",
       "detailUrl": "https://aniplaylist.com/play/a-tale-of-the-secret-saint-ending"
-    },
-    {
-      "id": "27976",
-      "anime": "Even the Student Council Has Its Holes!",
-      "song": "Pi",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-ending"
-    },
-    {
-      "id": "27816",
-      "anime": "Chitose Is in the Ramune Bottle Part 2",
-      "song": "Saku",
-      "kind": "OP",
-      "detailUrl": "https://aniplaylist.com/play/chitose-is-in-the-ramune-bottle-part-2-opening"
-    },
-    {
-      "id": "28157",
-      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "song": "Role-Playing Life",
-      "kind": "ED",
-      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending"
     }
   ],
   "usableSamples": [
@@ -3503,6 +3488,131 @@
         "1700601832",
         "223683845",
         "UCtpXo2d8bHBzzU-j6rZ4YIw"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28357",
+      "anime": "Fool Night",
+      "song": "Shake! spit out",
+      "artist": "Tempalay",
+      "artistDisplay": "Tempalay",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/7JwSY9czYqzYpLiz3oQtep",
+      "apple": "https://geo.music.apple.com/album/6832440634?i=6832440635&at=1001l384j&ct=website-fool-night-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/fool-night-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Shake! spit out"
+      ],
+      "animeCandidates": [
+        "Fool Night",
+        "フールナイト"
+      ],
+      "artistCandidates": [
+        "13788",
+        "Tempalay",
+        "5IlQkA8Lq4X0dOWHBumeJP",
+        "1041632537",
+        "9488316",
+        "UCfbzpFkr-Idf7e4TdLudMEQ"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28358",
+      "anime": "Fool Night",
+      "song": "Iki",
+      "artist": "Nowlu",
+      "artistDisplay": "Nowlu",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/3AHQN2eBn1AxdSomzem9CT",
+      "apple": "https://geo.music.apple.com/album/6832973007?i=6832973015&at=1001l384j&ct=website-fool-night-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/fool-night-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Iki",
+        "息"
+      ],
+      "animeCandidates": [
+        "Fool Night",
+        "フールナイト"
+      ],
+      "artistCandidates": [
+        "12154",
+        "Nowlu",
+        "0TAhk9VlgZqLcM4wn5nUpO",
+        "1616530162",
+        "164981917",
+        "UCXletLKBp8lJsi7KpItRMNQ"
       ],
       "animethemesVideo": null
     },
@@ -3989,6 +4099,71 @@
       "animethemesVideo": null
     },
     {
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "artist": "Shikao Suga",
+      "artistDisplay": "Shikao Suga",
+      "artistDisplayCount": 1,
+      "kind": "OP",
+      "kindLabel": "Opening",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
+      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7c0185a5d204baec58ec23824c3ca9bab11359d2@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/horror-collector-opening",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Kageboushi",
+        "カゲボウシ"
+      ],
+      "animeCandidates": [
+        "Horror Collector",
+        "Kyoufu Collector",
+        "恐怖コレクター"
+      ],
+      "artistCandidates": [
+        "72",
+        "Shikao Suga",
+        "スガシカオ",
+        "3sddhwNhGabYSvzYKhB7qj",
+        "202324935",
+        "4929503",
+        "UCaWq9OOi9wk961EOzugZuoA"
+      ],
+      "animethemesVideo": null
+    },
+    {
       "id": "28330",
       "anime": "Onegai AiPri",
       "song": "Onegai Telepathy",
@@ -4054,137 +4229,6 @@
         "UChJQ1mpVt0dV1bg4hykwk3A"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "28329",
-      "anime": "Witch on the Holy Night",
-      "song": "Yoru to Ao",
-      "artist": "supercell",
-      "artistDisplay": "supercell",
-      "artistDisplayCount": 1,
-      "kind": "TS",
-      "kindLabel": "Theme Song",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/23ZnolOxBUzzyHBv9dANIA",
-      "apple": "https://geo.music.apple.com/album/6836142603?i=6836142604&at=1001l384j&ct=website-witch-on-the-holy-night-ts&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5da9b745f35f276d0465cf2b9075f29820034e8d@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/witch-on-the-holy-night-theme-song",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Yoru to Ao",
-        "夜と青"
-      ],
-      "animeCandidates": [
-        "Witch on the Holy Night",
-        "Mahoutsukai no Yoru",
-        "A Magician's Night",
-        "MahoYo",
-        "魔法使いの夜"
-      ],
-      "artistCandidates": [
-        "610",
-        "supercell",
-        "4Mc3zbnQx4wRb0tYg7A8sG",
-        "631665100",
-        "184460",
-        "UCjlifcVO6r-V5RSh3eB1lLg"
-      ]
-    },
-    {
-      "id": "28328",
-      "anime": "Armored Trooper Votoms: Die Graue Hexe",
-      "song": "Original Soundtrack",
-      "artist": "Kenji Kawai",
-      "artistDisplay": "Kenji Kawai",
-      "artistDisplayCount": 1,
-      "kind": "OST",
-      "kindLabel": "OST",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/album/6gE09HHi1JQbUOUXqesXhz",
-      "apple": "https://geo.music.apple.com/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-original-soundtrack",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "status",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Original Soundtrack",
-        "『装甲騎兵ボトムズ 灰色の魔女』オリジナルサウンドトラック",
-        "\"ARMORED TROOPER VOTOMS Die Graue Hexe\" Original Motion Picture Soundtrack"
-      ],
-      "animeCandidates": [
-        "Armored Trooper Votoms: Die Graue Hexe",
-        "Soukou Kihei Votoms: Haiiro no Hexe",
-        "Soukou Kihei Votoms: Haiiro no Majo",
-        "装甲騎兵ボトムズ 灰色の魔女"
-      ],
-      "artistCandidates": [
-        "989",
-        "Kenji Kawai",
-        "川井憲次",
-        "4ObvA097FfnbrTm3Uepano",
-        "76058734",
-        "288704",
-        "UCaI5ly_PCCPU9TswcUgcpuA"
-      ]
     },
     {
       "id": "28085",
@@ -4320,19 +4364,19 @@
       "animethemesVideo": null
     },
     {
-      "id": "28250",
-      "anime": "Star Blazers: Space Battleship Yamato 3199",
-      "song": "Haruka e, Eien e",
-      "artist": "Junko Yagami",
-      "artistDisplay": "Junko Yagami",
+      "id": "28329",
+      "anime": "Witch on the Holy Night",
+      "song": "Yoru to Ao",
+      "artist": "supercell",
+      "artistDisplay": "supercell",
       "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
+      "kind": "TS",
+      "kindLabel": "Theme Song",
       "episodes": [],
-      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
-      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg",
-      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7",
+      "spotify": "https://open.spotify.com/track/23ZnolOxBUzzyHBv9dANIA",
+      "apple": "https://geo.music.apple.com/album/6836142603?i=6836142604&at=1001l384j&ct=website-witch-on-the-holy-night-ts&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/5da9b745f35f276d0465cf2b9075f29820034e8d@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/witch-on-the-holy-night-theme-song",
       "season": "Fall 2026",
       "rawKeys": [
         "id",
@@ -4349,7 +4393,6 @@
         "platforms",
         "preview_url",
         "song_key",
-        "song_number",
         "song_type",
         "song_type_short",
         "anime_titles",
@@ -4366,25 +4409,24 @@
         "objectID"
       ],
       "titleCandidates": [
-        "Haruka e, Eien e",
-        "遥かへ、永遠へ"
+        "Yoru to Ao",
+        "夜と青"
       ],
       "animeCandidates": [
-        "Star Blazers: Space Battleship Yamato 3199",
-        "Yamato yo, Towa ni: Rebel 3199",
-        "Be Forever Yamato: Rebel 3199",
-        "Star Blazers",
-        "ヤマトよ永遠に REBEL3199"
+        "Witch on the Holy Night",
+        "Mahoutsukai no Yoru",
+        "A Magician's Night",
+        "MahoYo",
+        "魔法使いの夜"
       ],
       "artistCandidates": [
-        "11929",
-        "Junko Yagami",
-        "八神純子",
-        "6ooFYQBSq3sFEipwHfw5gr",
-        "74877262",
-        "4867003"
-      ],
-      "animethemesVideo": null
+        "610",
+        "supercell",
+        "4Mc3zbnQx4wRb0tYg7A8sG",
+        "631665100",
+        "184460",
+        "UCjlifcVO6r-V5RSh3eB1lLg"
+      ]
     },
     {
       "id": "27821",
@@ -4451,6 +4493,72 @@
         "1439157589",
         "52711252",
         "UCssoAGLly9DaABecIZoht_g"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "artist": "Junko Yagami",
+      "artistDisplay": "Junko Yagami",
+      "artistDisplayCount": 1,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
+      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/7542d7c1bda3db599fbc8ef9a09ed68ad2742d43@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/star-blazers-space-battleship-yamato-3199-ending-7",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_number",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Haruka e, Eien e",
+        "遥かへ、永遠へ"
+      ],
+      "animeCandidates": [
+        "Star Blazers: Space Battleship Yamato 3199",
+        "Yamato yo, Towa ni: Rebel 3199",
+        "Be Forever Yamato: Rebel 3199",
+        "Star Blazers",
+        "ヤマトよ永遠に REBEL3199"
+      ],
+      "artistCandidates": [
+        "11929",
+        "Junko Yagami",
+        "八神純子",
+        "6ooFYQBSq3sFEipwHfw5gr",
+        "74877262",
+        "4867003"
       ],
       "animethemesVideo": null
     },
@@ -4838,6 +4946,72 @@
         "UCNqzk1hGE1UbZRTCMYsdrHg"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "28328",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Original Soundtrack",
+      "artist": "Kenji Kawai",
+      "artistDisplay": "Kenji Kawai",
+      "artistDisplayCount": 1,
+      "kind": "OST",
+      "kindLabel": "OST",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/album/6gE09HHi1JQbUOUXqesXhz",
+      "apple": "https://geo.music.apple.com/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fc0585a8e6d5780a8d64a26929fb0ac09ed6264f@2xl.jpeg",
+      "detailUrl": "https://aniplaylist.com/play/armored-trooper-votoms-die-graue-hexe-original-soundtrack",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "status",
+        "tags",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Original Soundtrack",
+        "『装甲騎兵ボトムズ 灰色の魔女』オリジナルサウンドトラック",
+        "\"ARMORED TROOPER VOTOMS Die Graue Hexe\" Original Motion Picture Soundtrack"
+      ],
+      "animeCandidates": [
+        "Armored Trooper Votoms: Die Graue Hexe",
+        "Soukou Kihei Votoms: Haiiro no Hexe",
+        "Soukou Kihei Votoms: Haiiro no Majo",
+        "装甲騎兵ボトムズ 灰色の魔女"
+      ],
+      "artistCandidates": [
+        "989",
+        "Kenji Kawai",
+        "川井憲次",
+        "4ObvA097FfnbrTm3Uepano",
+        "76058734",
+        "288704",
+        "UCaI5ly_PCCPU9TswcUgcpuA"
+      ]
     },
     {
       "id": "28045",
@@ -5239,207 +5413,6 @@
         "24927"
       ],
       "animethemesVideo": null
-    },
-    {
-      "id": "27976",
-      "anime": "Even the Student Council Has Its Holes!",
-      "song": "Pi",
-      "artist": "NANAOAKARI",
-      "artistDisplay": "NANAOAKARI",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/6gPzc7BEL31CMiR8xognZ6",
-      "apple": "https://geo.music.apple.com/album/6833369313?i=6833369314&at=1001l384j&ct=website-even-the-student-council-has-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/3c211ec26daf10bfeb915d011906f1279c285720@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/even-the-student-council-has-its-holes-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Pi",
-        "ぴ"
-      ],
-      "animeCandidates": [
-        "Even the Student Council Has Its Holes!",
-        "Seitokai ni mo Ana wa Aru!",
-        "生徒会にも穴はある！",
-        "There Is Also a Hole in the Student Organization!"
-      ],
-      "artistCandidates": [
-        "569",
-        "NANAOAKARI",
-        "Nanawoakari",
-        "ナナヲアカリ",
-        "Akari Nanawo",
-        "06jSjpC81wzjoUoE61Fhdn",
-        "1326067929",
-        "128010782",
-        "UC160OjZevHTl0K8vk_g1vZQ"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "27816",
-      "anime": "Chitose Is in the Ramune Bottle Part 2",
-      "song": "Saku",
-      "artist": "Cidergirl",
-      "artistDisplay": "Cidergirl",
-      "artistDisplayCount": 1,
-      "kind": "OP",
-      "kindLabel": "Opening",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0BEdZNUmMEG21Wt0dGgUfc",
-      "apple": "https://geo.music.apple.com/album/6806963625?i=6806963628&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-op&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/c6fe18d65c58205f8fc6f2090dccee9f1fb5a800@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/chitose-is-in-the-ramune-bottle-part-2-opening",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Saku",
-        "咲く"
-      ],
-      "animeCandidates": [
-        "Chitose Is in the Ramune Bottle Part 2",
-        "Chitose-kun wa Ramune Bin no Naka Part 2",
-        "Chiramune",
-        "Chitose-kun is Inside a Ramune Bottle",
-        "Ramune no Bin ni Shizunda Biidama no Tsuki",
-        "千歳くんはラムネ瓶のなか 第2クール"
-      ],
-      "artistCandidates": [
-        "2731",
-        "Cidergirl",
-        "CIDER GIRL",
-        "サイダーガール",
-        "CIDERGIRL",
-        "3hprFQEXS7glX1Jxxwv9Dn",
-        "1159148258",
-        "13082439",
-        "UCPsZegYUPKEsylhuz4Qs1Aw"
-      ],
-      "animethemesVideo": null
-    },
-    {
-      "id": "28157",
-      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "song": "Role-Playing Life",
-      "artist": "Luov",
-      "artistDisplay": "Luov",
-      "artistDisplayCount": 1,
-      "kind": "ED",
-      "kindLabel": "Ending",
-      "episodes": [],
-      "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
-      "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/6b6893ebedf1618ee8ae63d8bc0a851e77084ed9@2xl.jpg",
-      "detailUrl": "https://aniplaylist.com/play/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-ending",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "artists",
-        "links",
-        "platforms",
-        "preview_url",
-        "song_key",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "display_artists",
-        "label",
-        "short_link",
-        "tags",
-        "other_link_ids",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "Role-Playing Life",
-        "ロールプレイングライフ"
-      ],
-      "animeCandidates": [
-        "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-        "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
-        "Chii Fuyo",
-        "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
-        "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
-      ],
-      "artistCandidates": [
-        "25585",
-        "Luov",
-        "65qX1IKOU3lXJsZ327lCww",
-        "1800415034",
-        "306876311",
-        "UCYuWBWwRueIsp5zQqnU7YZQ"
-      ],
-      "animethemesVideo": null
     }
   ],
   "platformSamples": [
@@ -5450,6 +5423,22 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/2jv4aGsys894f7hPD5orMA",
       "apple": "https://geo.music.apple.com/album/6838688648?i=6838688654&at=1001l384j&ct=website-odekake-kozame-2nd-season-ed2&app=music"
+    },
+    {
+      "id": "28357",
+      "anime": "Fool Night",
+      "song": "Shake! spit out",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/7JwSY9czYqzYpLiz3oQtep",
+      "apple": "https://geo.music.apple.com/album/6832440634?i=6832440635&at=1001l384j&ct=website-fool-night-op&app=music"
+    },
+    {
+      "id": "28358",
+      "anime": "Fool Night",
+      "song": "Iki",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/3AHQN2eBn1AxdSomzem9CT",
+      "apple": "https://geo.music.apple.com/album/6832973007?i=6832973015&at=1001l384j&ct=website-fool-night-ed&app=music"
     },
     {
       "id": "28335",
@@ -5508,28 +5497,20 @@
       "apple": "https://geo.music.apple.com/album/6831444591?i=6831444593&at=1001l384j&ct=website-dark-machine-the-animation-op&app=music"
     },
     {
+      "id": "28272",
+      "anime": "Horror Collector",
+      "song": "Kageboushi",
+      "kind": "OP",
+      "spotify": "https://open.spotify.com/track/5EImHw5nygpAi74sucWv2N",
+      "apple": "https://geo.music.apple.com/album/6823516445?i=6823516446&at=1001l384j&ct=website-horror-collector-op&app=music"
+    },
+    {
       "id": "28330",
       "anime": "Onegai AiPri",
       "song": "Onegai Telepathy",
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/1Fy6rKHflo53bzo3DUetpJ",
       "apple": "https://geo.music.apple.com/album/6809699254?i=6809699255&at=1001l384j&ct=website-onegai-aipri-ed2&app=music"
-    },
-    {
-      "id": "28329",
-      "anime": "Witch on the Holy Night",
-      "song": "Yoru to Ao",
-      "kind": "TS",
-      "spotify": "https://open.spotify.com/track/23ZnolOxBUzzyHBv9dANIA",
-      "apple": "https://geo.music.apple.com/album/6836142603?i=6836142604&at=1001l384j&ct=website-witch-on-the-holy-night-ts&app=music"
-    },
-    {
-      "id": "28328",
-      "anime": "Armored Trooper Votoms: Die Graue Hexe",
-      "song": "Original Soundtrack",
-      "kind": "OST",
-      "spotify": "https://open.spotify.com/album/6gE09HHi1JQbUOUXqesXhz",
-      "apple": "https://geo.music.apple.com/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music"
     },
     {
       "id": "28085",
@@ -5548,12 +5529,12 @@
       "apple": "https://geo.music.apple.com/album/6812575398?i=6812575399&at=1001l384j&ct=website-dragon-ball-super-beerus-op&app=music"
     },
     {
-      "id": "28250",
-      "anime": "Star Blazers: Space Battleship Yamato 3199",
-      "song": "Haruka e, Eien e",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
-      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music"
+      "id": "28329",
+      "anime": "Witch on the Holy Night",
+      "song": "Yoru to Ao",
+      "kind": "TS",
+      "spotify": "https://open.spotify.com/track/23ZnolOxBUzzyHBv9dANIA",
+      "apple": "https://geo.music.apple.com/album/6836142603?i=6836142604&at=1001l384j&ct=website-witch-on-the-holy-night-ts&app=music"
     },
     {
       "id": "27821",
@@ -5562,6 +5543,14 @@
       "kind": "OP",
       "spotify": "https://open.spotify.com/track/4ZXGrwziSkZg7vu9MojiYn",
       "apple": "https://music.apple.com/nz/album/6810484114?i=6810484116&at=1001l384j&ct=website-steel-ball-run-jojos-bizarre-ad-op&app=music"
+    },
+    {
+      "id": "28250",
+      "anime": "Star Blazers: Space Battleship Yamato 3199",
+      "song": "Haruka e, Eien e",
+      "kind": "ED",
+      "spotify": "https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G",
+      "apple": "https://geo.music.apple.com/album/6818006945?i=6818006946&at=1001l384j&ct=website-star-blazers-space-battleshi-ed7&app=music"
     },
     {
       "id": "28084",
@@ -5612,6 +5601,14 @@
       "apple": "https://geo.music.apple.com/album/6810987431?i=6810987618&at=1001l384j&ct=website-romelia-war-chronicle-op&app=music"
     },
     {
+      "id": "28328",
+      "anime": "Armored Trooper Votoms: Die Graue Hexe",
+      "song": "Original Soundtrack",
+      "kind": "OST",
+      "spotify": "https://open.spotify.com/album/6gE09HHi1JQbUOUXqesXhz",
+      "apple": "https://geo.music.apple.com/album/6830568606?at=1001l384j&ct=website-armored-trooper-votoms-die-g-ost&app=music"
+    },
+    {
       "id": "28045",
       "anime": "Firefly Wedding",
       "song": "Period",
@@ -5658,30 +5655,6 @@
       "kind": "ED",
       "spotify": "https://open.spotify.com/track/4saoafzCTr5otd6o3GWS8x",
       "apple": "https://geo.music.apple.com/album/6806172661?i=6806172662&at=1001l384j&ct=website-a-tale-of-the-secret-saint-ed&app=music"
-    },
-    {
-      "id": "27976",
-      "anime": "Even the Student Council Has Its Holes!",
-      "song": "Pi",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/6gPzc7BEL31CMiR8xognZ6",
-      "apple": "https://geo.music.apple.com/album/6833369313?i=6833369314&at=1001l384j&ct=website-even-the-student-council-has-ed&app=music"
-    },
-    {
-      "id": "27816",
-      "anime": "Chitose Is in the Ramune Bottle Part 2",
-      "song": "Saku",
-      "kind": "OP",
-      "spotify": "https://open.spotify.com/track/0BEdZNUmMEG21Wt0dGgUfc",
-      "apple": "https://geo.music.apple.com/album/6806963625?i=6806963628&at=1001l384j&ct=website-chitose-is-in-the-ramune-bott-op&app=music"
-    },
-    {
-      "id": "28157",
-      "anime": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "song": "Role-Playing Life",
-      "kind": "ED",
-      "spotify": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU",
-      "apple": "https://geo.music.apple.com/album/6817182235?i=6817182238&at=1001l384j&ct=website-the-laid-off-cheat-granting-m-ed&app=music"
     }
   ]
 }
