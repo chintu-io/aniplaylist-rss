@@ -1928,56 +1928,6 @@
       ]
     },
     {
-      "id": "us_3439",
-      "anime": "Fool Night",
-      "song": "[TBD]",
-      "artist": "",
-      "artistDisplay": "",
-      "artistDisplayCount": 0,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 1)",
-      "episodes": [
-        "1"
-      ],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
-      "detailUrl": "",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "[TBD]"
-      ],
-      "animeCandidates": [
-        "Fool Night",
-        "フールナイト"
-      ],
-      "artistCandidates": []
-    },
-    {
       "id": "28084",
       "anime": "The Ramparts of Ice Season 2",
       "song": "Escort",
@@ -2039,6 +1989,56 @@
         "UCx0PImuCTAcomS3v-cZOBDA"
       ],
       "animethemesVideo": null
+    },
+    {
+      "id": "us_3439",
+      "anime": "Fool Night",
+      "song": "[TBD]",
+      "artist": "",
+      "artistDisplay": "",
+      "artistDisplayCount": 0,
+      "kind": "IN",
+      "kindLabel": "Insert (ep 1)",
+      "episodes": [
+        "1"
+      ],
+      "spotify": "",
+      "apple": "",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
+      "detailUrl": "",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "song_key",
+        "episodes",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "short_link",
+        "tags",
+        "web",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "[TBD]"
+      ],
+      "animeCandidates": [
+        "Fool Night",
+        "フールナイト"
+      ],
+      "artistCandidates": []
     },
     {
       "id": "28076",
