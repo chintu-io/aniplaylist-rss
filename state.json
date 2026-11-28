@@ -22880,5 +22880,74 @@
     ],
     "animethemesVideo": null,
     "firstSeen": "2026-11-26T15:43:46.000Z"
+  },
+  "99a91c9d621e1494": {
+    "id": "28367",
+    "anime": "Tougen Anki: Nikko Kegon Falls Arc",
+    "song": "Dis≠chord",
+    "artist": "KOHTA YAMAMOTO",
+    "artistDisplay": "KOHTA YAMAMOTO",
+    "artistDisplayCount": 1,
+    "kind": "ED",
+    "kindLabel": "Ending",
+    "episodes": [
+      "9"
+    ],
+    "spotify": "https://open.spotify.com/track/5CqEadNhJQFHOKwUjPmPXM",
+    "apple": "https://geo.music.apple.com/album/6835278956?i=6835279391&at=1001l384j&ct=website-tougen-anki-nikko-kegon-ed-ep-9&app=music",
+    "thumbnail": "https://cdn.aniplaylist.com/thumbnails/598e3e0ce4562d4705f2fdf76f04c586cdb38905@2xl.jpg",
+    "detailUrl": "https://aniplaylist.com/play/tougen-anki-nikko-kegon-falls-arc-ending-ep-9",
+    "season": "Fall 2026",
+    "rawKeys": [
+      "id",
+      "alert_id",
+      "anime_id",
+      "type",
+      "score",
+      "titles",
+      "created_at",
+      "updated_at",
+      "season",
+      "artists",
+      "links",
+      "platforms",
+      "preview_url",
+      "song_key",
+      "episodes",
+      "song_type",
+      "song_type_short",
+      "anime_titles",
+      "thumbnail",
+      "thumbnail_hash",
+      "blur_image",
+      "display_artists",
+      "label",
+      "short_link",
+      "status",
+      "tags",
+      "substitute",
+      "other_link_ids",
+      "unreleased",
+      "objectID"
+    ],
+    "titleCandidates": [
+      "Dis≠chord",
+      "Dischord"
+    ],
+    "animeCandidates": [
+      "Tougen Anki: Nikko Kegon Falls Arc",
+      "Tougen Anki: Nikko Kegon no Taki-hen",
+      "桃源暗鬼 日光・華厳の滝編"
+    ],
+    "artistCandidates": [
+      "1969",
+      "KOHTA YAMAMOTO",
+      "2hE2ofc7IKD1iQ39HYU5N4",
+      "1208888794",
+      "57231332",
+      "UChsIakKCl4x73kV9lcS6H7g"
+    ],
+    "animethemesVideo": null,
+    "firstSeen": "2026-11-28T10:16:45.000Z"
   }
 }
