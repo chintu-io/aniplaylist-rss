@@ -2105,56 +2105,6 @@
       "animethemesVideo": null
     },
     {
-      "id": "us_3439",
-      "anime": "Fool Night",
-      "song": "[TBD]",
-      "artist": "",
-      "artistDisplay": "",
-      "artistDisplayCount": 0,
-      "kind": "IN",
-      "kindLabel": "Insert (ep 1)",
-      "episodes": [
-        "1"
-      ],
-      "spotify": "",
-      "apple": "",
-      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/fd7fd71231feeb62beeb7469e6f9c3c70481982c@2xl.jpg",
-      "detailUrl": "",
-      "season": "Fall 2026",
-      "rawKeys": [
-        "id",
-        "alert_id",
-        "anime_id",
-        "type",
-        "score",
-        "titles",
-        "created_at",
-        "updated_at",
-        "season",
-        "song_key",
-        "episodes",
-        "song_type",
-        "song_type_short",
-        "anime_titles",
-        "thumbnail",
-        "thumbnail_hash",
-        "blur_image",
-        "short_link",
-        "tags",
-        "web",
-        "unreleased",
-        "objectID"
-      ],
-      "titleCandidates": [
-        "[TBD]"
-      ],
-      "animeCandidates": [
-        "Fool Night",
-        "フールナイト"
-      ],
-      "artistCandidates": []
-    },
-    {
       "id": "28076",
       "anime": "Dragon Ball Super: Beerus",
       "song": "Kanpeki no Peki",
@@ -2515,7 +2465,6 @@
         "display_artists",
         "label",
         "short_link",
-        "status",
         "tags",
         "other_link_ids",
         "unreleased",
@@ -2671,6 +2620,71 @@
         "Maika Loubté",
         "0wMkBz97F3SE4yNz0y2OOz",
         "9847056"
+      ],
+      "animethemesVideo": null
+    },
+    {
+      "id": "28130",
+      "anime": "Cyberpunk: Edgerunners 2",
+      "song": "Watson",
+      "artist": "Petite Meller",
+      "artistDisplay": "Petite Meller & Oslo Green",
+      "artistDisplayCount": 2,
+      "kind": "ED",
+      "kindLabel": "Ending",
+      "episodes": [],
+      "spotify": "https://open.spotify.com/track/2x6cIXV8np81mpKhHXNbDS",
+      "apple": "https://geo.music.apple.com/album/6823237344?i=6823237558&at=1001l384j&ct=website-cyberpunk-edgerunners-2-ed&app=music",
+      "thumbnail": "https://cdn.aniplaylist.com/thumbnails/611deec5a26819ffd4f563a6f112f6689439e064@2xl.jpg",
+      "detailUrl": "https://aniplaylist.com/play/cyberpunk-edgerunners-2-ending",
+      "season": "Fall 2026",
+      "rawKeys": [
+        "id",
+        "alert_id",
+        "anime_id",
+        "type",
+        "score",
+        "titles",
+        "created_at",
+        "updated_at",
+        "season",
+        "artists",
+        "links",
+        "platforms",
+        "preview_url",
+        "song_key",
+        "song_type",
+        "song_type_short",
+        "anime_titles",
+        "thumbnail",
+        "thumbnail_hash",
+        "blur_image",
+        "display_artists",
+        "label",
+        "short_link",
+        "other_link_ids",
+        "unreleased",
+        "objectID"
+      ],
+      "titleCandidates": [
+        "Watson"
+      ],
+      "animeCandidates": [
+        "Cyberpunk: Edgerunners 2",
+        "サイバーパンク エッジランナーズ2",
+        "Cyberpunk Edgerunners 2"
+      ],
+      "artistCandidates": [
+        "23935",
+        "Petite Meller",
+        "2gUVyV9z7T6cielHCMSpvb",
+        "718238708",
+        "5299859",
+        "UCzhnTfx-ynhNr2irlAGAmRA",
+        "25653",
+        "Oslo Green",
+        "2A6l7lq3xqq2zLTOV3paBY",
+        "151888892"
       ],
       "animethemesVideo": null
     }
@@ -4986,7 +5000,6 @@
         "display_artists",
         "label",
         "short_link",
-        "status",
         "tags",
         "other_link_ids",
         "unreleased",
